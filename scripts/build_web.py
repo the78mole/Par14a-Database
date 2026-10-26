@@ -16,7 +16,7 @@ def read(path):
         return list(csv.DictReader(f))
 
 
-def jahr_json(jahr, vnbs):
+def jahr_json(jahr, vnbs, rollout):
     pbs = {r["vnb_id"]: r for r in read(ROOT / "data" / jahr / "preisblatt.csv") if r["jahr"] == jahr}
     zf = {}
     for r in read(ROOT / "data" / jahr / "m3_zeitfenster.csv"):
@@ -31,6 +31,12 @@ def jahr_json(jahr, vnbs):
             e["pb"].update({k: float(pb[k]) for k in ZAHLEN if pb[k]})
             if v["vnb_id"] in zf:
                 e["pb"]["zf"] = zf[v["vnb_id"]]
+        ro = rollout.get(v["vnb_id"])
+        if ro:
+            e["ro"] = {k: ro[k] for k in ("stichtag", "msb_name", "hinweise", "quelle_url") if ro[k]}
+            e["ro"].update({k: float(ro[k]) for k in ("quote_pflicht", "quote_mit_optional") if ro[k]})
+            if ro["kooperation"]:
+                e["ro"]["kooperation"] = True
         out.append(e)
     return out
 
@@ -40,9 +46,10 @@ def main(ziel):
     shutil.copytree(ROOT / "web", ziel)
     (ziel / "daten").mkdir()
     vnbs = read(ROOT / "data" / "vnb.csv")
+    rollout = {r["vnb_id"]: r for r in read(ROOT / "data" / "rollout_quote.csv")}
     jahre = sorted((p.name for p in (ROOT / "data").iterdir() if p.is_dir() and p.name.isdigit()), reverse=True)
     for j in jahre:
-        daten = jahr_json(j, vnbs)
+        daten = jahr_json(j, vnbs, rollout)
         (ziel / "daten" / f"{j}.json").write_text(json.dumps(daten, ensure_ascii=False, separators=(",", ":")),
                                                   encoding="utf-8")
         print(f"{j}.json: {sum('pb' in e for e in daten)} von {len(daten)} VNB mit Preisblatt")

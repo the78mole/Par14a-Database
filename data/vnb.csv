@@ -662,14 +662,14 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 7277,Stadtwerke Schramberg GmbH & Co. KG,,https://www.stadtwerke-schramberg.de,78713,Schramberg,"Mittelspannung,Niederspannung",https://www.stadtwerke-schramberg.de/de/Netze/Strom/Netznutzung/Netzzugang-Netzentgelte/Geltende-Netzentgelte,2026-10-26,vnbdigital
 7281,Markt Zellingen ,,http://www.markt-zellingen.de,97225,Zellingen,"Mittelspannung,Niederspannung",,,vnbdigital
 7305,ews-Netz GmbH,,https://www.ew-segeberg-netz.de/,23795,Bad Segeberg,"Mittelspannung,Niederspannung",https://www.ew-segeberg-netz.de/stromnetz/entgelte/,2026-10-26,vnbdigital
-7306,Havelstrom Zehdenick GmbH,,https://www.stadtwerke-zehdenick.de,16792,Zehdenick,"Mittelspannung,Niederspannung",,,vnbdigital
+7306,Havelstrom Zehdenick GmbH,,https://www.stadtwerke-zehdenick.de,16792,Zehdenick,"Mittelspannung,Niederspannung",https://www.stadtwerke-zehdenick.de/downloads/strom/,2026-10-26,vnbdigital
 7307,EVU Langenpreising,,https://www.langenpreising.de,85456,Wartenberg,Niederspannung,,,vnbdigital
 7313,Stadtwerke Wolmirstedt GmbH,,https://www.stadtwerke-wolmirstedt.de,39326,Wolmirstedt,"Mittelspannung,Niederspannung",,,vnbdigital
 7323,naturenergie netze GmbH,,https://www.naturenergie-netze.de/,79618,Rheinfelden,"Hochspannung,Mittelspannung,Niederspannung",https://www.naturenergie-netze.de/neuregelung-14a-enwg,2026-10-26,vnbdigital
 7326,Stromversorgung Angermünde GmbH,,https://www.sw-angermuende.de/,16278,Angermünde,"Mittelspannung,Niederspannung",https://www.sw-angermuende.de/veroeffentlichungen.html,2026-10-26,vnbdigital
 7332,Westnetz GmbH,,https://www.westnetz.de,44139,Dortmund,"Hochspannung,Mittelspannung,Niederspannung",,,vnbdigital
 7355,Netzgesellschaft Lübbecke mbH,,https://www.netzgesellschaft-luebbecke.de,32312,Lübbecke,"Mittelspannung,Niederspannung",https://www.netzgesellschaft-luebbecke.de/netze/strom,2026-10-26,vnbdigital
-7356,Stadtwerke Emmendingen GmbH,,https://netz.swe-emmendingen.de/unser-netz/netzgebiet-strom-und-erdgas/,79312,Emmendingen,"Mittelspannung,Niederspannung",,,vnbdigital
+7356,Stadtwerke Emmendingen GmbH,,https://netz.swe-emmendingen.de/unser-netz/netzgebiet-strom-und-erdgas/,79312,Emmendingen,"Mittelspannung,Niederspannung",https://netz.swe-emmendingen.de/veroeffentlichungen/preise-und-regelungen/,2026-10-26,vnbdigital
 7376,NRM Netzdienste Rhein-Main GmbH,,https://www.nrm-netzdienste.de/,60486,Frankfurt,"Mittelspannung,Niederspannung,Hochspannung",,,vnbdigital
 7387,AllgäuNetz GmbH & Co. KG,,https://www.allgaeunetz.com/index.html,87435,Kempten,"Hochspannung,Mittelspannung,Niederspannung",https://www.allgaeunetz.com/netznutzungsentgelte.html,2026-10-26,vnbdigital
 7388,LSW Netz GmbH & Co. KG,,https://www.lsw-netz.de/,38440,Wolfsburg,"Hochspannung,Mittelspannung,Niederspannung",https://www.lsw-netz.de/bauen-wohnen/netznutzung/strom/,2026-10-26,vnbdigital

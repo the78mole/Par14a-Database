@@ -1,6 +1,6 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 19:25 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 20:10 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
@@ -342,21 +342,20 @@ Stand: 2026-10-26 19:25 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**687 von 754 VNB erfasst (91 %)**, 67 fehlen noch.
+**711 von 754 VNB erfasst (94 %)**, 43 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 674 |
+| endgueltig | 698 |
 | vorlaeufig | 13 |
-| davon mit Modul-3-Zeitfenstern | 680 |
+| davon mit Modul-3-Zeitfenstern | 703 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 43 |
-| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 19 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 5 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 34 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 9 |
 
 <details><summary>Liste der fehlenden VNB 2026</summary>
 
@@ -364,7 +363,6 @@ Stand: 2026-10-26 19:25 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 - 4 Stadtwerke Aalen GmbH
 - 35 Stadtwerke Bad Herrenalb GmbH
-- 63 Gemeindewerke Baiersbronn
 - 114 Stadtwerke Buchen GmbH & Co KG
 - 144 Westenthanner Energieversorgung GmbH
 - 170 Stadtwerke Emden GmbH
@@ -373,17 +371,12 @@ Stand: 2026-10-26 19:25 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH
 - 270 Versorgungsbetriebe Hann. Münden GmbH
 - 313 Rheinhessische Energie- und Wasserversorgungs-GmbH
-- 472 Stadtwerke Norderney GmbH
 - 474 Elektrizitäts-Genossenschaft Nordhalben und
-- 500 SWO Netz GmbH
-- 508 Stadtwerke Pappenheim GmbH
 - 512 Gemeindewerke Peißenberg KU
 - 562 VSE Verteilnetz GmbH
 - 594 Elektrizitätsgenossenschaft Vogling & Angrenzer eG
-- 644 Stadtwerke Uelzen GmbH
 - 742 Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal
 - 751 Stadtwerke Güstrow GmbH
-- 7001 Stadtwerke Weißwasser GmbH
 - 7013 Elektrizitätsvereinigung Böbing eG
 - 7021 Elektrizitätsgenossenschaft Engelsberg e.G.
 - 7024 Elektrizitätswerk Frammersbach
@@ -393,47 +386,26 @@ Stand: 2026-10-26 19:25 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7085 Stromversorgung Zerbst GmbH & Co. KG
 - 7087 Stadtwerke Hammelburg GmbH
 - 7088 Stadtwerke Burgbernheim
-- 7109 EVU Obernzell
 - 7113 Gemeindewerke Markt Stockstadt am Main
 - 7127 Gemeindewerke Nüdlingen
 - 7134 Gemeindewerke Partenstein
-- 7153 Teutoburger Energie Netzwerk eG (TEN)
 - 7202 EVU Späth e.K.
 - 7219 Elektrizitätswerk Rohmund GmbH
 - 7235 E-Werk Meckenheim/Pfalz
 - 7247 Stromversorgung Markt Egloffstein
 - 7307 EVU Langenpreising
 - 7497 E-Werk Rohrdorf Josef Haimmerer
-- 7746 Stadtwerke Geldern NETZ GmbH
 
 **§14a-PDF vorhanden, aber nicht eindeutig 2026**
 
-- 44 Stadtwerke Bad Nauheim GmbH
-- 123 Stadtwerke Buxtehude GmbH
-- 141 Stadtwerke Dingolfing GmbH
 - 206 Stadtwerke Fürstenfeldbruck GmbH
-- 235 Elektrizitätswerk Goldbach-Hösbach GmbH & Co. KG
 - 257 Gemeindewerke Halstenbek
 - 341 Fürstl. Fugger-Glött'sches Elektrizitätswerk
-- 387 EVL Energieversorgung Limburg GmbH
-- 463 SWN Stadtwerke Neustadt GmbH
-- 471 Stadtwerke Norden
 - 522 Stadtwerke Quickborn GmbH
 - 636 Energieversorgung Trossingen GmbH
 - 649 Stadtwerke Uslar GmbH
 - 911 Energie- und Wasserwerke Bautzen GmbH
-- 981 Städtische Werke Borna Netz GmbH
-- 7053 Gemeindewerke Nümbrecht GmbH
-- 7084 Stadtwerke Witzenhausen GmbH
 - 7146 Gemeindewerke Wildeck
 - 7693 BIGGE ENERGIE GmbH & Co. KG
-
-**§14a-PDF vorhanden, manuelle Prüfung offen**
-
-- 323 GSW Gemeinschaftsstadtwerke GmbH Kamen - Bönen - Bergkamen
-- 355 Stadtwerke Konstanz GmbH
-- 577 Stadtwerke Schneverdingen-Neuenkirchen GmbH
-- 704 SWW Wunsiedel GmbH
-- 706 Stadtwerke Zeil am Main
 
 </details>

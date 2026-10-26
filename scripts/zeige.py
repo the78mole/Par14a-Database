@@ -34,7 +34,9 @@ if not ocr.exists():
     ocr.write_text("\f".join(pages))
 pages = ocr.read_text().split("\f")
 REL = r"14\s?a|Modul|Tarifstufe|Netzentgeltreduzierung|Hochlast|Niedriglast|ohne\s+(Leistungsmessung|registrierende|Lastgang)|Standardlastprofil"
-want = {i + 1 for i, t in enumerate(pages) if re.search(REL, t, re.I) and re.search(r"\d+,\d\d", t)}
+want = {i + 1 for i, t in enumerate(pages) if re.search(r"Hochlast|Niedriglast|Tarifzeit|Zeitfenster", t) or re.search(r"\d+,\d\d", t) and (
+    re.search(r"Modul|Tarifstufe|Netzentgeltreduzierung|Hochlast|Niedriglast", t, re.I)
+    or re.search(r"ohne\s+(Leistungsmessung|registrierende|Lastgang)|Standardlastprofil|SLP", t))}
 if "--alle-seiten" in sys.argv:
     want = set(range(1, len(pages) + 1))
 print("URL", url, "\nVON", p["quelle_seite_url"], "\nSHA", p["pdf_sha256"], "\nSEITEN", sorted(want))

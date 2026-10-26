@@ -27,7 +27,7 @@ NEG = re.compile(r"\bgas\b|erdgas|gasnetz|wasser|fernwärme|fernwaerme|wärme|ka
 
 
 def is_pdf_link(h):
-    return bool(re.search(r"\.pdf($|\?)", h, re.I)) or "download" in h.lower() or "/file" in h.lower()
+    return bool(re.search(r"\.pdfx?($|\?)", h, re.I)) or "download" in h.lower() or "/file" in h.lower()
 
 
 def crawl(start, maxpages):
@@ -35,10 +35,10 @@ def crawl(start, maxpages):
     s = requests.Session()
     s.headers.update(UA)
     seen, pdfs, pages = set(), {}, 0
-    queue = [(10, 0, start)]
+    queue = [(10, 0, start, None)]
     while queue and pages < maxpages:
         queue.sort(key=lambda x: -x[0])
-        _, depth, url = queue.pop(0)
+        _, depth, url, parent = queue.pop(0)
         if url in seen:
             continue
         seen.add(url)
@@ -49,11 +49,11 @@ def crawl(start, maxpages):
         pages += 1
         ct = r.headers.get("content-type", "")
         if "pdf" in ct:
-            pdfs.setdefault(r.url, {"linktext": "", "quelle_seite_url": None})
+            pdfs.setdefault(r.url, {"linktext": "", "quelle_seite_url": parent})
             continue
         if "html" not in ct:
             continue
-        soup = BeautifulSoup(r.text, "lxml")
+        soup = BeautifulSoup(r.content, "lxml")
         for a in soup.find_all("a", href=True):
             h = up.urljoin(r.url, a["href"].strip()).split("#")[0]
             if not h.startswith("http"):
@@ -68,7 +68,7 @@ def crawl(start, maxpages):
                 continue
             score = (5 if STRONG.search(blob) else 0) + (1 if NAV.search(blob) else 0)
             if score:
-                queue.append((score - depth, depth + 1, h))
+                queue.append((score - depth, depth + 1, h, r.url))
     return pdfs, pages
 
 

@@ -1,6 +1,6 @@
 # Status der §14a-Preisdatenbank 2026
 
-Stand: 2026-10-26 13:51 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 14:12 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 **554 von 754 VNB erfasst (73 %)**, 200 fehlen noch.
 
@@ -12,15 +12,15 @@ Stand: 2026-10-26 13:51 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## Laufender Crawl
 
-Tieferer Neu-Crawl der fehlenden VNB (bis 250 Seiten je Webseite): 142 von 192 fertig.
+Tieferer Neu-Crawl der fehlenden VNB (bis 250 Seiten je Webseite): 190 von 192 fertig.
 
 ## Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 115 |
-| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 45 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 32 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 109 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 46 |
+| §14a-PDF vorhanden, manuelle Prüfung offen | 37 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
 <details><summary>Liste der fehlenden VNB</summary>
@@ -94,7 +94,6 @@ Tieferer Neu-Crawl der fehlenden VNB (bis 250 Seiten je Webseite): 142 von 192 f
 - 911 Energie- und Wasserwerke Bautzen GmbH
 - 921 Stadtwerke Döbeln GmbH
 - 938 REDINET Burgenland GmbH
-- 942 Stadtwerke Sangerhausen GmbH
 - 959 Netzgesellschaft Frankfurt (Oder) mbH
 - 962 Creos Deutschland GmbH
 - 977 Stadtwerke Zittau GmbH
@@ -115,28 +114,23 @@ Tieferer Neu-Crawl der fehlenden VNB (bis 250 Seiten je Webseite): 142 von 192 f
 - 7096 Stadtwerke Annweiler am Trifels
 - 7109 EVU Obernzell
 - 7113 Gemeindewerke Markt Stockstadt am Main
-- 7117 Stadtwerke Waldkirch GmbH
 - 7122 Versorgungsbetriebe Röttingen
 - 7127 Gemeindewerke Nüdlingen
 - 7134 Gemeindewerke Partenstein
 - 7153 Teutoburger Energie Netzwerk eG (TEN)
-- 7160 Gemeindewerke Enkenbach-Alsenborn
 - 7182 Stadtwerke Eilenburg GmbH
-- 7190 Elektrizitätswerke Schönau Netze GmbH
 - 7202 EVU Späth e.K.
 - 7219 Elektrizitätswerk Rohmund GmbH
 - 7235 E-Werk Meckenheim/Pfalz
 - 7247 Stromversorgung Markt Egloffstein
 - 7281 Markt Zellingen 
 - 7307 EVU Langenpreising
-- 7356 Stadtwerke Emmendingen GmbH
 - 7376 NRM Netzdienste Rhein-Main GmbH
 - 7497 E-Werk Rohrdorf Josef Haimmerer
 - 7601 Energieversorgung Putzbrunn GmbH & Co. KG
 - 7746 Stadtwerke Geldern NETZ GmbH
 - 7754 Keep - Kommunale Eisenberger Energiepartner GmbH
 - 7768 NordNetz GmbH
-- 7774 Weiler Wärme eG
 - 7778 Stromnetz Pullach GmbH
 - 7791 Stadtwerke Olching Stromnetz GmbH & Co. KG
 - 7792 SWTE Netz GmbH & Co. KG
@@ -183,6 +177,7 @@ Tieferer Neu-Crawl der fehlenden VNB (bis 250 Seiten je Webseite): 142 von 192 f
 - 7076 Stadtwerke Troisdorf GmbH
 - 7084 Stadtwerke Witzenhausen GmbH
 - 7114 Stadtwerke Teterow GmbH
+- 7117 Stadtwerke Waldkirch GmbH
 - 7146 Gemeindewerke Wildeck
 - 7183 Stadtwerke Munster-Bispingen GmbH
 - 7187 Stadtwerke Lingen GmbH
@@ -216,13 +211,18 @@ Tieferer Neu-Crawl der fehlenden VNB (bis 250 Seiten je Webseite): 142 von 192 f
 - 709 Stadtwerke Zweibrücken GmbH
 - 765 Feuchter Gemeindewerke GmbH
 - 772 Stadtwerke Ludwigsfelde GmbH
+- 942 Stadtwerke Sangerhausen GmbH
 - 956 Stadtwerke Lippstadt GmbH
 - 967 Städtische Betriebswerke Luckenwalde GmbH
 - 983 Stadtwerke Glauchau Dienstleistungsgesellschaft
 - 7075 Gemeindewerke Großkrotzenburg GmbH
 - 7116 Versorgungsbetrieb Waldbüttelbrunn GmbH
+- 7160 Gemeindewerke Enkenbach-Alsenborn
+- 7190 Elektrizitätswerke Schönau Netze GmbH
 - 7306 Havelstrom Zehdenick GmbH
 - 7313 Stadtwerke Wolmirstedt GmbH
+- 7356 Stadtwerke Emmendingen GmbH
+- 7774 Weiler Wärme eG
 - 7788 Stadtwerke Ditzingen GmbH & Co. KG
 - 7795 Stadtwerke Elm-Lappwald GmbH
 

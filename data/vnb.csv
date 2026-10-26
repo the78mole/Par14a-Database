@@ -354,7 +354,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 633,Stadtwerke Treuchtlingen,,https://www.sw-trl.de,91757,Treuchtlingen,"Mittelspannung,Niederspannung",https://www.sw-trl.de/stromnetz/,2026-10-26,vnbdigital
 634,EGT Energie GmbH,,https://www.egt-energie.de/,78098,Triberg,"Mittelspannung,Niederspannung",https://www.egt-energie.de/veroeffentlichungspflichten,2026-10-26,vnbdigital
 635,SWT Stadtwerke Trier Versorgungs-GmbH,,https://www.swt.de,54290,Trier,"Mittelspannung,Hochspannung,Niederspannung",,,vnbdigital
-636,Energieversorgung Trossingen GmbH,,https://www.swtro.de,78073,Trossingen,"Mittelspannung,Niederspannung",,,vnbdigital
+636,Energieversorgung Trossingen GmbH,,https://www.swtro.de,78073,Trossingen,"Mittelspannung,Niederspannung",https://www.swtro.de/netze-strom/,2026-10-26,vnbdigital
 638,Stadtwerke Trostberg Stromversorgung GmbH,,https://www.stadtwerke-trostberg.de,83308,Trostberg,"Mittelspannung,Niederspannung",https://stadtwerke-trostberg.de/strom/strom-netz/,2026-10-26,vnbdigital
 640,Stadtwerke Tübingen GmbH,,https://www.swtue.de,72072,Tübingen,"Mittelspannung,Niederspannung,Hochspannung",https://www.swtue.de/netze/netznutzung/netznutzungsentgelte.html,2026-10-26,vnbdigital
 642,Stadtwerke Tuttlingen GmbH,,https://www.swtenergie.de,78532,Tuttlingen,"Mittelspannung,Niederspannung",https://www.swtenergie.de/de/Netze/Strom/Steuerbare-Verbrauchseinrichtungen/Steuerbare-Verbrauchseinrichtungen.html,2026-10-26,vnbdigital
@@ -362,7 +362,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 645,Stadtwerke Ulm/Neu-Ulm Netze GmbH,,https://www.ulm-netze.de/,89073,Ulm,"Hochspannung,Mittelspannung,Niederspannung",https://www.ulm-netze.de/,2026-10-26,vnbdigital
 646,Stadtwerke Unna GmbH,,https://www.sw-unna.de,59423,Unna,"Mittelspannung,Niederspannung",,,vnbdigital
 648,Elektrizitätswerk Unterwössen Döllerer & Greimel,,https://ew-unterwoessen.de/,83246,Unterwössen,"Niederspannung,Mittelspannung",https://ew-unterwoessen.de/netz/veroeffentlichungen,2026-10-26,vnbdigital
-649,Stadtwerke Uslar GmbH,,https://stadtwerke-uslar.de,37170,Uslar,"Mittelspannung,Niederspannung",,,vnbdigital
+649,Stadtwerke Uslar GmbH,,https://stadtwerke-uslar.de,37170,Uslar,"Mittelspannung,Niederspannung",https://stadtwerke-uslar.de/transport-und-netz-strom/,2026-10-26,vnbdigital
 651,Stadtwerke Velbert GmbH,,https://www.stadtwerke-velbert.de/,42549,Velbert,"Mittelspannung,Niederspannung",https://www.stadtwerke-velbert.de/netze/infrastruktur/nutzungsentgelte,2026-10-26,vnbdigital
 652,Stadtwerke Verden GmbH,,https://www.stadtwerke-verden.de,27283,Verden,"Mittelspannung,Niederspannung",https://www.stadtwerke-verden.de/netze/stromnetz/netzzugang/netzentgelte-strom.html,2026-10-26,vnbdigital
 654,Stadtwerke Viernheim Netz GmbH,,https://www.swv-netz.de/,68519,Viernheim,"Mittelspannung,Niederspannung",https://www.swv-netz.de/index.php?id1=8&id2=10,2026-10-26,vnbdigital

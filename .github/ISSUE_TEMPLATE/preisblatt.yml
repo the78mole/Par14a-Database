@@ -1,0 +1,138 @@
+name: Neues Preisblatt einreichen
+description: Ein §14a-Preisblatt (Modul 1, 2, 3) eines Verteilnetzbetreibers melden, das in der Datenbank fehlt oder veraltet ist.
+title: "[Preisblatt] <VNB> <Geltungsjahr>"
+labels: ["preisblatt"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke fürs Einreichen! Bitte gib neben dem PDF auch den **Download-Link** und die **Seite, auf der das Preisblatt verlinkt ist**, an. So können wir es bei späteren Aktualisierungen wiederfinden.
+
+        Ob der VNB schon erfasst ist, siehst du in [`data/vnb.csv`](https://github.com/the78mole/Par14a-Database/blob/main/data/vnb.csv) und [`STATUS.md`](https://github.com/the78mole/Par14a-Database/blob/main/STATUS.md).
+
+  - type: input
+    id: vnb_name
+    attributes:
+      label: Verteilnetzbetreiber
+      description: Vollständiger Name des Netzbetreibers, wie im Preisblatt.
+      placeholder: z. B. Regionetz GmbH
+    validations:
+      required: true
+
+  - type: input
+    id: vnb_id
+    attributes:
+      label: vnb_id oder BDEW-Code
+      description: |
+        vnbdigital-ID (Spalte `vnb_id` in `data/vnb.csv`, z. B. `3`) oder die 13-stellige BDEW-Marktpartner-ID (beginnt mit 99…). Leer lassen, wenn unbekannt.
+      placeholder: z. B. 3 oder 9900000000000
+    validations:
+      required: false
+
+  - type: input
+    id: jahr
+    attributes:
+      label: Geltungsjahr
+      description: Für welches Jahr gilt das Preisblatt? Vierstellig, z. B. 2026 oder 2027.
+      placeholder: "2026"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: Status des Preisblatts
+      description: Steht im Preisblatt meist im Titel oder in der Fußzeile.
+      options:
+        - endgültig
+        - vorläufig
+        - weiß nicht
+    validations:
+      required: true
+
+  - type: input
+    id: gueltig_ab
+    attributes:
+      label: Gültig ab
+      description: Datum, ab dem die Preise gelten (falls abweichend vom 01.01.).
+      placeholder: z. B. 2026-01-01
+    validations:
+      required: false
+
+  - type: input
+    id: preisblatt_url
+    attributes:
+      label: Download-URL des Preisblatts
+      description: Direkter Link auf das PDF.
+      placeholder: https://www.netzbetreiber.de/.../Preisblatt-Netzentgelte-2026.pdf
+    validations:
+      required: true
+
+  - type: input
+    id: quelle_seite_url
+    attributes:
+      label: Quellseite
+      description: Webseite des VNB, auf der das PDF verlinkt ist (z. B. „Netzentgelte“ oder „Veröffentlichungspflichten“).
+      placeholder: https://www.netzbetreiber.de/netzentgelte
+    validations:
+      required: true
+
+  - type: textarea
+    id: pdf
+    attributes:
+      label: Preisblatt als PDF
+      description: |
+        **Bitte das PDF per Drag & Drop in dieses Feld ziehen** (oder über „Paste, drop, or click to add files“ hochladen). GitHub fügt dann einen Link ein. Das Archiv-Exemplar ist wichtig, weil VNBs ihre PDFs oft austauschen oder löschen.
+      placeholder: PDF hierher ziehen …
+    validations:
+      required: true
+
+  - type: input
+    id: seite
+    attributes:
+      label: Seite(n) des §14a-Abschnitts
+      description: Optional, hilft beim Auslesen.
+      placeholder: z. B. 3–4
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Preise (optional)
+        Alle Preise **netto**, so wie im Preisblatt. Wenn du keine Zeit hast, lass die Felder leer, wir lesen sie aus dem PDF aus.
+
+  - type: input
+    id: m1
+    attributes:
+      label: "Modul 1: pauschale Reduzierung (€/a)"
+      placeholder: z. B. 137,13
+    validations:
+      required: false
+
+  - type: input
+    id: m2
+    attributes:
+      label: "Modul 2: Grundpreis (€/a) und Arbeitspreis (ct/kWh)"
+      placeholder: z. B. 0 / 3,73
+    validations:
+      required: false
+
+  - type: textarea
+    id: m3
+    attributes:
+      label: "Modul 3: HT / ST / NT (ct/kWh), aktive Quartale und Zeitfenster"
+      placeholder: |
+        HT 13,98 / ST 9,32 / NT 2,42 ct/kWh
+        Quartale: 1, 4
+        HT 17:00–20:00, NT 00:00–06:00
+    validations:
+      required: false
+
+  - type: textarea
+    id: hinweise
+    attributes:
+      label: Hinweise
+      description: Alles, was sonst noch wichtig ist, z. B. mehrere Netzgebiete, abweichende Gültigkeit, ersetztes älteres Preisblatt.
+    validations:
+      required: false

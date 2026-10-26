@@ -8,6 +8,10 @@ Datenbank der §14a-EnWG-Netzentgelte (Modul 1, 2, 3) für steuerbare Verbrauchs
 
 Die fertigen Datenbanken liegen in den Releases, je Jahr ein Release `daten-<jahr>` mit `par14a_<jahr>.sqlite`. Sie werden bei jeder Änderung in `data/` automatisch neu gebaut.
 
+## Preisblatt einreichen
+
+Preisblätter für VNBs, die noch nicht in der Datenbank enthalten sind, oder neuere Fassungen bereits erfasster VNBs können über das Issue-Formular **[Neues Preisblatt einreichen](https://github.com/the78mole/Par14a-Database/issues/new?template=preisblatt.yml)** eingereicht werden. Anzugeben sind VNB, Geltungsjahr, Status, die Download-URL des PDFs und die Seite, auf der es verlinkt ist. Das PDF selbst bitte per Drag & Drop als Anhang ins Issue ziehen. Die Preise für Modul 1, 2 und 3 sind optional, sonst werden sie aus dem PDF ausgelesen.
+
 ## Aufbau
 
 | Pfad | Inhalt |

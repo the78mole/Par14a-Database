@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Aktueller Stand der Erfassung
+    url: https://github.com/the78mole/Par14a-Database/blob/main/STATUS.md
+    about: Bevor du ein Preisblatt einreichst, schau nach, ob der VNB schon erfasst ist.

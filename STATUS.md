@@ -1,6 +1,6 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 18:54 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
@@ -16,9 +16,9 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 | Grund | Anzahl |
 |---|---:|
-| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 154 |
-| kein §14a-Preisblatt auf der Webseite gefunden | 98 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 43 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 157 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 93 |
+| §14a-PDF vorhanden, manuelle Prüfung offen | 45 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
 <details><summary>Liste der fehlenden VNB 2027</summary>
@@ -120,7 +120,9 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 782 Stadtwerke Neustadt an der Orla GmbH
 - 792 Netzgesellschaft Potsdam GmbH
 - 875 Kraftwerk Köhlgartenwiese GmbH
+- 911 Energie- und Wasserwerke Bautzen GmbH
 - 915 SWS Netze GmbH
+- 921 Stadtwerke Döbeln GmbH
 - 924 Stadtwerke Werdau GmbH
 - 939 SSW Netz GmbH
 - 959 Netzgesellschaft Frankfurt (Oder) mbH
@@ -156,6 +158,7 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7118 Regionalwerke Wolfhager Land GmbH
 - 7146 Gemeindewerke Wildeck
 - 7168 Stadtwerke Wachenheim
+- 7182 Stadtwerke Eilenburg GmbH
 - 7183 Stadtwerke Munster-Bispingen GmbH
 - 7187 Stadtwerke Lingen GmbH
 - 7190 Elektrizitätswerke Schönau Netze GmbH
@@ -203,7 +206,6 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 313 Rheinhessische Energie- und Wasserversorgungs-GmbH
 - 429 Stadtwerke Mössingen
 - 432 Kommunale Energienetze Inn-Salzach GmbH & Co. KG
-- 460 Stromversorgung Neunkirchen GmbH
 - 465 Stadtwerke Neustadt in Holstein
 - 470 Stadtwerke Nordfriesland - Netz GmbH
 - 472 Stadtwerke Norderney GmbH
@@ -215,7 +217,6 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 512 Gemeindewerke Peißenberg KU
 - 520 Stadtwerke Plattling
 - 536 Stadtwerke Rendsburg GmbH
-- 549 Stadtwerke Röthenbach a.d. Pegnitz GmbH
 - 558 ENRW Energieversorgung Rottweil GmbH & Co. KG
 - 562 VSE Verteilnetz GmbH
 - 563 Netzwerke Saarlouis GmbH
@@ -236,8 +237,6 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 793 Stadtwerke Schwedt GmbH
 - 799 Stadtwerke Annaberg-Buchholz Energie AG
 - 800 Stadtwerke Delitzsch GmbH
-- 911 Energie- und Wasserwerke Bautzen GmbH
-- 921 Stadtwerke Döbeln GmbH
 - 938 REDINET Burgenland GmbH
 - 977 Stadtwerke Zittau GmbH
 - 984 Stadtwerke Bad Bramstedt Netz GmbH
@@ -263,7 +262,6 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7132 Sömmerdaer Energieversorgung GmbH
 - 7134 Gemeindewerke Partenstein
 - 7153 Teutoburger Energie Netzwerk eG (TEN)
-- 7182 Stadtwerke Eilenburg GmbH
 - 7202 EVU Späth e.K.
 - 7219 Elektrizitätswerk Rohmund GmbH
 - 7235 E-Werk Meckenheim/Pfalz
@@ -292,11 +290,13 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 148 Stadtwerke Dülmen GmbH
 - 176 Überlandwerk Erding GmbH & Co. KG
 - 256 E-Werke Haniel Haimhausen GmbH & Co. KG.
+- 460 Stromversorgung Neunkirchen GmbH
 - 467 Stadtwerke Neustadt an der Weinstraße GmbH
 - 475 SWN Stadtwerke Northeim GmbH
 - 482 Stadtwerke Nürtingen GmbH
 - 489 Weißachtal-Kraftwerke eG
 - 525 Stadtwerke Ramstein-Miesenbach GmbH
+- 549 Stadtwerke Röthenbach a.d. Pegnitz GmbH
 - 578 Stadtwerke Schorndorf GmbH
 - 629 strotög GmbH Strom aus Töging
 - 658 Stadtwerke Vilshofen GmbH
@@ -342,20 +342,20 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**655 von 754 VNB erfasst (87 %)**, 99 fehlen noch.
+**670 von 754 VNB erfasst (89 %)**, 84 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 644 |
+| endgueltig | 659 |
 | vorlaeufig | 11 |
-| davon mit Modul-3-Zeitfenstern | 649 |
+| davon mit Modul-3-Zeitfenstern | 663 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 62 |
-| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 29 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 52 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 24 |
 | §14a-PDF vorhanden, manuelle Prüfung offen | 8 |
 
 <details><summary>Liste der fehlenden VNB 2026</summary>
@@ -373,7 +373,6 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH
 - 270 Versorgungsbetriebe Hann. Münden GmbH
 - 313 Rheinhessische Energie- und Wasserversorgungs-GmbH
-- 460 Stromversorgung Neunkirchen GmbH
 - 465 Stadtwerke Neustadt in Holstein
 - 470 Stadtwerke Nordfriesland - Netz GmbH
 - 472 Stadtwerke Norderney GmbH
@@ -381,7 +380,6 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 500 SWO Netz GmbH
 - 508 Stadtwerke Pappenheim GmbH
 - 512 Gemeindewerke Peißenberg KU
-- 549 Stadtwerke Röthenbach a.d. Pegnitz GmbH
 - 562 VSE Verteilnetz GmbH
 - 594 Elektrizitätsgenossenschaft Vogling & Angrenzer eG
 - 615 Stadtwerke Straubing Strom und Gas GmbH
@@ -391,13 +389,6 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 718 Stadtwerke Roth
 - 742 Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal
 - 751 Stadtwerke Güstrow GmbH
-- 793 Stadtwerke Schwedt GmbH
-- 799 Stadtwerke Annaberg-Buchholz Energie AG
-- 800 Stadtwerke Delitzsch GmbH
-- 911 Energie- und Wasserwerke Bautzen GmbH
-- 921 Stadtwerke Döbeln GmbH
-- 938 REDINET Burgenland GmbH
-- 977 Stadtwerke Zittau GmbH
 - 984 Stadtwerke Bad Bramstedt Netz GmbH
 - 7001 Stadtwerke Weißwasser GmbH
 - 7013 Elektrizitätsvereinigung Böbing eG
@@ -416,7 +407,6 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7127 Gemeindewerke Nüdlingen
 - 7134 Gemeindewerke Partenstein
 - 7153 Teutoburger Energie Netzwerk eG (TEN)
-- 7182 Stadtwerke Eilenburg GmbH
 - 7202 EVU Späth e.K.
 - 7219 Elektrizitätswerk Rohmund GmbH
 - 7235 E-Werk Meckenheim/Pfalz
@@ -443,18 +433,13 @@ Stand: 2026-10-26 18:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 636 Energieversorgung Trossingen GmbH
 - 649 Stadtwerke Uslar GmbH
 - 748 Versorgungsbetriebe Bordesholm GmbH
-- 750 SachsenNetze GmbH
+- 911 Energie- und Wasserwerke Bautzen GmbH
 - 965 Stadtwerke Parchim GmbH
 - 981 Städtische Werke Borna Netz GmbH
-- 7044 Stadtwerke Löbau GmbH
 - 7053 Gemeindewerke Nümbrecht GmbH
-- 7054 Stadtwerke Ochtrup
-- 7076 Stadtwerke Troisdorf GmbH
 - 7084 Stadtwerke Witzenhausen GmbH
-- 7114 Stadtwerke Teterow GmbH
 - 7117 Stadtwerke Waldkirch GmbH
 - 7146 Gemeindewerke Wildeck
-- 7594 Stromnetzgesellschaft Herrenberg mbH & Co. KG
 - 7693 BIGGE ENERGIE GmbH & Co. KG
 
 **§14a-PDF vorhanden, manuelle Prüfung offen**

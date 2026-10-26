@@ -1,6 +1,6 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 16:39 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
@@ -16,9 +16,9 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 | Grund | Anzahl |
 |---|---:|
-| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 137 |
-| kein §14a-Preisblatt auf der Webseite gefunden | 117 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 41 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 152 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 100 |
+| §14a-PDF vorhanden, manuelle Prüfung offen | 43 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
 <details><summary>Liste der fehlenden VNB 2027</summary>
@@ -43,6 +43,7 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 123 Stadtwerke Buxtehude GmbH
 - 126 SVO Netz GmbH
 - 128 Stadtwerke Clausthal-Zellerfeld GmbH
+- 129 SÜC Energie und H2O GmbH
 - 136 Stadtwerke Deidesheim GmbH
 - 137 Stadtwerke EVB Huntetal Netz GmbH
 - 138 Elektrizitätswerk Diessen Stadler GmbH
@@ -58,23 +59,30 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 262 Energie- und Wasserversorgung Hamm GmbH
 - 273 Stadtwerk Haßfurt GmbH
 - 277 Stadtwerke Heidelberg Netze GmbH
+- 295 Herzo Werke GmbH
 - 318 Stadtwerke Itzehoe GmbH
 - 323 GSW Gemeinschaftsstadtwerke GmbH Kamen - Bönen - Bergkamen
+- 337 Stadtwerke Kempen GmbH
 - 340 Energieversorgung Josef Schmid
+- 346 Licht-, Kraft- und Wasserwerke Kitzingen GmbH
 - 348 KU Stadtwerke Klingenberg (AöR)
 - 355 Stadtwerke Konstanz GmbH
 - 371 Stadtwerke Landshut
 - 387 EVL Energieversorgung Limburg GmbH
 - 388 Stadtwerke Lindau (B) GmbH & Co. KG
+- 399 TraveNetz GmbH
 - 422 KEW Karwendel Energie und Wasser GmbH
 - 449 Stadtnetze Münster GmbH
+- 452 Stadtwerke Neuburg a. d. Donau
 - 454 Gemeindewerke Neuendettelsau
+- 455 Stadtwerke Neuffen AG
 - 463 SWN Stadtwerke Neustadt GmbH
 - 469 Stadtwerke Neuwied GmbH
 - 471 Stadtwerke Norden
 - 473 Stadtwerke Norderstedt
 - 476 Stadtwerke Nortorf AöR
 - 510 Stadtwerke Passau GmbH
+- 518 Stadtwerke Südholstein GmbH
 - 522 Stadtwerke Quickborn GmbH
 - 540 Stadtwerke Rhede GmbH
 - 555 Stadtwerke Rothenburg o.d.T. GmbH
@@ -91,11 +99,13 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 642 Stadtwerke Tuttlingen GmbH
 - 665 Stadtwerke Waldshut-Tiengen GmbH
 - 666 Stadtwerke Walldürn GmbH
+- 670 Stadtwerke Wasserburg am Inn
 - 689 BEW Netze GmbH
 - 704 SWW Wunsiedel GmbH
 - 706 Stadtwerke Zeil am Main
 - 708 Stadtwerke Zirndorf GmbH
 - 709 Stadtwerke Zweibrücken GmbH
+- 712 Gemeindewerke Ebersdorf
 - 713 Elektrizitäts-Genossenschaft Schonstett eG
 - 726 SachsenNetze HS.HD GmbH
 - 743 Stadtwerke Geesthacht GmbH
@@ -106,10 +116,12 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 772 Stadtwerke Ludwigsfelde GmbH
 - 779 Elektrizitätswerk Max Peißker
 - 782 Stadtwerke Neustadt an der Orla GmbH
+- 792 Netzgesellschaft Potsdam GmbH
 - 875 Kraftwerk Köhlgartenwiese GmbH
 - 915 SWS Netze GmbH
 - 924 Stadtwerke Werdau GmbH
 - 939 SSW Netz GmbH
+- 959 Netzgesellschaft Frankfurt (Oder) mbH
 - 962 Creos Deutschland GmbH
 - 965 Stadtwerke Parchim GmbH
 - 981 Städtische Werke Borna Netz GmbH
@@ -136,6 +148,7 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7076 Stadtwerke Troisdorf GmbH
 - 7084 Stadtwerke Witzenhausen GmbH
 - 7086 Getreidemühle Zwiefalten e.G.
+- 7096 Stadtwerke Annweiler am Trifels
 - 7115 Gemeindewerke Waging a. See
 - 7116 Versorgungsbetrieb Waldbüttelbrunn GmbH
 - 7118 Regionalwerke Wolfhager Land GmbH
@@ -160,8 +173,10 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7737 Stadtwerke Metzingen
 - 7745 Stadtwerke Oldenburg in Holstein GmbH
 - 7747 Stromnetz Weiden i.d.OPf. GmbH & Co. KG
+- 7754 Keep - Kommunale Eisenberger Energiepartner GmbH
 - 7755 Mainnetz GmbH
 - 7774 Weiler Wärme eG
+- 7792 SWTE Netz GmbH & Co. KG
 
 **kein §14a-Preisblatt auf der Webseite gefunden**
 
@@ -172,12 +187,9 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 65 Überlandwerk Eppler GmbH
 - 114 Stadtwerke Buchen GmbH & Co KG
 - 121 Gemeinde-Elektrizitäts- und Wasserwerk Burtenbach
-- 127 Stadtwerke Cham GmbH
-- 129 SÜC Energie und H2O GmbH
 - 144 Westenthanner Energieversorgung GmbH
 - 157 Stadtwerke Eckernförde GmbH
 - 170 Stadtwerke Emden GmbH
-- 176 Überlandwerk Erding GmbH & Co. KG
 - 186 Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG
 - 201 Stadtwerke Freudenstadt GmbH & Co. KG
 - 209 OsthessenNetz GmbH
@@ -187,16 +199,10 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH
 - 270 Versorgungsbetriebe Hann. Münden GmbH
 - 274 Gemeindewerke Haßloch GmbH
-- 295 Herzo Werke GmbH
 - 313 Rheinhessische Energie- und Wasserversorgungs-GmbH
-- 337 Stadtwerke Kempen GmbH
-- 346 Licht-, Kraft- und Wasserwerke Kitzingen GmbH
-- 399 TraveNetz GmbH
 - 420 Stadtwerke Mengen
 - 429 Stadtwerke Mössingen
 - 432 Kommunale Energienetze Inn-Salzach GmbH & Co. KG
-- 452 Stadtwerke Neuburg a. d. Donau
-- 455 Stadtwerke Neuffen AG
 - 460 Stromversorgung Neunkirchen GmbH
 - 465 Stadtwerke Neustadt in Holstein
 - 470 Stadtwerke Nordfriesland - Netz GmbH
@@ -207,7 +213,6 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 500 SWO Netz GmbH
 - 508 Stadtwerke Pappenheim GmbH
 - 512 Gemeindewerke Peißenberg KU
-- 518 Stadtwerke Südholstein GmbH
 - 520 Stadtwerke Plattling
 - 536 Stadtwerke Rendsburg GmbH
 - 549 Stadtwerke Röthenbach a.d. Pegnitz GmbH
@@ -221,23 +226,19 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 635 SWT Stadtwerke Trier Versorgungs-GmbH
 - 644 Stadtwerke Uelzen GmbH
 - 646 Stadtwerke Unna GmbH
-- 670 Stadtwerke Wasserburg am Inn
 - 679 Energieversorgung Sylt GmbH
 - 686 Stadtwerke Wilster
 - 693 Elektrizitätswerk Wörth an der Donau Rupert
-- 712 Gemeindewerke Ebersdorf
 - 714 Stadtwerke Nettetal GmbH
 - 718 Stadtwerke Roth
 - 742 Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal
 - 751 Stadtwerke Güstrow GmbH
-- 792 Netzgesellschaft Potsdam GmbH
 - 793 Stadtwerke Schwedt GmbH
 - 799 Stadtwerke Annaberg-Buchholz Energie AG
 - 800 Stadtwerke Delitzsch GmbH
 - 911 Energie- und Wasserwerke Bautzen GmbH
 - 921 Stadtwerke Döbeln GmbH
 - 938 REDINET Burgenland GmbH
-- 959 Netzgesellschaft Frankfurt (Oder) mbH
 - 977 Stadtwerke Zittau GmbH
 - 984 Stadtwerke Bad Bramstedt Netz GmbH
 - 7001 Stadtwerke Weißwasser GmbH
@@ -255,7 +256,6 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7085 Stromversorgung Zerbst GmbH & Co. KG
 - 7087 Stadtwerke Hammelburg GmbH
 - 7088 Stadtwerke Burgbernheim
-- 7096 Stadtwerke Annweiler am Trifels
 - 7109 EVU Obernzell
 - 7113 Gemeindewerke Markt Stockstadt am Main
 - 7122 Versorgungsbetriebe Röttingen
@@ -275,11 +275,9 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7601 Energieversorgung Putzbrunn GmbH & Co. KG
 - 7607 Stadtwerke Brunsbüttel GmbH
 - 7746 Stadtwerke Geldern NETZ GmbH
-- 7754 Keep - Kommunale Eisenberger Energiepartner GmbH
 - 7768 NordNetz GmbH
 - 7778 Stromnetz Pullach GmbH
 - 7791 Stadtwerke Olching Stromnetz GmbH & Co. KG
-- 7792 SWTE Netz GmbH & Co. KG
 - 7793 Stromnetz Weilheim GmbH & Co. KG
 - 7800 Netzgesellschaft Panketal GmbH
 
@@ -289,8 +287,10 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 9 Netzgesellschaft Ahlen mbH
 - 10 Albstadtwerke GmbH
 - 43 Stadtwerk Tauberfranken GmbH
+- 127 Stadtwerke Cham GmbH
 - 131 Stadtwerke Crailsheim GmbH
 - 148 Stadtwerke Dülmen GmbH
+- 176 Überlandwerk Erding GmbH & Co. KG
 - 256 E-Werke Haniel Haimhausen GmbH & Co. KG.
 - 467 Stadtwerke Neustadt an der Weinstraße GmbH
 - 475 SWN Stadtwerke Northeim GmbH
@@ -342,22 +342,22 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**595 von 754 VNB erfasst (79 %)**, 159 fehlen noch.
+**619 von 754 VNB erfasst (82 %)**, 135 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 584 |
+| endgueltig | 608 |
 | vorlaeufig | 11 |
-| davon mit Modul-3-Zeitfenstern | 589 |
+| davon mit Modul-3-Zeitfenstern | 613 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 106 |
-| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 35 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 87 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 32 |
 | §14a-PDF vorhanden, manuelle Prüfung offen | 10 |
-| Bot-Schutz (HTTP 403), nur manuell | 8 |
+| Bot-Schutz (HTTP 403), nur manuell | 6 |
 
 <details><summary>Liste der fehlenden VNB 2026</summary>
 
@@ -370,12 +370,9 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 65 Überlandwerk Eppler GmbH
 - 114 Stadtwerke Buchen GmbH & Co KG
 - 121 Gemeinde-Elektrizitäts- und Wasserwerk Burtenbach
-- 127 Stadtwerke Cham GmbH
-- 129 SÜC Energie und H2O GmbH
 - 144 Westenthanner Energieversorgung GmbH
 - 157 Stadtwerke Eckernförde GmbH
 - 170 Stadtwerke Emden GmbH
-- 176 Überlandwerk Erding GmbH & Co. KG
 - 186 Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG
 - 201 Stadtwerke Freudenstadt GmbH & Co. KG
 - 209 OsthessenNetz GmbH
@@ -384,15 +381,9 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH
 - 270 Versorgungsbetriebe Hann. Münden GmbH
 - 274 Gemeindewerke Haßloch GmbH
-- 295 Herzo Werke GmbH
 - 313 Rheinhessische Energie- und Wasserversorgungs-GmbH
-- 337 Stadtwerke Kempen GmbH
-- 346 Licht-, Kraft- und Wasserwerke Kitzingen GmbH
-- 399 TraveNetz GmbH
 - 420 Stadtwerke Mengen
 - 432 Kommunale Energienetze Inn-Salzach GmbH & Co. KG
-- 452 Stadtwerke Neuburg a. d. Donau
-- 455 Stadtwerke Neuffen AG
 - 460 Stromversorgung Neunkirchen GmbH
 - 465 Stadtwerke Neustadt in Holstein
 - 470 Stadtwerke Nordfriesland - Netz GmbH
@@ -402,7 +393,6 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 500 SWO Netz GmbH
 - 508 Stadtwerke Pappenheim GmbH
 - 512 Gemeindewerke Peißenberg KU
-- 518 Stadtwerke Südholstein GmbH
 - 520 Stadtwerke Plattling
 - 536 Stadtwerke Rendsburg GmbH
 - 549 Stadtwerke Röthenbach a.d. Pegnitz GmbH
@@ -415,21 +405,17 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 635 SWT Stadtwerke Trier Versorgungs-GmbH
 - 644 Stadtwerke Uelzen GmbH
 - 646 Stadtwerke Unna GmbH
-- 670 Stadtwerke Wasserburg am Inn
 - 679 Energieversorgung Sylt GmbH
-- 712 Gemeindewerke Ebersdorf
 - 714 Stadtwerke Nettetal GmbH
 - 718 Stadtwerke Roth
 - 742 Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal
 - 751 Stadtwerke Güstrow GmbH
-- 792 Netzgesellschaft Potsdam GmbH
 - 793 Stadtwerke Schwedt GmbH
 - 799 Stadtwerke Annaberg-Buchholz Energie AG
 - 800 Stadtwerke Delitzsch GmbH
 - 911 Energie- und Wasserwerke Bautzen GmbH
 - 921 Stadtwerke Döbeln GmbH
 - 938 REDINET Burgenland GmbH
-- 959 Netzgesellschaft Frankfurt (Oder) mbH
 - 977 Stadtwerke Zittau GmbH
 - 984 Stadtwerke Bad Bramstedt Netz GmbH
 - 7001 Stadtwerke Weißwasser GmbH
@@ -444,7 +430,6 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7085 Stromversorgung Zerbst GmbH & Co. KG
 - 7087 Stadtwerke Hammelburg GmbH
 - 7088 Stadtwerke Burgbernheim
-- 7096 Stadtwerke Annweiler am Trifels
 - 7109 EVU Obernzell
 - 7113 Gemeindewerke Markt Stockstadt am Main
 - 7122 Versorgungsbetriebe Röttingen
@@ -456,17 +441,13 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7219 Elektrizitätswerk Rohmund GmbH
 - 7235 E-Werk Meckenheim/Pfalz
 - 7247 Stromversorgung Markt Egloffstein
-- 7281 Markt Zellingen 
 - 7307 EVU Langenpreising
-- 7376 NRM Netzdienste Rhein-Main GmbH
 - 7497 E-Werk Rohrdorf Josef Haimmerer
 - 7601 Energieversorgung Putzbrunn GmbH & Co. KG
 - 7746 Stadtwerke Geldern NETZ GmbH
-- 7754 Keep - Kommunale Eisenberger Energiepartner GmbH
 - 7768 NordNetz GmbH
 - 7778 Stromnetz Pullach GmbH
 - 7791 Stadtwerke Olching Stromnetz GmbH & Co. KG
-- 7792 SWTE Netz GmbH & Co. KG
 - 7793 Stromnetz Weilheim GmbH & Co. KG
 - 7800 Netzgesellschaft Panketal GmbH
 
@@ -478,7 +459,6 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 141 Stadtwerke Dingolfing GmbH
 - 206 Stadtwerke Fürstenfeldbruck GmbH
 - 235 Elektrizitätswerk Goldbach-Hösbach GmbH & Co. KG
-- 248 Netzgesellschaft Gütersloh mbH
 - 257 Gemeindewerke Halstenbek
 - 277 Stadtwerke Heidelberg Netze GmbH
 - 341 Fürstl. Fugger-Glött'sches Elektrizitätswerk
@@ -490,7 +470,6 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 522 Stadtwerke Quickborn GmbH
 - 636 Energieversorgung Trossingen GmbH
 - 649 Stadtwerke Uslar GmbH
-- 666 Stadtwerke Walldürn GmbH
 - 726 SachsenNetze HS.HD GmbH
 - 748 Versorgungsbetriebe Bordesholm GmbH
 - 750 SachsenNetze GmbH
@@ -505,11 +484,11 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7117 Stadtwerke Waldkirch GmbH
 - 7146 Gemeindewerke Wildeck
 - 7594 Stromnetzgesellschaft Herrenberg mbH & Co. KG
-- 7658 Leitungspartner GmbH
 - 7693 BIGGE ENERGIE GmbH & Co. KG
 
 **§14a-PDF vorhanden, manuelle Prüfung offen**
 
+- 127 Stadtwerke Cham GmbH
 - 323 GSW Gemeinschaftsstadtwerke GmbH Kamen - Bönen - Bergkamen
 - 355 Stadtwerke Konstanz GmbH
 - 577 Stadtwerke Schneverdingen-Neuenkirchen GmbH
@@ -519,17 +498,14 @@ Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 772 Stadtwerke Ludwigsfelde GmbH
 - 956 Stadtwerke Lippstadt GmbH
 - 983 Stadtwerke Glauchau Dienstleistungsgesellschaft
-- 7306 Havelstrom Zehdenick GmbH
 
 **Bot-Schutz (HTTP 403), nur manuell**
 
-- 535 Schleswig-Holstein Netz GmbH
 - 1000 E.DIS Netz GmbH
 - 1064 Syna GmbH
 - 1068 Bayernwerk Netz GmbH
 - 7137 Avacon Netz GmbH
 - 7332 Westnetz GmbH
-- 7510 Energienetze Bayern GmbH
 - 7750 Stuttgart Netze GmbH
 
 </details>

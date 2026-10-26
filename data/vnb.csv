@@ -668,40 +668,40 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 7323,naturenergie netze GmbH,,https://www.naturenergie-netze.de/,79618,Rheinfelden,"Hochspannung,Mittelspannung,Niederspannung",https://www.naturenergie-netze.de/neuregelung-14a-enwg,2026-10-26,vnbdigital
 7326,Stromversorgung Angermünde GmbH,,https://www.sw-angermuende.de/,16278,Angermünde,"Mittelspannung,Niederspannung",https://www.sw-angermuende.de/veroeffentlichungen.html,2026-10-26,vnbdigital
 7332,Westnetz GmbH,,https://www.westnetz.de,44139,Dortmund,"Hochspannung,Mittelspannung,Niederspannung",,,vnbdigital
-7355,Netzgesellschaft Lübbecke mbH,,https://www.netzgesellschaft-luebbecke.de,32312,Lübbecke,"Mittelspannung,Niederspannung",,,vnbdigital
+7355,Netzgesellschaft Lübbecke mbH,,https://www.netzgesellschaft-luebbecke.de,32312,Lübbecke,"Mittelspannung,Niederspannung",https://www.netzgesellschaft-luebbecke.de/netze/strom,2026-10-26,vnbdigital
 7356,Stadtwerke Emmendingen GmbH,,https://netz.swe-emmendingen.de/unser-netz/netzgebiet-strom-und-erdgas/,79312,Emmendingen,"Mittelspannung,Niederspannung",,,vnbdigital
 7376,NRM Netzdienste Rhein-Main GmbH,,https://www.nrm-netzdienste.de/,60486,Frankfurt,"Mittelspannung,Niederspannung,Hochspannung",,,vnbdigital
-7387,AllgäuNetz GmbH & Co. KG,,https://www.allgaeunetz.com/index.html,87435,Kempten,"Hochspannung,Mittelspannung,Niederspannung",,,vnbdigital
-7388,LSW Netz GmbH & Co. KG,,https://www.lsw-netz.de/,38440,Wolfsburg,"Hochspannung,Mittelspannung,Niederspannung",,,vnbdigital
-7391,nvb Nordhorner Versorgungsbetriebe GmbH,,https://www.nvb-netz.de,48529,Nordhorn,"Mittelspannung,Niederspannung",,,vnbdigital
+7387,AllgäuNetz GmbH & Co. KG,,https://www.allgaeunetz.com/index.html,87435,Kempten,"Hochspannung,Mittelspannung,Niederspannung",https://www.allgaeunetz.com/netznutzungsentgelte.html,2026-10-26,vnbdigital
+7388,LSW Netz GmbH & Co. KG,,https://www.lsw-netz.de/,38440,Wolfsburg,"Hochspannung,Mittelspannung,Niederspannung",https://www.lsw-netz.de/bauen-wohnen/netznutzung/strom/,2026-10-26,vnbdigital
+7391,nvb Nordhorner Versorgungsbetriebe GmbH,,https://www.nvb-netz.de,48529,Nordhorn,"Mittelspannung,Niederspannung",https://nvb-netz.de/veroffentlichungen/,2026-10-26,vnbdigital
 7399,RheinNetz GmbH (RNG),,https://www.rheinnetz.de/,50823,Köln,"Hochspannung,Mittelspannung,Niederspannung",https://www.rheinnetz.de/netzentgelte-strom,2026-10-26,vnbdigital
-7404,Elektra-Genossenschaft Pinzberg eG,,http://www.elektra-pinzberg.de,91361,Pinzberg,Niederspannung,,,vnbdigital
+7404,Elektra-Genossenschaft Pinzberg eG,,http://www.elektra-pinzberg.de,91361,Pinzberg,Niederspannung,https://www.elektra-pinzberg.de/,2026-10-26,vnbdigital
 7409,ENERVIE Vernetzt GmbH,,https://www.enervie-vernetzt.de,58507,Lüdenscheid,"Hochspannung,Mittelspannung,Niederspannung",,,vnbdigital
-7421,Gemeindewerke Schwarzenbruck GmbH,,https://www.schwarzenbruck-gw.de,90537,Feucht,"Mittelspannung,Niederspannung",,,vnbdigital
-7466,MVV Netze GmbH,,https://www.mvv-netze.de/,68159,Mannheim,"Hochspannung,Mittelspannung,Niederspannung",,,vnbdigital
-7473,TWL Netze GmbH,,https://www.twl-netze.de/,67063,Ludwigshafen am Rhein,"Mittelspannung,Niederspannung",,,vnbdigital
+7421,Gemeindewerke Schwarzenbruck GmbH,,https://www.schwarzenbruck-gw.de,90537,Feucht,"Mittelspannung,Niederspannung",https://www.schwarzenbruck-gw.de/netze/stromnetz,2026-10-26,vnbdigital
+7466,MVV Netze GmbH,,https://www.mvv-netze.de/,68159,Mannheim,"Hochspannung,Mittelspannung,Niederspannung",https://www.mvv-netze.de/ich-beziehe-energie/netzentgelte/preisblatt-strom,2026-10-26,vnbdigital
+7473,TWL Netze GmbH,,https://www.twl-netze.de/,67063,Ludwigshafen am Rhein,"Mittelspannung,Niederspannung",https://www.twl-netze.de/fuer-marktpartner/netzzugang-strom/preisblatt,2026-10-26,vnbdigital
 7479,Stadtwerke Ludwigsburg-Kornwestheim GmbH,,https://www.swlb.de,71636,Ludwigsburg,"Mittelspannung,Niederspannung",,,vnbdigital
 7497,E-Werk Rohrdorf Josef Haimmerer,,,,,Niederspannung,,,vnbdigital
-7505,TWS Netz GmbH,,https://tws-netz.de,88212,Ravensburg,"Mittelspannung,Niederspannung",,,vnbdigital
-7509,Stadtwerke Bochum Netz GmbH,,https://www.stwbo-netz.de/,44787,Bochum,"Mittelspannung,Niederspannung",,,vnbdigital
+7505,TWS Netz GmbH,,https://tws-netz.de,88212,Ravensburg,"Mittelspannung,Niederspannung",https://tws-netz.de/de/Unsere-Netze/Veroeffentlichungspflichten/,2026-10-26,vnbdigital
+7509,Stadtwerke Bochum Netz GmbH,,https://www.stwbo-netz.de/,44787,Bochum,"Mittelspannung,Niederspannung",https://www.stwbo-netz.de/ihre-stadtwerke-netz/netz/infos-zum-netz-in-bochum,2026-10-26,vnbdigital
 7510,Energienetze Bayern GmbH,,https://www.energienetze-bayern.com/,93049,Regensburg,"Mittelspannung,Niederspannung",,,vnbdigital
-7529,KommEnergie GmbH,,https://www.kommenergie.de/,82223,Eichenau,"Mittelspannung,Niederspannung",,,vnbdigital
-7536,VersorgungsBetriebe Elbe GmbH,,https://www.versorgungsbetriebe-elbe.net,21481,Lauenburg / Elbe,"Niederspannung,Mittelspannung",,,vnbdigital
-7547,SWL Übertragungsnetzgesellschaft mbH,,https://netzinfo.swl-unser-stadtwerk.de/swl-uebertragungsnetzgesellschaft-mbh/,49525,Lengerich,Mittelspannung,,,vnbdigital
-7558,Energieversorgung Rüsselsheim GmbH,,https://www.swr-netze-ruesselsheim.de,65428,Rüsselsheim am Main,"Mittelspannung,Niederspannung",,,vnbdigital
+7529,KommEnergie GmbH,,https://www.kommenergie.de/,82223,Eichenau,"Mittelspannung,Niederspannung",https://www.kommenergie.de/netz/netzzugang/netzentgelte.html,2026-10-26,vnbdigital
+7536,VersorgungsBetriebe Elbe GmbH,,https://www.versorgungsbetriebe-elbe.net,21481,Lauenburg / Elbe,"Niederspannung,Mittelspannung",https://www.versorgungsbetriebe-elbe.net/netzzugang-und-entgelte-strom.html,2026-10-26,vnbdigital
+7547,SWL Übertragungsnetzgesellschaft mbH,,https://netzinfo.swl-unser-stadtwerk.de/swl-uebertragungsnetzgesellschaft-mbh/,49525,Lengerich,Mittelspannung,https://netzinfo.swl-unser-stadtwerk.de/swl-verteilungsnetzgesellschaft-mbh-swl-vng/stromnetz/netzzugang-entgelte/,2026-10-26,vnbdigital
+7558,Energieversorgung Rüsselsheim GmbH,,https://www.swr-netze-ruesselsheim.de,65428,Rüsselsheim am Main,"Mittelspannung,Niederspannung",https://www.swr-netze-ruesselsheim.de/de/Stromnetz/Veroeffentlichungspflichten/Netzzugang-Entgelte/,2026-10-26,vnbdigital
 7559,Regionalwerk Bodensee Netze GmbH & Co. KG,,https://www.rw-bodensee.de,88069,Tettnang,"Mittelspannung,Niederspannung",,,vnbdigital
-7563,Stadtwerke Springe GmbH,,https://www.stadtwerke-springe.de,31832,Springe,"Mittelspannung,Niederspannung",,,vnbdigital
-7581,Gemeindewerke Wadgassen GmbH,,https://gemeindewerke-wadgassen.de/,66787,Wadgassen,"Niederspannung,Mittelspannung",,,vnbdigital
-7584,Stadtwerke Prenzlau GmbH,,https://www.stadtwerke-prenzlau.de/,17291,Prenzlau,"Mittelspannung,Niederspannung",,,vnbdigital
+7563,Stadtwerke Springe GmbH,,https://www.stadtwerke-springe.de,31832,Springe,"Mittelspannung,Niederspannung",https://stadtwerke-springe.de/stromnetz/,2026-10-26,vnbdigital
+7581,Gemeindewerke Wadgassen GmbH,,https://gemeindewerke-wadgassen.de/,66787,Wadgassen,"Niederspannung,Mittelspannung",https://gemeindewerke-wadgassen.de/downloads/,2026-10-26,vnbdigital
+7584,Stadtwerke Prenzlau GmbH,,https://www.stadtwerke-prenzlau.de/,17291,Prenzlau,"Mittelspannung,Niederspannung",https://www.stadtwerke-prenzlau.de/netzzugang/strom,2026-10-26,vnbdigital
 7594,Stromnetzgesellschaft Herrenberg mbH & Co. KG,,http://www.stromnetz-herrenberg.de,71083,Herrenberg,"Mittelspannung,Niederspannung",,,vnbdigital
-7595,Osterholzer Stadtwerke GmbH & Co. KG,,https://www.osterholzer-stadtwerke.de,27711,Osterholz-Scharmbeck,"Mittelspannung,Niederspannung",,,vnbdigital
-7597,Verteilnetz Plauen GmbH,,https://www.plauen-netz.de/,06184,Kabelsketal,"Mittelspannung,Niederspannung",,,vnbdigital
+7595,Osterholzer Stadtwerke GmbH & Co. KG,,https://www.osterholzer-stadtwerke.de,27711,Osterholz-Scharmbeck,"Mittelspannung,Niederspannung",https://osterholzer-stadtwerke.de/marktpartner/stromnetz/netzzugang-entgelte/,2026-10-26,vnbdigital
+7597,Verteilnetz Plauen GmbH,,https://www.plauen-netz.de/,06184,Kabelsketal,"Mittelspannung,Niederspannung",https://www.plauen-netz.de/energie-beziehen/netznutzung/entgelte-f%C3%BCr-netznutzung,2026-10-26,vnbdigital
 7601,Energieversorgung Putzbrunn GmbH & Co. KG,,https://www.energieversorgung-putzbrunn.de,85640,Putzbrunn,"Mittelspannung,Niederspannung",,,vnbdigital
-7607,Stadtwerke Brunsbüttel GmbH,,https://www.stadtwerke-brunsbuettel.de,25541,Brunsbüttel,"Mittelspannung,Niederspannung",,,vnbdigital
-7615,Netze Hechingen GmbH & Co. KG,,https://www.netze-hechingen.de,72379,Hechingen,"Mittelspannung,Niederspannung",,,vnbdigital
-7632,Saerbecker Ver- und Entsorgungsnetzgesellschaft,,https://saerve-online.de/,48369,Saerbeck,"Niederspannung,Mittelspannung",,,vnbdigital
-7633,Stadtwerke Kaltenkirchen GmbH,,https://www.stadtwerke-kaltenkirchen.de,24568,Kaltenkirchen,"Mittelspannung,Niederspannung",,,vnbdigital
-7634,EnR Energienetze Rudolstadt GmbH,,https://www.energienetze-rudolstadt.de,07407,Rudolstadt,"Mittelspannung,Niederspannung",,,vnbdigital
+7607,Stadtwerke Brunsbüttel GmbH,,https://www.stadtwerke-brunsbuettel.de,25541,Brunsbüttel,"Mittelspannung,Niederspannung",https://netze.stadtwerke-brunsbuettel.de/netzentgelte-strom/,2026-10-26,vnbdigital
+7615,Netze Hechingen GmbH & Co. KG,,https://www.netze-hechingen.de,72379,Hechingen,"Mittelspannung,Niederspannung",https://www.netze-hechingen.de/stromanschluss/netznutzung/,2026-10-26,vnbdigital
+7632,Saerbecker Ver- und Entsorgungsnetzgesellschaft,,https://saerve-online.de/,48369,Saerbeck,"Niederspannung,Mittelspannung",https://saerve-online.de/netzdaten/stromnetz/netzzugang-entgelte/,2026-10-26,vnbdigital
+7633,Stadtwerke Kaltenkirchen GmbH,,https://www.stadtwerke-kaltenkirchen.de,24568,Kaltenkirchen,"Mittelspannung,Niederspannung",https://www.stadtwerke-kaltenkirchen.de/de/Kopfnavigation/Netz/Stromnetz2/Immer-unter-Strom.html,2026-10-26,vnbdigital
+7634,EnR Energienetze Rudolstadt GmbH,,https://www.energienetze-rudolstadt.de,07407,Rudolstadt,"Mittelspannung,Niederspannung",https://www.energienetze-rudolstadt.de/strom/netzentgelte/,2026-10-26,vnbdigital
 7637,SWE Netz GmbH (Ettlingen),,https://www.sw-ettlingen.de,76275,Ettlingen,"Mittelspannung,Niederspannung",,,vnbdigital
 7639,Stadtwerke Hettstedt GmbH,,https://www.stadtwerke-hettstedt-netz.de/,06333,Hettstedt,"Mittelspannung,Niederspannung",,,vnbdigital
 7643,Regionalnetze Linzgau GmbH,,https://www.regionalnetze-linzgau.de,88630,Pfullendorf,"Mittelspannung,Niederspannung",,,vnbdigital

@@ -1,14 +1,14 @@
 # Status der §14a-Preisdatenbank 2026
 
-Stand: 2026-10-26 14:12 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 14:23 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
-**554 von 754 VNB erfasst (73 %)**, 200 fehlen noch.
+**576 von 754 VNB erfasst (76 %)**, 178 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 544 |
-| vorlaeufig | 10 |
-| davon mit Modul-3-Zeitfenstern | 548 |
+| endgueltig | 565 |
+| vorlaeufig | 11 |
+| davon mit Modul-3-Zeitfenstern | 570 |
 
 ## Laufender Crawl
 
@@ -19,8 +19,8 @@ Tieferer Neu-Crawl der fehlenden VNB (bis 250 Seiten je Webseite): 190 von 192 f
 | Grund | Anzahl |
 |---|---:|
 | kein §14a-Preisblatt auf der Webseite gefunden | 109 |
-| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 46 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 37 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 39 |
+| §14a-PDF vorhanden, manuelle Prüfung offen | 22 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
 <details><summary>Liste der fehlenden VNB</summary>
@@ -142,27 +142,21 @@ Tieferer Neu-Crawl der fehlenden VNB (bis 250 Seiten je Webseite): 190 von 192 f
 - 44 Stadtwerke Bad Nauheim GmbH
 - 78 GRUPPEN-GAS- UND ELEKTRIZITÄTSWERK BERGSTRASSE AKTIENGESELLSCHAFT
 - 123 Stadtwerke Buxtehude GmbH
-- 126 SVO Netz GmbH
 - 141 Stadtwerke Dingolfing GmbH
 - 206 Stadtwerke Fürstenfeldbruck GmbH
 - 235 Elektrizitätswerk Goldbach-Hösbach GmbH & Co. KG
 - 248 Netzgesellschaft Gütersloh mbH
 - 257 Gemeindewerke Halstenbek
 - 261 Stadtwerke Hameln Weserbergland GmbH
-- 275 Stadtwerke Heide GmbH
 - 277 Stadtwerke Heidelberg Netze GmbH
 - 341 Fürstl. Fugger-Glött'sches Elektrizitätswerk
 - 371 Stadtwerke Landshut
 - 387 EVL Energieversorgung Limburg GmbH
-- 431 Stadtwerke Mühlacker GmbH
-- 450 eneREGIO GmbH
 - 463 SWN Stadtwerke Neustadt GmbH
 - 471 Stadtwerke Norden
 - 476 Stadtwerke Nortorf AöR
 - 510 Stadtwerke Passau GmbH
 - 522 Stadtwerke Quickborn GmbH
-- 526 Stadtwerke Rastatt GmbH
-- 554 Stadtwerke Rotenburg (Wümme) GmbH
 - 636 Energieversorgung Trossingen GmbH
 - 649 Stadtwerke Uslar GmbH
 - 666 Stadtwerke Walldürn GmbH
@@ -180,7 +174,6 @@ Tieferer Neu-Crawl der fehlenden VNB (bis 250 Seiten je Webseite): 190 von 192 f
 - 7117 Stadtwerke Waldkirch GmbH
 - 7146 Gemeindewerke Wildeck
 - 7183 Stadtwerke Munster-Bispingen GmbH
-- 7187 Stadtwerke Lingen GmbH
 - 7594 Stromnetzgesellschaft Herrenberg mbH & Co. KG
 - 7658 Leitungspartner GmbH
 - 7667 WerraEnergie GmbH
@@ -188,37 +181,22 @@ Tieferer Neu-Crawl der fehlenden VNB (bis 250 Seiten je Webseite): 190 von 192 f
 
 **§14a-PDF vorhanden, manuelle Prüfung offen**
 
-- 38 Bad Honnef AG
 - 55 Stadtwerke Bad Salzuflen GmbH
-- 102 Braunschweiger Netz GmbH
 - 131 Stadtwerke Crailsheim GmbH
-- 180 Stadtwerke Eschwege GmbH
-- 202 ovag Netz GmbH
-- 210 Stadtwerke Furth im Wald GmbH & Co. KG
-- 216 Gemeindewerke Garmisch-Partenkirchen
-- 256 E-Werke Haniel Haimhausen GmbH & Co. KG.
 - 323 GSW Gemeinschaftsstadtwerke GmbH Kamen - Bönen - Bergkamen
 - 355 Stadtwerke Konstanz GmbH
 - 367 Stadtwerke Lambrecht (Pfalz) GmbH
-- 531 Regensburg Netz GmbH
-- 572 Stadtwerke Scheinfeld
 - 577 Stadtwerke Schneverdingen-Neuenkirchen GmbH
-- 593 Energieversorgung Selb-Marktredwitz GmbH
 - 619 Stromversorgung Sulz am Neckar GmbH
-- 675 Stadtwerke Weißenburg GmbH
 - 704 SWW Wunsiedel GmbH
 - 706 Stadtwerke Zeil am Main
 - 709 Stadtwerke Zweibrücken GmbH
 - 765 Feuchter Gemeindewerke GmbH
 - 772 Stadtwerke Ludwigsfelde GmbH
-- 942 Stadtwerke Sangerhausen GmbH
 - 956 Stadtwerke Lippstadt GmbH
-- 967 Städtische Betriebswerke Luckenwalde GmbH
 - 983 Stadtwerke Glauchau Dienstleistungsgesellschaft
 - 7075 Gemeindewerke Großkrotzenburg GmbH
 - 7116 Versorgungsbetrieb Waldbüttelbrunn GmbH
-- 7160 Gemeindewerke Enkenbach-Alsenborn
-- 7190 Elektrizitätswerke Schönau Netze GmbH
 - 7306 Havelstrom Zehdenick GmbH
 - 7313 Stadtwerke Wolmirstedt GmbH
 - 7356 Stadtwerke Emmendingen GmbH

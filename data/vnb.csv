@@ -323,52 +323,52 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 580,Gemeindewerke Schutterwald,,https://www.gemeindewerke-schutterwald.de,77746,Schutterwald,"Mittelspannung,Niederspannung",https://www.gemeindewerke-schutterwald.de/de/netzbetrieb/netzentgelte,2026-10-26,vnbdigital
 581,Stadtwerke Schwabach GmbH,,https://www.stadtwerke-schwabach.de,91126,Schwabach,"Mittelspannung,Niederspannung",https://www.stadtwerke-schwabach.de/Top-Menue/Netze/,2026-10-26,vnbdigital
 582,Stadtwerke Schwäbisch Gmünd GmbH,,https://www.stwgd-netze.de,73525,Schwäbisch Gmünd,"Mittelspannung,Niederspannung",https://www.stwgd-netze.de/netzentgelte-strom.html,2026-10-26,vnbdigital
-584,Elektrizitätswerk Schweiger oHG,,https://www.ew-schweiger.de,85445,Schwaig,"Mittelspannung,Niederspannung",,,vnbdigital
-585,Cramer-Mühle GmbH & Co. KG,,https://www.cramermuehle.de,97424,Schweinfurt,"Niederspannung,Mittelspannung",,,vnbdigital
-586,Stadtwerke Schweinfurt GmbH,,https://www.stadtwerke-sw.de/,97421,Schweinfurt,"Mittelspannung,Niederspannung",,,vnbdigital
-588,Gebrüder Miller GmbH & Co. KG,,https://www.gebrueder-miller.de,88477,Schwendi,"Mittelspannung,Niederspannung",,,vnbdigital
-591,Stromversorgung Seebruck eG,,https://www.chiemsee-strom.de,83358,Seebruck,Niederspannung,,,vnbdigital
+584,Elektrizitätswerk Schweiger oHG,,https://www.ew-schweiger.de,85445,Schwaig,"Mittelspannung,Niederspannung",https://www.ew-schweiger.de/index.php/netz,2026-10-26,vnbdigital
+585,Cramer-Mühle GmbH & Co. KG,,https://www.cramermuehle.de,97424,Schweinfurt,"Niederspannung,Mittelspannung",https://www.cramermuehle.de/strom/stromtarife-und-informationen,2026-10-26,vnbdigital
+586,Stadtwerke Schweinfurt GmbH,,https://www.stadtwerke-sw.de/,97421,Schweinfurt,"Mittelspannung,Niederspannung",https://www.stadtwerke-sw.de/netze/stromnetz,2026-10-26,vnbdigital
+588,Gebrüder Miller GmbH & Co. KG,,https://www.gebrueder-miller.de,88477,Schwendi,"Mittelspannung,Niederspannung",https://www.gebrueder-miller.de/fuer-marktpartner.html,2026-10-26,vnbdigital
+591,Stromversorgung Seebruck eG,,https://www.chiemsee-strom.de,83358,Seebruck,Niederspannung,https://chiemsee-strom.de/netznutzung/,2026-10-26,vnbdigital
 593,Energieversorgung Selb-Marktredwitz GmbH,,https://www.esm-selb.de,95100,Selb,"Mittelspannung,Niederspannung",,,vnbdigital
 594,Elektrizitätsgenossenschaft Vogling & Angrenzer eG,,https://www.eva-siegsdorf.de,83313,Siegsdorf,"Mittelspannung,Niederspannung",,,vnbdigital
-596,Elektrizitäts-Genossenschaft Schlachters eG,,https://eg-schlachters.de/downloads/,88138,Sigmarszell,"Mittelspannung,Niederspannung",,,vnbdigital
-597,Elektrizitätswerk Simbach GmbH,,https://www.e-werk-simbach.de,84359,Simbach am Inn,"Mittelspannung,Niederspannung",,,vnbdigital
+596,Elektrizitäts-Genossenschaft Schlachters eG,,https://eg-schlachters.de/downloads/,88138,Sigmarszell,"Mittelspannung,Niederspannung",https://eg-schlachters.de/downloads/,2026-10-26,vnbdigital
+597,Elektrizitätswerk Simbach GmbH,,https://www.e-werk-simbach.de,84359,Simbach am Inn,"Mittelspannung,Niederspannung",https://www.e-werk-simbach.de/veroeffentlichungen,2026-10-26,vnbdigital
 599,Thüga Energienetze GmbH,,https://www.thuega-netze.de,67105,Schifferstadt,"Hochspannung,Mittelspannung,Niederspannung",https://www.thuega-netze.de/marktpartner/,2026-10-26,vnbdigital
-601,GWS Gemeindewerke Sinzheim GmbH & Co. KG,,https://www.gw-sinzheim.de,76547,Sinzheim,"Mittelspannung,Niederspannung",,,vnbdigital
+601,GWS Gemeindewerke Sinzheim GmbH & Co. KG,,https://www.gw-sinzheim.de,76547,Sinzheim,"Mittelspannung,Niederspannung",https://www.gw-sinzheim.de/netze/stromnetz/,2026-10-26,vnbdigital
 602,Stadtwerke Soest GmbH,,https://stadtwerke-soest.de,59494,Soest,"Mittelspannung,Niederspannung",,,vnbdigital
-603,SWS Netze Solingen GmbH,,https://www.netze-solingen.de,42655,Solingen,"Mittelspannung,Niederspannung",,,vnbdigital
-604,Stadtwerke Soltau GmbH & Co. KG,,https://www.sw-soltau.de/,29614,Soltau,"Mittelspannung,Niederspannung",,,vnbdigital
-607,Stadtwerke Speyer GmbH,,https://www.stadtwerke-speyer.de,67346,Speyer,"Mittelspannung,Niederspannung",,,vnbdigital
-608,Stadtwerke Stade GmbH,,https://www.stadtwerke-stade.de,21682,Stade,"Mittelspannung,Niederspannung",,,vnbdigital
-609,Kommunalunternehmen Gemeindewerke Stammbach AöR,,https://www.gemeindewerke-stammbach.de,95236,Stammbach,"Mittelspannung,Niederspannung",,,vnbdigital
-610,Stadtwerke Stein GmbH & Co. KG,,https://www.stst.de,90547,Stein,"Mittelspannung,Niederspannung",,,vnbdigital
-613,Stadtwerke Stockach GmbH,,https://www.stadtwerke-stockach.de/startseite.html,78333,Stockach,"Mittelspannung,Niederspannung",,,vnbdigital
+603,SWS Netze Solingen GmbH,,https://www.netze-solingen.de,42655,Solingen,"Mittelspannung,Niederspannung",https://www.netze-solingen.de/marktpartner/veroeffentlichungspflichten-strom/netzentgelte,2026-10-26,vnbdigital
+604,Stadtwerke Soltau GmbH & Co. KG,,https://www.sw-soltau.de/,29614,Soltau,"Mittelspannung,Niederspannung",https://www.sw-soltau.de/netze/stromnetz/preisblaetter,2026-10-26,vnbdigital
+607,Stadtwerke Speyer GmbH,,https://www.stadtwerke-speyer.de,67346,Speyer,"Mittelspannung,Niederspannung",https://www.stadtwerke-speyer.de/preisliste-stromnetz,2026-10-26,vnbdigital
+608,Stadtwerke Stade GmbH,,https://www.stadtwerke-stade.de,21682,Stade,"Mittelspannung,Niederspannung",https://www.stadtwerke-stade.de/netzinformationen/netzentgelte,2026-10-26,vnbdigital
+609,Kommunalunternehmen Gemeindewerke Stammbach AöR,,https://www.gemeindewerke-stammbach.de,95236,Stammbach,"Mittelspannung,Niederspannung",https://www.gemeindewerke-stammbach.de/strom/strom-netz,2026-10-26,vnbdigital
+610,Stadtwerke Stein GmbH & Co. KG,,https://www.stst.de,90547,Stein,"Mittelspannung,Niederspannung",https://www.stst.de/service/14a-enwg/,2026-10-26,vnbdigital
+613,Stadtwerke Stockach GmbH,,https://www.stadtwerke-stockach.de/startseite.html,78333,Stockach,"Mittelspannung,Niederspannung",https://www.stadtwerke-stockach.de/netze/stromnetz/,2026-10-26,vnbdigital
 615,Stadtwerke Straubing Strom und Gas GmbH,,https://www.stadtwerke-straubing.com/,94315,Straubing,"Mittelspannung,Niederspannung",,,vnbdigital
 619,Stromversorgung Sulz am Neckar GmbH,,https://www.stromversorgung-sulz.de,72172,Sulz a.N.,"Mittelspannung,Niederspannung",,,vnbdigital
-620,Stadtwerke Sulzbach/Saar GmbH,,http://www.stadtwerke-sulzbach.de,66280,Sulzbach,"Mittelspannung,Niederspannung",,,vnbdigital
-623,Müller Mühle GmbH & Co. KG Elektrizitätswerk Tauberrettersheim,,https://www.mueller-muehle.de,97285,Tauberrettersheim,"Mittelspannung,Niederspannung",,,vnbdigital
-624,Elektrizitätswerk Tegernsee Carl Miller KG,,https://www.ewerk-tegernsee-netz.de,83684,Tegernsee,"Mittelspannung,Niederspannung",,,vnbdigital
-625,Stadtwerke Tirschenreuth,,https://www.stadtwerke-tir.de,95643,Tirschenreuth,"Mittelspannung,Niederspannung",,,vnbdigital
-629,strotög GmbH Strom aus Töging,,https://www.strotoeg.net,84513,Töging a. Inn,"Mittelspannung,Niederspannung",,,vnbdigital
-631,Stadtwerke Traunstein GmbH & Co. KG,,https://www.sw-traunstein.de/,83278,Traunstein,"Mittelspannung,Niederspannung",,,vnbdigital
-632,Elektrizitätsgenossenschaft Wolkersdorf und Umgebung eG,,https://www.eg-wolkersdorf.de,83278,Traunstein,"Mittelspannung,Niederspannung",,,vnbdigital
-633,Stadtwerke Treuchtlingen,,https://www.sw-trl.de,91757,Treuchtlingen,"Mittelspannung,Niederspannung",,,vnbdigital
-634,EGT Energie GmbH,,https://www.egt-energie.de/,78098,Triberg,"Mittelspannung,Niederspannung",,,vnbdigital
+620,Stadtwerke Sulzbach/Saar GmbH,,http://www.stadtwerke-sulzbach.de,66280,Sulzbach,"Mittelspannung,Niederspannung",https://www.stadtwerke-sulzbach.de/simplecontentpage/11,2026-10-26,vnbdigital
+623,Müller Mühle GmbH & Co. KG Elektrizitätswerk Tauberrettersheim,,https://www.mueller-muehle.de,97285,Tauberrettersheim,"Mittelspannung,Niederspannung",https://www.mueller-muehle.de/netzentgeld.html,2026-10-26,vnbdigital
+624,Elektrizitätswerk Tegernsee Carl Miller KG,,https://www.ewerk-tegernsee-netz.de,83684,Tegernsee,"Mittelspannung,Niederspannung",https://ewerk-tegernsee-netz.de/netzbetrieb/netznutzung/,2026-10-26,vnbdigital
+625,Stadtwerke Tirschenreuth,,https://www.stadtwerke-tir.de,95643,Tirschenreuth,"Mittelspannung,Niederspannung",https://www.stadtwerke-tir.de/strom/veroeffentlichungen,2026-10-26,vnbdigital
+629,strotög GmbH Strom aus Töging,,https://www.strotoeg.net,84513,Töging a. Inn,"Mittelspannung,Niederspannung",https://www.strotoeg.net/netz/netzentgelte/,2026-10-26,vnbdigital
+631,Stadtwerke Traunstein GmbH & Co. KG,,https://www.sw-traunstein.de/,83278,Traunstein,"Mittelspannung,Niederspannung",https://www.sw-traunstein.de/info-service/veroeffentlichungen/bereich-netz,2026-10-26,vnbdigital
+632,Elektrizitätsgenossenschaft Wolkersdorf und Umgebung eG,,https://www.eg-wolkersdorf.de,83278,Traunstein,"Mittelspannung,Niederspannung",https://www.eg-wolkersdorf.de/downloads/,2026-10-26,vnbdigital
+633,Stadtwerke Treuchtlingen,,https://www.sw-trl.de,91757,Treuchtlingen,"Mittelspannung,Niederspannung",https://www.sw-trl.de/stromnetz/,2026-10-26,vnbdigital
+634,EGT Energie GmbH,,https://www.egt-energie.de/,78098,Triberg,"Mittelspannung,Niederspannung",https://www.egt-energie.de/veroeffentlichungspflichten,2026-10-26,vnbdigital
 635,SWT Stadtwerke Trier Versorgungs-GmbH,,https://www.swt.de,54290,Trier,"Mittelspannung,Hochspannung,Niederspannung",,,vnbdigital
 636,Energieversorgung Trossingen GmbH,,https://www.swtro.de,78073,Trossingen,"Mittelspannung,Niederspannung",,,vnbdigital
-638,Stadtwerke Trostberg Stromversorgung GmbH,,https://www.stadtwerke-trostberg.de,83308,Trostberg,"Mittelspannung,Niederspannung",,,vnbdigital
-640,Stadtwerke Tübingen GmbH,,https://www.swtue.de,72072,Tübingen,"Mittelspannung,Niederspannung,Hochspannung",,,vnbdigital
-642,Stadtwerke Tuttlingen GmbH,,https://www.swtenergie.de,78532,Tuttlingen,"Mittelspannung,Niederspannung",,,vnbdigital
+638,Stadtwerke Trostberg Stromversorgung GmbH,,https://www.stadtwerke-trostberg.de,83308,Trostberg,"Mittelspannung,Niederspannung",https://stadtwerke-trostberg.de/strom/strom-netz/,2026-10-26,vnbdigital
+640,Stadtwerke Tübingen GmbH,,https://www.swtue.de,72072,Tübingen,"Mittelspannung,Niederspannung,Hochspannung",https://www.swtue.de/netze/netznutzung/netznutzungsentgelte.html,2026-10-26,vnbdigital
+642,Stadtwerke Tuttlingen GmbH,,https://www.swtenergie.de,78532,Tuttlingen,"Mittelspannung,Niederspannung",https://www.swtenergie.de/de/Netze/Strom/Steuerbare-Verbrauchseinrichtungen/Steuerbare-Verbrauchseinrichtungen.html,2026-10-26,vnbdigital
 644,Stadtwerke Uelzen GmbH,,https://www.stadtwerke-uelzen.de/,29525,Uelzen,"Mittelspannung,Niederspannung",,,vnbdigital
-645,Stadtwerke Ulm/Neu-Ulm Netze GmbH,,https://www.ulm-netze.de/,89073,Ulm,"Hochspannung,Mittelspannung,Niederspannung",,,vnbdigital
+645,Stadtwerke Ulm/Neu-Ulm Netze GmbH,,https://www.ulm-netze.de/,89073,Ulm,"Hochspannung,Mittelspannung,Niederspannung",https://www.ulm-netze.de/,2026-10-26,vnbdigital
 646,Stadtwerke Unna GmbH,,https://www.sw-unna.de,59423,Unna,"Mittelspannung,Niederspannung",,,vnbdigital
-648,Elektrizitätswerk Unterwössen Döllerer & Greimel,,https://ew-unterwoessen.de/,83246,Unterwössen,"Niederspannung,Mittelspannung",,,vnbdigital
+648,Elektrizitätswerk Unterwössen Döllerer & Greimel,,https://ew-unterwoessen.de/,83246,Unterwössen,"Niederspannung,Mittelspannung",https://ew-unterwoessen.de/netz/veroeffentlichungen,2026-10-26,vnbdigital
 649,Stadtwerke Uslar GmbH,,https://stadtwerke-uslar.de,37170,Uslar,"Mittelspannung,Niederspannung",,,vnbdigital
-651,Stadtwerke Velbert GmbH,,https://www.stadtwerke-velbert.de/,42549,Velbert,"Mittelspannung,Niederspannung",,,vnbdigital
-652,Stadtwerke Verden GmbH,,https://www.stadtwerke-verden.de,27283,Verden,"Mittelspannung,Niederspannung",,,vnbdigital
-654,Stadtwerke Viernheim Netz GmbH,,https://www.swv-netz.de/,68519,Viernheim,"Mittelspannung,Niederspannung",,,vnbdigital
-656,Stadtwerke Villingen-Schwenningen GmbH,,https://www.svs-energie.de/netze,78048,Villingen-Schwenningen,"Mittelspannung,Niederspannung",,,vnbdigital
-657,Stadtwerke Vilsbiburg,,https://www.stw-vilsbiburg.de/,84137,Vilsbiburg,"Niederspannung,Mittelspannung",,,vnbdigital
-658,Stadtwerke Vilshofen GmbH,,https://www.stadtwerke-vilshofen.de,94474,Vilshofen a. d. Donau,"Mittelspannung,Niederspannung",,,vnbdigital
+651,Stadtwerke Velbert GmbH,,https://www.stadtwerke-velbert.de/,42549,Velbert,"Mittelspannung,Niederspannung",https://www.stadtwerke-velbert.de/netze/infrastruktur/nutzungsentgelte,2026-10-26,vnbdigital
+652,Stadtwerke Verden GmbH,,https://www.stadtwerke-verden.de,27283,Verden,"Mittelspannung,Niederspannung",https://www.stadtwerke-verden.de/netze/stromnetz/netzzugang/netzentgelte-strom.html,2026-10-26,vnbdigital
+654,Stadtwerke Viernheim Netz GmbH,,https://www.swv-netz.de/,68519,Viernheim,"Mittelspannung,Niederspannung",https://www.swv-netz.de/index.php?id1=8&id2=10,2026-10-26,vnbdigital
+656,Stadtwerke Villingen-Schwenningen GmbH,,https://www.svs-energie.de/netze,78048,Villingen-Schwenningen,"Mittelspannung,Niederspannung",https://www.svs-energie.de/netze/veroeffentlichungspflichten/,2026-10-26,vnbdigital
+657,Stadtwerke Vilsbiburg,,https://www.stw-vilsbiburg.de/,84137,Vilsbiburg,"Niederspannung,Mittelspannung",https://www.stw-vilsbiburg.de/strom_netzentgelte.aspx,2026-10-26,vnbdigital
+658,Stadtwerke Vilshofen GmbH,,https://www.stadtwerke-vilshofen.de,94474,Vilshofen a. d. Donau,"Mittelspannung,Niederspannung",https://www.stadtwerke-vilshofen.de/netze/stromnetz/netzentgelte/,2026-10-26,vnbdigital
 659,Stadtwerke Völklingen Netz GmbH,,https://www.swvk-netz.de,66333,Völklingen,"Mittelspannung,Niederspannung",,,vnbdigital
 662,Stadtwerke Waiblingen GmbH,,https://www.stadtwerke-waiblingen.de,71332,Waiblingen,"Mittelspannung,Niederspannung",,,vnbdigital
 664,Stadtwerke Waldmünchen,,https://stadtwerke-waldmuenchen.de/,93449,Waldmünchen,"Mittelspannung,Niederspannung",,,vnbdigital

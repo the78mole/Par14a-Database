@@ -24,12 +24,19 @@ for zeile in sys.stdin:
             v[k] = None if kv[k_kurz] == "-" else float(kv[k_kurz])
     hinweise = [hinweis.strip()] if hinweis.strip() else []
     q = kv.get("q")
-    if q is None:
+    if q is None and any("[" in k for k in kv):
+        q = "0"
+    elif q is None:
         q = "1,2,3,4"
         hinweise.append("Zeitfenster ohne Quartalsangabe, als ganzjährig erfasst")
     fenster = {}
     if q != "0" and ("HT" in kv or "NT" in kv):
         fenster[q] = {s: kv[s].split(",") for s in ("HT", "NT") if s in kv}
+    # abweichende Quartale je Stufe: HT[1,4]=15:00-22:00 NT[1,2,3,4]=00:00-08:30
+    for k, w in kv.items():
+        m = re.fullmatch(r"(HT|NT)\[([\d,]+)\]", k)
+        if m:
+            fenster.setdefault(m.group(2), {})[m.group(1)] = w.split(",")
     m2_ok = v.get("m2_ap") is not None and abs(v["m2_ap"] - 0.4 * v["std_ap"]) <= 0.011
     if not m2_ok and "m2" not in kv:
         hinweise.append("M2 nicht als 40 % des AP bestätigt")

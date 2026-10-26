@@ -1,13 +1,13 @@
 # Offene VNB 2026
 
-Für diese 26 VNB ist bisher kein §14a-Preisblatt 2026 erfasst (Stand 26.10.2026, 728 von 754 erfasst).
+Für diese 25 VNB ist bisher kein §14a-Preisblatt 2026 erfasst (Stand 26.10.2026, 729 von 754 erfasst).
 
 Am 26.10.2026 wurde für jeden VNB geprüft, ob er den Netzbetrieb an einen anderen (größeren)
 Netzbetreiber übergeben hat. Geprüft wurden die eigene Webseite (Netz-Seiten, Selbstbezeichnung
 als Netzbetreiber, Störungsnummer Strom), vnbdigital.de (Niederspannungsbetreiber am Ort,
 `vnb_coordinates`) und Presse/Gemeindeseiten. Ergebnis: **2 Übergaben bestätigt** (Stockstadt an
 Syna, Wildeck an EAM). Bei Aalen (4) und Hann. Münden (270) waren die Preisblätter doch
-auffindbar; beide sind inzwischen erfasst und stehen nicht mehr in dieser Liste. Bad Herrenalb (35), Emden (170) und Fürstenfeldbruck (206) haben ihre Blätter 2026 inzwischen veröffentlicht und sind ebenfalls erfasst. Alle übrigen betreiben ihr Netz nach allen Quellen weiterhin selbst. Bis auf VSE Verteilnetz (562) haben alle Endkunden in der Niederspannung, siehe unten.
+auffindbar; beide sind inzwischen erfasst und stehen nicht mehr in dieser Liste. Bad Herrenalb (35), Emden (170) und Fürstenfeldbruck (206) haben ihre Blätter 2026 inzwischen veröffentlicht und sind ebenfalls erfasst, ebenso Westenthanner (144), dessen Entgelte als HTML-Tabelle auf der Netzzugangsseite stehen. Alle übrigen betreiben ihr Netz nach allen Quellen weiterhin selbst. Bis auf VSE Verteilnetz (562) haben alle Endkunden in der Niederspannung, siehe unten.
 
 ## Netz übergeben, Nachfolger deckt das Gebiet ab
 
@@ -28,7 +28,6 @@ Keine Übergabe gefunden. Spalte „Netzbetrieb“ nennt den Beleg, dass der VNB
 | VNB-ID | Netzbetreiber | Grund | Netzbetrieb |
 |---|---|---|---|
 | 114 | Stadtwerke Buchen GmbH & Co KG | unter Downloads nur die TAB | eigene Seiten Netze/Strom, Netzanschluss; vnbdigital |
-| 144 | Westenthanner Energieversorgung GmbH | Entgelte 2026 mit Modul 1–3 und Zeitfenstern stehen als HTML-Tabelle auf [ew-westenthanner.de/netzzugang](https://ew-westenthanner.de/netzzugang/) (kein PDF), Übernahme in die Daten offen | nennt sich „Energieversorger und Netzbetreiber“ (Schwindegg); vnbdigital Schwindegg |
 | 186 | Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG | Website ohne Netzseite (jetzt HTTP 403) | vnbdigital; keine Meldung über Übergabe |
 | 223 | Energieversorgung Gemünden GmbH | alle Netz-Unterseiten liefern 404 | Netz-Menü auf der Startseite; vnbdigital |
 | 245 | Stadtwerke Groß-Gerau Versorgungs GmbH | Website im Wartungsmodus | vnbdigital; seit 2018 Kooperation mit dem Überlandwerk Groß-Gerau beim Netzbetrieb ([energate](https://www.energate-messenger.com/news/180277/network-cooperation-in-gross-gerau)), keine Übergabe belegt |
@@ -64,7 +63,6 @@ Niederspannung und müssten ein §14a-Blatt veröffentlichen.
 | VNB-ID | Netzbetreiber | Beleg für Endkunden in der Niederspannung |
 |---|---|---|
 | 114 | Stadtwerke Buchen | Netzanschluss-Seiten für Hausanschluss, Balkonkraftwerk und Ladestation; Grundversorgung Strom |
-| 144 | Westenthanner Energieversorgung | NS-Entgelte ohne Leistungsmessung 2026 (GP 25 €/a) und §14a-Module auf der Netzzugangsseite |
 | 186 | EWG Vagen | betreibt laut vnbdigital nur Niederspannung; Grundversorger am Ort |
 | 223 | Energieversorgung Gemünden | Grundversorger am Ort; Netzseiten zu §14a, Netzanschluss und Einspeisung |
 | 245 | Stadtwerke Groß-Gerau Versorgungs GmbH | in der [Netzentgeltstatistik der Regulierungskammer Hessen](https://regulierungskammer.hessen.de/sites/regulierungskammer.hessen.de/files/2024-03/rkh_-_netzentgeltstatistik_strom_-_stand_01.01.2024.pdf) (Stand 01.01.2025, Kunden ohne Leistungsmessung, 3.500 kWh) geführt |

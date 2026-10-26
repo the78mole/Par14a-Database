@@ -60,7 +60,7 @@ def bereiche(pdf, bildseiten, ocr=None):
 
 def render(pdf, n, y0, y1, h, fx0, fx1):
     with tempfile.TemporaryDirectory() as d:
-        subprocess.run(["pdftoppm", "-r", str(DPI), "-gray", "-f", str(n), "-l", str(n), "-png", "-singlefile", str(pdf), f"{d}/p"], check=True)
+        subprocess.run(["pdftoppm", "-r", str(DPI), "-f", str(n), "-l", str(n), "-png", "-singlefile", str(pdf), f"{d}/p"], check=True)
         im = Image.open(f"{d}/p.png")
         im.load()
     s = im.height / h
@@ -81,9 +81,9 @@ def main():
         vorl = "VORL? " if re.search(r"vorläufig|voraussichtlich", txt, re.I) else ""
         label = f"{vorl}{gab.group(1) if gab else ''} [{vid}] AP {v['std_ap']} M1 {v['m1']} M2 {v.get('m2_ap')} HT {v.get('ht')} NT {v.get('nt')} GP {v.get('std_gp')}"
         crops = [render(pdf, *b) for b in bereiche(pdf, set(p.get("bildseiten", [])), CACHE / "text" / f"{v['sha']}.ocr.txt")][:2]
-        kopf = Image.new("L", (1000, 30), 255)
+        kopf = Image.new("RGB", (1000, 30), "white")
         ImageDraw.Draw(kopf).text((5, 4), label, fill=0, font=font)
-        teile += [kopf] + crops + [Image.new("L", (1000, 6), 0)]
+        teile += [kopf] + crops + [Image.new("RGB", (1000, 6), "black")]
     # in Bilder von höchstens ~1700 px Höhe aufteilen (bleiben beim Ansehen lesbar)
     seiten, akt = [], []
     for t in teile:
@@ -98,7 +98,7 @@ def main():
         akt.append(t)
     seiten.append(akt)
     for i, s in enumerate(seiten, 1):
-        bild = Image.new("L", (max(t.width for t in s), sum(t.height for t in s)), 255)
+        bild = Image.new("RGB", (max(t.width for t in s), sum(t.height for t in s)), "white")
         y = 0
         for t in s:
             bild.paste(t, (0, y))

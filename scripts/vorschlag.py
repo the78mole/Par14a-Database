@@ -48,7 +48,7 @@ def kandidaten(vid, jahr):
             continue
         name = up_name = re.sub(r"\.pdf.*", "", u.rsplit("/", 1)[-1]).lower()
         andere = any(str(y) in name for y in range(2018, 2031) if y != jahr)
-        sc = (4 if str(jahr) in name else 0) + (2 if jahr in p.get("jahre", []) else 0) - (3 if andere and str(jahr) not in name else 0)
+        sc = (4 if str(jahr) in name or re.search(rf"(?:ne|pb){jahr % 100:02d}(?!\d)", name) else 0) + (2 if jahr in p.get("jahre", []) else 0) - (3 if andere and str(jahr) not in name else 0)
         sc += 2 if p.get("seiten_14a") else 0
         sc -= 3 if re.search(r"agb|bedingung|tab_|schulung|messkonzept|faq|vereinbarung|anmeldung|formular|datenblatt", name) else 0
         out.append((sc, u, p))
@@ -134,7 +134,8 @@ if __name__ == "__main__":
         treffer = None
         for sc, u, p in cands[:8]:
             name = u.rsplit("/", 1)[-1]
-            if any(str(y) in name or f"0101{y % 100:02d}" in name for y in range(jahr + 1, 2031)):
+            if any(str(y) in name or f"0101{y % 100:02d}" in name or re.search(rf"(?:NE|PB|vorl[a-z]*){y % 100:02d}(?!\d)", name, re.I)
+                   for y in range(jahr + 1, 2031)):
                 continue
             if sc < 0 or (re.search(r"20(2[0-9]|3[0-9])", name) and str(jahr) not in name
                           and not re.search(rf"{jahr % 100:02d}0101|0101{jahr % 100:02d}", name)):

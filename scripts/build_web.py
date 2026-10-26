@@ -1,4 +1,4 @@
-"""Baut die Webseite nach dist/web: web/* plus daten/<jahr>.json und daten/jahre.json aus data/."""
+"""Baut die Webseite nach dist/web: web/* plus daten/<jahr>.json, daten/jahre.json und daten/badge.json aus data/."""
 import csv, json, shutil, sys
 from pathlib import Path
 
@@ -47,6 +47,12 @@ def main(ziel):
                                                   encoding="utf-8")
         print(f"{j}.json: {sum('pb' in e for e in daten)} von {len(daten)} VNB mit Preisblatt")
     (ziel / "daten" / "jahre.json").write_text(json.dumps(jahre), encoding="utf-8")
+    # shields.io-Endpoint für das README-Badge, aktuellstes Jahr
+    daten = json.loads((ziel / "daten" / f"{jahre[0]}.json").read_text(encoding="utf-8"))
+    n = sum("pb" in e for e in daten)
+    (ziel / "daten" / "badge.json").write_text(json.dumps(
+        {"schemaVersion": 1, "label": f"VNB erfasst {jahre[0]}", "message": f"{n} / {len(daten)}",
+         "color": "brightgreen" if n == len(daten) else "blue"}, ensure_ascii=False), encoding="utf-8")
 
 
 if __name__ == "__main__":

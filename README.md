@@ -1,5 +1,12 @@
 # Par14a-Database
 
+[![Webseite](https://github.com/the78mole/Par14a-Database/actions/workflows/pages.yml/badge.svg)](https://the78mole.github.io/Par14a-Database/)
+[![Datenbanken](https://github.com/the78mole/Par14a-Database/actions/workflows/release.yml/badge.svg)](https://github.com/the78mole/Par14a-Database/actions/workflows/release.yml)
+[![Release](https://img.shields.io/github/v/release/the78mole/Par14a-Database?label=SQLite)](https://github.com/the78mole/Par14a-Database/releases/latest)
+[![Erfasst](https://img.shields.io/endpoint?url=https://the78mole.github.io/Par14a-Database/daten/badge.json)](STATUS.md)
+[![Letzte Änderung](https://img.shields.io/github/last-commit/the78mole/Par14a-Database?label=letzte%20%C3%84nderung)](https://github.com/the78mole/Par14a-Database/commits/main)
+[![Online abfragen](https://img.shields.io/badge/online-abfragen-2457a6)](https://the78mole.github.io/Par14a-Database/)
+
 Aktueller Fortschritt der Erfassung: [STATUS.md](STATUS.md)
 
 Datenbank der §14a-EnWG-Netzentgelte (Modul 1, 2, 3) für steuerbare Verbrauchseinrichtungen aller deutschen Verteilnetzbetreiber, je Jahr als SQLite-Release.
@@ -9,6 +16,8 @@ Datenbank der §14a-EnWG-Netzentgelte (Modul 1, 2, 3) für steuerbare Verbrauchs
 Die fertigen Datenbanken liegen in den Releases, je Jahr ein Release `daten-<jahr>` mit `par14a_<jahr>.sqlite`. Sie werden bei jeder Änderung in `data/` automatisch neu gebaut.
 
 ## Webseite
+
+Online: **https://the78mole.github.io/Par14a-Database/**
 
 Unter `web/` liegt eine kleine statische Abfrageseite (Suche nach Netzbetreiber, PLZ oder Ort, Jahr wählbar, Modul 1/2/3 mit Zeitfenstern und Links aufs Preisblatt). Sie wird bei jeder Änderung in `data/` per GitHub Actions auf GitHub Pages veröffentlicht (Einstellung *Settings → Pages → Source: GitHub Actions*). Lokal ansehen:
 

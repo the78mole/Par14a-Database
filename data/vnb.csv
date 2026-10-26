@@ -460,13 +460,13 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 790,Stadtwerke Oranienburg GmbH,,https://stadtwerke-oranienburg.de,16515,Oranienburg,"Mittelspannung,Niederspannung",https://stadtwerke-oranienburg.de/unser-netz/stromnetz/netz-nutzen/,2026-10-26,vnbdigital
 791,Stadtwerke Sigmaringen GmbH,,https://www.stadtwerke-sigmaringen.de/,72488,Sigmaringen,"Mittelspannung,Niederspannung",https://www.stadtwerke-sigmaringen.de/de/Kopfnavigation/Netze/Stromnetz.html,2026-10-26,vnbdigital
 792,Netzgesellschaft Potsdam GmbH,,https://www.ngp-potsdam.de,14480,Potsdam,"Mittelspannung,Niederspannung,Hochspannung",https://www.ngp-potsdam.de,2026-10-26,vnbdigital
-793,Stadtwerke Schwedt GmbH,,https://stadtwerke-schwedt.de/,16303,Schwedt/Oder,"Mittelspannung,Niederspannung",,,vnbdigital
+793,Stadtwerke Schwedt GmbH,,https://stadtwerke-schwedt.de/,16303,Schwedt/Oder,"Mittelspannung,Niederspannung",https://netze.stadtwerke-schwedt.de,2026-10-26,vnbdigital
 794,Dortmunder Netz GmbH,,https://www.do-netz.de,44135,Dortmund,"Mittelspannung,Niederspannung",https://do-netz.de/netze/strom/netznutzung,2026-10-26,vnbdigital
 795,Stadtwerke Kleve GmbH,,https://www.stadtwerke-kleve.de,47533,Kleve,"Mittelspannung,Niederspannung",https://www.stadtwerke-kleve.de/netze/stromnetz/netznutzungsentgelte,2026-10-26,vnbdigital
 796,Dessauer Stromversorgung GmbH,,https://www.dvv-dessau.de/,06844,Dessau-Roßlau,"Mittelspannung,Niederspannung,Hochspannung",https://www.dvv-dessau.de/netze/,2026-10-26,vnbdigital
 798,Netzgesellschaft Schwerin mbH (NGS),,https://www.ngs-schwerin.de,19061,Schwerin,"Mittelspannung,Niederspannung",https://www.ngs-schwerin.de/fuer-partner/netzentgelte,2026-10-26,vnbdigital
-799,Stadtwerke Annaberg-Buchholz Energie AG,,https://swa-b.de,09456,Annaberg-Buchholz,"Mittelspannung,Niederspannung",,,vnbdigital
-800,Stadtwerke Delitzsch GmbH,,https://www.sw-delitzsch.de,04509,Delitzsch,"Mittelspannung,Niederspannung",,,vnbdigital
+799,Stadtwerke Annaberg-Buchholz Energie AG,,https://swa-b.de,09456,Annaberg-Buchholz,"Mittelspannung,Niederspannung",https://swa-b.de,2026-10-26,vnbdigital
+800,Stadtwerke Delitzsch GmbH,,https://www.sw-delitzsch.de,04509,Delitzsch,"Mittelspannung,Niederspannung",https://www.sw-delitzsch.de,2026-10-26,vnbdigital
 875,Kraftwerk Köhlgartenwiese GmbH,,https://www.koehlgartenwiese.de/netze/,79692,Kleines Wiesental,"Mittelspannung,Niederspannung",https://www.koehlgartenwiese.de/netze/dokumente/,2026-10-26,vnbdigital
 909,Stadtwerke Rostock Netzgesellschaft mbH,,https://www.swrng.de/,18069,Rostock,"Mittelspannung,Niederspannung,Hochspannung",https://www.swrng.de/nutzen/netznutzung,2026-10-26,vnbdigital
 911,Energie- und Wasserwerke Bautzen GmbH,,https://www.ewbautzen.de/,02625,Bautzen,"Mittelspannung,Niederspannung",,,vnbdigital
@@ -487,7 +487,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 933,Stadtwerke Neuruppin GmbH,,https://www.swn.de,16816,Neuruppin,"Mittelspannung,Niederspannung",https://www.swn.de/netze/strom,2026-10-26,vnbdigital
 934,Stadtwerke Wittenberge GmbH,,https://stadtwerke-wittenberge.de/,19322,Wittenberge,"Mittelspannung,Niederspannung",https://stadtwerke-wittenberge.de/netzbetrieb/marktkommunikation/,2026-10-26,vnbdigital
 936,Stadtwerke Waren GmbH,,https://www.stadtwerke-waren.de/,17192,Waren (Müritz),"Mittelspannung,Niederspannung",https://stadtwerke-waren.de/strom-netznutzung/,2026-10-26,vnbdigital
-938,REDINET Burgenland GmbH,,https://www.redinet.de/,06712,Zeitz,"Mittelspannung,Niederspannung",,,vnbdigital
+938,REDINET Burgenland GmbH,,https://www.redinet.de/,06712,Zeitz,"Mittelspannung,Niederspannung",https://www.redinet.de,2026-10-26,vnbdigital
 939,SSW Netz GmbH,,https://www.ssw-netz.de/,66606,St. Wendel,"Mittelspannung,Niederspannung",https://ssw-netz.de/stromnetz/netzzugang-und-entgelte-strom/netznutzungsentgelte-strom/,2026-10-26,vnbdigital
 941,Stadtwerke Werl GmbH,,https://www.stadtwerke-werl.de,59457,Werl,"Mittelspannung,Niederspannung",https://www.stadtwerke-werl.de/netz/strom/netzzugang-entgelte.html,2026-10-26,vnbdigital
 942,Stadtwerke Sangerhausen GmbH,,https://www.stadtwerke-sangerhausen.de,06526,Sangerhausen,"Mittelspannung,Niederspannung",https://www.stadtwerke-sangerhausen.de/netz/stromnetz/netzzugang,2026-10-26,vnbdigital
@@ -514,7 +514,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 971,Freitaler Stadtwerke GmbH,,https://www.ftl-stadtwerke.de,01705,Freital,"Mittelspannung,Niederspannung",https://www.ftl-stadtwerke.de/netz/netzzugang/,2026-10-26,vnbdigital
 975,Stadtwerke Weißenfels Energienetze GmbH,,https://energienetze-wsf.de,06667,Weißenfels,"Mittelspannung,Niederspannung",https://energienetze-wsf.de/netzbetrieb-strom/netznutzung,2026-10-26,vnbdigital
 976,Stadtwerke Pasewalk GmbH,,https://www.stadtwerke-pasewalk.de,17309,Pasewalk,"Niederspannung,Mittelspannung",https://www.stadtwerke-pasewalk.de/infocenter/,2026-10-26,vnbdigital
-977,Stadtwerke Zittau GmbH,,https://www.stadtwerke-zittau.de,02763,Zittau,"Mittelspannung,Niederspannung",,,vnbdigital
+977,Stadtwerke Zittau GmbH,,https://www.stadtwerke-zittau.de,02763,Zittau,"Mittelspannung,Niederspannung",https://stadtwerke-zittau.de,2026-10-26,vnbdigital
 980,Gemeindewerke Pleinfeld,,https://www.gw-pleinfeld.de/,91785,Pleinfeld,"Mittelspannung,Niederspannung",https://gw-pleinfeld.de/strom/netze/,2026-10-26,vnbdigital
 981,Städtische Werke Borna Netz GmbH,,https://www.stadtwerke-borna-netz.de,04552,Borna,"Mittelspannung,Niederspannung",,,vnbdigital
 982,Stadtwerke Schkeuditz GmbH,,https://www.stadtwerke-schkeuditz.de,04435,Schkeuditz,"Mittelspannung,Niederspannung",https://www.stadtwerke-schkeuditz.de/netze/stromnetz,2026-10-26,vnbdigital

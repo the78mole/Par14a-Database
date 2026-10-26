@@ -54,13 +54,16 @@ def crawl(start, maxpages):
         if "html" not in ct:
             continue
         soup = BeautifulSoup(r.content, "lxml")
+        # relative Links gelten gegenüber <base href>, falls die Seite eins setzt
+        base = soup.find("base", href=True)
+        base = up.urljoin(r.url, base["href"]) if base else r.url
         # PDF-Pfade, die nur in Skript-Daten stehen (z. B. Akkordeons, die per JS gefüllt werden)
         for m in re.finditer(r"""["'(]((?:https?:)?[\w/.%~:-]*?\.pdf(?:\?[^"'\s\\]*)?)["'\\]""", r.text.replace("\\/", "/"), re.I):
-            h = up.urljoin(r.url, m.group(1))
+            h = up.urljoin(base, m.group(1))
             if PDFKEY.search(up.unquote(h)) and not NEG.search(up.unquote(h).rsplit("/", 1)[-1]):
                 pdfs.setdefault(h, {"linktext": "", "quelle_seite_url": r.url})
         for a in soup.find_all("a", href=True):
-            h = up.urljoin(r.url, a["href"].strip()).split("#")[0]
+            h = up.urljoin(base, a["href"].strip()).split("#")[0]
             if not h.startswith("http"):
                 continue
             text = " ".join((a.get_text(" ", strip=True) + " " + (a.get("title") or "")).split())[:200]

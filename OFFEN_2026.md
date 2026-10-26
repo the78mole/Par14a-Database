@@ -7,7 +7,7 @@ Netzbetreiber übergeben hat. Geprüft wurden die eigene Webseite (Netz-Seiten, 
 als Netzbetreiber, Störungsnummer Strom), vnbdigital.de (Niederspannungsbetreiber am Ort,
 `vnb_coordinates`) und Presse/Gemeindeseiten. Ergebnis: **2 Übergaben bestätigt** (Stockstadt an
 Syna, Wildeck an EAM). Bei Aalen (4) und Hann. Münden (270) waren die Preisblätter doch
-auffindbar; beide sind inzwischen erfasst und stehen nicht mehr in dieser Liste. Bad Herrenalb (35), Emden (170) und Fürstenfeldbruck (206) haben ihre Blätter 2026 inzwischen veröffentlicht und sind ebenfalls erfasst. Alle übrigen betreiben ihr Netz nach allen Quellen weiterhin selbst.
+auffindbar; beide sind inzwischen erfasst und stehen nicht mehr in dieser Liste. Bad Herrenalb (35), Emden (170) und Fürstenfeldbruck (206) haben ihre Blätter 2026 inzwischen veröffentlicht und sind ebenfalls erfasst. Alle übrigen betreiben ihr Netz nach allen Quellen weiterhin selbst. Bis auf VSE Verteilnetz (562) haben alle Endkunden in der Niederspannung, siehe unten.
 
 ## Netz übergeben, Nachfolger deckt das Gebiet ab
 
@@ -28,7 +28,7 @@ Keine Übergabe gefunden. Spalte „Netzbetrieb“ nennt den Beleg, dass der VNB
 | VNB-ID | Netzbetreiber | Grund | Netzbetrieb |
 |---|---|---|---|
 | 114 | Stadtwerke Buchen GmbH & Co KG | unter Downloads nur die TAB | eigene Seiten Netze/Strom, Netzanschluss; vnbdigital |
-| 144 | Westenthanner Energieversorgung GmbH | kein Netzentgelt-Blatt, nur Lieferanten-Aufstellung ohne Module | nennt sich „Energieversorger und Netzbetreiber“ (Schwindegg); vnbdigital Schwindegg |
+| 144 | Westenthanner Energieversorgung GmbH | Entgelte 2026 mit Modul 1–3 und Zeitfenstern stehen als HTML-Tabelle auf [ew-westenthanner.de/netzzugang](https://ew-westenthanner.de/netzzugang/) (kein PDF), Übernahme in die Daten offen | nennt sich „Energieversorger und Netzbetreiber“ (Schwindegg); vnbdigital Schwindegg |
 | 186 | Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG | Website ohne Netzseite (jetzt HTTP 403) | vnbdigital; keine Meldung über Übergabe |
 | 223 | Energieversorgung Gemünden GmbH | alle Netz-Unterseiten liefern 404 | Netz-Menü auf der Startseite; vnbdigital |
 | 245 | Stadtwerke Groß-Gerau Versorgungs GmbH | Website im Wartungsmodus | vnbdigital; seit 2018 Kooperation mit dem Überlandwerk Groß-Gerau beim Netzbetrieb ([energate](https://www.energate-messenger.com/news/180277/network-cooperation-in-gross-gerau)), keine Übergabe belegt |
@@ -38,7 +38,7 @@ Keine Übergabe gefunden. Spalte „Netzbetrieb“ nennt den Beleg, dass der VNB
 | 474 | Elektrizitäts-Genossenschaft Nordhalben und | Netzpreisliste 2026 ohne §14a-Module (GP 130 €/a, AP 9,70 ct) | eigene Netzpreisliste 2026; vnbdigital |
 | 512 | Gemeindewerke Peißenberg KU | gwp-netz.de liefert HTTP 500 | eigene Stromnetz-Seiten; vnbdigital |
 | 522 | Stadtwerke Quickborn GmbH | Veröffentlichungsportal ohne Entgelte | „Die Strom- und Gasnetze der Stadtwerke Quickborn“; vnbdigital |
-| 562 | VSE Verteilnetz GmbH | nur HS/MS, kein Niederspannungsnetz | keine Übergabe; in Saarbrücken ist Niederspannung bei Stadtwerke Saarbrücken Netz (561). Ohne Niederspannung ist kein §14a-Blatt zu erwarten. |
+| 562 | VSE Verteilnetz GmbH | **§14a entfällt:** nur HS/MS, kein Niederspannungsnetz und keine Haushaltskunden | keine Übergabe; in Saarbrücken ist Niederspannung bei Stadtwerke Saarbrücken Netz (561). Ohne Niederspannung ist kein §14a-Blatt zu erwarten. |
 | 636 | Energieversorgung Trossingen GmbH | Seite „Netze Strom“ verlinkt 2026_PB_aggregiert_StromNN und 2026_PB_StromNN_informatorisch, beide Links liefern HTTP 404 (Stand 26.10.2026, vermutlich beim Umzug auf WordPress verloren); nur das vorläufige Blatt 2027 ist abrufbar | eigene Seite Netze Strom; vnbdigital |
 | 649 | Stadtwerke Uslar GmbH | nur 2025 und vorläufig 2027 online | eigene Seite Transport und Netz Strom; vnbdigital |
 | 742 | Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal | kein Preisblatt auf der Website | eigenes Downloadcenter Netz; vnbdigital |
@@ -51,6 +51,41 @@ Keine Übergabe gefunden. Spalte „Netzbetrieb“ nennt den Beleg, dass der VNB
 | 7247 | Stromversorgung Markt Egloffstein | keine Website bekannt | vnbdigital; keine Meldung über Übergabe |
 | 7497 | E-Werk Rohrdorf Josef Haimmerer | keine Website bekannt | vnbdigital (Rohrdorf teils Haimmerer, teils Bayernwerk); keine Meldung über Übergabe |
 | 7693 | BIGGE ENERGIE GmbH & Co. KG | nur Lieferantentarife (BIGGE E-mobil §14a) | eigene Netzkunden-Seiten, Störungsmeldung; vnbdigital |
+
+## Endkunden in der Niederspannung
+
+Am 26.10.2026 zusätzlich geprüft: Schließt der VNB überhaupt Letztverbraucher in der Niederspannung an?
+Nur dann muss er §14a-Netzentgelte anbieten. Ergebnis: **Nur VSE Verteilnetz (562) hat keine**
+(laut [eigener Darstellung](https://www.vse-verteilnetz.de/ueber-vse-verteilnetz/ueber-vse-verteilnetz.html)
+nutzen „große Industriekunden, Betreiber von Erzeugungsanlagen sowie weiterverteilende Regionalversorger,
+Stadt- und Gemeindewerke“ das HS/MS-Netz). Alle anderen offenen VNB haben Endkunden in der
+Niederspannung und müssten ein §14a-Blatt veröffentlichen.
+
+| VNB-ID | Netzbetreiber | Beleg für Endkunden in der Niederspannung |
+|---|---|---|
+| 114 | Stadtwerke Buchen | Netzanschluss-Seiten für Hausanschluss, Balkonkraftwerk und Ladestation; Grundversorgung Strom |
+| 144 | Westenthanner Energieversorgung | NS-Entgelte ohne Leistungsmessung 2026 (GP 25 €/a) und §14a-Module auf der Netzzugangsseite |
+| 186 | EWG Vagen | betreibt laut vnbdigital nur Niederspannung; Grundversorger am Ort |
+| 223 | Energieversorgung Gemünden | Grundversorger am Ort; Netzseiten zu §14a, Netzanschluss und Einspeisung |
+| 245 | Stadtwerke Groß-Gerau Versorgungs GmbH | in der [Netzentgeltstatistik der Regulierungskammer Hessen](https://regulierungskammer.hessen.de/sites/regulierungskammer.hessen.de/files/2024-03/rkh_-_netzentgeltstatistik_strom_-_stand_01.01.2024.pdf) (Stand 01.01.2025, Kunden ohne Leistungsmessung, 3.500 kWh) geführt |
+| 257 | Gemeindewerke Halstenbek | 10.266 Entnahmestellen in der NS ([Strukturdaten 2025](https://gwhalstenbek.netzveroeffentlichung.com/stromnetz/netzstrukturdaten/strukturdaten/)) |
+| 313 | Rheinhessische Energie- und Wasserversorgung | eigene Seiten zu Netzanschluss, Baustrom, Plugin-PV und steuerbaren Verbrauchseinrichtungen |
+| 341 | Fürstl. Fugger-Glött'sches E-Werk | 901 Entnahmestellen in der NS ([Veröffentlichung nach StromNEV, 2024](https://www.ffew.de/wp-content/uploads/2026/02/Veroeffentlichung-nach-StromNEV.pdf)); betreibt nur NS |
+| 474 | EG Nordhalben | eigene NS-Netzpreisliste 2026 (GP 130 €/a, AP 9,70 ct) |
+| 512 | Gemeindewerke Peißenberg | Seiten zu Netzanschluss, Balkonkraftwerk, Zähler-PIN; Stellenanzeige nennt das 0,4-kV-Netz |
+| 522 | Stadtwerke Quickborn | Hausanschluss-Seiten und Online-Formular „Wechsel netzorientierte Steuerung“ (§14a) |
+| 636 | Energieversorgung Trossingen | vorläufiges NS-Blatt 2027 online |
+| 649 | Stadtwerke Uslar | NS-Blatt 2027 mit §14a-Modulen ist bereits erfasst |
+| 742 | Stadtwerke Stendal | 23.509 Entnahmestellen ohne Leistungsmessung, 67 GWh Abgabe in der NS 2025 ([enwg-veroeffentlichungen.de/stendal](https://www.enwg-veroeffentlichungen.de/stendal/Netze/)) |
+| 751 | Stadtwerke Güstrow | Grundversorger am Ort; Wirtschaftsplan 2026 der Stadt nennt Stromversorgung der Stadt |
+| 911 | Energie- und Wasserwerke Bautzen | Netzanschlussvertrag „aus dem Niederspannungsnetz der EWB“ (gipsprojekt.de/featureGips/ew_bautzen) |
+| 7024 | Elektrizitätswerk Frammersbach | NS-Netz laut vnbdigital; Website nicht erreichbar, keine Strukturdaten gefunden |
+| 7055 | Stadtwerke Oelsnitz/V. | Grundversorger am Ort; Stromnetz rund 230 km laut Stellenanzeige 02/2025 |
+| 7087 | Stadtwerke Hammelburg | vorläufiges NS-Blatt 2027 verlinkt |
+| 7219 | Elektrizitätswerk Rohmund | in der Netzentgeltstatistik der Regulierungskammer Hessen (Stand 01.01.2025) geführt |
+| 7247 | Stromversorgung Markt Egloffstein | betreibt laut vnbdigital nur Niederspannung; Grundversorger am Ort |
+| 7497 | E-Werk Rohrdorf Josef Haimmerer | betreibt laut vnbdigital nur Niederspannung; Grundversorger am Ort |
+| 7693 | BIGGE ENERGIE | 48.908 Entnahmestellen in der NS ([Netzstrukturdaten](https://www.enwg-veroeffentlichungen.de/bigge/Netze/Stromnetz/Netzstrukturdaten.html)) |
 
 ## Übergaben zum 01.01.2027
 

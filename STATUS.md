@@ -1,23 +1,23 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 20:41 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 21:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
-**483 von 754 VNB erfasst (64 %)**, 271 fehlen noch.
+**485 von 754 VNB erfasst (64 %)**, 269 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
 | endgueltig | 1 |
-| vorlaeufig | 482 |
-| davon mit Modul-3-Zeitfenstern | 479 |
+| vorlaeufig | 484 |
+| davon mit Modul-3-Zeitfenstern | 481 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
 | §14a-PDF vorhanden, aber nicht eindeutig 2027 | 140 |
-| kein §14a-Preisblatt auf der Webseite gefunden | 77 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 75 |
 | §14a-PDF vorhanden, manuelle Prüfung offen | 46 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
@@ -168,7 +168,6 @@ Stand: 2026-10-26 20:41 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 **kein §14a-Preisblatt auf der Webseite gefunden**
 
-- 4 Stadtwerke Aalen GmbH
 - 23 Stadtwerke Amberg Versorgungs GmbH
 - 35 Stadtwerke Bad Herrenalb GmbH
 - 65 Überlandwerk Eppler GmbH
@@ -184,7 +183,6 @@ Stand: 2026-10-26 20:41 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 223 Energieversorgung Gemünden GmbH
 - 232 Stadtwerke Glückstadt GmbH
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH
-- 270 Versorgungsbetriebe Hann. Münden GmbH
 - 313 Rheinhessische Energie- und Wasserversorgungs-GmbH
 - 429 Stadtwerke Mössingen
 - 432 Kommunale Energienetze Inn-Salzach GmbH & Co. KG
@@ -310,26 +308,25 @@ Stand: 2026-10-26 20:41 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**723 von 754 VNB erfasst (96 %)**, 31 fehlen noch.
+**725 von 754 VNB erfasst (96 %)**, 29 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 708 |
+| endgueltig | 710 |
 | vorlaeufig | 15 |
-| davon mit Modul-3-Zeitfenstern | 715 |
+| davon mit Modul-3-Zeitfenstern | 717 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 22 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 20 |
 | §14a-PDF vorhanden, aber nicht eindeutig 2026 | 9 |
 
 <details><summary>Liste der fehlenden VNB 2026</summary>
 
 **kein §14a-Preisblatt auf der Webseite gefunden**
 
-- 4 Stadtwerke Aalen GmbH
 - 35 Stadtwerke Bad Herrenalb GmbH
 - 114 Stadtwerke Buchen GmbH & Co KG
 - 144 Westenthanner Energieversorgung GmbH
@@ -337,7 +334,6 @@ Stand: 2026-10-26 20:41 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 186 Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG
 - 223 Energieversorgung Gemünden GmbH
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH
-- 270 Versorgungsbetriebe Hann. Münden GmbH
 - 313 Rheinhessische Energie- und Wasserversorgungs-GmbH
 - 474 Elektrizitäts-Genossenschaft Nordhalben und
 - 512 Gemeindewerke Peißenberg KU

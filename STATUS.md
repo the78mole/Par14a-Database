@@ -1,23 +1,23 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 21:37 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 21:40 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
-**488 von 754 VNB erfasst (65 %)**, 266 fehlen noch.
+**489 von 754 VNB erfasst (65 %)**, 265 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
 | endgueltig | 1 |
-| vorlaeufig | 487 |
-| davon mit Modul-3-Zeitfenstern | 484 |
+| vorlaeufig | 488 |
+| davon mit Modul-3-Zeitfenstern | 485 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
 | §14a-PDF vorhanden, aber nicht eindeutig 2027 | 139 |
-| kein §14a-Preisblatt auf der Webseite gefunden | 73 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 72 |
 | §14a-PDF vorhanden, manuelle Prüfung offen | 46 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
@@ -171,7 +171,6 @@ Stand: 2026-10-26 21:37 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 65 Überlandwerk Eppler GmbH
 - 114 Stadtwerke Buchen GmbH & Co KG
 - 121 Gemeinde-Elektrizitäts- und Wasserwerk Burtenbach
-- 144 Westenthanner Energieversorgung GmbH
 - 157 Stadtwerke Eckernförde GmbH
 - 186 Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG
 - 201 Stadtwerke Freudenstadt GmbH & Co. KG
@@ -305,19 +304,19 @@ Stand: 2026-10-26 21:37 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**728 von 754 VNB erfasst (97 %)**, 26 fehlen noch.
+**729 von 754 VNB erfasst (97 %)**, 25 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 713 |
+| endgueltig | 714 |
 | vorlaeufig | 15 |
-| davon mit Modul-3-Zeitfenstern | 720 |
+| davon mit Modul-3-Zeitfenstern | 721 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 18 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 17 |
 | §14a-PDF vorhanden, aber nicht eindeutig 2026 | 8 |
 
 <details><summary>Liste der fehlenden VNB 2026</summary>
@@ -325,7 +324,6 @@ Stand: 2026-10-26 21:37 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 **kein §14a-Preisblatt auf der Webseite gefunden**
 
 - 114 Stadtwerke Buchen GmbH & Co KG
-- 144 Westenthanner Energieversorgung GmbH
 - 186 Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG
 - 223 Energieversorgung Gemünden GmbH
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH

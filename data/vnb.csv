@@ -89,7 +89,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 141,Stadtwerke Dingolfing GmbH,,https://www.stadtwerke-dingolfing.de/,84130,Dingolfing,"Mittelspannung,Niederspannung",https://www.stadtwerke-dingolfing.de/upload/strom/strom_netzentgelte/Netzentgelte%20ab%2001.01.2026/,2026-10-26,vnbdigital
 142,Stadtwerke Dinkelsbühl,,https://www.sw-dinkelsbuehl.de,91550,Dinkelsbühl,"Mittelspannung,Niederspannung",https://www.sw-dinkelsbuehl.de/netze/stromnetz/netzentgelte,2026-10-26,vnbdigital
 143,Stadtwerke Dorfen GmbH,,https://www.stadtwerke-dorfen.de,84405,Dorfen,"Mittelspannung,Niederspannung",https://www.stadtwerke-dorfen.de/produkte/strom/stromnetz,2026-10-26,vnbdigital
-144,Westenthanner Energieversorgung GmbH,,https://www.ew-westenthanner.de,84405,Dorfen,"Niederspannung,Mittelspannung",,,vnbdigital
+144,Westenthanner Energieversorgung GmbH,,https://www.ew-westenthanner.de,84405,Dorfen,"Niederspannung,Mittelspannung",https://ew-westenthanner.de/netzzugang/,2026-10-26,vnbdigital
 146,Stadtwerke Dreieich GmbH,,https://www.stadtwerke-dreieich.de/,63303,Dreieich,"Mittelspannung,Niederspannung",https://www.stadtwerke-dreieich.de/netze/stromnetz/netzzugang-/-entgelte,2026-10-26,vnbdigital
 147,Eichsfelder Wirtschaftsbetriebe GmbH,,https://www.ewb-duderstadt.de,37115,Duderstadt,"Mittelspannung,Niederspannung",https://www.ewb-duderstadt.de/de/Strom/Netze/,2026-10-26,vnbdigital
 148,Stadtwerke Dülmen GmbH,,https://www.stadtwerke-duelmen.de/,48249,Dülmen,"Mittelspannung,Niederspannung",https://www.stadtwerke-duelmen.de/netze/strom/,2026-10-26,vnbdigital

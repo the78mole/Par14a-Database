@@ -209,7 +209,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 360,NGN NETZGESELLSCHAFT NIEDERRHEIN MBH,,https://www.ngn-mbh.de/,47804,Krefeld,"Hochspannung,Mittelspannung,Niederspannung",https://www.ngn-mbh.de/de/marktpartner/preisblaetter-netznutzung,2026-10-26,vnbdigital
 361,Versorgungsbetriebe Kronshagen GmbH,,https://www.vbk-kronshagen.de,24119,Kronshagen,"Mittelspannung,Niederspannung",https://www.vbk-kronshagen.de/service-unternehmen/service/marktpartner/netznutzungsentgelte,2026-10-26,vnbdigital
 366,E-Werk Netze GmbH & Co. KG,,https://www.ew-netze.de,77933,Lahr,"Mittelspannung,Niederspannung,Hochspannung",https://www.ew-netze.de/netzzugang,2026-10-26,vnbdigital
-367,Stadtwerke Lambrecht (Pfalz) GmbH,,https://www.sw-lambrecht.de/,67466,Lambrecht (Pfalz),"Mittelspannung,Niederspannung",,,vnbdigital
+367,Stadtwerke Lambrecht (Pfalz) GmbH,,https://www.sw-lambrecht.de/,67466,Lambrecht (Pfalz),"Mittelspannung,Niederspannung",https://www.sw-lambrecht.de/de/Netzbetrieb/Unser-Netzgebiet/Netzbetrieb-Strom/,2026-10-26,vnbdigital
 368,Stadtwerke Landau a.d.Isar,,https://www.swlandau.de,94405,Landau a.d.Isar,"Mittelspannung,Niederspannung",https://www.swlandau.de/strom/stromnetz/netzentgelte,2026-10-26,vnbdigital
 369,EnergieSüdwest Netz GmbH,,https://esw-netz.de/,76829,Landau,"Mittelspannung,Niederspannung",https://esw-netz.de/strom/netznutzung/,2026-10-26,vnbdigital
 371,Stadtwerke Landshut,,https://www.stadtwerke-landshut.de/,84028,Landshut,"Mittelspannung,Niederspannung,Hochspannung",,,vnbdigital

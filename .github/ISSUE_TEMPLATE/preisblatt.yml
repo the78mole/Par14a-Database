@@ -1,6 +1,6 @@
 name: Neues Preisblatt einreichen
 description: Ein §14a-Preisblatt (Modul 1, 2, 3) eines Verteilnetzbetreibers melden, das in der Datenbank fehlt oder veraltet ist.
-title: "[Preisblatt] <VNB> <Jahr>"
+title: "[Preisblatt] <VNB> <Geltungsjahr>"
 labels: ["preisblatt"]
 body:
   - type: markdown
@@ -29,15 +29,12 @@ body:
     validations:
       required: false
 
-  - type: dropdown
+  - type: input
     id: jahr
     attributes:
-      label: Jahr
-      description: Für welches Jahr gilt das Preisblatt?
-      options:
-        - "2026"
-        - "2027"
-        - anderes (bitte unten bei Hinweise angeben)
+      label: Geltungsjahr
+      description: Für welches Jahr gilt das Preisblatt? Vierstellig, z. B. 2026 oder 2027.
+      placeholder: "2026"
     validations:
       required: true
 

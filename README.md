@@ -10,7 +10,7 @@ Die fertigen Datenbanken liegen in den Releases, je Jahr ein Release `daten-<jah
 
 ## Preisblatt einreichen
 
-Fehlt ein VNB oder ist ein Preisblatt veraltet? Bitte über [Issue „Neues Preisblatt einreichen“](https://github.com/the78mole/Par14a-Database/issues/new?template=preisblatt.yml) melden, mit Download-URL des PDFs, der Seite, auf der es verlinkt ist, und dem PDF selbst als Anhang (per Drag & Drop ins Issue). Die Preise für Modul 1, 2 und 3 sind optional, wir lesen sie sonst aus dem PDF aus.
+Preisblätter für VNBs, die noch nicht in der Datenbank enthalten sind, oder neuere Fassungen bereits erfasster VNBs können über das Issue-Formular **[Neues Preisblatt einreichen](https://github.com/the78mole/Par14a-Database/issues/new?template=preisblatt.yml)** eingereicht werden. Anzugeben sind VNB, Geltungsjahr, Status, die Download-URL des PDFs und die Seite, auf der es verlinkt ist. Das PDF selbst bitte per Drag & Drop als Anhang ins Issue ziehen. Die Preise für Modul 1, 2 und 3 sind optional, sonst werden sie aus dem PDF ausgelesen.
 
 ## Aufbau
 

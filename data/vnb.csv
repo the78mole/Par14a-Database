@@ -439,7 +439,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 761,NETZE Bad Langensalza GmbH,,https://nbl-badlangensalza.de,99947,Bad Langensalza,"Mittelspannung,Niederspannung",https://nbl-badlangensalza.de/netznutzung/netzentgelte/strom/,2026-10-26,vnbdigital
 762,Zwickauer Energieversorgung GmbH,,https://www.zev-energie.de,08056,Zwickau,"Mittelspannung,Niederspannung",https://www.zev-energie.de/netzentgelte-strom.php,2026-10-26,vnbdigital
 763,Gemeindewerke Grefrath GmbH,,https://www.gemeindewerke-grefrath.de,47929,Grefrath,"Mittelspannung,Niederspannung",https://gemeindewerke-grefrath.de/stromnetz-netzentgelte-netzzugang-steuerbare-verbrauchseinrichtung-14-a/,2026-10-26,vnbdigital
-765,Feuchter Gemeindewerke GmbH,,https://www.feucht-gw.de,90537,Feucht,"Mittelspannung,Niederspannung",,,vnbdigital
+765,Feuchter Gemeindewerke GmbH,,https://www.feucht-gw.de,90537,Feucht,"Mittelspannung,Niederspannung",https://www.feucht-gw.de/netze/stromnetz,2026-10-26,vnbdigital
 766,Netzgesellschaft Forst (Lausitz) mbH & Co. KG,,https://netzgesellschaft-forst.de,03149,Forst (Lausitz),"Mittelspannung,Niederspannung",https://www.netzgesellschaft-forst.de/strom/netzzugang/,2026-10-26,vnbdigital
 767,Stadtwerke Senftenberg GmbH,,https://www.stadtwerke-senftenberg.de/,01968,Senftenberg,"Mittelspannung,Niederspannung",https://www.stadtwerke-senftenberg.de/netznutzung-strom/,2026-10-26,vnbdigital
 770,Netz Leipzig GmbH,,https://www.netz-leipzig.de/,04277,Leipzig,"Mittelspannung,Niederspannung",https://www.netz-leipzig.de/netznutzung/strom/,2026-10-26,vnbdigital

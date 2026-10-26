@@ -1,5 +1,7 @@
 # Par14a-Database
 
+Aktueller Fortschritt der Erfassung: [STATUS.md](STATUS.md)
+
 Datenbank der §14a-EnWG-Netzentgelte (Modul 1, 2, 3) für steuerbare Verbrauchseinrichtungen aller deutschen Verteilnetzbetreiber, je Jahr als SQLite-Release.
 
 ## Download

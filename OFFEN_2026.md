@@ -1,13 +1,13 @@
 # Offene VNB 2026
 
-Für diese VNB ist bisher kein §14a-Preisblatt 2026 erfasst (Stand 26.10.2026).
+Für diese 29 VNB ist bisher kein §14a-Preisblatt 2026 erfasst (Stand 26.10.2026, 725 von 754 erfasst).
 
 Am 26.10.2026 wurde für jeden VNB geprüft, ob er den Netzbetrieb an einen anderen (größeren)
 Netzbetreiber übergeben hat. Geprüft wurden die eigene Webseite (Netz-Seiten, Selbstbezeichnung
 als Netzbetreiber, Störungsnummer Strom), vnbdigital.de (Niederspannungsbetreiber am Ort,
 `vnb_coordinates`) und Presse/Gemeindeseiten. Ergebnis: **2 Übergaben bestätigt** (Stockstadt an
-Syna, Wildeck an EAM), bei 2 weiteren VNB waren die Preisblätter doch auffindbar (Aalen,
-Hann. Münden). Alle übrigen betreiben ihr Netz nach allen Quellen weiterhin selbst.
+Syna, Wildeck an EAM). Bei Aalen (4) und Hann. Münden (270) waren die Preisblätter doch
+auffindbar; beide sind inzwischen erfasst und stehen nicht mehr in dieser Liste. Alle übrigen betreiben ihr Netz nach allen Quellen weiterhin selbst.
 
 ## Netz übergeben, Nachfolger deckt das Gebiet ab
 
@@ -20,13 +20,6 @@ Für beide Nachfolger ist das Preisblatt 2026 erfasst (Syna, EAM Netz) und gilt 
 Netzgebiet; ein eigenes Blatt für das übernommene Teilnetz wurde nicht gefunden. Das
 Syna-Blatt selbst liegt hinter Bot-Schutz und wurde dafür nicht erneut geöffnet.
 vnbdigital führt Wildeck (Obersuhl) noch als eigenen Netzbetreiber.
-
-## Preisblatt doch gefunden, Übernahme in die Daten offen
-
-| VNB-ID | Netzbetreiber | Befund |
-|---|---|---|
-| 4 | Stadtwerke Aalen GmbH | Kein Übergang an Netze ODR: SWA betreibt das Netz selbst (vnbdigital in allen Stadtteilen, eigene Störungsnummer Strom). Die Netzseite lädt die Dokumente per iframe von [enwg-veroeffentlichungen.de/aalen](https://www.enwg-veroeffentlichungen.de/aalen/Netze/Netze1.html), dort liegen `SWA-NNE-Strom-2026-ab-2026-01-01-Stand-2025-12-19.pdf` und das vorläufige Blatt 2027, beide mit Modul 1/2/3. |
-| 270 | Versorgungsbetriebe Hann. Münden GmbH | Kein Übergang. Die Domain in `data/vnb.csv` (versorgungsbetrieb.de) steht zum Verkauf; die richtige Seite ist [versorgungsbetriebe.de](https://www.versorgungsbetriebe.de/de/Kopfnavigation/Netze/Netzinformationen/Stromnetz/) mit `260101-Preisblatt-NNE-Strom-2026.pdf` und `261015-vorlaeufige-NNE-Strom-VHM-2027.pdf`, beide mit §14a-Modulen. |
 
 ## Weiterhin offen, Netz beim VNB selbst
 

@@ -1,6 +1,6 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 15:07 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
@@ -342,21 +342,21 @@ Stand: 2026-10-26 15:07 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**576 von 754 VNB erfasst (76 %)**, 178 fehlen noch.
+**588 von 754 VNB erfasst (78 %)**, 166 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 565 |
+| endgueltig | 577 |
 | vorlaeufig | 11 |
-| davon mit Modul-3-Zeitfenstern | 570 |
+| davon mit Modul-3-Zeitfenstern | 582 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
 | kein §14a-Preisblatt auf der Webseite gefunden | 109 |
-| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 39 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 22 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 36 |
+| §14a-PDF vorhanden, manuelle Prüfung offen | 13 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
 <details><summary>Liste der fehlenden VNB 2026</summary>
@@ -483,7 +483,6 @@ Stand: 2026-10-26 15:07 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 235 Elektrizitätswerk Goldbach-Hösbach GmbH & Co. KG
 - 248 Netzgesellschaft Gütersloh mbH
 - 257 Gemeindewerke Halstenbek
-- 261 Stadtwerke Hameln Weserbergland GmbH
 - 277 Stadtwerke Heidelberg Netze GmbH
 - 341 Fürstl. Fugger-Glött'sches Elektrizitätswerk
 - 371 Stadtwerke Landshut
@@ -509,36 +508,25 @@ Stand: 2026-10-26 15:07 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7114 Stadtwerke Teterow GmbH
 - 7117 Stadtwerke Waldkirch GmbH
 - 7146 Gemeindewerke Wildeck
-- 7183 Stadtwerke Munster-Bispingen GmbH
 - 7594 Stromnetzgesellschaft Herrenberg mbH & Co. KG
 - 7658 Leitungspartner GmbH
-- 7667 WerraEnergie GmbH
 - 7693 BIGGE ENERGIE GmbH & Co. KG
 
 **§14a-PDF vorhanden, manuelle Prüfung offen**
 
 - 55 Stadtwerke Bad Salzuflen GmbH
-- 131 Stadtwerke Crailsheim GmbH
 - 323 GSW Gemeinschaftsstadtwerke GmbH Kamen - Bönen - Bergkamen
 - 355 Stadtwerke Konstanz GmbH
 - 367 Stadtwerke Lambrecht (Pfalz) GmbH
 - 577 Stadtwerke Schneverdingen-Neuenkirchen GmbH
-- 619 Stromversorgung Sulz am Neckar GmbH
 - 704 SWW Wunsiedel GmbH
 - 706 Stadtwerke Zeil am Main
 - 709 Stadtwerke Zweibrücken GmbH
-- 765 Feuchter Gemeindewerke GmbH
 - 772 Stadtwerke Ludwigsfelde GmbH
 - 956 Stadtwerke Lippstadt GmbH
 - 983 Stadtwerke Glauchau Dienstleistungsgesellschaft
-- 7075 Gemeindewerke Großkrotzenburg GmbH
 - 7116 Versorgungsbetrieb Waldbüttelbrunn GmbH
 - 7306 Havelstrom Zehdenick GmbH
-- 7313 Stadtwerke Wolmirstedt GmbH
-- 7356 Stadtwerke Emmendingen GmbH
-- 7774 Weiler Wärme eG
-- 7788 Stadtwerke Ditzingen GmbH & Co. KG
-- 7795 Stadtwerke Elm-Lappwald GmbH
 
 **Bot-Schutz (HTTP 403), nur manuell**
 

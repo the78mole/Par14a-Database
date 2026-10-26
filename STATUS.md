@@ -1,6 +1,6 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 16:52 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 17:28 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
@@ -342,19 +342,19 @@ Stand: 2026-10-26 16:52 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**629 von 754 VNB erfasst (83 %)**, 125 fehlen noch.
+**636 von 754 VNB erfasst (84 %)**, 118 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 618 |
+| endgueltig | 625 |
 | vorlaeufig | 11 |
-| davon mit Modul-3-Zeitfenstern | 623 |
+| davon mit Modul-3-Zeitfenstern | 630 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 85 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 78 |
 | §14a-PDF vorhanden, aber nicht eindeutig 2026 | 32 |
 | §14a-PDF vorhanden, manuelle Prüfung offen | 8 |
 
@@ -375,7 +375,6 @@ Stand: 2026-10-26 16:52 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 186 Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG
 - 201 Stadtwerke Freudenstadt GmbH & Co. KG
 - 209 OsthessenNetz GmbH
-- 221 ELE Verteilnetz GmbH
 - 223 Energieversorgung Gemünden GmbH
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH
 - 270 Versorgungsbetriebe Hann. Münden GmbH
@@ -386,7 +385,6 @@ Stand: 2026-10-26 16:52 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 470 Stadtwerke Nordfriesland - Netz GmbH
 - 472 Stadtwerke Norderney GmbH
 - 474 Elektrizitäts-Genossenschaft Nordhalben und
-- 485 Oberhausener Netzgesellschaft mbH
 - 500 SWO Netz GmbH
 - 508 Stadtwerke Pappenheim GmbH
 - 512 Gemeindewerke Peißenberg KU
@@ -440,13 +438,8 @@ Stand: 2026-10-26 16:52 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7247 Stromversorgung Markt Egloffstein
 - 7307 EVU Langenpreising
 - 7497 E-Werk Rohrdorf Josef Haimmerer
-- 7601 Energieversorgung Putzbrunn GmbH & Co. KG
 - 7746 Stadtwerke Geldern NETZ GmbH
-- 7768 NordNetz GmbH
-- 7778 Stromnetz Pullach GmbH
 - 7791 Stadtwerke Olching Stromnetz GmbH & Co. KG
-- 7793 Stromnetz Weilheim GmbH & Co. KG
-- 7800 Netzgesellschaft Panketal GmbH
 
 **§14a-PDF vorhanden, aber nicht eindeutig 2026**
 

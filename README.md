@@ -49,3 +49,5 @@ Alle Preise sind netto, wie im Preisblatt. `status` ist `endgueltig`, `vorlaeufi
 1. `data/<jahr>/` anlegen.
 2. Für jeden VNB zuerst `netzentgelt_seite_url` prüfen, dort steht meist das neue Preisblatt. Danach `letzte_pruefung` setzen.
 3. Werte in `data/<jahr>/preisblatt.csv` eintragen, `pdf_sha256` zeigt, ob sich ein PDF unter gleicher URL geändert hat.
+
+VNB, deren Preisblätter nur hinter Bot-Schutz oder Cloudflare-Prüfung erreichbar sind: [ZUGANGSBARRIEREN.md](ZUGANGSBARRIEREN.md).

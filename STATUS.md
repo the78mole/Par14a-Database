@@ -1,24 +1,25 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 23:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 23:19 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
-**535 von 754 VNB erfasst (71 %)**, 219 fehlen noch.
+**545 von 754 VNB erfasst (72 %)**, 209 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
 | endgueltig | 1 |
-| vorlaeufig | 534 |
-| davon mit Modul-3-Zeitfenstern | 531 |
+| vorlaeufig | 544 |
+| davon mit Modul-3-Zeitfenstern | 541 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 139 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 128 |
 | kein §14a-Preisblatt auf der Webseite gefunden | 72 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
+| §14a-PDF vorhanden, manuelle Prüfung offen | 1 |
 
 <details><summary>Liste der fehlenden VNB 2027</summary>
 
@@ -36,7 +37,6 @@ Stand: 2026-10-26 23:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 110 Stadtwerke Bretten GmbH
 - 113 Bauer Netz GmbH & Co. KG
 - 117 Stadtwerke Bühl GmbH
-- 122 Butzbacher Netzbetrieb GmbH & Co. KG
 - 126 SVO Netz GmbH
 - 128 Stadtwerke Clausthal-Zellerfeld GmbH
 - 129 SÜC Energie und H2O GmbH
@@ -44,7 +44,6 @@ Stand: 2026-10-26 23:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 137 Stadtwerke EVB Huntetal Netz GmbH
 - 138 Elektrizitätswerk Diessen Stadler GmbH
 - 189 Elektrizitätswerk Leitlein GmbH & Co. KG
-- 202 ovag Netz GmbH
 - 216 Gemeindewerke Garmisch-Partenkirchen
 - 239 Rothmoser GmbH & Co. KG
 - 248 Netzgesellschaft Gütersloh mbH
@@ -52,8 +51,6 @@ Stand: 2026-10-26 23:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 262 Energie- und Wasserversorgung Hamm GmbH
 - 273 Stadtwerk Haßfurt GmbH
 - 274 Gemeindewerke Haßloch GmbH
-- 277 Stadtwerke Heidelberg Netze GmbH
-- 295 Herzo Werke GmbH
 - 318 Stadtwerke Itzehoe GmbH
 - 337 Stadtwerke Kempen GmbH
 - 340 Energieversorgung Josef Schmid
@@ -67,12 +64,9 @@ Stand: 2026-10-26 23:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 422 KEW Karwendel Energie und Wasser GmbH
 - 449 Stadtnetze Münster GmbH
 - 452 Stadtwerke Neuburg a. d. Donau
-- 454 Gemeindewerke Neuendettelsau
-- 455 Stadtwerke Neuffen AG
 - 469 Stadtwerke Neuwied GmbH
 - 473 Stadtwerke Norderstedt
 - 476 Stadtwerke Nortorf AöR
-- 510 Stadtwerke Passau GmbH
 - 518 Stadtwerke Südholstein GmbH
 - 522 Stadtwerke Quickborn GmbH
 - 540 Stadtwerke Rhede GmbH
@@ -111,8 +105,6 @@ Stand: 2026-10-26 23:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 924 Stadtwerke Werdau GmbH
 - 939 SSW Netz GmbH
 - 959 Netzgesellschaft Frankfurt (Oder) mbH
-- 962 Creos Deutschland GmbH
-- 965 Stadtwerke Parchim GmbH
 - 988 Stadtwerke Fellbach GmbH
 - 992 Stadtwerke Burg Energienetze GmbH
 - 1023 SVH Stromversorgung Haar GmbH
@@ -148,8 +140,6 @@ Stand: 2026-10-26 23:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7237 Stadtwerke Jena Netze GmbH
 - 7251 SVI - Stromversorgung Ismaning GmbH
 - 7277 Stadtwerke Schramberg GmbH & Co. KG
-- 7387 AllgäuNetz GmbH & Co. KG
-- 7409 ENERVIE Vernetzt GmbH
 - 7615 Netze Hechingen GmbH & Co. KG
 - 7658 Leitungspartner GmbH
 - 7667 WerraEnergie GmbH
@@ -249,6 +239,10 @@ Stand: 2026-10-26 23:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7332 Westnetz GmbH
 - 7510 Energienetze Bayern GmbH
 - 7750 Stuttgart Netze GmbH
+
+**§14a-PDF vorhanden, manuelle Prüfung offen**
+
+- 510 Stadtwerke Passau GmbH
 
 </details>
 

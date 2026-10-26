@@ -69,7 +69,18 @@ def analysiere(text, jahr):
         if m1h:
             tripel.append((len(m2h) > 0, len(werte[ap]), ap, m1h[0], m2h[0] if m2h else None))
     if not tripel:
-        return None
+        # Ersatz: M1 weicht von der Formel ab (eigene Stabilitätsprämie), dann AP über M2 = 0,4·AP finden
+        # und M1 aus einer Zeile mit "Modul 1"/"pauschal" nehmen
+        m1zeilen = [i for i, z in enumerate(zeilen) if re.search(r"Modul\s*1|pauschal", z, re.I)]
+        for ap in [w for w in werte if 1.5 <= w <= 16]:
+            m2h = [w for w in werte if abs(w - round(0.4 * ap, 2)) <= 0.011 and w != ap]
+            m1h = [w for w in werte if 75 <= w <= 220 and any(i in m1zeilen for i in werte[w])]
+            if m2h and m1h:
+                m1 = min(m1h, key=lambda w: abs(w - 67.23 - 7.5 * ap))
+                if abs(m1 - 67.23 - 7.5 * ap) <= 25:
+                    tripel.append((True, len(werte[ap]), ap, m1, m2h[0]))
+        if not tripel:
+            return None
     tripel.sort(reverse=True)
     _, _, ap, m1, m2 = tripel[0]
     v = {"std_ap": ap, "m1": m1, "m2_ap": m2}
@@ -132,7 +143,7 @@ if __name__ == "__main__":
             print(f"### [{vid}] kein Crawl")
             continue
         treffer = None
-        for sc, u, p in cands[:8]:
+        for sc, u, p in cands[:40]:
             name = u.rsplit("/", 1)[-1]
             if any(str(y) in name or f"0101{y % 100:02d}" in name or re.search(rf"0?1\.0?1\.{y % 100:02d}(?!\d)", name) or re.search(rf"(?:NE|PB|vorl[a-z]*){y % 100:02d}(?!\d)", name, re.I)
                    for y in range(jahr + 1, 2031)):

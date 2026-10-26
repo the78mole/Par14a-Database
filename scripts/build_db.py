@@ -2,14 +2,17 @@
 import csv, sqlite3, sys
 from pathlib import Path
 
+from eintrag import zf_lesen
+
 ROOT = Path(__file__).resolve().parent.parent
 
 
-def load(con, table, path, jahr=None):
-    if not path.exists():
-        return 0
-    with path.open(newline="", encoding="utf-8") as f:
-        rows = list(csv.DictReader(f))
+def load(con, table, path, jahr=None, rows=None):
+    if rows is None:
+        if not path.exists():
+            return 0
+        with path.open(newline="", encoding="utf-8") as f:
+            rows = list(csv.DictReader(f))
     if jahr is not None:
         rows = [r for r in rows if r.get("jahr") in (None, "", str(jahr))]
     if not rows:
@@ -30,7 +33,9 @@ def build(jahr):
     con.executescript((ROOT / "schema.sql").read_text(encoding="utf-8"))
     n_vnb = load(con, "vnb", ROOT / "data" / "vnb.csv")
     n_pb = load(con, "preisblatt", ROOT / "data" / str(jahr) / "preisblatt.csv", jahr)
-    n_zf = load(con, "m3_zeitfenster", ROOT / "data" / str(jahr) / "m3_zeitfenster.csv", jahr)
+    # CSV kompakt (eine Zeile je Quartal), Tabelle normalisiert (eine Zeile je Fenster)
+    zf = ROOT / "data" / str(jahr) / "m3_zeitfenster.csv"
+    n_zf = load(con, "m3_zeitfenster", zf, jahr, zf_lesen(zf))
     con.commit()
     con.close()
     print(f"{out.name}: {n_vnb} VNB, {n_pb} Preisblätter, {n_zf} Zeitfenster")

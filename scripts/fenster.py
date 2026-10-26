@@ -141,7 +141,8 @@ if __name__ == "__main__":
     sys.path.insert(0, str(ROOT / "scripts"))
     if sys.argv[1] == "test":
         soll = {}
-        for r in csv.DictReader(open(ROOT / "data/2026/m3_zeitfenster.csv")):
+        from eintrag import zf_lesen
+        for r in zf_lesen(ROOT / "data/2026/m3_zeitfenster.csv"):
             s = soll.setdefault(r["vnb_id"], {"q": set(), "HT": set(), "NT": set()})
             s["q"].add(int(r["quartal"]))
             if r["stufe"] in ("HT", "NT"):

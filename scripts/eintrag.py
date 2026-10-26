@@ -18,7 +18,7 @@ PB = ["vnb_id", "jahr", "gueltig_ab", "status", "preisblatt_url", "quelle_seite_
       "std_grundpreis_eur_a", "std_arbeitspreis_ct_kwh", "m1_reduzierung_eur_a", "m2_grundpreis_eur_a",
       "m2_arbeitspreis_ct_kwh", "m3_ht_ct_kwh", "m3_st_ct_kwh", "m3_nt_ct_kwh", "m3_quartale_aktiv",
       "abgerufen_am", "hinweise"]
-ZF = ["vnb_id", "jahr", "quartal", "stufe", "von", "bis"]
+ZF = ["vnb_id", "jahr", "quartal", "ht", "nt"]
 
 
 def read(path):
@@ -34,6 +34,29 @@ def write(path, fields, rows):
         w = csv.DictWriter(f, fields)
         w.writeheader()
         w.writerows(rows)
+
+
+def zf_lesen(path):
+    """m3_zeitfenster.csv (eine Zeile je VNB, Jahr und Quartal; ht/nt als "von-bis|von-bis") in
+    Einzelfenster {vnb_id, jahr, quartal, stufe, von, bis} auflösen, wie in der SQLite-Tabelle."""
+    out = []
+    for r in read(path):
+        for stufe in ("HT", "NT"):
+            for span in filter(None, r[stufe.lower()].split("|")):
+                von, bis = span.split("-")
+                out.append({"vnb_id": r["vnb_id"], "jahr": r["jahr"], "quartal": r["quartal"], "stufe": stufe,
+                            "von": von, "bis": bis})
+    return out
+
+
+def zf_schreiben(path, fenster):
+    """Einzelfenster zu einer Zeile je VNB, Jahr und Quartal zusammenfassen (ST ist die Restzeit)."""
+    zeilen = {}
+    for f in sorted(fenster, key=lambda r: (int(r["vnb_id"]), int(r["quartal"]), r["stufe"], r["von"])):
+        z = zeilen.setdefault((f["vnb_id"], str(f["jahr"]), str(f["quartal"])), {"HT": [], "NT": []})
+        z[f["stufe"]].append(f"{f['von']}-{f['bis']}")
+    write(path, ZF, [{"vnb_id": v, "jahr": j, "quartal": q, "ht": "|".join(z["HT"]), "nt": "|".join(z["NT"])}
+                     for (v, j, q), z in zeilen.items()])
 
 
 def num(v):
@@ -70,7 +93,7 @@ def main():
         rows = [r for r in read(pb_path) if not (r["vnb_id"] == vid and r["jahr"] == str(jahr))] + [row]
         rows.sort(key=lambda r: int(r["vnb_id"]))
         write(pb_path, PB, rows)
-        zrows = [r for r in read(zf_path) if not (r["vnb_id"] == vid and r["jahr"] == str(jahr))]
+        zrows = [r for r in zf_lesen(zf_path) if not (r["vnb_id"] == vid and r["jahr"] == str(jahr))]
         for qs, stufen in fenster.items():
             for q in qs.split(","):
                 for stufe, spans in stufen.items():
@@ -78,8 +101,7 @@ def main():
                         von, bis = span.split("-")
                         zrows.append({"vnb_id": vid, "jahr": jahr, "quartal": int(q), "stufe": stufe,
                                       "von": von, "bis": "24:00" if bis == "00:00" else bis})
-        zrows.sort(key=lambda r: (int(r["vnb_id"]), int(r["quartal"]), r["stufe"], r["von"]))
-        write(zf_path, ZF, zrows)
+        zf_schreiben(zf_path, zrows)
         v = vnb_by_id[vid]
         if e.get("einstieg") or (quelle and not v.get("netzentgelt_seite_url")):
             v["netzentgelt_seite_url"] = e.get("einstieg") or quelle

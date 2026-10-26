@@ -4,12 +4,27 @@ Eine Zeile je VNB auf stdin:
   <vnb_id> q=1,4 HT=17:00-19:00 NT=00:00-06:00,22:00-24:00 [ht=7.1] [nt=1.2] [gp=90] [ap=..] [m1=..] [m2=..] [! Hinweis]
 q=0 bedeutet: keine Zeitfenster gefunden. Ohne q werden alle Quartale angenommen (mit Hinweis).
 """
-import json, re, subprocess, sys
+import datetime, json, re, subprocess, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 jahr = int(sys.argv[1])
 eintraege = []
+
+
+def status(v):
+    """Status aus URL; für ein künftiges Jahr zusätzlich aus dem Text, im Zweifel vorläufig."""
+    t = (ROOT / ".cache" / "text" / f"{v['sha']}.txt")
+    t = t.read_text()[:5000] if t.exists() else ""
+    if re.search(r"vorl|voraus", v["url"], re.I) and not re.search(r"endg|final", v["url"], re.I):
+        return "vorlaeufig"
+    if re.search(r"endg|final", v["url"], re.I) or jahr <= datetime.date.today().year:
+        return "endgueltig"
+    if re.search(r"vorläufig|voraussichtlich", t, re.I) or not re.search(r"endgültig|final", t, re.I):
+        return "vorlaeufig"
+    return "endgueltig"
+
+
 for zeile in sys.stdin:
     zeile = zeile.strip()
     if not zeile or zeile.startswith("#"):
@@ -42,8 +57,7 @@ for zeile in sys.stdin:
         hinweise.append("M2 nicht als 40 % des AP bestätigt")
     eintraege.append({
         "vnb_id": vid, "jahr": jahr, "url": v["url"], "quelle": v["quelle"], "sha": v["sha"],
-        "status": kv.get("status") or ("vorlaeufig" if re.search(r"vorl|voraus", v["url"], re.I)
-                                       and not re.search(r"endg|final", v["url"], re.I) else "endgueltig"),
+        "status": kv.get("status") or status(v),
         "std_gp": v.get("std_gp"), "std_ap": v["std_ap"], "m1": v["m1"], "m2_gp": 0 if v.get("m2_ap") else None,
         "m2_ap": v.get("m2_ap"),
         "m3": {"ht": v.get("ht"), "st": v["std_ap"] if v.get("ht") else None, "nt": v.get("nt"), "fenster": fenster},

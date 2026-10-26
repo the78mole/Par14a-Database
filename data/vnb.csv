@@ -32,7 +32,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 49,Elektrizitätsgenossenschaft Karlstein eG,,https://www.eg-karlstein.de,,,,https://www.eg-karlstein.de/index.php/netzentgelte/,2026-10-26,vnbdigital
 50,Stadtwerke Bad Reichenhall KU,,https://www.stadtwerke-bad-reichenhall.de,83435,Bad Reichenhall,"Mittelspannung,Niederspannung",https://www.stadtwerke-bad-reichenhall.de/netz,2026-10-26,vnbdigital
 53,Stadtwerke Bad Säckingen GmbH,,https://sws-energie.de/,79713,Bad Säckingen,"Mittelspannung,Niederspannung",https://sws-energie.de/portfolio/unsere-netze/,2026-10-26,vnbdigital
-55,Stadtwerke Bad Salzuflen GmbH,,https://www.stwbs.de/,32108,Bad Salzuflen,"Mittelspannung,Niederspannung",,,vnbdigital
+55,Stadtwerke Bad Salzuflen GmbH,,https://www.stwbs.de/,32108,Bad Salzuflen,"Mittelspannung,Niederspannung",https://www.stwbs.de/netze-und-netzanschluss/stromnetz/netzentgelte-netzzugang,2026-10-26,vnbdigital
 56,Stadtwerke Bad Sooden-Allendorf,,https://www.stadtwerke-bsa.de,37242,Bad Sooden-Allendorf,"Mittelspannung,Niederspannung",https://stadtwerke-bsa.de/stadtwerke/strom-netz/netzentgelte,2026-10-26,vnbdigital
 57,Stadtwerke Bad Tölz GmbH,,https://www.stw-toelz.de,83646,Bad Tölz,"Mittelspannung,Niederspannung",https://stw-toelz.de/netze/stromnetz/netzzugang-entgelte,2026-10-26,vnbdigital
 58,Stadtwerke Bad Windsheim,,https://www.sw-bw.de,91438,Bad Windsheim,"Mittelspannung,Niederspannung",https://netze.sw-bw.de/strom-netz/netzentgelte,2026-10-26,vnbdigital

@@ -3,7 +3,7 @@ name: Datenbanken bauen und veröffentlichen
 on:
   push:
     branches: [main]
-    paths: ["data/**", "schema.sql", "scripts/build_db.py", ".github/workflows/release.yml"]
+    paths: ["data/**", "schema.sql", "scripts/build_db.py", "scripts/eintrag.py", ".github/workflows/release.yml"]
   workflow_dispatch:
 
 permissions:

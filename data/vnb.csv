@@ -1,6 +1,6 @@
 vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letzte_pruefung,quelle_stammdaten
 3,Regionetz GmbH,,https://www.regionetz.de,52070,Aachen,"Hochspannung,Mittelspannung,Niederspannung",https://www.regionetz.de/strom-netzentgelte,2026-10-26,vnbdigital
-4,Stadtwerke Aalen GmbH,,https://www.sw-aalen.de/netz/veroeffentlichungspflichten,73433,Aalen,"Mittelspannung,Niederspannung",,,vnbdigital
+4,Stadtwerke Aalen GmbH,,https://www.sw-aalen.de/netz/veroeffentlichungspflichten,73433,Aalen,"Mittelspannung,Niederspannung",https://www.sw-aalen.de/netz/veroeffentlichungspflichten,2026-10-26,vnbdigital
 6,Stadtwerke Achim AG,,https://www.stadtwerke-achim.de/,28832,Achim,"Mittelspannung,Niederspannung",https://www.stadtwerke-achim.de/de/Netz-Hausanschluesse/Privatkunden/Service/Veroeffentlichungspflichten-Strom/,2026-10-26,vnbdigital
 8,LokalWerke GmbH,,https://www.lokalwerke.de/,48683,Ahaus,"Niederspannung,Mittelspannung",https://lokalwerke.de/netz/stromnetz/netzzugang-netzentgelte/,2026-10-26,vnbdigital
 9,Netzgesellschaft Ahlen mbH,,https://www.netzgesellschaft-ahlen.de,59229,Ahlen,"Mittelspannung,Niederspannung",https://www.netzgesellschaft-ahlen.de/netzgesellschaft/unsere-netze/stromnetz/netzzugang-entgelte-strom.html,2026-10-26,vnbdigital
@@ -153,7 +153,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 261,Stadtwerke Hameln Weserbergland GmbH,,https://www.stwhw-netze.de,31785,Hameln,"Mittelspannung,Niederspannung",https://www.stwhw-netze.de/marktpartner/netznutzung/netzentgelte,2026-10-26,vnbdigital
 262,Energie- und Wasserversorgung Hamm GmbH,,http://www.ewv-hamm-netz.de,59065,Hamm,"Mittelspannung,Niederspannung",https://www.ewv-hamm-netz.de/fuer-partnerfirmen/lieferanten,2026-10-26,vnbdigital
 269,enercity Netz GmbH,,https://www.enercity-netz.de,30459,Hannover,"Hochspannung,Mittelspannung,Niederspannung",https://www.enercity-netz.de/marktpartner/netznutzungskunden,2026-10-26,vnbdigital
-270,Versorgungsbetriebe Hann. Münden GmbH,,https://www.versorgungsbetrieb.de,34346,Hann. Münden,"Niederspannung,Mittelspannung",,,vnbdigital
+270,Versorgungsbetriebe Hann. Münden GmbH,,https://www.versorgungsbetriebe.de,34346,Hann. Münden,"Niederspannung,Mittelspannung",https://www.versorgungsbetrieb.de,2026-10-26,vnbdigital
 271,Gebrüder Eirich GmbH & Co KG,,https://www.gebruedereirich.de,74736,Hardheim,"Mittelspannung,Niederspannung",https://www.gebruedereirich.de/Netznutzung/Preisbl%C3%A4tter.html,2026-10-26,vnbdigital
 272,Stadtwerke Haslach Elektrizitäts- und Wasserwerk,,https://www.stadtwerke-haslach.de,77716,Haslach,"Mittelspannung,Niederspannung",https://www.stadtwerke-haslach.de/de/netze/netznutzung/netzentgelte.php,2026-10-26,vnbdigital
 273,Stadtwerk Haßfurt GmbH,,https://www.stwhas.de,97437,Haßfurt,"Mittelspannung,Niederspannung",https://stwhas.de/strom/netznutzung-strom/,2026-10-26,vnbdigital

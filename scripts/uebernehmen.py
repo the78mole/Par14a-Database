@@ -35,7 +35,8 @@ for zeile in sys.stdin:
         hinweise.append("M2 nicht als 40 % des AP bestätigt")
     eintraege.append({
         "vnb_id": vid, "jahr": jahr, "url": v["url"], "quelle": v["quelle"], "sha": v["sha"],
-        "status": "vorlaeufig" if v.get("vorlaeufig") and kv.get("status") != "endgueltig" else kv.get("status", "endgueltig"),
+        "status": kv.get("status") or ("vorlaeufig" if re.search(r"vorl|voraus", v["url"], re.I)
+                                       and not re.search(r"endg|final", v["url"], re.I) else "endgueltig"),
         "std_gp": v.get("std_gp"), "std_ap": v["std_ap"], "m1": v["m1"], "m2_gp": 0 if v.get("m2_ap") else None,
         "m2_ap": v.get("m2_ap"),
         "m3": {"ht": v.get("ht"), "st": v["std_ap"] if v.get("ht") else None, "nt": v.get("nt"), "fenster": fenster},

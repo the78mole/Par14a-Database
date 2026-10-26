@@ -134,6 +134,8 @@ if __name__ == "__main__":
         treffer = None
         for sc, u, p in cands[:8]:
             name = u.rsplit("/", 1)[-1]
+            if any(str(y) in name for y in range(jahr + 1, 2031)):
+                continue
             if sc < 0 or (re.search(r"20(2[0-9]|3[0-9])", name) and str(jahr) not in name
                           and not re.search(rf"{jahr % 100:02d}0101|0101{jahr % 100:02d}", name)):
                 continue

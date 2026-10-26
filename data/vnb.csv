@@ -518,7 +518,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 980,Gemeindewerke Pleinfeld,,https://www.gw-pleinfeld.de/,91785,Pleinfeld,"Mittelspannung,Niederspannung",https://gw-pleinfeld.de/strom/netze/,2026-10-26,vnbdigital
 981,Städtische Werke Borna Netz GmbH,,https://www.stadtwerke-borna-netz.de,04552,Borna,"Mittelspannung,Niederspannung",,,vnbdigital
 982,Stadtwerke Schkeuditz GmbH,,https://www.stadtwerke-schkeuditz.de,04435,Schkeuditz,"Mittelspannung,Niederspannung",https://www.stadtwerke-schkeuditz.de/netze/stromnetz,2026-10-26,vnbdigital
-983,Stadtwerke Glauchau Dienstleistungsgesellschaft,,https://www.stadtwerke-glauchau.de,08371,Glauchau,"Mittelspannung,Niederspannung",,,vnbdigital
+983,Stadtwerke Glauchau Dienstleistungsgesellschaft,,https://www.stadtwerke-glauchau.de,08371,Glauchau,"Mittelspannung,Niederspannung",https://www.enwg-veroeffentlichungen.de/featureGips/Gips?SessionMandant=sw_glauchau&Anwendung=EnWGKnotenAnzeigen&PrimaryId=433723&Mandantkuerzel=sw_glauchau&Navigation=J,2026-10-26,vnbdigital
 984,Stadtwerke Bad Bramstedt Netz GmbH,,https://www.badbramstedtnetz.de,24576,Bad Bramstedt,"Mittelspannung,Niederspannung",,,vnbdigital
 987,Stadtwerke Walldorf GmbH & Co. KG,,https://www.stadtwerke-walldorf.de,69190,Walldorf,"Mittelspannung,Niederspannung",https://netze.stadtwerke-walldorf.de/stromnetz-2/,2026-10-26,vnbdigital
 988,Stadtwerke Fellbach GmbH,,https://www.stadtwerke-fellbach.de/,70736,Fellbach,"Mittelspannung,Niederspannung",https://www.stadtwerke-fellbach.de/de/Kopfnavigation/Netze1/,2026-10-26,vnbdigital

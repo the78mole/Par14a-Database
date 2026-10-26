@@ -54,6 +54,11 @@ def crawl(start, maxpages):
         if "html" not in ct:
             continue
         soup = BeautifulSoup(r.content, "lxml")
+        # PDF-Pfade, die nur in Skript-Daten stehen (z. B. Akkordeons, die per JS gefüllt werden)
+        for m in re.finditer(r"""["'(]((?:https?:)?[\w/.%~:-]*?\.pdf(?:\?[^"'\s\\]*)?)["'\\]""", r.text.replace("\\/", "/"), re.I):
+            h = up.urljoin(r.url, m.group(1))
+            if PDFKEY.search(up.unquote(h)) and not NEG.search(up.unquote(h).rsplit("/", 1)[-1]):
+                pdfs.setdefault(h, {"linktext": "", "quelle_seite_url": r.url})
         for a in soup.find_all("a", href=True):
             h = up.urljoin(r.url, a["href"].strip()).split("#")[0]
             if not h.startswith("http"):
@@ -77,6 +82,19 @@ def analyse(url):
         r = requests.get(url, headers=UA, timeout=60)
     except requests.RequestException as e:
         return {"fehler": str(e)}
+    if not r.content.startswith(b"%PDF") and "html" in r.headers.get("content-type", ""):
+        # Download-Zwischenseiten (z. B. WordPress Download Monitor): dort verlinktes PDF nehmen
+        soup = BeautifulSoup(r.content, "lxml")
+        for a in soup.find_all("a", href=True):
+            h = up.urljoin(r.url, a["href"])
+            if re.search(r"\.pdf|dlm|download", h, re.I) and h != url:
+                try:
+                    r2 = requests.get(h, headers=UA, timeout=60)
+                except requests.RequestException:
+                    continue
+                if r2.content.startswith(b"%PDF"):
+                    r = r2
+                    break
     if not r.content.startswith(b"%PDF"):
         return {"fehler": "kein PDF"}
     sha = hashlib.sha256(r.content).hexdigest()

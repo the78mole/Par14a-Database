@@ -8,6 +8,14 @@ Datenbank der §14a-EnWG-Netzentgelte (Modul 1, 2, 3) für steuerbare Verbrauchs
 
 Die fertigen Datenbanken liegen in den Releases, je Jahr ein Release `daten-<jahr>` mit `par14a_<jahr>.sqlite`. Sie werden bei jeder Änderung in `data/` automatisch neu gebaut.
 
+## Webseite
+
+Unter `web/` liegt eine kleine statische Abfrageseite (Suche nach Netzbetreiber, PLZ oder Ort, Jahr wählbar, Modul 1/2/3 mit Zeitfenstern und Links aufs Preisblatt). Sie wird bei jeder Änderung in `data/` per GitHub Actions auf GitHub Pages veröffentlicht (Einstellung *Settings → Pages → Source: GitHub Actions*). Lokal ansehen:
+
+```sh
+python scripts/build_web.py && python -m http.server -d dist/web
+```
+
 ## Preisblatt einreichen
 
 Preisblätter für VNBs, die noch nicht in der Datenbank enthalten sind, oder neuere Fassungen bereits erfasster VNBs können über das Issue-Formular **[Neues Preisblatt einreichen](https://github.com/the78mole/Par14a-Database/issues/new?template=preisblatt.yml)** eingereicht werden. Anzugeben sind VNB, Geltungsjahr, Status, die Download-URL des PDFs und die Seite, auf der es verlinkt ist. Das PDF selbst bitte per Drag & Drop als Anhang ins Issue ziehen. Die Preise für Modul 1, 2 und 3 sind optional, sonst werden sie aus dem PDF ausgelesen.
@@ -23,6 +31,7 @@ Preisblätter für VNBs, die noch nicht in der Datenbank enthalten sind, oder ne
 | `scripts/fetch_vnb.py` | aktualisiert `data/vnb.csv` aus vnbdigital (nutzt [vnbdigital-client](https://github.com/the78mole/vnbdigital-client)) |
 | `scripts/find_preisblatt.py` | sucht auf der VNB-Webseite nach Preisblatt-PDFs, zuerst auf der gespeicherten Einstiegsseite |
 | `scripts/build_db.py` | baut `dist/par14a_<jahr>.sqlite` |
+| `web/index.html`, `scripts/build_web.py` | Abfrageseite; das Skript baut sie mit `daten/<jahr>.json` nach `dist/web` |
 
 Alle Preise sind netto, wie im Preisblatt. `status` ist `endgueltig`, `vorlaeufig` oder `nicht_gefunden`.
 

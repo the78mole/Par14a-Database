@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>§14a-Netzentgelte</title>
+<meta name="description" content="Netzentgelte nach §14a EnWG (Modul 1, 2, 3) für steuerbare Verbrauchseinrichtungen aller deutschen Verteilnetzbetreiber">
+<style>
+:root {
+  --bg: #f7f7f5; --card: #fff; --text: #1d1d1b; --muted: #6b6b66; --line: #e2e2dc; --accent: #2457a6;
+  --ht: #d9534f; --st: #d8d4c8; --nt: #3a9a5b; --warn: #b7791f;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #161615; --card: #20201e; --text: #ecece8; --muted: #a0a09a; --line: #34342f; --accent: #7aa7ee;
+    --ht: #e0716d; --st: #4a4842; --nt: #5cbf7d; --warn: #e0a84a; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 960px; margin: 0 auto; padding: 24px 16px 48px; }
+h1 { font-size: 1.5rem; margin: 0 0 4px; }
+h2 { font-size: 1.2rem; margin: 0 0 4px; }
+h3 { font-size: .95rem; margin: 20px 0 8px; }
+a { color: var(--accent); }
+.sub, .muted { color: var(--muted); }
+.controls { display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0 12px; }
+input[type=search], select { font: inherit; color: inherit; background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; }
+input[type=search] { flex: 1 1 260px; min-width: 0; }
+label.toggle { display: flex; align-items: center; gap: 6px; padding: 0 4px; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; }
+#treffer { list-style: none; margin: 0; padding: 0; }
+#treffer li { border-top: 1px solid var(--line); }
+#treffer li:first-child { border-top: 0; }
+#treffer a { display: flex; justify-content: space-between; gap: 12px; padding: 10px 14px; text-decoration: none; color: inherit; }
+#treffer a:hover, #treffer a:focus { background: var(--bg); }
+.badge { font-size: .8rem; white-space: nowrap; color: var(--muted); }
+.badge.fehlt { color: var(--warn); }
+#detail { padding: 20px; margin-top: 16px; }
+#detail[hidden], #treffer[hidden] { display: none; }
+table { border-collapse: collapse; width: 100%; }
+td, th { text-align: left; padding: 6px 8px; border-top: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; width: 45%; }
+td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.links { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 8px; }
+.zf { display: grid; grid-template-columns: 2.5em 1fr; gap: 6px 10px; align-items: center; }
+.bar { position: relative; height: 22px; background: var(--st); border-radius: 4px; overflow: hidden; }
+.bar span { position: absolute; top: 0; bottom: 0; }
+.bar .ht { background: var(--ht); } .bar .nt { background: var(--nt); }
+.achse { position: relative; height: 1.2em; font-size: .75rem; color: var(--muted); }
+.achse span { position: absolute; transform: translateX(-50%); }
+.fenster { font-size: .85rem; color: var(--muted); grid-column: 2; margin-top: -4px; }
+.legende { display: flex; flex-wrap: wrap; gap: 4px 14px; white-space: nowrap; font-size: .85rem; margin-top: 8px; }
+.legende i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; vertical-align: -1px; margin-right: 4px; }
+footer { margin-top: 32px; font-size: .85rem; color: var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>§14a-Netzentgelte</h1>
+  <div class="sub">Modul 1, 2 und 3 für steuerbare Verbrauchseinrichtungen (Wärmepumpe, Wallbox, Speicher) der deutschen Verteilnetzbetreiber</div>
+
+  <div class="controls">
+    <input type="search" id="suche" placeholder="Netzbetreiber, PLZ oder Ort" autocomplete="off" aria-label="Suche">
+    <select id="jahr" aria-label="Jahr"></select>
+    <label class="toggle"><input type="checkbox" id="brutto"> brutto (19 % USt)</label>
+  </div>
+  <div id="info" class="muted"></div>
+
+  <ul id="treffer" class="card" hidden></ul>
+  <section id="detail" class="card" hidden></section>
+
+  <footer>
+    Alle Angaben ohne Gewähr, maßgeblich ist das Preisblatt des Netzbetreibers. Preise im Preisblatt sind netto.
+    PLZ und Ort bezeichnen den Sitz des Netzbetreibers, nicht sein Netzgebiet.
+    Daten und SQLite-Download: <a href="https://github.com/the78mole/Par14a-Database">GitHub</a> ·
+    <a href="https://github.com/the78mole/Par14a-Database/issues/new?template=preisblatt.yml">Preisblatt einreichen</a>
+  </footer>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+const el = (tag, attrs = {}, ...kids) => {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) e[k] = v;
+  e.append(...kids.filter(k => k != null));
+  return e;
+};
+const sicher = url => /^https?:\/\//i.test(url || "") ? url : null;
+const STATUS = { endgueltig: "endgültig", vorlaeufig: "vorläufig" };
+let daten = [], jahr = null;
+
+function zahl(v, einheit) {
+  if (v == null) return "–";
+  if ($("brutto").checked) v *= 1.19;
+  return v.toLocaleString("de-DE", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " " + einheit;
+}
+
+function norm(s) { return (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/ß/g, "ss"); }
+
+function suchen() {
+  const q = norm($("suche").value.trim());
+  const liste = $("treffer");
+  liste.replaceChildren();
+  if (!q) { liste.hidden = true; return; }
+  const worte = q.split(/\s+/);
+  const t = daten.filter(v => {
+    const h = norm(`${v.name} ${v.ort} ${v.vnb_id}`);
+    return worte.every(w => /^\d+$/.test(w) ? (v.plz || "").startsWith(w) || v.vnb_id === w : h.includes(w));
+  });
+  for (const v of t.slice(0, 50)) {
+    liste.append(el("li", {}, el("a", { href: `#${jahr}/${v.vnb_id}` },
+      el("span", {}, v.name, el("span", { className: "muted" }, ` · ${v.plz || ""} ${v.ort || ""}`)),
+      el("span", { className: "badge" + (v.pb ? "" : " fehlt") }, v.pb ? (STATUS[v.pb.status] || v.pb.status) : "noch nicht erfasst"))));
+  }
+  if (t.length > 50) liste.append(el("li", { className: "muted", style: "padding:10px 14px" }, `… ${t.length - 50} weitere, bitte genauer suchen`));
+  if (!t.length) liste.append(el("li", { className: "muted", style: "padding:10px 14px" }, "Kein Treffer"));
+  liste.hidden = false;
+}
+
+function minuten(hhmm) { const [h, m] = hhmm.split(":").map(Number); return h * 60 + m; }
+
+function balken(q) {
+  const bar = el("div", { className: "bar" });
+  for (const s of ["ht", "nt"]) for (const f of (q && q[s]) || []) {
+    const [a, b] = f.split("-").map(minuten);
+    const teile = a < b ? [[a, b]] : [[a, 1440], [0, b]];
+    for (const [x, y] of teile) {
+      bar.append(el("span", { className: s, title: `${s.toUpperCase()} ${f}`, style: `left:${x / 14.4}%;width:${(y - x) / 14.4}%` }));
+    }
+  }
+  return bar;
+}
+
+function zeitfenster(pb) {
+  const box = el("div", { className: "zf" });
+  const achse = el("div", { className: "achse" });
+  for (const h of [0, 6, 12, 18, 24]) achse.append(el("span", { style: `left:${h / 24 * 100}%` }, `${h}`));
+  box.append(el("span"), achse);
+  for (const nr of ["1", "2", "3", "4"]) {
+    const q = pb.zf && pb.zf[nr];
+    box.append(el("strong", {}, `Q${nr}`), balken(q));
+    const text = q ? [q.ht.length && `HT ${q.ht.join(", ")}`, q.nt.length && `NT ${q.nt.join(", ")}`].filter(Boolean).join(" · ")
+                   : "keine Zeitfenster, ganztägig Standardtarif";
+    box.append(el("div", { className: "fenster" }, text || "ganztägig Standardtarif"));
+  }
+  return [box, el("div", { className: "legende" },
+    el("span", {}, el("i", { style: "background:var(--ht)" }), "HT Hochtarif"),
+    el("span", {}, el("i", { style: "background:var(--st)" }), "ST Standardtarif"),
+    el("span", {}, el("i", { style: "background:var(--nt)" }), "NT Niedertarif"))];
+}
+
+function zeile(name, wert) { return el("tr", {}, el("th", {}, name), el("td", { className: "num" }, wert)); }
+
+function zeigen(id) {
+  const v = daten.find(x => x.vnb_id === id);
+  const d = $("detail");
+  if (!v) { d.hidden = true; return; }
+  const pb = v.pb;
+  const link = (text, url) => sicher(url) && el("a", { href: url, target: "_blank", rel: "noopener" }, text);
+  d.replaceChildren(
+    el("h2", {}, v.name),
+    el("div", { className: "muted" }, `${v.plz || ""} ${v.ort || ""} · vnbdigital-ID ${v.vnb_id}`),
+    el("div", { className: "links" },
+      link("Preisblatt (PDF)", pb && pb.preisblatt_url), link("Quellseite", pb && pb.quelle_seite_url),
+      link("Netzentgelte", v.netzentgelt_seite_url), link("Webseite", v.website)));
+  if (!pb) {
+    d.append(el("p", {}, `Für ${jahr} ist noch kein §14a-Preisblatt erfasst. `,
+      el("a", { href: "https://github.com/the78mole/Par14a-Database/issues/new?template=preisblatt.yml" }, "Preisblatt einreichen")));
+  } else {
+    d.append(
+      el("p", {}, `Status: ${STATUS[pb.status] || pb.status || "–"}`, pb.gueltig_ab ? ` · gültig ab ${new Date(pb.gueltig_ab).toLocaleDateString("de-DE")}` : "",
+        pb.seite ? ` · Seite ${pb.seite}` : "", pb.abgerufen_am ? ` · abgerufen am ${new Date(pb.abgerufen_am).toLocaleDateString("de-DE")}` : ""),
+      el("h3", {}, "Standard-Netzentgelt (Niederspannung ohne Leistungsmessung)"),
+      el("table", {}, zeile("Grundpreis", zahl(pb.std_grundpreis_eur_a, "€/a")), zeile("Arbeitspreis", zahl(pb.std_arbeitspreis_ct_kwh, "ct/kWh"))),
+      el("h3", {}, "Modul 1: pauschale Reduzierung"),
+      el("table", {}, zeile("Reduzierung", zahl(pb.m1_reduzierung_eur_a, "€/a"))),
+      el("h3", {}, "Modul 2: reduzierter Arbeitspreis (separater Zähler)"),
+      el("table", {}, zeile("Grundpreis", zahl(pb.m2_grundpreis_eur_a, "€/a")), zeile("Arbeitspreis", zahl(pb.m2_arbeitspreis_ct_kwh, "ct/kWh"))),
+      el("h3", {}, "Modul 3: zeitvariables Netzentgelt (zusätzlich zu Modul 1)"),
+      el("table", {}, zeile("HT Hochtarif", zahl(pb.m3_ht_ct_kwh, "ct/kWh")), zeile("ST Standardtarif", zahl(pb.m3_st_ct_kwh, "ct/kWh")),
+        zeile("NT Niedertarif", zahl(pb.m3_nt_ct_kwh, "ct/kWh"))),
+      ...(pb.m3_ht_ct_kwh != null || pb.zf ? [el("h3", {}, "Zeitfenster Modul 3"), ...zeitfenster(pb)] : []),
+      pb.hinweise ? el("p", { className: "muted" }, `Hinweis: ${pb.hinweise}`) : null);
+  }
+  d.hidden = false;
+  document.title = `${v.name} · §14a-Netzentgelte ${jahr}`;
+}
+
+async function laden(j) {
+  jahr = j;
+  $("jahr").value = j;
+  daten = await (await fetch(`daten/${j}.json`)).json();
+  daten.sort((a, b) => a.name.localeCompare(b.name, "de"));
+  const n = daten.filter(v => v.pb).length;
+  $("info").textContent = `${j}: ${n} von ${daten.length} Netzbetreibern erfasst`;
+  suchen();
+}
+
+async function route() {
+  const [j, id] = location.hash.slice(1).split("/");
+  if (j && j !== jahr && [...$("jahr").options].some(o => o.value === j)) await laden(j);
+  if (id) { zeigen(id); $("treffer").hidden = true; } else { $("detail").hidden = true; document.title = "§14a-Netzentgelte"; }
+}
+
+(async () => {
+  const jahre = await (await fetch("daten/jahre.json")).json();
+  for (const j of jahre) $("jahr").append(el("option", { value: j }, j));
+  await laden(jahre[0]);
+  await route();
+  window.addEventListener("hashchange", route);
+  $("suche").addEventListener("input", () => { suchen(); $("detail").hidden = true; });
+  $("jahr").addEventListener("change", async e => {
+    const id = location.hash.split("/")[1];
+    await laden(e.target.value);
+    location.hash = id ? `${jahr}/${id}` : jahr;
+  });
+  $("brutto").addEventListener("change", () => { const id = location.hash.split("/")[1]; if (id) zeigen(id); });
+})();
+</script>
+</body>
+</html>

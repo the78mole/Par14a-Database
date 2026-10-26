@@ -178,7 +178,7 @@ function zeigen(id) {
       el("table", {}, zeile("HT Hochtarif", zahl(pb.m3_ht_ct_kwh, "ct/kWh")), zeile("ST Standardtarif", zahl(pb.m3_st_ct_kwh, "ct/kWh")),
         zeile("NT Niedertarif", zahl(pb.m3_nt_ct_kwh, "ct/kWh"))),
       ...(pb.m3_ht_ct_kwh != null || pb.zf ? [el("h3", {}, "Zeitfenster Modul 3"), ...zeitfenster(pb)] : []),
-      pb.hinweise ? el("p", { className: "muted" }, `Hinweis: ${pb.hinweise}`) : null);
+      pb.hinweise ? el("p", { className: "muted" }, `Hinweis: ${pb.hinweise}`) : "");
   }
   d.hidden = false;
   document.title = `${v.name} · §14a-Netzentgelte ${jahr}`;

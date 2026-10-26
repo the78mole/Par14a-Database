@@ -499,7 +499,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 951,Stadtwerke Mühlhausen Netz GmbH,,https://www.stadtwerke-muehlhausen-netz.de/,99974,Mühlhausen,"Mittelspannung,Niederspannung",https://www.stadtwerke-muehlhausen-netz.de/de/Strom/Netzentgelte/,2026-10-26,vnbdigital
 952,Elektroenergieversorgung Cottbus GmbH,,http://www.energienetze-cottbus.de,03046,Cottbus,"Mittelspannung,Niederspannung,Hochspannung",https://www.energienetze-cottbus.de/de/Veroeffentlichungspflichten1/Strom/,2026-10-26,vnbdigital
 953,Stadtwerke Quedlinburg GmbH,,https://www.stadtwerke-quedlinburg.de,06484,Quedlinburg,"Mittelspannung,Niederspannung",https://www.stadtwerke-quedlinburg.de/netznutzung/stromnetz/veroeffentlichungen,2026-10-26,vnbdigital
-956,Stadtwerke Lippstadt GmbH,,https://www.stadtwerke-lippstadt.com/,59557,Lippstadt,"Mittelspannung,Niederspannung",,,vnbdigital
+956,Stadtwerke Lippstadt GmbH,,https://www.stadtwerke-lippstadt.com/,59557,Lippstadt,"Mittelspannung,Niederspannung",https://www.stadtwerke-lippstadt.com/de/Kopfnavigation/Netze/Stromnetz/Netzzugang-Entgelte.html,2026-10-26,vnbdigital
 958,ENA Energienetze Apolda GmbH,,https://www.en-apolda.de,99510,Apolda,"Mittelspannung,Niederspannung",https://www.en-apolda.de/strom_entgelte.php,2026-10-26,vnbdigital
 959,Netzgesellschaft Frankfurt (Oder) mbH,,https://www.netze-ffo.de,15230,Frankfurt (Oder),"Mittelspannung,Niederspannung",,,vnbdigital
 960,Stadtwerke Meerane GmbH,,https://sw-meerane.de,08393,Meerane,"Mittelspannung,Niederspannung",https://sw-meerane.de/netze/stromnetz/netzentgelte-strom.html,2026-10-26,vnbdigital

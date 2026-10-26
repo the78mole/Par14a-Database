@@ -143,7 +143,8 @@ if __name__ == "__main__":
             # erst ohne OCR versuchen; OCR (langsam) nur, wenn der Text nichts hergibt
             t = (CACHE / "text" / f"{p['pdf_sha256']}.txt").read_text()
             # falsch benannte Folgejahr-Preisblätter ("Gültig ab 01. Januar 2027")
-            if re.search(rf"(?:gültig|ab)\s*(?:dem\s*)?0?1\.\s*(?:0?1\.|Januar)\s*{jahr + 1}", t[:4000], re.I):
+            if re.search(rf"(?:gültig|ab)\s*(?:dem\s*)?0?1\.\s*(?:0?1\.|Januar)\s*{jahr + 1}", t[:4000], re.I) or (
+                    re.search(rf"0?1\.\s*0?1\.\s*{jahr + 1}", t[:800]) and not re.search(rf"0?1\.\s*0?1\.\s*{jahr}", t[:800])):
                 continue
             v = analysiere(t, jahr) if re.search(rf"{jahr}", t) else None
             if not v and p.get("bildseiten"):

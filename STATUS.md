@@ -1,6 +1,6 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 16:13 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
@@ -16,8 +16,8 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 | Grund | Anzahl |
 |---|---:|
-| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 134 |
-| kein §14a-Preisblatt auf der Webseite gefunden | 120 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 137 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 117 |
 | §14a-PDF vorhanden, manuelle Prüfung offen | 41 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
@@ -61,6 +61,7 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 318 Stadtwerke Itzehoe GmbH
 - 323 GSW Gemeinschaftsstadtwerke GmbH Kamen - Bönen - Bergkamen
 - 340 Energieversorgung Josef Schmid
+- 348 KU Stadtwerke Klingenberg (AöR)
 - 355 Stadtwerke Konstanz GmbH
 - 371 Stadtwerke Landshut
 - 387 EVL Energieversorgung Limburg GmbH
@@ -109,6 +110,7 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 915 SWS Netze GmbH
 - 924 Stadtwerke Werdau GmbH
 - 939 SSW Netz GmbH
+- 962 Creos Deutschland GmbH
 - 965 Stadtwerke Parchim GmbH
 - 981 Städtische Werke Borna Netz GmbH
 - 983 Stadtwerke Glauchau Dienstleistungsgesellschaft
@@ -126,6 +128,7 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7047 Maintal-Werke GmbH
 - 7048 Gemeindewerke Münchweiler AöR
 - 7053 Gemeindewerke Nümbrecht GmbH
+- 7058 Elektrizitäts-Werk Ottersberg
 - 7062 Stadtwerke Pritzwalk GmbH
 - 7066 Magistrat der Stadt Schlitz -Stadtwerke-
 - 7069 Stadtwerke Staßfurt GmbH
@@ -188,7 +191,6 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 313 Rheinhessische Energie- und Wasserversorgungs-GmbH
 - 337 Stadtwerke Kempen GmbH
 - 346 Licht-, Kraft- und Wasserwerke Kitzingen GmbH
-- 348 KU Stadtwerke Klingenberg (AöR)
 - 399 TraveNetz GmbH
 - 420 Stadtwerke Mengen
 - 429 Stadtwerke Mössingen
@@ -236,7 +238,6 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 921 Stadtwerke Döbeln GmbH
 - 938 REDINET Burgenland GmbH
 - 959 Netzgesellschaft Frankfurt (Oder) mbH
-- 962 Creos Deutschland GmbH
 - 977 Stadtwerke Zittau GmbH
 - 984 Stadtwerke Bad Bramstedt Netz GmbH
 - 7001 Stadtwerke Weißwasser GmbH
@@ -248,7 +249,6 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7024 Elektrizitätswerk Frammersbach
 - 7052 Stadtwerke Niesky GmbH
 - 7055 Stadtwerke OELSNITZ/V. GmbH
-- 7058 Elektrizitäts-Werk Ottersberg
 - 7061 PVU Energienetze GmbH
 - 7080 Stadtwerke Waldkirchen
 - 7082 Stadtwerke Warburg GmbH
@@ -342,21 +342,21 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**588 von 754 VNB erfasst (78 %)**, 166 fehlen noch.
+**595 von 754 VNB erfasst (79 %)**, 159 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 577 |
+| endgueltig | 584 |
 | vorlaeufig | 11 |
-| davon mit Modul-3-Zeitfenstern | 582 |
+| davon mit Modul-3-Zeitfenstern | 589 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 109 |
-| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 36 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 13 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 106 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 35 |
+| §14a-PDF vorhanden, manuelle Prüfung offen | 10 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
 <details><summary>Liste der fehlenden VNB 2026</summary>
@@ -388,7 +388,6 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 313 Rheinhessische Energie- und Wasserversorgungs-GmbH
 - 337 Stadtwerke Kempen GmbH
 - 346 Licht-, Kraft- und Wasserwerke Kitzingen GmbH
-- 348 KU Stadtwerke Klingenberg (AöR)
 - 399 TraveNetz GmbH
 - 420 Stadtwerke Mengen
 - 432 Kommunale Energienetze Inn-Salzach GmbH & Co. KG
@@ -431,7 +430,6 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 921 Stadtwerke Döbeln GmbH
 - 938 REDINET Burgenland GmbH
 - 959 Netzgesellschaft Frankfurt (Oder) mbH
-- 962 Creos Deutschland GmbH
 - 977 Stadtwerke Zittau GmbH
 - 984 Stadtwerke Bad Bramstedt Netz GmbH
 - 7001 Stadtwerke Weißwasser GmbH
@@ -442,7 +440,6 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7024 Elektrizitätswerk Frammersbach
 - 7052 Stadtwerke Niesky GmbH
 - 7055 Stadtwerke OELSNITZ/V. GmbH
-- 7058 Elektrizitäts-Werk Ottersberg
 - 7082 Stadtwerke Warburg GmbH
 - 7085 Stromversorgung Zerbst GmbH & Co. KG
 - 7087 Stadtwerke Hammelburg GmbH
@@ -485,7 +482,6 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 257 Gemeindewerke Halstenbek
 - 277 Stadtwerke Heidelberg Netze GmbH
 - 341 Fürstl. Fugger-Glött'sches Elektrizitätswerk
-- 371 Stadtwerke Landshut
 - 387 EVL Energieversorgung Limburg GmbH
 - 463 SWN Stadtwerke Neustadt GmbH
 - 471 Stadtwerke Norden
@@ -514,10 +510,8 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 **§14a-PDF vorhanden, manuelle Prüfung offen**
 
-- 55 Stadtwerke Bad Salzuflen GmbH
 - 323 GSW Gemeinschaftsstadtwerke GmbH Kamen - Bönen - Bergkamen
 - 355 Stadtwerke Konstanz GmbH
-- 367 Stadtwerke Lambrecht (Pfalz) GmbH
 - 577 Stadtwerke Schneverdingen-Neuenkirchen GmbH
 - 704 SWW Wunsiedel GmbH
 - 706 Stadtwerke Zeil am Main
@@ -525,7 +519,6 @@ Stand: 2026-10-26 15:26 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 772 Stadtwerke Ludwigsfelde GmbH
 - 956 Stadtwerke Lippstadt GmbH
 - 983 Stadtwerke Glauchau Dienstleistungsgesellschaft
-- 7116 Versorgungsbetrieb Waldbüttelbrunn GmbH
 - 7306 Havelstrom Zehdenick GmbH
 
 **Bot-Schutz (HTTP 403), nur manuell**

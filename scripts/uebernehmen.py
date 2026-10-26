@@ -16,7 +16,7 @@ def status(v):
     """Status aus URL; für ein künftiges Jahr zusätzlich aus dem Text, im Zweifel vorläufig."""
     t = (ROOT / ".cache" / "text" / f"{v['sha']}.txt")
     t = t.read_text()[:5000] if t.exists() else ""
-    if re.search(r"vorl|voraus", v["url"], re.I) and not re.search(r"endg|final", v["url"], re.I):
+    if re.search(r"vorl|voraus", v["url"], re.I) and (jahr > datetime.date.today().year or not re.search(r"endg|final", v["url"], re.I)):
         return "vorlaeufig"
     if re.search(r"endg|final", v["url"], re.I) or jahr <= datetime.date.today().year:
         return "endgueltig"

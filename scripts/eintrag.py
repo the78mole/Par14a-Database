@@ -60,7 +60,7 @@ def zf_schreiben(path, fenster):
 
 
 def num(v):
-    return "" if v is None else f"{v:.2f}".rstrip("0").rstrip(".") if isinstance(v, float) else str(v)
+    return "" if v is None else f"{v:.3f}".rstrip("0").rstrip(".") if isinstance(v, float) else str(v)
 
 
 def main():

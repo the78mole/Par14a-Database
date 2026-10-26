@@ -1,6 +1,6 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 18:54 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 19:25 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
@@ -16,9 +16,9 @@ Stand: 2026-10-26 18:54 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 | Grund | Anzahl |
 |---|---:|
-| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 157 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 156 |
 | kein §14a-Preisblatt auf der Webseite gefunden | 93 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 45 |
+| §14a-PDF vorhanden, manuelle Prüfung offen | 46 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
 <details><summary>Liste der fehlenden VNB 2027</summary>
@@ -129,7 +129,6 @@ Stand: 2026-10-26 18:54 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 962 Creos Deutschland GmbH
 - 965 Stadtwerke Parchim GmbH
 - 981 Städtische Werke Borna Netz GmbH
-- 983 Stadtwerke Glauchau Dienstleistungsgesellschaft
 - 988 Stadtwerke Fellbach GmbH
 - 992 Stadtwerke Burg Energienetze GmbH
 - 1023 SVH Stromversorgung Haar GmbH
@@ -308,6 +307,7 @@ Stand: 2026-10-26 18:54 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 761 NETZE Bad Langensalza GmbH
 - 783 Greizer Energienetze GmbH
 - 927 Stadtwerke Meiningen GmbH
+- 983 Stadtwerke Glauchau Dienstleistungsgesellschaft
 - 1087 Westfalen Weser Netz GmbH
 - 7009 Stadtwerke Blankenburg GmbH
 - 7015 Gemeindewerke Bovenden GmbH & Co. KG
@@ -342,21 +342,21 @@ Stand: 2026-10-26 18:54 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**670 von 754 VNB erfasst (89 %)**, 84 fehlen noch.
+**687 von 754 VNB erfasst (91 %)**, 67 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 659 |
-| vorlaeufig | 11 |
-| davon mit Modul-3-Zeitfenstern | 663 |
+| endgueltig | 674 |
+| vorlaeufig | 13 |
+| davon mit Modul-3-Zeitfenstern | 680 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 52 |
-| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 24 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 8 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 43 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 19 |
+| §14a-PDF vorhanden, manuelle Prüfung offen | 5 |
 
 <details><summary>Liste der fehlenden VNB 2026</summary>
 
@@ -373,8 +373,6 @@ Stand: 2026-10-26 18:54 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH
 - 270 Versorgungsbetriebe Hann. Münden GmbH
 - 313 Rheinhessische Energie- und Wasserversorgungs-GmbH
-- 465 Stadtwerke Neustadt in Holstein
-- 470 Stadtwerke Nordfriesland - Netz GmbH
 - 472 Stadtwerke Norderney GmbH
 - 474 Elektrizitäts-Genossenschaft Nordhalben und
 - 500 SWO Netz GmbH
@@ -382,19 +380,12 @@ Stand: 2026-10-26 18:54 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 512 Gemeindewerke Peißenberg KU
 - 562 VSE Verteilnetz GmbH
 - 594 Elektrizitätsgenossenschaft Vogling & Angrenzer eG
-- 615 Stadtwerke Straubing Strom und Gas GmbH
 - 644 Stadtwerke Uelzen GmbH
-- 646 Stadtwerke Unna GmbH
-- 714 Stadtwerke Nettetal GmbH
-- 718 Stadtwerke Roth
 - 742 Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal
 - 751 Stadtwerke Güstrow GmbH
-- 984 Stadtwerke Bad Bramstedt Netz GmbH
 - 7001 Stadtwerke Weißwasser GmbH
 - 7013 Elektrizitätsvereinigung Böbing eG
-- 7020 Stadtwerke Emmerich GmbH
 - 7021 Elektrizitätsgenossenschaft Engelsberg e.G.
-- 7022 Stadtwerke Engen GmbH
 - 7024 Elektrizitätswerk Frammersbach
 - 7052 Stadtwerke Niesky GmbH
 - 7055 Stadtwerke OELSNITZ/V. GmbH
@@ -418,7 +409,6 @@ Stand: 2026-10-26 18:54 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 **§14a-PDF vorhanden, aber nicht eindeutig 2026**
 
 - 44 Stadtwerke Bad Nauheim GmbH
-- 78 GRUPPEN-GAS- UND ELEKTRIZITÄTSWERK BERGSTRASSE AKTIENGESELLSCHAFT
 - 123 Stadtwerke Buxtehude GmbH
 - 141 Stadtwerke Dingolfing GmbH
 - 206 Stadtwerke Fürstenfeldbruck GmbH
@@ -428,17 +418,13 @@ Stand: 2026-10-26 18:54 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 387 EVL Energieversorgung Limburg GmbH
 - 463 SWN Stadtwerke Neustadt GmbH
 - 471 Stadtwerke Norden
-- 476 Stadtwerke Nortorf AöR
 - 522 Stadtwerke Quickborn GmbH
 - 636 Energieversorgung Trossingen GmbH
 - 649 Stadtwerke Uslar GmbH
-- 748 Versorgungsbetriebe Bordesholm GmbH
 - 911 Energie- und Wasserwerke Bautzen GmbH
-- 965 Stadtwerke Parchim GmbH
 - 981 Städtische Werke Borna Netz GmbH
 - 7053 Gemeindewerke Nümbrecht GmbH
 - 7084 Stadtwerke Witzenhausen GmbH
-- 7117 Stadtwerke Waldkirch GmbH
 - 7146 Gemeindewerke Wildeck
 - 7693 BIGGE ENERGIE GmbH & Co. KG
 
@@ -449,8 +435,5 @@ Stand: 2026-10-26 18:54 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 577 Stadtwerke Schneverdingen-Neuenkirchen GmbH
 - 704 SWW Wunsiedel GmbH
 - 706 Stadtwerke Zeil am Main
-- 709 Stadtwerke Zweibrücken GmbH
-- 772 Stadtwerke Ludwigsfelde GmbH
-- 983 Stadtwerke Glauchau Dienstleistungsgesellschaft
 
 </details>

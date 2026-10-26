@@ -33,10 +33,12 @@ Preisblätter für VNBs, die noch nicht in der Datenbank enthalten sind, oder ne
 
 | Pfad | Inhalt |
 |---|---|
-| `schema.sql` | Tabellen `vnb`, `preisblatt`, `m3_zeitfenster` |
+| `schema.sql` | Tabellen `vnb`, `preisblatt`, `m3_zeitfenster`, `rollout_quote` |
 | `data/vnb.csv` | Stammdaten aller VNBs aus [vnbdigital.de](https://www.vnbdigital.de), plus Einstiegsseite für Netzentgelte und Datum der letzten Prüfung |
 | `data/<jahr>/preisblatt.csv` | Preise je VNB und Jahr, mit PDF-URL und verlinkender Seite |
 | `data/<jahr>/m3_zeitfenster.csv` | Modul-3-Zeitfenster: eine Zeile je VNB, Jahr und Quartal; `ht` und `nt` als `von-bis`-Liste mit `\|` getrennt (z. B. `07:00-09:00\|17:00-19:00`), ST ist die übrige Zeit. In der SQLite-Tabelle `m3_zeitfenster` steht jedes Fenster als eigene Zeile (`stufe`, `von`, `bis`). |
+| `data/rollout_quote.csv` | Smart-Meter-Roll-out-Quote (Ausstattung mit intelligenten Messsystemen) des grundzuständigen Messstellenbetreibers je VNB, aus der [BNetzA-Liste](https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/NetzzugangMesswesen/Mess-undZaehlwesen/iMSys/artikel.html), in Prozent mit Stichtag. Steht in jeder Jahres-Datenbank. |
+| `scripts/rollout_quote.py`, `data/rollout_zuordnung.csv` | liest die BNetzA-xlsx ein; Zuordnung über den Namen, abweichende Schreibweisen in der Zuordnungsdatei |
 | `scripts/fetch_vnb.py` | aktualisiert `data/vnb.csv` aus vnbdigital (nutzt [vnbdigital-client](https://github.com/the78mole/vnbdigital-client)) |
 | `scripts/find_preisblatt.py` | sucht auf der VNB-Webseite nach Preisblatt-PDFs, zuerst auf der gespeicherten Einstiegsseite |
 | `scripts/build_db.py` | baut `dist/par14a_<jahr>.sqlite` |

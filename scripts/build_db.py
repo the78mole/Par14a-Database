@@ -32,13 +32,14 @@ def build(jahr):
     con = sqlite3.connect(out)
     con.executescript((ROOT / "schema.sql").read_text(encoding="utf-8"))
     n_vnb = load(con, "vnb", ROOT / "data" / "vnb.csv")
+    n_ro = load(con, "rollout_quote", ROOT / "data" / "rollout_quote.csv")
     n_pb = load(con, "preisblatt", ROOT / "data" / str(jahr) / "preisblatt.csv", jahr)
     # CSV kompakt (eine Zeile je Quartal), Tabelle normalisiert (eine Zeile je Fenster)
     zf = ROOT / "data" / str(jahr) / "m3_zeitfenster.csv"
     n_zf = load(con, "m3_zeitfenster", zf, jahr, zf_lesen(zf))
     con.commit()
     con.close()
-    print(f"{out.name}: {n_vnb} VNB, {n_pb} Preisblätter, {n_zf} Zeitfenster")
+    print(f"{out.name}: {n_vnb} VNB, {n_pb} Preisblätter, {n_zf} Zeitfenster, {n_ro} Roll-out-Quoten")
 
 
 if __name__ == "__main__":

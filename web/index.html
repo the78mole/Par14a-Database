@@ -184,6 +184,26 @@ function anteil(wert, st, stufe) {
     p.toLocaleString("de-DE", { maximumFractionDigits: 0 }) + " %");
 }
 
+const ROLLOUT_INFO = "Ausstattungsquote mit intelligenten Messsystemen (Smart Meter) des grundzuständigen " +
+  "Messstellenbetreibers, wie an die Bundesnetzagentur gemeldet.\n" +
+  "• Pflichteinbaufälle: Verbrauch 6.000–100.000 kWh/a, Erzeuger über 7 kW und §14a-Fälle; Ziel 20 % bis Ende 2025\n" +
+  "• mit optionalen Einbaufällen: zusätzlich freiwillig ausgestattete Messstellen";
+
+function prozent(v) {
+  return v == null ? "–" : v.toLocaleString("de-DE", { minimumFractionDigits: 1, maximumFractionDigits: 1 }) + " %";
+}
+
+function rollout(ro) {
+  if (!ro) return [el("h3", {}, "Smart-Meter-Roll-out"), el("p", { className: "muted" }, "Keine Quote in der BNetzA-Liste zugeordnet.")];
+  const quelle = sicher(ro.quelle_url) && el("a", { href: ro.quelle_url, target: "_blank", rel: "noopener" }, "BNetzA");
+  return [
+    el("h3", {}, `Smart-Meter-Roll-out (Stand ${new Date(ro.stichtag).toLocaleDateString("de-DE")})`,
+      el("span", { className: "info", title: ROLLOUT_INFO, tabIndex: 0, "aria-label": ROLLOUT_INFO }, "i")),
+    el("table", {}, zeile("Pflichteinbaufälle", prozent(ro.quote_pflicht)), zeile("mit optionalen Einbaufällen", prozent(ro.quote_mit_optional))),
+    el("p", { className: "muted" }, `Messstellenbetreiber: ${ro.msb_name}`, ro.kooperation ? " (Quote gilt für eine Kooperation mehrerer Messstellenbetreiber)" : "",
+      ro.hinweise ? ` · ${ro.hinweise}` : "", quelle ? " · Quelle: " : "", quelle)];
+}
+
 function zeigen(id) {
   const v = daten.find(x => x.vnb_id === id);
   const d = $("detail");
@@ -219,6 +239,7 @@ function zeigen(id) {
       ...(pb.m3_ht_ct_kwh != null || pb.zf ? [el("h3", {}, "Zeitfenster Modul 3"), ...zeitfenster(pb)] : []),
       pb.hinweise ? el("p", { className: "muted" }, `Hinweis: ${pb.hinweise}`) : "");
   }
+  d.append(...rollout(v.ro));
   d.hidden = false;
   document.title = `${v.name} · §14a-Netzentgelte ${jahr}`;
 }

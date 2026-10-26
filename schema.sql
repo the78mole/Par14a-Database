@@ -52,3 +52,17 @@ CREATE TABLE IF NOT EXISTS m3_zeitfenster (
   bis      TEXT NOT NULL,                -- "HH:MM" (24:00 = Tagesende)
   FOREIGN KEY (vnb_id, jahr) REFERENCES preisblatt(vnb_id, jahr)
 );
+
+-- Smart-Meter-Roll-out: Ausstattungsquote des grundzuständigen Messstellenbetreibers (gMSB) nach BNetzA,
+-- je VNB der jeweils aktuelle Stand (unabhängig vom Preisblatt-Jahr). Quoten in Prozent.
+CREATE TABLE IF NOT EXISTS rollout_quote (
+  vnb_id              TEXT PRIMARY KEY REFERENCES vnb(vnb_id),
+  stichtag            DATE NOT NULL,     -- Datenstand der Meldung, z. B. 2026-06-30 für H1 2026
+  msb_name            TEXT NOT NULL,     -- Name des gMSB in der BNetzA-Tabelle
+  quote_pflicht       REAL,              -- Ausstattungsquote ohne optionale Einbaufälle (§ 45 MsbG, Ziel 20 % bis Ende 2025)
+  quote_mit_optional  REAL,              -- gesetzliche Ausstattungsquote mit optionalen Einbaufällen
+  kooperation         INTEGER,           -- 1 = Quote gilt für eine Kooperation mehrerer gMSB (§ 45 Abs. 1 S. 3 MsbG)
+  hinweise            TEXT,
+  quelle_url          TEXT,
+  abgerufen_am        DATE
+);

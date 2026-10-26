@@ -33,13 +33,14 @@ label.toggle { display: flex; align-items: center; gap: 6px; padding: 0 4px; }
 #treffer li:first-child { border-top: 0; }
 #treffer a { display: flex; justify-content: space-between; gap: 12px; padding: 10px 14px; text-decoration: none; color: inherit; }
 #treffer a:hover, #treffer a:focus { background: var(--bg); }
-.badge { font-size: .8rem; white-space: nowrap; color: var(--muted); }
+.badge { font-size: .8rem; font-weight: 600; white-space: nowrap; color: var(--muted); padding: 1px 9px; border: 1px solid currentColor; border-radius: 999px; background: color-mix(in srgb, currentColor 12%, transparent); align-self: center; }
 .badge.endgueltig { color: var(--nt); }
 .badge.vorlaeufig { color: var(--warn); }
 .badge.fehlt { color: var(--ht); }
 button.zurueck { font: inherit; color: var(--accent); background: none; border: 1px solid var(--line); border-radius: 8px; padding: 6px 12px; cursor: pointer; margin-bottom: 14px; }
 button.zurueck:hover { background: var(--bg); }
-#detail { padding: 20px; margin-top: 16px; }
+#detail { padding: 20px; margin-top: 16px; position: relative; }
+.statusbox { position: absolute; top: 20px; right: 20px; font-size: .85rem; padding: 3px 10px; }
 #detail[hidden], #treffer[hidden] { display: none; }
 table { border-collapse: collapse; width: 100%; }
 td, th { text-align: left; padding: 6px 8px; border-top: 1px solid var(--line); vertical-align: top; }
@@ -191,6 +192,7 @@ function zeigen(id) {
   const link = (text, url) => sicher(url) && el("a", { href: url, target: "_blank", rel: "noopener" }, text);
   d.replaceChildren(
     el("button", { className: "zurueck", type: "button", onclick: alleZeigen }, "← Alle Netzbetreiber"),
+    el("span", { className: "badge statusbox " + (pb ? pb.status : "fehlt") }, pb ? (STATUS[pb.status] || pb.status) : "nicht erfasst"),
     el("h2", {}, v.name),
     el("div", { className: "muted" }, `${v.plz || ""} ${v.ort || ""} · vnbdigital-ID ${v.vnb_id}`),
     el("div", { className: "links" },
@@ -201,8 +203,8 @@ function zeigen(id) {
       el("a", { href: "https://github.com/the78mole/Par14a-Database/issues/new?template=preisblatt.yml" }, "Preisblatt einreichen")));
   } else {
     d.append(
-      el("p", {}, `Status: ${STATUS[pb.status] || pb.status || "–"}`, pb.gueltig_ab ? ` · gültig ab ${new Date(pb.gueltig_ab).toLocaleDateString("de-DE")}` : "",
-        pb.seite ? ` · Seite ${pb.seite}` : "", pb.abgerufen_am ? ` · abgerufen am ${new Date(pb.abgerufen_am).toLocaleDateString("de-DE")}` : ""),
+      el("p", {}, [pb.gueltig_ab && `gültig ab ${new Date(pb.gueltig_ab).toLocaleDateString("de-DE")}`, pb.seite && `Seite ${pb.seite}`,
+        pb.abgerufen_am && `abgerufen am ${new Date(pb.abgerufen_am).toLocaleDateString("de-DE")}`].filter(Boolean).join(" · ")),
       el("h3", {}, "Standard-Netzentgelt (Niederspannung ohne Leistungsmessung)"),
       el("table", {}, zeile("Grundpreis", zahl(pb.std_grundpreis_eur_a, "€/a")), zeile("Arbeitspreis", zahl(pb.std_arbeitspreis_ct_kwh, "ct/kWh"))),
       el("h3", {}, "Modul 1: pauschale Reduzierung"),

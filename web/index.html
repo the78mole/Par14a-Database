@@ -45,6 +45,12 @@ table { border-collapse: collapse; width: 100%; }
 td, th { text-align: left; padding: 6px 8px; border-top: 1px solid var(--line); vertical-align: top; }
 th { font-weight: 600; width: 45%; }
 td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+td.anteil { width: 5.5em; }
+td.anteil span { display: inline-block; min-width: 4.2em; text-align: center; border-radius: 6px; padding: 0 6px; font-size: .85rem; }
+.ampel-gruen { background: color-mix(in srgb, var(--nt) 22%, transparent); color: var(--nt); }
+.ampel-gelb { background: color-mix(in srgb, var(--warn) 22%, transparent); color: var(--warn); }
+.ampel-rot { background: color-mix(in srgb, var(--ht) 22%, transparent); color: var(--ht); }
+.info { display: inline-block; width: 1.2em; height: 1.2em; line-height: 1.2em; text-align: center; border-radius: 50%; border: 1px solid var(--muted); color: var(--muted); font-size: .75rem; font-weight: 600; cursor: help; margin-left: 6px; vertical-align: 1px; }
 .links { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 8px; }
 .zf { display: grid; grid-template-columns: 2.5em 1fr; gap: 6px 10px; align-items: center; }
 .bar { position: relative; height: 22px; background: var(--st); border-radius: 4px; overflow: hidden; }
@@ -150,7 +156,32 @@ function zeitfenster(pb) {
     el("span", {}, el("i", { style: "background:var(--nt)" }), "NT Niedertarif"))];
 }
 
-function zeile(name, wert) { return el("tr", {}, el("th", {}, name), el("td", { className: "num" }, wert)); }
+function zeile(name, wert, anteil) {
+  return el("tr", {}, el("th", {}, name), el("td", { className: "num" }, wert), anteil === undefined ? null : el("td", { className: "num anteil" }, anteil));
+}
+
+// BK8-22/010-A, Modul 3: HT höchstens 100 % Aufschlag auf ST (≤ 200 %), NT im Korridor 10–40 % des ST.
+// Toleranz 0,5 Prozentpunkte für gerundete Preise im Preisblatt.
+const BK8_INFO = "Grenzen nach BNetzA-Festlegung BK8-22/010-A (Modul 3):\n" +
+  "• ST = Arbeitspreis Niederspannung ohne Leistungsmessung (SLP)\n" +
+  "• HT: höchstens 100 % Aufschlag, also max. 200 % des ST, an mindestens 2 Stunden pro Tag\n" +
+  "• NT: zwischen 10 % und 40 % des ST\n" +
+  "• Zeitfenster in mindestens 2 Quartalen, ganzjährig gleiche Preisstufen\n\n" +
+  "Ampel (Anteil am ST):\n" +
+  "grün = Anreiz nahe am Maximum (HT ≥ 180 %, NT ≤ 15 %)\n" +
+  "gelb = minimaler Anreiz (HT ≤ 125 %, NT ≥ 35 %)\n" +
+  "rot = außerhalb der BK8-Grenzen (HT über 200 % oder unter ST, NT unter 10 % oder über 40 %)\n" +
+  "ohne Farbe = dazwischen";
+
+function anteil(wert, st, stufe) {
+  if (wert == null || !st) return "";
+  const p = wert / st * 100;
+  let ampel = "";
+  if (stufe === "HT") ampel = p > 200.5 || p < 99.5 ? "rot" : p >= 180 ? "gruen" : p <= 125 ? "gelb" : "";
+  else ampel = p > 40.5 || p < 9.5 ? "rot" : p <= 15 ? "gruen" : p >= 35 ? "gelb" : "";
+  return el("span", { className: ampel && `ampel-${ampel}`, title: "Anteil am ST" },
+    p.toLocaleString("de-DE", { maximumFractionDigits: 0 }) + " %");
+}
 
 function zeigen(id) {
   const v = daten.find(x => x.vnb_id === id);
@@ -178,9 +209,11 @@ function zeigen(id) {
       el("table", {}, zeile("Reduzierung", zahl(pb.m1_reduzierung_eur_a, "€/a"))),
       el("h3", {}, "Modul 2: reduzierter Arbeitspreis (separater Zähler)"),
       el("table", {}, zeile("Grundpreis", zahl(pb.m2_grundpreis_eur_a, "€/a")), zeile("Arbeitspreis", zahl(pb.m2_arbeitspreis_ct_kwh, "ct/kWh"))),
-      el("h3", {}, "Modul 3: zeitvariables Netzentgelt (zusätzlich zu Modul 1)"),
-      el("table", {}, zeile("HT Hochtarif", zahl(pb.m3_ht_ct_kwh, "ct/kWh")), zeile("ST Standardtarif", zahl(pb.m3_st_ct_kwh, "ct/kWh")),
-        zeile("NT Niedertarif", zahl(pb.m3_nt_ct_kwh, "ct/kWh"))),
+      el("h3", {}, "Modul 3: zeitvariables Netzentgelt (zusätzlich zu Modul 1)",
+        el("span", { className: "info", title: BK8_INFO, tabIndex: 0, "aria-label": BK8_INFO }, "i")),
+      el("table", {}, zeile("HT Hochtarif", zahl(pb.m3_ht_ct_kwh, "ct/kWh"), anteil(pb.m3_ht_ct_kwh, pb.m3_st_ct_kwh, "HT")),
+        zeile("ST Standardtarif", zahl(pb.m3_st_ct_kwh, "ct/kWh"), pb.m3_st_ct_kwh != null ? "100 %" : ""),
+        zeile("NT Niedertarif", zahl(pb.m3_nt_ct_kwh, "ct/kWh"), anteil(pb.m3_nt_ct_kwh, pb.m3_st_ct_kwh, "NT"))),
       ...(pb.m3_ht_ct_kwh != null || pb.zf ? [el("h3", {}, "Zeitfenster Modul 3"), ...zeitfenster(pb)] : []),
       pb.hinweise ? el("p", { className: "muted" }, `Hinweis: ${pb.hinweise}`) : "");
   }

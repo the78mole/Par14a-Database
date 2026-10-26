@@ -30,7 +30,7 @@ Zuständig für die Veröffentlichungspflichten ist die Bundesnetzagentur bzw. d
 | 7791 | Stadtwerke Olching Stromnetz GmbH & Co. KG | Cloudflare-Challenge | erreichbar | [PDF](https://assets.stromnetz-olching.de/media/downloads/2026/03/03/stadtwerke-olching-preisblatt-strom-2026.pdf) |
 | 7087 | Stadtwerke Hammelburg GmbH | Cloudflare-Challenge | erreichbar | nur vorläufiges Blatt 2027 verlinkt |
 | 7281 | Markt Zellingen | Cloudflare-Challenge | erreichbar | [PDF](https://www.markt-zellingen.de/eigene_dateien/aktuell/2023/dezember/markt_zellingen_strom_preisblatt_2026_endgueltig_20251217.pdf) |
-| 602 | Stadtwerke Soest GmbH | TLS-Fehler | TLS-Fehler | [PDF](https://www.stadtwerke-soest.de/file/5926/download) |
+| 602 | Stadtwerke Soest GmbH | TLS-Fehler | TLS-Fehler | [PDF](https://www.stadtwerke-soest.de/file/5761/download) |
 | 201 | Stadtwerke Freudenstadt GmbH & Co. KG | TLS-Fehler | TLS-Fehler | [PDF](https://www.stadtwerke-freudenstadt.de/media/site/6bdaa5815d-1765982581/48-sw-fds-endgueltiges-netzentgelt-strom_2026.pdf) |
 | 635 | SWT Stadtwerke Trier Versorgungs-GmbH | TLS-/Verbindungsfehler | erreichbar | [PDF](https://www.swt.de/api/media/file/SWT_NetzentgelteStrom2026.pdf) |
 

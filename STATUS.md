@@ -1,6 +1,6 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 17:28 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 17:42 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
@@ -342,19 +342,19 @@ Stand: 2026-10-26 17:28 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**636 von 754 VNB erfasst (84 %)**, 118 fehlen noch.
+**642 von 754 VNB erfasst (85 %)**, 112 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 625 |
+| endgueltig | 631 |
 | vorlaeufig | 11 |
-| davon mit Modul-3-Zeitfenstern | 630 |
+| davon mit Modul-3-Zeitfenstern | 636 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 78 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 72 |
 | §14a-PDF vorhanden, aber nicht eindeutig 2026 | 32 |
 | §14a-PDF vorhanden, manuelle Prüfung offen | 8 |
 
@@ -373,8 +373,6 @@ Stand: 2026-10-26 17:28 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 157 Stadtwerke Eckernförde GmbH
 - 170 Stadtwerke Emden GmbH
 - 186 Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG
-- 201 Stadtwerke Freudenstadt GmbH & Co. KG
-- 209 OsthessenNetz GmbH
 - 223 Energieversorgung Gemünden GmbH
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH
 - 270 Versorgungsbetriebe Hann. Münden GmbH
@@ -392,12 +390,9 @@ Stand: 2026-10-26 17:28 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 536 Stadtwerke Rendsburg GmbH
 - 549 Stadtwerke Röthenbach a.d. Pegnitz GmbH
 - 562 VSE Verteilnetz GmbH
-- 563 Netzwerke Saarlouis GmbH
 - 576 Schleswiger Stadtwerke GmbH
 - 594 Elektrizitätsgenossenschaft Vogling & Angrenzer eG
-- 602 Stadtwerke Soest GmbH
 - 615 Stadtwerke Straubing Strom und Gas GmbH
-- 635 SWT Stadtwerke Trier Versorgungs-GmbH
 - 644 Stadtwerke Uelzen GmbH
 - 646 Stadtwerke Unna GmbH
 - 679 Energieversorgung Sylt GmbH
@@ -439,7 +434,6 @@ Stand: 2026-10-26 17:28 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7307 EVU Langenpreising
 - 7497 E-Werk Rohrdorf Josef Haimmerer
 - 7746 Stadtwerke Geldern NETZ GmbH
-- 7791 Stadtwerke Olching Stromnetz GmbH & Co. KG
 
 **§14a-PDF vorhanden, aber nicht eindeutig 2026**
 

@@ -159,7 +159,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 273,Stadtwerk Haßfurt GmbH,,https://www.stwhas.de,97437,Haßfurt,"Mittelspannung,Niederspannung",https://stwhas.de/strom/netznutzung-strom/,2026-10-26,vnbdigital
 274,Gemeindewerke Haßloch GmbH,,https://gwhassloch.de/,67454,Haßloch,"Mittelspannung,Niederspannung",https://gwhassloch.de/,2026-10-26,vnbdigital
 275,Stadtwerke Heide GmbH,,https://www.stadtwerke-heide.de,25746,Heide,"Mittelspannung,Niederspannung",https://www.stadtwerke-heide.de/netze/stromnetz/veroeffentlichungen.html,2026-10-26,vnbdigital
-277,Stadtwerke Heidelberg Netze GmbH,,https://www.netze-heidelberg.de,69115,Heidelberg,"Hochspannung,Mittelspannung,Niederspannung",,,vnbdigital
+277,Stadtwerke Heidelberg Netze GmbH,,https://www.netze-heidelberg.de,69115,Heidelberg,"Hochspannung,Mittelspannung,Niederspannung",https://www.netze-heidelberg.de/veroeffentlichung-strom-gas,2026-10-26,vnbdigital
 278,Hellenstein-Energie-Logistik GmbH,,https://www.hellenstein-energie-logistik.de/,89522,Heidenheim,"Mittelspannung,Niederspannung",https://www.hellenstein-energie-logistik.de/netznutzung/netznutzung-strom.html,2026-10-26,vnbdigital
 279,Gemeindewerke Heikendorf AöR,,https://www.gwh.sh,24226,Heikendorf,Niederspannung,https://www.gwh.sh/marktpartner/strom-marktpartner/,2026-10-26,vnbdigital
 280,NHF Netzgesellschaft Heilbronn-Franken mbH,,https://www.n-hf.de,74076,Heilbronn,"Mittelspannung,Niederspannung",https://www.n-hf.de/netznutzung/strom/preisblaetter.html,2026-10-26,vnbdigital
@@ -412,7 +412,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 717,Elektrizitäts-Versorgungs-Genossenschaft Perlesreut eG,,https://www.evg-perlesreut.de,94157,Perlesreut,"Mittelspannung,Niederspannung",https://www.evg-perlesreut.de/stromnetz/veroeffentlichungspflichten/gemaess-stromnev.html,2026-10-26,vnbdigital
 718,Stadtwerke Roth,,https://www.stadtwerke-roth.de,91154,Roth ,"Mittelspannung,Niederspannung",,,vnbdigital
 719,WEMAG Netz GmbH,,https://wemag-netz.de,19053,Schwerin,"Hochspannung,Mittelspannung,Niederspannung",https://www.wemag-netz.de/steuerbare-verbrauchseinrichtungen,2026-10-26,vnbdigital
-726,SachsenNetze HS.HD GmbH,,https://www.sachsen-netze.de,01069,Dresden,"Hochspannung,Mittelspannung,Niederspannung",,,vnbdigital
+726,SachsenNetze HS.HD GmbH,,https://www.sachsen-netze.de,01069,Dresden,"Hochspannung,Mittelspannung,Niederspannung",https://www.sachsen-netze.de,2026-10-26,vnbdigital
 730,TEN Thüringer Energienetze GmbH & Co. KG,,https://www.thueringer-energienetze.com,99087,Erfurt,"Hochspannung,Mittelspannung,Niederspannung",https://www.thueringer-energienetze.com/energiepartner/netzkunden_und_lieferanten_stromnetz/steuerbare_verbrauchseinrichtungen,2026-10-26,vnbdigital
 737,Stadtwerke Feuchtwangen,,https://www.stadtwerke-feuchtwangen.de,91555,Feuchtwangen,"Mittelspannung,Niederspannung",https://www.stadtwerke-feuchtwangen.de/1791.html,2026-10-26,vnbdigital
 738,Stadtwerke Haldensleben GmbH,,https://www.swhdl.de,39340,Haldensleben,"Mittelspannung,Niederspannung",https://www.swhdl.de/netz/strom/netznutzung/,2026-10-26,vnbdigital

@@ -33,7 +33,6 @@ Zuständig für die Veröffentlichungspflichten ist die Bundesnetzagentur bzw. d
 | 602 | Stadtwerke Soest GmbH | TLS-Fehler | TLS-Fehler | [PDF](https://www.stadtwerke-soest.de/file/5761/download) |
 | 201 | Stadtwerke Freudenstadt GmbH & Co. KG | TLS-Fehler | TLS-Fehler | [PDF](https://www.stadtwerke-freudenstadt.de/media/site/6bdaa5815d-1765982581/48-sw-fds-endgueltiges-netzentgelt-strom_2026.pdf) |
 | 635 | SWT Stadtwerke Trier Versorgungs-GmbH | TLS-/Verbindungsfehler | erreichbar | [PDF](https://www.swt.de/api/media/file/SWT_NetzentgelteStrom2026.pdf) |
-
 | 7134 | Gemeindewerke Partenstein | Cloudflare-Challenge | im Browser erreichbar | [PDF](https://vg-partenstein.de/datei/pa/spessart/-/3792/extLink) |
 | 7219 | Elektrizitätswerk Rohmund GmbH | HTTP 403 | 403, auch im Browser | nicht gefunden |
 

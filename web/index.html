@@ -27,13 +27,18 @@ input[type=search], select { font: inherit; color: inherit; background: var(--ca
 input[type=search] { flex: 1 1 260px; min-width: 0; }
 label.toggle { display: flex; align-items: center; gap: 6px; padding: 0 4px; }
 .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; }
+#info { margin-bottom: 10px; }
 #treffer { list-style: none; margin: 0; padding: 0; }
 #treffer li { border-top: 1px solid var(--line); }
 #treffer li:first-child { border-top: 0; }
 #treffer a { display: flex; justify-content: space-between; gap: 12px; padding: 10px 14px; text-decoration: none; color: inherit; }
 #treffer a:hover, #treffer a:focus { background: var(--bg); }
 .badge { font-size: .8rem; white-space: nowrap; color: var(--muted); }
-.badge.fehlt { color: var(--warn); }
+.badge.endgueltig { color: var(--nt); }
+.badge.vorlaeufig { color: var(--warn); }
+.badge.fehlt { color: var(--ht); }
+button.zurueck { font: inherit; color: var(--accent); background: none; border: 1px solid var(--line); border-radius: 8px; padding: 6px 12px; cursor: pointer; margin-bottom: 14px; }
+button.zurueck:hover { background: var(--bg); }
 #detail { padding: 20px; margin-top: 16px; }
 #detail[hidden], #treffer[hidden] { display: none; }
 table { border-collapse: collapse; width: 100%; }
@@ -99,18 +104,16 @@ function suchen() {
   const q = norm($("suche").value.trim());
   const liste = $("treffer");
   liste.replaceChildren();
-  if (!q) { liste.hidden = true; return; }
-  const worte = q.split(/\s+/);
+  const worte = q ? q.split(/\s+/) : [];
   const t = daten.filter(v => {
     const h = norm(`${v.name} ${v.ort} ${v.vnb_id}`);
     return worte.every(w => /^\d+$/.test(w) ? (v.plz || "").startsWith(w) || v.vnb_id === w : h.includes(w));
   });
-  for (const v of t.slice(0, 50)) {
+  for (const v of t) {
     liste.append(el("li", {}, el("a", { href: `#${jahr}/${v.vnb_id}` },
       el("span", {}, v.name, el("span", { className: "muted" }, ` · ${v.plz || ""} ${v.ort || ""}`)),
-      el("span", { className: "badge" + (v.pb ? "" : " fehlt") }, v.pb ? (STATUS[v.pb.status] || v.pb.status) : "noch nicht erfasst"))));
+      el("span", { className: "badge " + (v.pb ? v.pb.status : "fehlt") }, v.pb ? (STATUS[v.pb.status] || v.pb.status) : "nicht erfasst"))));
   }
-  if (t.length > 50) liste.append(el("li", { className: "muted", style: "padding:10px 14px" }, `… ${t.length - 50} weitere, bitte genauer suchen`));
   if (!t.length) liste.append(el("li", { className: "muted", style: "padding:10px 14px" }, "Kein Treffer"));
   liste.hidden = false;
 }
@@ -156,6 +159,7 @@ function zeigen(id) {
   const pb = v.pb;
   const link = (text, url) => sicher(url) && el("a", { href: url, target: "_blank", rel: "noopener" }, text);
   d.replaceChildren(
+    el("button", { className: "zurueck", type: "button", onclick: alleZeigen }, "← Alle Netzbetreiber"),
     el("h2", {}, v.name),
     el("div", { className: "muted" }, `${v.plz || ""} ${v.ort || ""} · vnbdigital-ID ${v.vnb_id}`),
     el("div", { className: "links" },
@@ -194,10 +198,17 @@ async function laden(j) {
   suchen();
 }
 
+function alleZeigen() {
+  $("suche").value = "";
+  suchen();
+  location.hash = jahr;
+}
+
 async function route() {
   const [j, id] = location.hash.slice(1).split("/");
   if (j && j !== jahr && [...$("jahr").options].some(o => o.value === j)) await laden(j);
-  if (id) { zeigen(id); $("treffer").hidden = true; } else { $("detail").hidden = true; document.title = "§14a-Netzentgelte"; }
+  if (id) { zeigen(id); $("treffer").hidden = true; window.scrollTo(0, 0); }
+  else { $("detail").hidden = true; $("treffer").hidden = false; document.title = "§14a-Netzentgelte"; }
 }
 
 (async () => {
@@ -206,7 +217,7 @@ async function route() {
   await laden(jahre[0]);
   await route();
   window.addEventListener("hashchange", route);
-  $("suche").addEventListener("input", () => { suchen(); $("detail").hidden = true; });
+  $("suche").addEventListener("input", () => { suchen(); if (location.hash.includes("/")) location.hash = jahr; });
   $("jahr").addEventListener("change", async e => {
     const id = location.hash.split("/")[1];
     await laden(e.target.value);

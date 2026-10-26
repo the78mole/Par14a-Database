@@ -1,16 +1,16 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 21:40 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 23:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
-**489 von 754 VNB erfasst (65 %)**, 265 fehlen noch.
+**535 von 754 VNB erfasst (71 %)**, 219 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
 | endgueltig | 1 |
-| vorlaeufig | 488 |
-| davon mit Modul-3-Zeitfenstern | 485 |
+| vorlaeufig | 534 |
+| davon mit Modul-3-Zeitfenstern | 531 |
 
 ### Fehlende VNB nach Grund
 
@@ -18,7 +18,6 @@ Stand: 2026-10-26 21:40 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 |---|---:|
 | §14a-PDF vorhanden, aber nicht eindeutig 2027 | 139 |
 | kein §14a-Preisblatt auf der Webseite gefunden | 72 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 46 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
 <details><summary>Liste der fehlenden VNB 2027</summary>
@@ -239,55 +238,6 @@ Stand: 2026-10-26 21:40 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7791 Stadtwerke Olching Stromnetz GmbH & Co. KG
 - 7793 Stromnetz Weilheim GmbH & Co. KG
 - 7800 Netzgesellschaft Panketal GmbH
-
-**§14a-PDF vorhanden, manuelle Prüfung offen**
-
-- 6 Stadtwerke Achim AG
-- 9 Netzgesellschaft Ahlen mbH
-- 10 Albstadtwerke GmbH
-- 43 Stadtwerk Tauberfranken GmbH
-- 127 Stadtwerke Cham GmbH
-- 131 Stadtwerke Crailsheim GmbH
-- 148 Stadtwerke Dülmen GmbH
-- 176 Überlandwerk Erding GmbH & Co. KG
-- 256 E-Werke Haniel Haimhausen GmbH & Co. KG.
-- 460 Stromversorgung Neunkirchen GmbH
-- 467 Stadtwerke Neustadt an der Weinstraße GmbH
-- 475 SWN Stadtwerke Northeim GmbH
-- 482 Stadtwerke Nürtingen GmbH
-- 489 Weißachtal-Kraftwerke eG
-- 525 Stadtwerke Ramstein-Miesenbach GmbH
-- 549 Stadtwerke Röthenbach a.d. Pegnitz GmbH
-- 578 Stadtwerke Schorndorf GmbH
-- 629 strotög GmbH Strom aus Töging
-- 658 Stadtwerke Vilshofen GmbH
-- 659 Stadtwerke Völklingen Netz GmbH
-- 678 Stadtwerke Wertheim GmbH
-- 687 Stadtwerke Windsbach
-- 701 EWR Netz GmbH
-- 730 TEN Thüringer Energienetze GmbH & Co. KG
-- 761 NETZE Bad Langensalza GmbH
-- 783 Greizer Energienetze GmbH
-- 927 Stadtwerke Meiningen GmbH
-- 983 Stadtwerke Glauchau Dienstleistungsgesellschaft
-- 1087 Westfalen Weser Netz GmbH
-- 7009 Stadtwerke Blankenburg GmbH
-- 7015 Gemeindewerke Bovenden GmbH & Co. KG
-- 7028 Stadtwerke Goch GmbH
-- 7045 Stadtwerke Ludwigslust-Grabow GmbH
-- 7051 Gemeindewerke Niefern-Öschelbronn
-- 7112 Stadtwerke Schwerte GmbH
-- 7155 EVU Weilerbach
-- 7162 Elektrizitätswerk Bruchmühlbach-Miesau
-- 7165 Gemeindewerke Dudenhofen
-- 7232 Stadt- und Überlandwerke GmbH Luckau-Lübbenau
-- 7313 Stadtwerke Wolmirstedt GmbH
-- 7536 VersorgungsBetriebe Elbe GmbH
-- 7559 Regionalwerk Bodensee Netze GmbH & Co. KG
-- 7594 Stromnetzgesellschaft Herrenberg mbH & Co. KG
-- 7684 Hanau Netz GmbH
-- 7788 Stadtwerke Ditzingen GmbH & Co. KG
-- 7795 Stadtwerke Elm-Lappwald GmbH
 
 **Bot-Schutz (HTTP 403), nur manuell**
 

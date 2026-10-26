@@ -1,6 +1,6 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 16:39 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 16:52 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
@@ -16,8 +16,8 @@ Stand: 2026-10-26 16:39 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 | Grund | Anzahl |
 |---|---:|
-| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 152 |
-| kein §14a-Preisblatt auf der Webseite gefunden | 100 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 154 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 98 |
 | §14a-PDF vorhanden, manuelle Prüfung offen | 43 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
@@ -58,6 +58,7 @@ Stand: 2026-10-26 16:39 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 257 Gemeindewerke Halstenbek
 - 262 Energie- und Wasserversorgung Hamm GmbH
 - 273 Stadtwerk Haßfurt GmbH
+- 274 Gemeindewerke Haßloch GmbH
 - 277 Stadtwerke Heidelberg Netze GmbH
 - 295 Herzo Werke GmbH
 - 318 Stadtwerke Itzehoe GmbH
@@ -71,6 +72,7 @@ Stand: 2026-10-26 16:39 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 387 EVL Energieversorgung Limburg GmbH
 - 388 Stadtwerke Lindau (B) GmbH & Co. KG
 - 399 TraveNetz GmbH
+- 420 Stadtwerke Mengen
 - 422 KEW Karwendel Energie und Wasser GmbH
 - 449 Stadtnetze Münster GmbH
 - 452 Stadtwerke Neuburg a. d. Donau
@@ -198,9 +200,7 @@ Stand: 2026-10-26 16:39 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 232 Stadtwerke Glückstadt GmbH
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH
 - 270 Versorgungsbetriebe Hann. Münden GmbH
-- 274 Gemeindewerke Haßloch GmbH
 - 313 Rheinhessische Energie- und Wasserversorgungs-GmbH
-- 420 Stadtwerke Mengen
 - 429 Stadtwerke Mössingen
 - 432 Kommunale Energienetze Inn-Salzach GmbH & Co. KG
 - 460 Stromversorgung Neunkirchen GmbH
@@ -342,22 +342,21 @@ Stand: 2026-10-26 16:39 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**619 von 754 VNB erfasst (82 %)**, 135 fehlen noch.
+**629 von 754 VNB erfasst (83 %)**, 125 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 608 |
+| endgueltig | 618 |
 | vorlaeufig | 11 |
-| davon mit Modul-3-Zeitfenstern | 613 |
+| davon mit Modul-3-Zeitfenstern | 623 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 87 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 85 |
 | §14a-PDF vorhanden, aber nicht eindeutig 2026 | 32 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 10 |
-| Bot-Schutz (HTTP 403), nur manuell | 6 |
+| §14a-PDF vorhanden, manuelle Prüfung offen | 8 |
 
 <details><summary>Liste der fehlenden VNB 2026</summary>
 
@@ -380,9 +379,7 @@ Stand: 2026-10-26 16:39 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 223 Energieversorgung Gemünden GmbH
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH
 - 270 Versorgungsbetriebe Hann. Münden GmbH
-- 274 Gemeindewerke Haßloch GmbH
 - 313 Rheinhessische Energie- und Wasserversorgungs-GmbH
-- 420 Stadtwerke Mengen
 - 432 Kommunale Energienetze Inn-Salzach GmbH & Co. KG
 - 460 Stromversorgung Neunkirchen GmbH
 - 465 Stadtwerke Neustadt in Holstein
@@ -488,7 +485,6 @@ Stand: 2026-10-26 16:39 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 **§14a-PDF vorhanden, manuelle Prüfung offen**
 
-- 127 Stadtwerke Cham GmbH
 - 323 GSW Gemeinschaftsstadtwerke GmbH Kamen - Bönen - Bergkamen
 - 355 Stadtwerke Konstanz GmbH
 - 577 Stadtwerke Schneverdingen-Neuenkirchen GmbH
@@ -496,16 +492,6 @@ Stand: 2026-10-26 16:39 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 706 Stadtwerke Zeil am Main
 - 709 Stadtwerke Zweibrücken GmbH
 - 772 Stadtwerke Ludwigsfelde GmbH
-- 956 Stadtwerke Lippstadt GmbH
 - 983 Stadtwerke Glauchau Dienstleistungsgesellschaft
-
-**Bot-Schutz (HTTP 403), nur manuell**
-
-- 1000 E.DIS Netz GmbH
-- 1064 Syna GmbH
-- 1068 Bayernwerk Netz GmbH
-- 7137 Avacon Netz GmbH
-- 7332 Westnetz GmbH
-- 7750 Stuttgart Netze GmbH
 
 </details>

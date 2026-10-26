@@ -1,0 +1,336 @@
+{
+ "vnb_id": "259",
+ "name": "Hamburger Energienetze GmbH",
+ "start": "https://www.hamburger-energienetze.de/",
+ "seiten_gecrawlt": 60,
+ "pdfs": {
+  "https://filehub.admiralcloud.com/v5/deliverFile/1f02f08f-1e61-4361-8131-0907eb171a6a?download=true": {
+   "linktext": "Anmeldung steuerbares Verbrauchsgerät nach §14 EnWG Stand 1.8.2025 / PDF (135.30 KB) Anmeldung steuerbares Verbrauchsgerät nach §14 EnWG Stand 1.8.2025",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/verbrauchen-erzeugen/planen-anmelden/steuerbare-verbrauchseinrichtung/neue-anlagen",
+   "pdf_sha256": "6e6cd9f8151a83ac48c7ac753ceaee1ed8b1a1e2b2dac90981993da670b26029",
+   "seiten_14a": [
+    1,
+    2
+   ],
+   "bildseiten": [],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 3
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/968bb2b6-d81e-4077-9fb8-630f5f7fbc02?download=true": {
+   "linktext": "Voraussichtliches Preisblatt Netzentgelte Strom 2027 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/verbrauchen-erzeugen/planen-anmelden/netzentgelte-strom",
+   "pdf_sha256": "d443e2785a6695195d14e5cdb2a3d5382cae1c23cdf4bcf271e9c6fc1d808f6c",
+   "seiten_14a": [
+    3
+   ],
+   "bildseiten": [],
+   "jahre": [
+    2024,
+    2027
+   ],
+   "vorlaeufig": false,
+   "seiten": 8
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/7d5f1b2a-c52d-433b-8d15-cd2e246984f0?download=true": {
+   "linktext": "Preisblatt Netzentgelte Strom 2026 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/verbrauchen-erzeugen/planen-anmelden/netzentgelte-strom",
+   "pdf_sha256": "f8b146c10fadfb47477966ed4dbf7c6d0d7ef150cd6db1e1666ba6bd0c72fa24",
+   "seiten_14a": [
+    1
+   ],
+   "bildseiten": [],
+   "jahre": [
+    2026
+   ],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/bee52d99-8445-4a87-9d85-959ed384e586?download=true": {
+   "linktext": "Preisblatt Netzentgelte Strom 2025 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "9ccf9648bd05c5ee63a735a9c3fb0dd9405ce5a17564ce9b6a000b6c59ee0b20",
+   "seiten_14a": [
+    1
+   ],
+   "bildseiten": [],
+   "jahre": [
+    2025
+   ],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/5bee3114-9b71-47fb-94a6-ab1a8ad48646?download=true": {
+   "linktext": "Preisblatt Netzentgelte Strom 2024 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "352b4b8e27a1d6f22fa27d35c88832112260ce183c16dd7330ec3422585291ee",
+   "seiten_14a": [
+    1
+   ],
+   "bildseiten": [],
+   "jahre": [
+    2024
+   ],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/d2d3a14a-85db-4785-a9ae-00426e48466e?download=true": {
+   "linktext": "Marktgestützte Beschaffung von Blindleistung 2026 / PDF (1.17 MB) Marktgestützte Beschaffung von Blindleistung 2026",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/ueber-uns/gesetze-pflichten/pflichtveroeffentlichungen",
+   "pdf_sha256": "5059926be4432a5e5fd1f6f0a3ac515c3ddbdd93313ea12012630e1361b81392",
+   "seiten_14a": [],
+   "bildseiten": [
+    1,
+    19,
+    20
+   ],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 42
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/89330abb-bca5-4fc5-844a-329c9c3da5c4?download=true": {
+   "linktext": "Anlage a (2_2) Entgelte Strom § 19 Abs. 3 StromNEV 2027 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz",
+   "pdf_sha256": "8a43257e899c40b315fcbe8c95e5e88ad2522d5db08cdca73c93adf7c1f1574c",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [
+    2027
+   ],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/06a201d1-5dd1-4ec1-889d-475de9e226d5?download=true": {
+   "linktext": "Preisblatt Individuelle Entgelte § 19 Abs. 3 StromNEV 2026 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz",
+   "pdf_sha256": "2e88ecfe0236f6adf93899297cb7ee9e725c59509e8d98fa607bb4c1ed6ae2a7",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [
+    2026
+   ],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/f17eeb45-aaf8-45bf-a4c0-0cb12aae43f0?download=true": {
+   "linktext": "Referenzpreisblatt zur Ermittlung vNE nach §18 Abs.2 StromNEV PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz",
+   "pdf_sha256": "15f4aff6a8ca0683b655be550436d8e7710be8bb9c54b44d588014095d1745af",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [
+    2018,
+    2019,
+    2020
+   ],
+   "vorlaeufig": false,
+   "seiten": 2
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/116f4ba2-8723-4243-8e8e-d457eeda75af?download=true": {
+   "linktext": "Preisblatt Individuelle Entgelte nach § 19 Abs. 3 StromNEV 2025 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "50948ef52184812baf72555e9c6c4f53c7e9e2d192415398400e94c4ab441f83",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [
+    2025
+   ],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/f8c5ede8-e837-4944-87cd-c09e095568f0?download=true": {
+   "linktext": "Preisblatt Netzentgelte 2025 - türkisch PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "51bfc14613db3cd46f659a7d9c7fd816a5561590e2a1ff6758fac777fd191f4e",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/859a19fb-f914-407f-8acc-54dec9dbda2a?download=true": {
+   "linktext": "Preisblatt individuelle Entgelte § 19 Abs. 3 StromNEV 2024 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "354a42c7c70962eb8a8b8c040d0409206cc317416474f7d874ead62d9930ffa9",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [
+    2024
+   ],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/8c22173d-61f0-4351-9d92-43867115171c?download=true": {
+   "linktext": "Preisblatt Netzentgelte 2024 – polnisch PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "0d80756abd16f568d142da541db2efc1a3ccbdd298b533d2f2bac074892a9228",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 5
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/46c8e7f2-a719-42ac-9991-d13ba89405ef?download=true": {
+   "linktext": "Preisblatt Netzentgelte 2024 – türkisch PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "651270bd52d3c05bececf5f86a8f0b3462f9c5c9870960a5378184f8ca40247c",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/e00765fe-9b93-4615-be60-90134ea24162?download=true": {
+   "linktext": "Preisblatt Netzentgelte 2023 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "cd2af5b84c7910e505af1e0452ee91a57dcc8a6bfc647cbe5b855c5d224bb9d6",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [
+    2023
+   ],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/59ff3401-75fe-46ab-9d56-df64cf7a3ff0?download=true": {
+   "linktext": "Preisblatt Netzentgelte 2023 – polnisch PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "4eb7e38be660085d170eccaaa9b58336b7b8d4d73eff3b9d9a0bfcb645c1484d",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/93404dab-d833-4750-907d-b9370220e317?download=true": {
+   "linktext": "Preisblatt Netzentgelte 2023 – türkisch PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "335b383a1d1a552eec9c40aacbe7465ae5d62d55272b5ec86d8df44a83532829",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/d373d08a-b1cc-4890-bbad-336188ed3c15?download=true": {
+   "linktext": "Preisblatt Netzentgelte 2022 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "5c2cc7626c4fd878ebb64fab4a69e75afb2f66ed5292a9889798a659439f4079",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [
+    2022
+   ],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/df05bd29-cd7d-4d47-8846-9c1ad8030f4d?download=true": {
+   "linktext": "Preisblatt Netzentgelte 2022 – polnisch PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "349cf25e95a180e301a4dc084aab088643a8e793a0e89c21ca02e176433abc9c",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/ded59839-a89d-497d-88ba-70fb63207f4f?download=true": {
+   "linktext": "Preisblatt Netzentgelte 2022 – türkisch PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "98bf269fcbfaf08c3299c35b6db521976c9035e79389ca46b01dcba9307f90ab",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/c6ce92c2-d29f-4ded-9b46-bc8fbbeef342?download=true": {
+   "linktext": "Preisblatt Netzentgelte 2021 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "27e4805c489dc7fb04b98de42a0f34efc3c7217d30605b2776bcd333f6b9294e",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [
+    2021
+   ],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/df8ee904-e403-4a24-90a8-7eb1f8ee9004?download=true": {
+   "linktext": "Preisblatt Netzentgelte 2021 – polnisch PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "26bd4e45512a4ee94fcde806ed7046ec78c25308f64cfbbd3502a3d7a9cf930d",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 6
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/427787d5-ef66-4200-8c01-b66e2512d95e?download=true": {
+   "linktext": "Preisblatt Netzentgelte 2021 - türkisch PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/netzentgelte-stromnetz/archiv",
+   "pdf_sha256": "d96aa4f3764a05c523c10b751ee69d91c46f4e8f5554583ba4eb4b5ad3f4f970",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 4
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/cc9ed7d4-c9ac-4b1b-9ea2-ac0cc41209c5?download=true": {
+   "linktext": "Preisblatt gMSB 2027 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/entgelte-messstellenbetrieb",
+   "pdf_sha256": "9eb04977f462d131ff1fbec5e9eeb48a441c712f783778970e20ea4fc782aa5d",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [
+    2027
+   ],
+   "vorlaeufig": false,
+   "seiten": 7
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/1cf647d4-59cc-409f-9d90-86c4b716eb6f?download=true": {
+   "linktext": "Entgelte für den Messstellenbetrieb von modernen Messeinrichtungen und intelligenten Messsystemen gültig ab 01.07.2025 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/entgelte-messstellenbetrieb",
+   "pdf_sha256": "bd72f8eae7188a2a36ecd1320c3ab5796b2c8f7d0a9b74a1bf6459a080dcb585",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 3
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/d14c605d-da01-4b55-a16e-a18db97e4aa4?download=true": {
+   "linktext": "Entgelte für den Messstellenbetrieb von modernen Messeinrichtungen und intelligenten Messsystemen gültig bis 30.06.2025 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/entgelte-messstellenbetrieb",
+   "pdf_sha256": "bbcab8eed90550158bd445f2c28bf2cf0ff0c6f9f472ae9adba2a3b8ee4ccbe7",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [
+    2025
+   ],
+   "vorlaeufig": false,
+   "seiten": 3
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/7c77b536-21d9-4bf6-9fb3-8f69d047efef?download=true": {
+   "linktext": "Entgelte für den Messstellenbetrieb von modernen Messeinrichtungen und intelligenten Messsystemen 2024 PDF-Datei herunterladen",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/partner/marktpartner/energielieferanten/vertragliche-regelungen-stromnetz/entgelte-messstellenbetrieb",
+   "pdf_sha256": "8df20609095d5a215da9c0f60c46f1a2a2c984ba454d056f59324a73919b2fbe",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [
+    2024
+   ],
+   "vorlaeufig": false,
+   "seiten": 3
+  },
+  "https://filehub.admiralcloud.com/v5/deliverFile/da2349f2-1c4f-422d-8cd3-c089aaeaf64b?download=true": {
+   "linktext": "Preisblatt Netzanschluss Strom (inkl. ergänzender Bedingungen) Preisblatt Strom",
+   "quelle_seite_url": "https://www.hamburger-energienetze.de/verbrauchen-erzeugen/planen-anmelden/hausanschluss",
+   "pdf_sha256": "a982938c16768241e10a1d4f3bff7c291481f828d0e8548c4c6470b40300937b",
+   "seiten_14a": [],
+   "bildseiten": [],
+   "jahre": [],
+   "vorlaeufig": false,
+   "seiten": 4
+  }
+ }
+}

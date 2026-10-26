@@ -1,0 +1,140 @@
+Fiyat listesi
+01.01.2022 ’dan itibaren geçerlidir
+                                                                                                                         Tarih: 21.12.2021
+
+Elektrik şebekesi bedelleri
+
+Alçak gerilim düzeyindeki SLP müşterileri için elektrik şebekesi bedelleri temel fiyat ve aktif fiyattan meydana gelir.
+Isıtma depolaması, diğer kumanda edilebilir tüketim tesisleri
+ve ek tesisler temel ücrete dahil değildir.
+Aktif elektrik fiyatı                                                                                                          7,40 ct/kWh
+Depolu ısıtıcılar için aktif elektrik fiyatı                                                                                   3,88 ct/kWh
+Kumanda edilebilir tüketim donanımları için çalışma ücreti                                                                     3,88 ct/kWh
+Temel fiyat                                                                                                                       60,00 €/a
+RLM müşterileri için elektrik şebekesi bedelleri, elektrik kullanan yerin bağlandığı
+şebeke veya trafo merkezinin gerilim düzeyine göre belirlenir.
+
+Kullanma süresi < 2.500 h/a
+Elektrik kullanan yerin gerilim düzeyi                                                     Yıllık elektrik gücü fiyat   Aktif elektrik fiyatı
+Yüksek gerilim                                                                                         20,83 €/kW*a             2,44 ct/kWh
+Yüksek gerilimden orta gerilime voltaj düşürme                                                         24,34 €/kW*a             2,46 ct/kWh
+Orta gerilim                                                                                           27,23 €/kW*a             3,72 ct/kWh
+Orta gerilimden alçak gerilime voltaj düşürme                                                          18,80 €/kW*a             5,16 ct/kWh
+Alçak gerilim                                                                                          25,26 €/kW*a             5,66 ct/kWh
+
+Kullanma süresi ≥ 2.500 h/a
+Elektrik kullanan yerin gerilim düzeyi                                                    Yıllık elektrik gücü fiyatı   Aktif elektrik fiyatı
+Yüksek gerilim                                                                                         58,93 €/kW*a            0,91 ct/kWh
+Yüksek gerilimden orta gerilime voltaj düşürme                                                         55,30 €/kW*a            1,22 ct/kWh
+Orta gerilim                                                                                           73,84 €/kW*a            1,86 ct/kWh
+Orta gerilimden alçak gerilime voltaj düşürme                                                          99,43 €/kW*a            1,93 ct/kWh
+Alçak gerilim                                                                                          50,10 €/kW*a            4,67 ct/kWh
+
+Elektrik kullanan yerin gerilim düzeyi                                                     Aylık elektrik gücü fiyatı   Aktif elektrik fiyatı
+Yüksek gerilim                                                                                     9,82 €/kW*Monat             0,91 ct/kWh
+Yüksek gerilimden orta gerilime voltaj düşürme                                                     9,22 €/kW*Monat             1,22 ct/kWh
+Orta gerilim                                                                                      12,31 €/kW*Monat             1,86 ct/kWh
+Orta gerilimden alçak gerilime voltaj düşürme                                                     16,57 €/kW*Monat             1,93 ct/kWh
+Alçak gerilim                                                                                      8,35 €/kW*Monat             4,67 ct/kWh
+
+Elektrik kullanan yerin gerilim düzeyi                                                         Günlük hizmet ücret      Aktif elektrik fiyatı
+Yüksek gerilim                                                                                      0,16 €/kW*Tag              0,91 ct/kWh
+Yüksek gerilimden orta gerilime voltaj düşürme                                                      0,15 €/kW*Tag              1,22 ct/kWh
+Orta gerilim                                                                                        0,21 €/kW*Tag              1,86 ct/kWh
+Not:
+StromNEV'in 17. Maddesi 8. Fıkrası uyarınca, günlük hizmet ücretleri sadece gemilere karadan yapılan akım
+beslemesi için talep edilebilir.
+
+Reaktif (kör) enerji
+Ortalama güç faktörü endüktif olarak 0,9 değerinin altına düşerse, aylık aktif gücün
+%50’sinin üstüne çıkan reaktif (kör) güç, reaktif gücün kilowattsaati başına (kvarh)
+hesaplanabilir.
+Reaktif (kör) enerji fiyatı                                                                                                   1,53 ct/kvarh
+Fiyat listesi
+01.01.2022 ’dan itibaren geçerlidir
+                                                                                                                                                  Tarih: 21.12.2021
+
+Ölçme yerleri işletmesi
+Bedeller, ölçme gerilim düzeyine bağlı olarak her bir sayaç
+için ayrı ayrı hesaplanır.Modern ölçme tesisatı ve akıllı
+ölçme sistemleri için bedeller ayrıca yayınlanır.
+Yılda bir okumalı tek kontörlü sayaç                                                                                                                        14,03 €/a
+Altı ayda bir okumalı tek kontörlü sayaç                                                                                                                    31,03 €/a
+Üç ayda bir okumalı tek kontörlü sayaç                                                                                                                      65,03 €/a
+Ayda bir okumalı tek kontörlü sayaç                                                                                                                        201,03 €/a
+Yılda bir okumalı çift kontörlü sayaç                                                                                                                       53,14 €/a
+Altı ayda bir okumalı çift kontörlü sayaç                                                                                                                   70,14 €/a
+Üç ayda bir okumalı çift kontörlü sayaç                                                                                                                    104,14 €/a
+Ayda bir okumalı çift kontörlü sayaç                                                                                                                       240,14 €/a
+Kayıtlı güç seyrinin alçak gerilimde ölçümü                                                                                                                378,47 €/a
+Kayıtlı güç seyrinin orta gerilimde ölçümü                                                                                                                 462,50 €/a
+Kayıtlı güç seyrinin yüksek gerilimde ölçümü                                                                                                             2.137,38 €/a
+Notlar:
+(1) Yük kademesi ödemesi için ölçüm yeri işletimi ücretlerine trafo temin etme masrafları dahildir. Müşteri trafoyu kendisi temin edecekse, orta gerilimde her ölçüm yeri
+için 100,84 € tutarında, alçak gerilimde ise her ölçüm yeri
+için 16,81 € tutarında bir ücret hesaplanacaktır.
+(2) Alçak gerilim tarafında ölçülen orta gerilim tesisatında, transformatör kayıplarını dengelemek için enerji ve güç değerleri % 2,8 arttırılır.
+(3) Elektronik LD 21 sayacı için uygun düşen kontörlü sayaçların fiyatları geçerlidir.
+(4) Üretim tesisatına sahip olan müşteriler için sayaçlara ait bedeller, enerjinin akım yönüne göre ayrı ayrı hesaba
+katılır.
+
+
+Yasal düzenlenmiş masraf payları
+Yasa ve yönergelerdeki § 26 KWKG, § 19 Abs. 2 StromNEV, § 17f EnWG und § 18 AbLaV
+paragrafları uyarınca düzenlenmiş masraf payları, elektrik şebekesi bedellerine ek olarak
+ayrıca faturalanır ve tahsil edilir. Güncel olarak geçerli yasal masraf paylarının tutarı ve ayrıca
+masraf payları hakkında daha kapsamlı bilgiler, Alman iletim hatları şebeke işletmecilerinin
+www.netztransparenz.de adresindeki ortak internet platformunda yayınlanmaktadır.
+
+
+Lisans harc
+
+Elektriğe talebin az olduğu zamandan yararlanmayan tarifeli müşteriler                                                                                    2,39 ct/kWh
+Elektriğe talebin az olduğu zamandan yararlanan tarifeli müşteriler                                                                                       0,61 ct/kWh
+Özel sözleşmeli müşteriler                                                                                                                                0,11 ct/kWh
+
+
+Ölçme yerlerinin işletmesi için verilen hizmetler
+
+Her okuma için yerinde yük kademesinde manuel olarak okuma                                                                                                     55,00 €
+SLP müşterileri için her okumada ekstra okuma                                                                                                                  46,22 €
+Tarihi yük kademesinin sağlanması                                                                                                                              55,00 €
+Yerinde SLP sayaç denetimi (yasal bağlayıcılığı olan denetim değil)                                                                                            58,82 €
+Yerinde RLM sayaç denetimi (yasal bağlayıcılığı olan denetim değil)                                                                                           297,00 €
+SLP müşterilerinde sayaç değişimi                                                                                                                              38,55 €
+Bir bağlantı kullanıcının belirlenmesi için talimat                                                                                                            50,42 €
+SLP müşterilerinde her ölçüm yeri için alçak gerilimde trafo                                                                                                   16,81 €
+Fiyat listesi
+01.01.2022 ’dan itibaren geçerlidir
+                                                                                                               Tarih: 21.12.2021
+
+
+Bağlantı kullanımının kesilmesi ve kullanımın yeniden başlatılması
+Şebeke işleticisi yasal § 24 NAV paragrafı uyarınca, alçak gerilim şebeke bağlantısına ve
+şebeke kullanımına ara verir ve buna yol açan nedenler ortadan kalkınca kullanımı yeniden
+başlatır.
+Normal çalışma saatleri dışında (pazartesiden cumaya, resmi tatiller hariç, 08:00 - 18:00 arası) bağlantı kullanımının yeniden
+başlatılımı, ücretli olarak sadece Elektrohandwerke Hamburg GbR'nin acil servisi aracılığıyla temin edilebilir.
+
+
+SLP müşterileri için normal çalışma saatlerinde bağlantı kullanımının kesilmesi                                          50,42 €
+SLP müşterileri için normal çalışma saatlerinde bağlantı kullanımının tekrar başlatılması                                50,42 €
+SLP müşterileri için bağlantı kullanımının başarısız kesilmesi                                                           50,42 €
+RLM müşterileri için normal çalışma saatlerinde bağlantı kullanımının kesilmesi                                         295,00 €
+RLM müşterileri için normal çalışma saatleri içinde bağlantı kullanımının tekrar başlatılması                           295,00 €
+RLM müşterileri için bağlantı kullanımının başarısız kesilmesi                                                          295,00 €
+Bağlantı kesim sipariş iptali, kesim günü                                                                                 3,78 €
+Bağlantı kesim sipariş iptali, kesimden bir gün önce                                                                     19,59 €
+                                                                                                    sadece Elektrohandwerke
+Normal çalışma saatleri dışında bağlantı kullanımının yeniden başlatılımı                          Hamburg GbR'nin acil servisi
+                                                                                                          aracılığıyla
+Orta ve yüksek gerilim düzeyinde, şebeke bağlantısı ile bağlantı kullanımının kesilmesi
+ve kullanımın yeniden başlatılması ortaya çıkan masrafa göre hesaplanır.
+
+Katma değer vergisi
+Yukarda adı geçen bütün bedeller, iletim veya hizmet sırasında geçerli olan yasal katma değer
+vergisi oranına bağlıdır
+
+Geçerlilik
+Fiyatlar 01.01.2021 tarihinden itibaren geçerlidir.
+

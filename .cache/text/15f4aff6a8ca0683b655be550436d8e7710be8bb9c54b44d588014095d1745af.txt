@@ -1,0 +1,57 @@
+Referenzpreisblatt zur Ermittlung
+vermiedener Netzentgelte nach § 18 Absatz 2 StromNEV
+                                                                                                                            Stand: 19.06.2026
+
+Netzentgelte
+Nach § 120 Absatz 4 Satz 1 des Energiewirtschaftsgesetzes (EnWG) sind zur Ermittlung vermiedener Netzentgelte ab
+dem 01.01.2018 als Obergrenze diejenigen Netzentgelte zugrunde zu legen, die am 31.12.2016 anzuwenden waren.
+
+Ab dem 01.01.2018 sind gem. § 120 Absatz 5 EnWG die Kostenbestandteile nach § 17d Absatz 7 EnWG und § 2 Absatz
+5 des Energieleitungsausbaugesetzes (EnLAG) in der bis zum Ablauf des 28. Dezember 2023 geltenden Fassung
+vollständig aus den Erlösobergrenzen des Jahres 2016 herauszurechnen, soweit diese in den damaligen Erlösobergrenzen
+enthalten waren und damit in die Preiskalkulation des Jahres 2016 eingeflossen sind. Auf dieser Basis wurden die
+Netzentgelte der Hamburger Energienetze GmbH für das Kalenderjahr 2016 neu berechnet. Sie dienen als
+Berechnungsgrundlage für die Ermittlung vermiedener Netzentgelte (Entgelte für dezentrale Einspeisungen) und
+berücksichtigen die Angaben aus dem Referenzpreisblatt des vorgelagerten Übertragungsnetzbetreibers.
+Mit Beschluss GBK-25-02-1#1 der Großen Beschlusskammer (Bundesnetzagentur) vom 17.02.2026 werden die
+vermiedenen Netzentgelte wie folgt ab 01.07.2026 abgesenkt:
+a) 50% beginnend am 01. Juli 2026 (jahresübergreifend 25%),
+b) 50% beginnend am 01. Januar 2027
+c) und 75% beginnend am 01. Januar 2028.
+Diese Absenkung bezieht sich auf folgende Netzentgelte:
+Benutzungsdauer < 2.500 h/a                                                                        fiktiver                             fiktiver
+Entnahmespannungsebene                                                                Jahresleistungspreis                         Arbeitspreis
+Hochspannung                                                                                15,91 €/kW*a                           1,00 ct/kWh
+Umspannung Hoch-/Mittelspannung                                                             17,63 €/kW*a                           1,28 ct/kWh
+Mittelspannung                                                                              16,95 €/kW*a                           1,85 ct/kWh
+Umspannung Mittel-/Niederspannung                                                           12,68 €/kW*a                           3,48 ct/kWh
+Niederspannung                                                                              13,72 €/kW*a                           3,68 ct/kWh
+
+Benutzungsdauer ≥ 2.500 h/a                                                                        fiktiver                             fiktiver
+Entnahmespannungsebene                                                                Jahresleistungspreis                         Arbeitspreis
+Hochspannung                                                                                14,96 €/kW*a                           1,04 ct/kWh
+Umspannung Hoch-/Mittelspannung                                                             22,66 €/kW*a                           1,08 ct/kWh
+Mittelspannung                                                                              29,40 €/kW*a                           1,35 ct/kWh
+Umspannung Mittel-/Niederspannung                                                           67,09 €/kW*a                           1,30 ct/kWh
+Niederspannung                                                                              48,41 €/kW*a                           2,30 ct/kWh
+
+
+Anmerkung:
+Für Bestandsanlagen vor dem 01.01.2018 mit volatiler Erzeugung werden die ausgewiesenen Preise gemäß § 120 Abs. 3 EnWG i.V.m. § 18 Abs. 5 StromNEV
+wie folgt reduziert:
+Ab dem 01.01.2018 um ein Drittel;
+ab dem 01.01.2019 um zwei Drittel;
+ab dem 01.01.2020 erfolgt keine Vergütung mehr.
+
+
+Umsatzsteuer
+Die Preise dieses Preisblattes (sofern nicht anders angegeben) sind Nettopreise, zu denen die jeweils gesetzlich
+geschuldete Umsatzsteuer (derzeit 19%) hinzuzurechnen ist.
+
+Gültigkeit
+Die Preise gelten ab dem 01.01.2018.
+Sollte die Erlösobergrenze des Jahres 2016 aufgrund behördlicher und/oder gerichtlicher Entscheidungen neu festgelegt
+bzw. rückwirkend angepasst werden oder eine Anpassung der Netzentgelte aufgrund rechtlicher oder regulatorischer
+Vorgaben erforderlich sein, werden diese fiktiven Netzentgelte - soweit dies rechtlich zulässig ist - ebenfalls erneut
+bestimmt und veröffentlicht.
+

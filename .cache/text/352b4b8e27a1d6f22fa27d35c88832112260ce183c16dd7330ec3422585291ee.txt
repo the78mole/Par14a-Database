@@ -1,0 +1,181 @@
+Preisblatt, gültig ab 01.01.2024
+Preise auf zwei Nachkommastellen, Tagesleistungspreise auf acht Nachkommastellen gerundet
+366 Tage/Jahr
+                                                                                                           Stand: 18.12.2023
+Netzentgelte
+
+Die Netzentgelte für SLP-Kunden in der Niederspannungsebene bestehen aus einem Arbeits- und einem Grundpreis.
+Der Grundpreis findet keine Anwendung für Speicherheizungen und sonstige steuerbare Verbrauchseinrichtungen mit separatem
+Zähler sowie Pauschalanlagen.
+Arbeitspreis                                                                                                    11,34 ct/kWh
+Arbeitspreis für Speicherheizungen                                                                               5,49 ct/kWh
+Arbeitspreis für steuerbare Verbrauchseinrichtungen (Bestandsanlagen bis 31.12.2023)                             5,49 ct/kWh
+
+Steuerbare Verbrauchseinrichtungen gem. § 14a EnWG ab 01.01.2024
+Rabatt für steuerbare Verbrauchseinrichtungen Modul 1 (Jahreswert, informatorisch)                                152,28 €/a
+Rabatt für steuerbare Verbrauchseinrichtungen Modul 1 (Tageswert, abrechnungsrelevant)                       0,41606557 €/d
+Arbeitspreis für steuerbare Verbrauchseinrichtungen Modul 2                                                      4,54 ct/kWh
+
+
+Grundpreis                                                                                Jahrespreis             Tagespreis
+                                                                                     (informatorisch)   (abrechnungsrelevant)
+                                                                                           60,00 €/a         0,16393443 €/d
+
+Die Netzentgelte für RLM-Kunden richten sich nach der Spannungs- bzw. Umspannungsebene, an die die jeweilige Entnahmestelle
+angeschlossen ist.
+
+
+Benutzungsdauer < 2.500 h/a                      Jahresleistungspreis        Tagesleistungspreis                 Arbeitspreis
+Entnahmespannungsebene                               (informatorisch)      (abrechnungsrelevant)        (abrechnungsrelevant)
+Hochspannung                                         37,37 €/(kW*a)        0,10210383 €/(kW*d)                   3,74 ct/kWh
+Umspannung Hoch-/Mittelspannung                      41,48 €/(kW*a)        0,11333333 €/(kW*d)                   2,97 ct/kWh
+Mittelspannung                                       40,34 €/(kW*a)        0,11021858 €/(kW*d)                   4,10 ct/kWh
+Umspannung Mittel-/Niederspannung                    28,19 €/(kW*a)        0,07702186 €/(kW*d)                   7,73 ct/kWh
+Niederspannung                                       35,65 €/(kW*a)        0,09740437 €/(kW*d)                   7,73 ct/kWh
+
+
+Benutzungsdauer ≥ 2.500 h/a                      Jahresleistungspreis        Tagesleistungspreis                 Arbeitspreis
+Entnahmespannungsebene                               (informatorisch)      (abrechnungsrelevant)        (abrechnungsrelevant)
+Hochspannung                                         83,49 €/(kW*a)        0,22811475 €/(kW*d)                   1,89 ct/kWh
+Umspannung Hoch-/Mittelspannung                      51,55 €/(kW*a)        0,14084699 €/(kW*d)                   2,57 ct/kWh
+Mittelspannung                                       59,67 €/(kW*a)        0,16303279 €/(kW*d)                   3,32 ct/kWh
+Umspannung Mittel-/Niederspannung                   149,11 €/(kW*a)        0,40740437 €/(kW*d)                   2,89 ct/kWh
+Niederspannung                                       61,60 €/(kW*a)        0,16830601 €/(kW*d)                   6,70 ct/kWh
+
+Monatsleistungspreise
+
+
+Monat: 29 Tage                                                               Tagesleistungspreis                 Arbeitspreis
+Entnahmespannungsebene                                                     (abrechnungsrelevant)        (abrechnungsrelevant)
+Hochspannung                                                               0,47982759 €/(kW*d)                   1,89 ct/kWh
+Umspannung Hoch-/Mittelspannung                                            0,29626437 €/(kW*d)                   2,57 ct/kWh
+Mittelspannung                                                             0,34293103 €/(kW*d)                   3,32 ct/kWh
+Umspannung Mittel-/Niederspannung                                          0,85695402 €/(kW*d)                   2,89 ct/kWh
+Niederspannung                                                             0,35402299 €/(kW*d)                   6,70 ct/kWh
+
+
+Monat: 30 Tage                                                               Tagesleistungspreis                 Arbeitspreis
+Entnahmespannungsebene                                                     (abrechnungsrelevant)        (abrechnungsrelevant)
+Hochspannung                                                               0,46383333 €/(kW*d)                   1,89 ct/kWh
+Umspannung Hoch-/Mittelspannung                                            0,28638889 €/(kW*d)                   2,57 ct/kWh
+Mittelspannung                                                             0,33150000 €/(kW*d)                   3,32 ct/kWh
+Umspannung Mittel-/Niederspannung                                          0,82838889 €/(kW*d)                   2,89 ct/kWh
+Niederspannung                                                             0,34222222 €/(kW*d)                   6,70 ct/kWh
+Preisblatt, gültig ab 01.01.2024
+Preise auf zwei Nachkommastellen, Tagesleistungspreise auf acht Nachkommastellen gerundet
+366 Tage/Jahr
+                                                                                                                                       Stand: 18.12.2023
+
+
+Monat: 31 Tage                                                                                  Tagesleistungspreis                        Arbeitspreis
+Entnahmespannungsebene                                                                        (abrechnungsrelevant)               (abrechnungsrelevant)
+Hochspannung                                                                                   0,44887097 €/(kW*d)                            1,89 ct/kWh
+Umspannung Hoch-/Mittelspannung                                                                0,27715054 €/(kW*d)                            2,57 ct/kWh
+Mittelspannung                                                                                 0,32080645 €/(kW*d)                            3,32 ct/kWh
+Umspannung Mittel-/Niederspannung                                                              0,80166667 €/(kW*d)                            2,89 ct/kWh
+Niederspannung                                                                                 0,33118280 €/(kW*d)                            6,70 ct/kWh
+
+
+Tagesleistungspreis für Landverstromung                                                         Tagesleistungspreis                        Arbeitspreis
+                                                                                              (abrechnungsrelevant)               (abrechnungsrelevant)
+Hochspannung                                                                                   0,22811475 €/(kW*d)                            1,89 ct/kWh
+Umspannung Hoch-/Mittelspannung                                                                0,14084699 €/(kW*d)                            2,57 ct/kWh
+Mittelspannung                                                                                 0,16303279 €/(kW*d)                            3,32 ct/kWh
+Anmerkung:
+Tagesleistungspreise für Landverstromung können gemäß § 17 Abs. 8 StromNEV nur für den Strombezug der von Land aus erbrachten Stromversorgung von
+Seeschiffen beansprucht werden.
+
+
+Blindarbeit
+
+Unterschreitet der durchschnittliche Leistungsfaktor den Wert 0,9 induktiv, so kann die monatlich 50 % der Wirkarbeit
+übersteigende Blindarbeit je Blindarbeitskilowattstunde (kvarh) berechnet werden.
+
+Blindarbeitspreis (abrechnungsrelevant)                                                                                                      1,53 ct/kvarh
+
+Messstellenbetrieb
+
+Die Entgelte richten sich nach der Messspannungsebene und werden für jeden Zähler berechnet.
+Die Entgelte für moderne Messeinrichtungen und intelligente Messsysteme werden gesondert veröffentlicht.
+
+
+                                                                                                            Jahrespreis                     Tagespreis
+                                                                                                       (informatorisch)           (abrechnungsrelevant)
+Eintarifzähler mit jährlicher Ablesung                                                                        13,08 €/a                  0,03573770 €/d
+Eintarifzähler mit halbjährlicher Ablesung                                                                    30,08 €/a                  0,08218579 €/d
+Eintarifzähler mit vierteljährlicher Ablesung                                                                 64,08 €/a                  0,17508197 €/d
+Eintarifzähler mit monatlicher Ablesung                                                                      200,08 €/a                  0,54666667 €/d
+Zweitarifzähler mit jährlicher Ablesung                                                                       40,53 €/a                  0,11073770 €/d
+Zweitarifzähler mit halbjährlicher Ablesung                                                                   57,53 €/a                  0,15718579 €/d
+Zweitarifzähler mit vierteljährlicher Ablesung                                                                91,53 €/a                  0,25008197 €/d
+Zweitarifzähler mit monatlicher Ablesung                                                                     227,53 €/a                  0,62166667 €/d
+Lastgangzählung in der Niederspannung                                                                        330,77 €/a                  0,90374317 €/d
+Lastgangzählung in der Mittelspannung                                                                        330,77 €/a                  0,90374317 €/d
+Lastgangzählung in der Hochspannung                                                                        2.097,47 €/a                  5,73079235 €/d
+Wandler in der Niederspannung                                                                                 16,81 €/a                  0,04592896 €/d
+Wandler in der Mittelspannung                                                                                100,84 €/a                  0,27551913 €/d
+Anmerkungen:
+(1) Bei Mittelspannungsanlagen, die niederspannungsseitig gemessen werden, werden die Arbeits- und Leistungswerte zum Ausgleich der Transformatorenverluste um
+2,8 % erhöht.
+(2) Bei Kunden mit Erzeugungsanlagen werden die Entgelte für die Zähler je Energieflussrichtung separat abgerechnet.
+Preisblatt, gültig ab 01.01.2024
+Preise auf zwei Nachkommastellen, Tagesleistungspreise auf acht Nachkommastellen gerundet
+366 Tage/Jahr
+                                                                                                             Stand: 18.12.2023
+Gesetzliche Umlagen
+
+Die gesetzlichen Umlagen nach § 26 KWKG, § 19 Abs. 2 StromNEV und § 17f EnWG werden zusätzlich zu den Netzentgelten
+erhoben und in Rechnung gestellt. Die Höhe der aktuell geltenden gesetzlichen Umlagen sowie weiterführende Informationen zu
+den Umlagen werden auf der gemeinsamen Internetplattform der deutschen Übertragungsnetzbetreiber unter
+www.netztransparenz.de veröffentlicht.
+
+Konzessionsabgabe
+
+Tarifkunden ohne Schwachlast                                                                                          2,39 ct/kWh
+Tarifkunden mit Schwachlast                                                                                           0,61 ct/kWh
+Sondervertragskunden                                                                                                  0,11 ct/kWh
+
+Dienstleistungen für Messstellenbetrieb
+
+Manuelle Auslesung eines Lastgangs vor Ort                                                                 55,00 EUR/Ablesung
+Extraablesung für SLP-Kunden                                                                               46,22 EUR/Ablesung
+Bereitstellung eines historischen Lastgangs                                                                 55,00 EUR/Vorgang
+SLP-Zählerprüfung vor Ort (keine eichrechtliche Prüfung)                                                    58,82 EUR/Vorgang
+RLM-Zählerprüfung vor Ort (keine eichrechtliche Prüfung)                                                  297,00 EUR/Vorgang
+Zählerwechsel bei SLP-Kunden                                                                                48,50 EUR/Vorgang
+Auftrag zur Ermittlung eines Anschlussnutzers                                                               63,03 EUR/Vorgang
+
+Unterbrechung und Wiederherstellung der Anschlussnutzung
+
+Nach § 24 NAV unterbricht der Netzbetreiber den Netzanschluss und die Anschlussnutzung in Niederspannung und stellt diese
+nach Wegfall der Gründe hierfür wieder her.
+Eine Wiederherstellung der Anschlussnutzung außerhalb der regulären Geschäftszeiten (Montag – Freitag, außer gesetzliche
+Feiertage, zwischen 08.00 Uhr und 18.00 Uhr), kann nur über den Notdienst der Elektrohandwerke Hamburg GbR auf eigene
+Kosten beauftragt werden.
+
+Unterbrechung der Anschlussnutzung in der regulären Arbeitszeit für SLP-Kunden                              63,03 EUR/Vorgang
+Wiederherstellung der Anschlussnutzung in der regulären Arbeitszeit für SLP-Kunden                          63,03 EUR/Vorgang
+Erfolglose Unterbrechung der Anschlussnutzung für SLP-Kunden                                                63,03 EUR/Vorgang
+Unterbrechung der Anschlussnutzung in der regulären Arbeitszeit für RLM-Kunden                            295,00 EUR/Vorgang
+Wiederherstellung der Anschlussnutzung in der regulären Arbeitszeit für RLM-Kunden                        295,00 EUR/Vorgang
+Erfolglose Unterbrechung der Anschlussnutzung für RLM-Kunden                                              295,00 EUR/Vorgang
+Stornierung eines Auftrags zur Unterbrechung der Anschlussnutzung bis zum Vortag der Sperrung                4,62 EUR/Vorgang
+Stornierung eines Auftrags zur Unterbrechung der Anschlussnutzung am Tag der Sperrung                       19,59 EUR/Vorgang
+
+Wiederherstellung der Anschlussnutzung außerhalb der regulären Arbeitszeit                             nur über Notdienst der
+                                                                                                    Elektrohandwerke Hamburg
+
+In Mittel- und Hochspannung wird die Unterbrechung und Wiederherstellung des Netzanschlusses und der Anschlussnutzung nach
+Aufwand berechnet.
+
+
+Umsatzsteuer
+
+Alle vorstehend genannten Entgelte unterliegen dem im Liefer- bzw. Leistungszeitpunkt jeweils gültigen gesetzlichen
+Umsatzsteuersatz.
+
+
+Gültigkeit
+
+Die Preise gelten ab dem 01.01.2024.
+

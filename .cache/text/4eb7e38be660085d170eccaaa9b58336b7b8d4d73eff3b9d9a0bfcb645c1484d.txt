@@ -1,0 +1,210 @@
+Cennik, obowiązuje od 01.01.2023 r.
+Ceny zaokrąglone do dwóch miejsc po przecinku, dzienna cena zużycia energii zaokrąglona do
+ośmiu miejsc po przecinku 365 dni/rok
+                                                                                                                  Stan na: 01.01.2023
+                                                                                                                  r.
+Opłaty sieciowe
+
+Opłaty sieciowe dla klientów ze standardowym profilem zużycia energii elektrycznej (SLP) z zasilaniem na poziomie
+niskiego napięcia obejmują cenę energii elektrycznej i cenę podstawową. Cena podstawowa nie dotyczy ogrzewania
+akumulacyjnego, innych sterowanych urządzeń zużywających energię oraz systemów ryczałtowych.
+Cena energii elektrycznej                                                                                                   8,92 ct/kWh
+Cena energii elektrycznej dla ogrzewania akumulacyjnego                                                                     4,49 ct/kWh
+Cena energii elektrycznej dla sterowanych urządzeń zużywających energię                                                     4,49 ct/kWh
+
+                                                                                             Cena roczna                    Cena
+Cena podstawowa
+                                                                                         (informacyjnie)       dzienna (podlegająca
+                                                                                                60,00 €/r      rozliczeniu)
+                                                                                                                        0,16438356 €/d
+
+Opłaty sieciowe dla klientów RLM oparte są na poziomie napięcia lub poziomie transformacji, do którego podłączony jest dany punkt
+poboru.
+
+Czas użytkowania < 2500 h/rok              Roczna cena zużycia energii Dzienna cena zużycia energii         Cena energii elektrycznej
+Poziom poboru napięcia                                (informacyjnie) (podlegająca rozliczeniu)             (podlegająca rozliczeniu)
+Wysokie napięcie                                           22,32 €/(kW*r)           0,06115068 €/(kW*d)                     2,00 ct/kWh
+Transformacja wysokie/średnie napięcie                     26,50 €/(kW*r)           0,07260274 €/(kW*d)                     2,37 ct/kWh
+Średnie napięcie                                           29,52 €/(kW*r)           0,08087671 €/(kW*d)                     3,59 ct/kWh
+Transformacja średnie/niskie napięcie                      20,47 €/(kW*r)           0,05608219 €/(kW*d)                     5,61 ct/kWh
+Niskie napięcie                                            28,71 €/(kW*r)           0,07865753 €/(kW*d)                     6,64 ct/kWh
+
+Czas użytkowania ≥ 2500 h/rok              Roczna cena zużycia energii        Dzienna cena zużycia          Cena energii elektrycznej
+Poziom poboru napięcia                                (informacyjnie)       energii (podlegająca            (podlegająca rozliczeniu)
+                                                                            rozliczeniu)
+
+Wysokie napięcie                                           41,87 €/(kW*r)           0,11471233 €/(kW*d)                     1,22 ct/kWh
+Transformacja wysokie/średnie napięcie                     49,56 €/(kW*r)           0,13578082 €/(kW*d)                     1,45 ct/kWh
+Średnie napięcie                                           64,55 €/(kW*r)           0,17684932 €/(kW*d)                     2,19 ct/kWh
+Transformacja średnie/niskie napięcie                     108,27 €/(kW*r)           0,29663014 €/(kW*d)                     2,10 ct/kWh
+Niskie napięcie                                            63,83 €/(kW*r)           0,17487671 €/(kW*d)                     5,23 ct/kWh
+
+
+Miesięczna cena zużycia energii
+
+
+Miesiąc: 28-dniowy                                                          Dzienna cena zużycia energii       Cena energii
+Poziom poboru napięcia                                                      (podlegająca rozliczeniu)          elektrycznej
+Wysokie napięcie                                                                    0,24922619 €/(kW*d)        (podlegająca1,22
+                                                                                                                            rozliczeniu)
+                                                                                                                                 ct/kWh
+Transformacja wysokie/średnie napięcie                                              0,29500000 €/(kW*d)                     1,45 ct/kWh
+Średnie napięcie                                                                    0,38422619 €/(kW*d)                     2,19 ct/kWh
+Transformacja średnie/niskie napięcie                                               0,64446429 €/(kW*d)                     2,10 ct/kWh
+Niskie napięcie                                                                     0,37994048 €/(kW*d)                     5,23 ct/kWh
+
+Miesiąc: 30-dniowy                                                          Dzienna cena zużycia energii Cena energii elektrycznej
+Poziom poboru napięcia                                                      (podlegająca rozliczeniu)    (podlegająca rozliczeniu)
+Wysokie napięcie                                                                    0,23261111 €/(kW*d)                     1,22 ct/kWh
+Transformacja wysokie/średnie napięcie                                              0,27533333 €/(kW*d)                     1,45 ct/kWh
+Średnie napięcie                                                                    0,35861111 €/(kW*d)                     2,19 ct/kWh
+Transformacja średnie/niskie napięcie                                               0,60150000 €/(kW*d)                     2,10 ct/kWh
+Niskie napięcie                                                                     0,35461111 €/(kW*d)                     5,23 ct/kWh
+
+
+
+
+                                                             Strona 1 z 3
+Cennik, obowiązuje od 01.01.2023 r.
+Ceny zaokrąglone do dwóch miejsc po przecinku, dzienna cena zużycia energii zaokrąglona do
+ośmiu miejsc po przecinku 365 dni/rok
+                                                                                                                                                Stan na: 01.01.2023
+                                                                                                                                                r.
+Miesiąc: 31-dniowy                                                                              Dzienna cena zużycia energii             Cena energii elektrycznej
+Poziom poboru napięcia                                                                          (podlegająca rozliczeniu)               (podlegająca rozliczeniu)
+Wysokie napięcie                                                                                            0,22510753 €/(kW*d)                               1,22 ct/kWh
+Transformacja wysokie/średnie napięcie                                                                      0,26645161 €/(kW*d)                               1,45 ct/kWh
+Średnie napięcie                                                                                            0,34704301 €/(kW*d)                               2,19 ct/kWh
+Transformacja średnie/niskie napięcie                                                                       0,58209677 €/(kW*d)                               2,10 ct/kWh
+Niskie napięcie                                                                                             0,34317204 €/(kW*d)                               5,23 ct/kWh
+
+                                                                                                Dzienna cena zużycia energii             Cena energii elektrycznej
+Dzienna cena zużycia energii dla zasilania z lądu
+                                                                                                (podlegająca rozliczeniu)                (podlegająca rozliczeniu)
+Wysokie napięcie                                                                                            0,11471233 €/(kW*d)                               1,22 ct/kWh
+Transformacja wysokie/średnie napięcie                                                                      0,13578082 €/(kW*d)                               1,45 ct/kWh
+Średnie napięcie                                                                                            0,17684932 €/(kW*d)                               2,19 ct/kWh
+Uwaga:
+Żądanie cen za usługę dzienną możliwe jest według § 17 ust. 8 niemieckiego rozporządzenia o opłatach sieciowych (StromNEV) tylko dla odbioru prądu w przypadku zasilania
+statków morskich z lądu.
+
+
+Moc bierna
+
+Jeżeli średni współczynnik mocy spadnie poniżej wartości 0,9 indukcyjnej, to miesięczna energia bierna, przekraczająca 50% energii
+czynnej, może być obliczona na kilowatogodzinę energii biernej (kvarh).
+
+Cena mocy biernej (podlegająca rozliczeniu)                                                                                                                  1,53 ct/kvarh
+
+Punkty pomiarowe
+
+Ceny są obliczane na podstawie poziomu napięcia w punktach pomiaru i rozliczane zgodnie ze wskazaniami danego licznika.
+Ceny nowoczesnych urządzeń pomiarowych i inteligentnych systemów pomiarowych zostaną opublikowane osobno.
+
+                                                                                                                      Cena roczna                          Cena
+                                                                                                                  (informacyjnie)             dzienna (podlegająca
+Licznik jednotaryfowy z odczytem raz na rok                                                                                14,18 €/r          rozliczeniu)
+                                                                                                                                                       0,03884932 €/d
+Licznik jednotaryfowy z odczytem raz na pół roku                                                                           31,18 €/r                     0,08542466 €/d
+Licznik jednotaryfowy z odczytem raz na kwartał                                                                            65,18 €/r                     0,17857534 €/d
+Licznik jednotaryfowy z odczytem raz na miesiąc                                                                         201,18 €/r                       0,55117808 €/d
+Licznik dwutaryfowy z odczytem raz na rok                                                                                  53,45 €/r                     0,14643836 €/d
+Licznik dwutaryfowy z odczytem raz na pół roku                                                                             70,45 €/r                     0,19301370 €/d
+Licznik dwutaryfowy z odczytem raz na kwartał                                                                           104,45 €/r                       0,28616438 €/d
+Licznik dwutaryfowy z odczytem raz na miesiąc                                                                           240,45 €/r                       0,65876712 €/d
+Zliczanie profilu obciążenia w niskim napięciu                                                                          363,89 €/r                       0,99695890 €/d
+Zliczanie profilu obciążenia w średnim napięciu                                                                         363,89 €/r                       0,99695890 €/d
+Zliczanie profilu obciążenia w wysokim napięciu                                                                       2 149,57 €/r                       5,88923288 €/d
+Konwerter niskiego napięcia                                                                                                16,81 €/r                     0,04605479 €/d
+Konwerter średniego napięcia                                                                                            100,84 €/r                       0,27627397 €/d
+Uwagi:
+(1) W przypadku urządzeń średniego napięcia mierzonych od strony niskiego napięcia wartości zużycia i mocy zostaną podwyższone o 2,8% w celu wyrównania strat mocy w
+transformatorach.
+(2) W wypadku klientów eksploatujących generatory prądotwórcze opłaty za liczniki będą rozliczane osobno w zależności od kierunku przepływu energii.
+
+
+
+
+                                                                               Strona 2 z 3
+Cennik, obowiązuje od 01.01.2023 r.
+Ceny zaokrąglone do dwóch miejsc po przecinku, dzienna cena zużycia energii zaokrąglona do
+ośmiu miejsc po przecinku 365 dni/rok
+                                                                                                                 Stan na: 19.12.2022
+                                                                                                                 r.
+Ustawowe rozłożenie kosztów
+
+Opłaty wynikające z ustawowego rozłożenia kosztów zgodnie z § 26 ustawy o kogeneracji (KWKG), § 19 ust. 2 StromNEV, § 17f ustawy
+o zaopatrzeniu w energię elektryczną i gaz (EnWG) i § 18 rozporządzenia w sprawie instalacji o zdolności wyłączania (AbLaV) będą
+pobierane i rozliczane dodatkowo do opłat sieciowych. Wysokość aktualnie obowiązujących opłat z tytułu ustawowego rozłożenia
+kosztów oraz dalsze informacje dotyczące tych opłat będą opublikowane na wspólnej platformie internetowej niemieckich operatorów
+sieci przesyłowych pod adresem www.netztransparenz.de.
+
+Opłata koncesyjna
+
+Klienci taryfowi bez obciążenia pozaszczytowego                                                                          2,39 ct/kWh
+Klienci taryfowi z obciążeniem pozaszczytowym                                                                            0,61 ct/kWh
+Klienci objęci umowami specjalnymi                                                                                       0,11 ct/kWh
+
+Usługi związane z punktami pomiaru
+
+Ręczny odczyt profilu obciążenia w miejscu odbioru                                                             55,00 EUR/odczyt
+Dodatkowy odczyt dla klientów SLP                                                                              46,22 EUR/odczyt
+Udostępnienie historycznego profilu obciążenia                                                                  55,00 EUR/odczyt
+Kontrola licznika SLP w miejscu jego zamontowania (brak kontroli legalizacyjnej)                                EUR/procedura
+                                                                                                                58,82 EUR/odczyt
+Kontrola licznika RLM w miejscu jego zamontowania (brak kontroli legalizacyjnej)                                EUR/procedura
+                                                                                                               297,00 EUR/odczyt
+                                                                                                               EUR/procedura
+                                                                                                                48,50 EUR/odczyt
+Wymiana licznika u klientów SLP
+                                                                                                                EUR/procedura
+Zlecenie ustalenia podmiotu korzystającego z przyłącza                                                          63,03 EUR/odczyt
+                                                                                                                EUR/procedura
+Wstrzymanie i przywrócenie korzystania z przyłącza do sieci
+
+Zgodnie z § 24 rozporządzenia o niskim napięciu (NAV) operator sieci ma prawo wstrzymać dostawy prądu do sieci i zablokować
+korzystanie z przyłączy niskiego napięcia oraz przywraca je, gdy ustaną przyczyny tego stanu rzeczy.
+Przywrócenie możliwości korzystania z przyłącza poza normalnymi godzinami pracy (od poniedziałku do piątku, z wyłączeniem dni
+ustawowo wolnych od pracy, w godzinach od 08:00 do 18:00) można zlecić wyłącznie za pośrednictwem serwisu awaryjnego firmy Elektro
+Handwerke Hamburg GbR na własny koszt.
+Założenie blokady korzystania z przyłącza do sieci w normalnych godzinach pracy dla klientów SLP                63,03 EUR/odczyt
+Przywrócenie korzystania z przyłącza do sieci w normalnych godzinach pracy dla klientów SLP                     EUR/procedura
+                                                                                                                63,03 EUR/odczyt
+Uniemożliwienie założenia blokady korzystania z przyłącza do sieci dla klientów SLP                             EUR/procedura
+                                                                                                                63,03 EUR/odczyt
+Założenie blokady korzystania z przyłącza do sieci w normalnych godzinach pracy dla klientów RLM                EUR/procedura
+                                                                                                               295,00 EUR/odczyt
+Przywrócenie korzystania z przyłącza do sieci w normalnych godzinach pracy dla klientów RLM                    EUR/procedura
+                                                                                                               295,00 EUR/odczyt
+Uniemożliwienie założenia blokady korzystania z przyłącza do sieci dla klientów RLM                            EUR/procedura
+                                                                                                               295,00 EUR/odczyt
+Odwołanie zlecenia wstrzymania korzystania z przyłącza do dnia poprzedzającego odłączenie                      EUR/procedura
+                                                                                                                 4,62 EUR/odczyt
+Odwołanie zlecenia wstrzymania korzystania z przyłącza w dniu odłączenia                                         EUR/procedura
+                                                                                                                19,59 EUR/odczyt
+                                                                                                        tylko za EUR/procedura
+                                                                                                                 pośrednictwem
+Przywrócenie korzystania z przyłącza do sieci poza normalnymi godzinami pracy                           serwisu awaryjnego
+                                                                                                        Elektrohandwerke Hamburg
+
+
+Wstrzymanie i wznowienie dostaw prądu oraz korzystanie z przyłącza dla klientów na średnim i wysokim napięciu może wiązać się z
+dodatkowymi opłatami, w zależności od poniesionych nakładów.
+
+
+Podatek VAT
+
+
+Wszystkie wyżej wymienione opłaty podlegają ustawowej stawce podatku VAT obowiązującej w momencie dostawy lub wykonania.
+
+
+Obowiązywanie
+
+
+Ceny obowiązują od 01.01.2023 r.
+
+
+
+
+                                                              Strona 3 z 3
+

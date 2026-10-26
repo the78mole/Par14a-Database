@@ -1,0 +1,200 @@
+Tabela opłat, obowiązuje od 01.01.2024 r.
+Ceny z dokładnością do dwóch miejsc po przecinku, dzienna opłata mocowa zaokrąglona do ośmiu miejsc po
+przecinku 366 dni w roku
+                                                                                                                   Stan na: 18.12.2023 r.
+Opłaty sieciowe
+
+Opłaty sieciowe dla klientów o profilu obciążenia na poziomie niskiego napięcia składają się z opłaty zmiennej i stałej.
+Opłata stała nie ma zastosowania do pieców akumulacyjnych oraz innych urządzeń o regulowanym zużyciu energii z oddzielnymi licznikami
+lub systemami ryczałtowymi.
+Opłata zmienna                                                                                                       11,34 centa za kWh
+Opłata zmienna za piece akumulacyjne                                                                                   5,49 centa za kWh
+Opłata zmienna za urządzenia o regulowanym zużyciu energii (urządzenia działające do dnia 31.12.2023 r.)               5,49 centa za kWh
+
+
+Urządzenia o regulowanym zużyciu energii zgodnie z § 14a EnWG (niem. ustawa o zaopatrzeniu w energię i gaz) od dnia 01.01.2024 r.
+Rabat za urządzenia o regulowanym zużyciu energii moduł 1 (wartość roczna, informacyjna)                                 152,28 EUR/rok
+Rabat za urządzenia o regulowanym zużyciu energii moduł 1 (wartość dzienna, istotna dla rozliczenia)              0,41606557 EUR/dzień
+Opłata zmienna za urządzenia o regulowanym zużyciu energii moduł 2                                                     4,54 centa za kWh
+
+
+Opłata stała                                                                                          Opłata Opłata dzienna (istotna dla
+                                                                                        roczna (informacyjna)               rozliczenia)
+                                                                                              60,00 EUR/rok       0,16393443 EUR/dzień
+
+Opłaty sieciowe dla klientów rozliczających się za pomocą rejestrujących liczników energii są oparte na napięciu lub mocy transformatora,
+do którego podłączony jest dany punkt poboru energii.
+
+
+Czas użytkowania <2500 godz./rok                      Roczna opłata     Dzienna opłata mocowa (istotna dla       Opłata zmienna (istotna
+Poziom poboru napięcia                         mocowa (informacyjna)                          rozliczenia)               dla rozliczenia)
+Wysokie napięcie                                  37,37 EUR/(kW*rok)           0,10210383 EUR/(kW*dzień)               3,74 centa za kWh
+Transformacja napięcie wysokie/średnie            41,48 EUR/(kW*rok)           0,11333333 EUR/(kW*dzień)               2,97 centa za kWh
+Średnie napięcie                                  40,34 EUR/(kW*rok)           0,11021858 EUR/(kW*dzień)               4,10 centa za kWh
+Transformacja napięcie średnie/niskie             28,19 EUR/(kW*rok)           0,07702186 EUR/(kW*dzień)               7,73 centa za kWh
+Niskie napięcie                                   35,65 EUR/(kW*rok)           0,09740437 EUR/(kW*dzień)               7,73 centa za kWh
+
+                                                                                                                                  Opłata
+Czas użytkowania ≥2.500 godz./rok                     Roczna opłata     Dzienna opłata mocowa (istotna dla           zmienna (istotna dla
+Poziom poboru napięcia                         mocowa (informacyjna)                          rozliczenia)                   rozliczenia)
+Wysokie napięcie                                  83,49 EUR/(kW*rok)           0,22811475 EUR/(kW*dzień)               1,89 centa za kWh
+Transformacja napięcie wysokie/średnie            51,55 EUR/(kW*rok)           0,14084699 EUR/(kW*dzień)               2,57 centa za kWh
+Średnie napięcie                                  59,67 EUR/(kW*rok)           0,16303279 EUR/(kW*dzień)               3,32 centa za kWh
+Transformacja napięcie średnie/niskie            149,11 EUR/(kW*rok)           0,40740437 EUR/(kW*dzień)               2,89 centa za kWh
+Niskie napięcie                                   61,60 EUR/(kW*rok)           0,16830601 EUR/(kW*dzień)               6,70 centa za kWh
+
+Miesięczne ceny usług
+
+
+Miesiąc: 29 dni Poziom poboru                                           Dzienna opłata mocowa (istotna dla       Opłata zmienna (istotna
+napięcia                                                                                      rozliczenia)               dla rozliczenia)
+Wysokie napięcie                                                               0,47982759 EUR/(kW*dzień)               1,89 centa za kWh
+Transformacja napięcie wysokie/średnie                                         0,29626437 EUR/(kW*dzień)               2,57 centa za kWh
+Średnie napięcie                                                               0,34293103 EUR/(kW*dzień)               3,32 centa za kWh
+Transformacja napięcie średnie/niskie                                          0,85695402 EUR/(kW*dzień)               2,89 centa za kWh
+Niskie napięcie                                                                0,35402299 EUR/(kW*dzień)               6,70 centa za kWh
+
+Miesiąc: 30 dni Poziom poboru                                           Dzienna opłata mocowa (istotna dla       Opłata zmienna (istotna
+napięcia                                                                                      rozliczenia)               dla rozliczenia)
+Wysokie napięcie                                                               0,46383333 EUR/(kW*dzień)               1,89 centa za kWh
+Transformacja napięcie wysokie/średnie                                         0,28638889 EUR/(kW*dzień)               2,57 centa za kWh
+Średnie napięcie                                                               0,33150000 EUR/(kW*dzień)               3,32 centa za kWh
+Transformacja napięcie średnie/niskie                                          0,82838889 EUR/(kW*dzień)               2,89 centa za kWh
+Niskie napięcie                                                                0,34222222 EUR/(kW*dzień)               6,70 centa za kWh
+Tabela opłat, obowiązuje od 01.01.2024 r.
+Ceny z dokładnością do dwóch miejsc po przecinku, dzienna opłata mocowa zaokrąglona do ośmiu miejsc po
+przecinku 366 dni w roku
+                                                                                                                                                Stan na: 18.12.2023 r.
+                                                                                           Dzienna opłata mocowa (istotna dla                 Opłata zmienna (istotna
+Miesiąc: 31 dni Poziom poboru napięcia                                                                           rozliczenia)                         dla rozliczenia)
+Wysokie napięcie                                                                                    0,44887097 EUR/(kW*dzień)                        1,89 centa za kWh
+Transformacja napięcie wysokie/średnie                                                             0,27715054 EUR/(kW*dzień)                         2,57 centa za kWh
+Średnie napięcie                                                                                   0,32080645 EUR/(kW*dzień)                         3,32 centa za kWh
+Transformacja napięcie średnie/niskie                                                              0,80166667 EUR/(kW*dzień)                         2,89 centa za kWh
+Niskie napięcie                                                                                    0,33118280 EUR/(kW*dzień)                         6,70 centa za kWh
+
+
+Dzienna opłata mocowa dla zasilania na lądzie                                              Dzienna opłata mocowa (istotna dla                 Opłata zmienna (istotna
+                                                                                                                 rozliczenia)                         dla rozliczenia)
+Wysokie napięcie                                                                                    0,22811475 EUR/(kW*dzień)                        1,89 centa za kWh
+Transformacja napięcie wysokie/średnie                                                              0,14084699 EUR/(kW*dzień)                        2,57 centa za kWh
+Średnie napięcie                                                                                    0,16303279 EUR/(kW*dzień)                        3,32 centa za kWh
+Uwaga:
+Zgodnie z § 17 ust. 8 StromNEV (rozporządzenie o opłatach za korzystanie z sieci energetycznych) dzienne opłaty mocowe dla zasilania na lądzie mogą być stosowane wyłącznie
+w odniesieniu do energii elektrycznej dostarczanej statkom morskim z lądu.
+
+
+Energia bierna
+
+Jeśli średni współczynnik mocy spadnie poniżej wartości energii indukcyjnej 0,9, energię bierną przekraczającą 50% energii czynnej w
+miesiącu można obliczyć na kilowatogodzinę energii biernej (kVAhr).
+
+Energia bierna (istotna dla rozliczenia)                                                                                                           1,53 centa za kVAhr
+
+Praca punktów pomiarowych
+
+Opłaty są oparte na poziomie napięcia pomiarowego i obliczane dla każdego licznika.
+Opłaty dotyczące nowoczesnych urządzeń pomiarowych oraz inteligentnych systemów pomiarowych zostaną opublikowane osobno.
+
+
+                                                                                                                            Opłata Opłata dzienna (istotna dla
+                                                                                                              roczna (informacyjna)               rozliczenia)
+Licznik jednotaryfowy z odczytem rocznym                                                                              13,08 EUR/rok            0,03573770 EUR/dzień
+Licznik jednotaryfowy z odczytem półrocznym                                                                           30,08 EUR/rok            0,08218579 EUR/dzień
+Licznik jednotaryfowy z odczytem kwartalnym                                                                           64,08 EUR/rok            0,17508197 EUR/dzień
+Licznik jednotaryfowy z odczytem miesięcznym                                                                         200,08 EUR/rok            0,54666667 EUR/dzień
+Licznik dwutaryfowy z odczytem rocznym                                                                                40,53 EUR/rok            0,11073770 EUR/dzień
+Licznik dwutaryfowy z odczytem półrocznym                                                                             57,53 EUR/rok            0,15718579 EUR/dzień
+Licznik dwutaryfowy z odczytem kwartalnym                                                                             91,53 EUR/rok            0,25008197 EUR/dzień
+Licznik dwutaryfowy z odczytem miesięcznym                                                                           227,53 EUR/rok            0,62166667 EUR/dzień
+Pomiar profilu obciążenia w sieci niskiego napięcia                                                                  330,77 EUR/rok            0,90374317 EUR/dzień
+Pomiar profilu obciążenia w sieci średniego napięcia                                                                 330,77 EUR/rok            0,90374317 EUR/dzień
+Pomiar profilu obciążenia w sieci wysokiego napięcia                                                               2.097,47 EUR/rok            5,73079235 EUR/dzień
+Przekształtnik w sieci niskiego napięcia                                                                              16,81 EUR/rok            0,04592896 EUR/dzień
+Przekształtnik w sieci średniego napięcia                                                                            100,84 EUR/rok            0,27551913 EUR/dzień
+Uwaga:
+(1)W przypadku układów średniego napięcia, które są mierzone po stronie niskiego napięcia, wartości pracy i mocy są zwiększane o 2,8% w celu skompensowania strat
+transformatora.
+(2)W przypadku klientów posiadających instalacje generujące, opłaty za liczniki są naliczane oddzielnie dla każdego kierunku przepływu energii.
+Tabela opłat, obowiązuje od 01.01.2024 r.
+Ceny z dokładnością do dwóch miejsc po przecinku, dzienna opłata mocowa zaokrąglona do ośmiu miejsc po
+przecinku 366 dni w roku
+                                                                                                                   Stan na: 18.12.2023 r.
+Opłaty ustawowe
+
+Opłaty ustawowe zgodnie z § 26 KWKG (niem. ustawa o ochronie wytwarzania energii elektrycznej w procesie kogeneracji), § 19 ust. 2
+StromNEV i § 17f EnWG (niem. ustawa energetyczna) są naliczane i fakturowane dodatkowo do opłat sieciowych. Wysokość aktualnie
+obowiązujących opłat ustawowych oraz dalsze informacje na ich temat są dostępne na wspólnej platformie internetowej niemieckich
+operatorów systemów dystrybucyjnych pod adresem www.netztransparenz.de.
+
+Opłata z tytułu koncesji
+
+Klienci taryfowi bez obciążenia pozaszczytowego                                                                       2,39 centa za kWh
+Klienci taryfowi z obciążeniem pozaszczytowym                                                                         0,61 centa za kWh
+Klienci objęci umowami specjalnymi                                                                                    0,11 centa za kWh
+
+Usługi dotyczące pracy punktów pomiarowych
+
+Ręczny odczyt profilu obciążenia na miejscu                                                                            55,00 EUR/odczyt
+Odczyt dodatkowy dla klientów o profilu obciążenia na poziomie niskiego napięcia                                       46,22 EUR/odczyt
+Udostępnienie historycznego profilu obciążenia                                                                      55,00 EUR/zdarzenie
+Kontrola licznika standardowego profilu obciążenia na miejscu (brak weryfikacji w ramach procedury                  58,82 EUR/zdarzenie
+kalibracji)
+
+                                                                                                                   297,00 EUR/zdarzenie
+Kontrola licznika rejestrującego pomiar mocy na miejscu (brak weryfikacji w ramach procedury kalibracji)
+Wymiana licznika u klienta ze standardowym profilem obciążenia                                                      48,50 EUR/zdarzenie
+Zlecenie określenia użytkownika przyłącza                                                                           63,03 EUR/zdarzenie
+
+Odłączenie i ponowne przyłączenie przyłącza
+
+Zgodnie z § 24 NAV (niem. rozporządzenie o podłączeniu do sieci niskiego napięcia), operator sieci dokonuje odłączenia przyłącza do sieci
+i wykorzystania przyłącza przy niskim napięciu i przywraca je po ustaniu przyczyn.
+Przywrócenie przyłącza poza normalnymi godzinami pracy (od poniedziałku do piątku, z wyjątkiem dni ustawowo wolnych od pracy, w
+godzinach od 08:00 do 18:00) można zlecić wyłącznie za pośrednictwem pogotowia Elektrohandwerke Hamburg GbR na koszt klienta.
+
+
+Przerwanie eksploatacji przyłącza w normalnych godzinach pracy dla klientów o standardowym profilu                  63,03 EUR/zdarzenie
+obciążenia
+
+Ponowne przyłączenie przyłącza sieciowego w normalnych godzinach pracy dla klientów o standardowym                  63,03 EUR/zdarzenie
+profilu obciążenia
+
+Nieudane odłączenie przyłącza sieciowego dla klientów o standardowym profilu obciążenia                             63,03 EUR/zdarzenie
+Przerwanie eksploatacji przyłącza w normalnych godzinach pracy dla klientów posiadających licznik
+                                                                                                                   295,00 EUR/zdarzenie
+rejestrujący pomiar mocy
+Ponowne przyłączenie przyłącza w normalnych godzinach pracy dla klientów posiadających licznik
+                                                                                                                   295,00 EUR/zdarzenie
+rejestrujący pomiar mocy
+
+                                                                                                                   295,00 EUR/zdarzenie
+Nieudane odłączenie przyłącza sieciowego dla klientów posiadających licznik rejestrujący pomiar mocy
+
+Anulowanie zlecenia odłączenia przyłącza sieciowego do dnia poprzedzającego odłączenie                               4,62 EUR/zdarzenie
+
+Anulowanie zlecenia odłączenia przyłącza sieciowego w dniu odłączenia                                               19,59 EUR/zdarzenie
+                                                                                                                nie za pośrednictwem
+Ponowne przyłączenie przyłącza poza normalnymi godzinami pracy dla klientów posiadających licznik
+                                                                                                                      pogotowia
+rejestrujący pomiar mocy
+                                                                                                             Elektrohandwerke Hamburg
+
+W przypadku średniego i wysokiego napięcia przerwanie i przywrócenie przyłączenia do sieci oraz wykorzystanie przyłącza jest rozliczane
+według poniesionych kosztów.
+
+
+Podatek od towarów i usług
+
+
+Wszystkie wyżej wymienione opłaty podlegają ustawowej stawce podatku VAT obowiązującej w momencie dostawy lub wykonania usługi.
+
+
+
+Okres obowiązywania
+Tabela opłat, obowiązuje od 01.01.2024 r.
+Ceny z dokładnością do dwóch miejsc po przecinku, dzienna opłata mocowa zaokrąglona do ośmiu miejsc po
+przecinku 366 dni w roku
+                                                                                                         Stan na: 18.12.2023 r.
+Stawki obowiązują od dnia 01.01.2024 r.
+

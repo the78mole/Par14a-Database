@@ -1,0 +1,1906 @@
+Marktgestützte
+Beschaffung von
+Blindleistung
+
+
+BEKANNTMACHUNG VOM 02.06.2025
+
+
+Hamburger Energienetze GmbH
+Bramfelder Chaussee 130
+22177 Hamburg
+
+hamburger-energienetze.de
+Inhalt
+
+1.      Vorbemerkungen ................................................................................................................................................... 3
+  1.1         Einordnung............................................................................................................................................................. 3
+  1.2         Gültigkeit................................................................................................................................................................ 3
+
+2.      Ausgeschriebene Bedarfe .................................................................................................................................... 3
+
+3.      Fristen ...................................................................................................................................................................... 3
+
+4.      Produkt .................................................................................................................................................................... 4
+  4.1         Zielgruppe .............................................................................................................................................................. 4
+  4.2         Produktgruppe & Produktanforderungen ....................................................................................................... 4
+  4.3         Mindestgebotsgröße............................................................................................................................................ 4
+  4.4         Aggregation........................................................................................................................................................... 4
+
+5.      Erläuterungen zu den Schritten des Verfahrens ............................................................................................. 4
+  5.1         Prüfung der Teilnahmevoraussetzungen ......................................................................................................... 4
+  5.2         Zuschlagserteilung ............................................................................................................................................... 4
+  5.3         Zuschlagsbenutzungsdauer ............................................................................................................................... 4
+  5.4         Preisobergrenze ................................................................................................................................................... 5
+  5.5         Indexierung ............................................................................................................................................................ 5
+
+6.      Übermittlung des Angebots ................................................................................................................................. 5
+
+7.      Rückfragen .............................................................................................................................................................. 5
+
+8.      Hinweise zum Verfahren ...................................................................................................................................... 5
+  8.1         Verfahrenssprache ............................................................................................................................................... 5
+  8.2         Kosten des Verfahrens ........................................................................................................................................ 5
+  8.3         Speicherung und Verarbeitung personenbezogener Daten ......................................................................... 6
+  8.4         Vertraulichkeit und Schutz der Verfahrensintegrität ................................................................................... 6
+
+9.      Mitgeltende Dokumente ....................................................................................................................................... 6
+
+
+
+
+Hamburger Energienetze GmbH                   Marktgestützte Beschaffung von Blindleistung – Bekanntmachung vom 02.06.2025                                                             2
+1. Vorbemerkungen
+
+1.1 Einordnung
+Mit dem Beschluss BK6-23-072 vom 25.06.2024 hat die Bundesnetzagentur (BNetzA) gemäß §§ 12h Abs. 1 Satz 1 Nr. 1, Abs.
+5 und 29 Abs. 1 Energiewirtschaftsgesetz (EnWG) i.d.F. vom 23.12.2024 die Spezifikationen und technischen Anforderungen für
+die transparente, diskriminierungsfreie und marktgestützte Beschaffung der nicht frequenzgebundenen Systemdienstleistung
+„Dienstleistungen zur Spannungsregelung“ („Blindleistung“) durch die deutschen regelzonenverantwortlichen Übertragungs-
+netzbetreiber (ÜNB) und Verteilernetzbetreiber (VNB), soweit diese ein Hochspannungsnetz betreiben, festgelegt (nachfolgend
+Beschaffungskonzept).
+
+
+1.2 Gültigkeit
+Zeitlich begrenzt ist die Gültigkeit des Dokuments bis zum Ende des Erbringungszeitraums. Alle Informationen in dem
+vorliegenden Dokument sind lediglich auf das darin beschriebene Beschaffungsverfahren anzuwenden. Zukünftige
+Bekanntmachungen für andere Beschaffungsverfahren können in ihrem Inhalt abweichen.
+
+
+
+2. Ausgeschriebene Bedarfe
+
+Bei HNE besteht ein Bedarf an Blindleistung, sodass hiermit ein marktgestütztes Beschaffungsverfahren durchgeführt wird. Die
+Beschaffungsregion Hamburg umfasst das gesamte Netzgebiet der HNE.
+
+Es wird keine spannungshebende oder spannungssenkende Vorhalteleistung von den Anbietern gefordert und somit werden alle
+zulässigen Angebote bezuschlagt.
+
+
+
+3. Fristen
+
+In diesem Abschnitt werden die Fristen des vorliegenden Beschaffungsverfahrens tabellarisch dargestellt.
+
+ Frist                                                                               Datum
+
+ Start Angebotsfrist                                                                 02.06.2025
+ Fristende für Rückfragen zur Ausschreibung                                          15.07.2025, 14:00 Uhr
+ Ende der Angebotsfrist (Datum, bis zu dem Anbieter ein verbindliches Angebot        31.07.2025, 14:00 Uhr
+ abgeben können.)
+ Ende Zuschlagsfrist (Datum, bis zu dem HNE allen Anbietern spätestens eine          30.09.2025, 14:00 Uhr
+ Annahme oder Ablehnung des Angebots erteilt.)
+ Beginn Vorlaufzeit                                                                  01.10.2025
+ Ende Vorlaufzeit                                                                    31.12.2025
+ Beginn Erbringungszeitraum                                                          01.01.2026, 00:00 Uhr
+ Ende Erbringungszeitraum                                                            31.12.2026, 24:00 Uhr
+
+Falls eine Anlage erst zukünftig errichtet bzw. ertüchtigt wird, muss der Anbieter bei der Teilnahme anhand geeigneter Nachweise
+glaubhaft machen, dass die technische Anlage rechtzeitig vor dem Beginn des Erbringungszeitraums errichtet und entsprechend
+betriebsbereit sein wird. Die Anlagen müssen drei Monate vor dem Erbringungszeitraum die dauerhafte oder vorübergehende
+Betriebserlaubnis vorweisen können.
+
+
+
+
+Hamburger Energienetze GmbH     Marktgestützte Beschaffung von Blindleistung – Bekanntmachung vom 02.06.2025                  3
+4. Produkt
+
+4.1 Zielgruppe
+Hiermit fordert der Anschlussnetzbetreiber Hamburger Energienetze GmbH (HNE) interessierte Anbieter von
+Blindleistungsvermögen aus Anlagen mit Netzanschlusspunkt in der Hochspannung (Netzebene 3) oder Umspannebene
+Hochspannung/ Mittelspannung (Netzebene 4) (im Folgenden: Anbieter) auf, an dem Verfahren zur marktgestützten Beschaffung
+von Blindleistung in der Beschaffungsregion der HNE teilzunehmen.
+
+
+4.2 Produktgruppe & Produktanforderungen
+Diese Ausschreibung betrifft das ungesicherte Produkt im Rahmen des Standardprodukts 3 „Blindleistungserbringung nach
+Online-Sollwert-Vorgabe“ in spannungshebender und spannungssenkender Richtung.
+
+Die Vergütung erfolgt über den angebotenen Blindarbeitspreis entsprechend der tatsächlich erbrachten Blindarbeit der
+Blindleistungsquelle. Eine Vergütung für die Leistungsvorhaltung erfolgt nicht.
+
+
+4.3 Mindestgebotsgröße
+Für die Teilnahme am Blindleistungsmarkt muss jedes Angebot (gem. PQ-Diagramm) mindestens 5 Mvar in spannungshebender
+oder spannungssenkender Richtung am Netzanschlusspunkt umfassen.
+
+
+4.4 Aggregation
+Der Anbieter kann mehrere technische Anlagen am Netzanschlusspunkt aggregieren und die Summe der Anlagen am
+Blindleistungsmarkt als Blindleistungsquelle anbieten, solange die Teilnahmevoraussetzungen erfüllt werden und er das
+angebotene Produkt gemäß den Spezifikationen in dieser Bekanntmachung umsetzen kann. Insbesondere bei der Vorlage des
+PQ-Diagramms mit Abgrenzung TAB sind die erweiterten Teilnahmevoraussetzungen zu beachten.
+
+
+
+5. Erläuterungen zu den Schritten des Verfahrens
+
+5.1 Prüfung der Teilnahmevoraussetzungen
+Nur Anbieter, die Teilnahmevoraussetzungen erfüllen, sind zur Angebotsabgabe berechtigt. Jeder Anbieter prüft selbstständig,
+ob er die Teilnahmevoraussetzungen erfüllt und bestätigt mit der Angebotsabgabe die erfolgreiche Prüfung.
+
+
+5.2 Zuschlagserteilung
+HNE prüft die Angebote nach deren Eingang auf deren Vereinbarkeit mit den Vorgaben und den geforderten Umfang und Inhalt.
+HNE behält sich die Möglichkeit vor, die beteiligten Bieter zu einer Verhandlungsrunde einzuladen und anschließend zu einer
+erneuten Angebotsabgabe aufzufordern. Alle durch HNE validierten Angebote, die die Preisobergrenze nicht überschreiten und
+mit vollständigen Dokumenten eingereicht wurden, erhalten in diesem Beschaffungsverfahren einen Zuschlag durch HNE. Mit
+Erteilung des Zuschlags kommt ein Vertrag entsprechend dem im Rahmen der Bekanntmachung veröffentlichten Mustervertrag
+über die Erbringung der Systemdienstleistung Blindleistung zwischen dem bezuschlagten Anbieter und HNE zustande.
+
+HNE kann ein Beschaffungsverfahren aufheben, wenn kein wirtschaftliches Ergebnis erzielt wurde. Über die Aufhebung eines
+Beschaffungsverfahrens informiert HNE die betroffenen Anbieter.
+
+Die Ergebnisse der Ausschreibung werden durch HNE gemäß Veröffentlichungspflichten aus dem Beschaffungskonzept Kapitel
+J auf der Internetseite veröffentlicht.
+
+
+5.3 Zuschlagsbenutzungsdauer
+Eine Zuschlagsbenutzungsdauer wird in dieser Bekanntmachung nicht veröffentlicht.
+
+
+
+
+Hamburger Energienetze GmbH    Marktgestützte Beschaffung von Blindleistung – Bekanntmachung vom 02.06.2025               4
+5.4 Preisobergrenze
+In diesem Abschnitt wird die Preisobergrenze für den Arbeitspreis, für welche die Systemdienstleistung Blindleistung beschafft
+werden soll, aufgelistet. Ein Angebot, bei dem ein Angebotspreis oberhalb der jeweiligen Preisobergrenze liegt, kann nicht
+bezuschlagt werden. Eine Unterscheidung in spannungshebende und spannungssenkende Richtung erfolgt in diesem
+Beschaffungsverfahren nicht, da das ungesicherte Produkt in beide Richtungen beschafft wird.
+
+Preisobergrenze, netto: 7 €/Mvarh
+
+
+5.5 Indexierung
+Der Blindarbeitspreis unterliegt in dem vorliegenden Beschaffungsverfahren keiner Indexierung.
+
+
+
+6. Übermittlung des Angebots
+
+Für die verbindliche Angebotsabgabe ist das Gebot innerhalb der Angebotsfrist an HNE per E-Mail an einkauf@hamburger-
+energienetze.de zu übermitteln. Es dürfen nur Anbieter teilnehmen, die alle Teilnahmevoraussetzungen (gemäß Vertrag) erfüllen.
+Für die verbindliche Angebotsabgabe sind nachfolgende Dokumente der E-Mail als Anhang anzufügen.
+- Formular zur Angebotsabgabe (ausgefüllt und unterschrieben)
+- PQ-Diagramm inkl. kenntlich gemachter TAB-Abgrenzung und marktlich angebotenes Potential außerhalb TAB in absoluten
+Werten. Das PQ-Diagramm nach Beschaffungskonzept Kapitel C.II ist auf den Netzanschlusspunkt zu beziehen, nicht auf die
+Einzelanlage (Erzeugungseinheit, Kompensationsanlage, Verbrauchseinheit usw.).
+- Sofern relevant (bei Aggregation): Formlose Liste aller technischen Anlagen, die am Netzanschlusspunkt zur
+Blindleistungsquelle aggregiert werden (inkl. Bezeichnung/Name, Technologie, installierte Leistung, maximales
+Blindleistungspotential (spannungssenkend und spannungshebend))
+
+Maßgebend für die fristgerechte Einreichung ist die rechtzeitige elektronische Übermittlung der vollständigen Unterlagen.
+Innerhalb der Angebotsfrist können Angebote zurückgezogen bzw. durch geänderte Angebote ersetzt werden. Die Angebotsfrist
+beginnt mit der Bekanntmachung. HNE wird den Anbieter über den Zuschlag spätestens zum Ende der Zuschlagfrist informieren.
+Anbieter, die keinen Zuschlag erhalten, werden über ihre nicht erfolgreichen Angebote ebenfalls informiert.
+
+Angebote bleiben bis zur Erteilung von Zuschlägen bzw. Information über nicht erfolgreiche Angebote durch HNE verbindlich, sie
+erlöschen jedoch spätestens mit Ablauf der Zuschlagsfrist oder bei Aufhebung eines Beschaffungsverfahrens.
+
+
+
+7. Rückfragen
+
+Enthalten die Ausschreibungsunterlagen nach Auffassung eines Anbieters Unklarheiten oder Fehler, so hat er HNE unverzüglich
+und vor Abgabe seines Angebots darauf hinzuweisen. Etwaige Rückfragen oder der Wunsch nach zusätzlichen Auskünften sind
+ebenfalls ausschließlich über die Kontakt-Emailadresse einkauf@hamburger-energienetze.de an HNE zu richten und werden von
+HNE schnellstmöglich beantwortet. Der späteste Zeitpunkt für den Eingang dieser Rückfragen oder das Verlangen nach weiteren
+Auskünften entspricht zwei Wochen vor Ende der Angebotsfrist.
+
+
+
+8. Hinweise zum Verfahren
+
+8.1 Verfahrenssprache
+Die Verfahrenssprache ist Deutsch. Der gesamte Schriftverkehr mit HNE ist in deutscher Sprache zu führen.
+
+
+8.2 Kosten des Verfahrens
+Die bei der Teilnahme an der Ausschreibung entstehenden Kosten der Anbieter werden nicht erstattet.
+
+
+
+
+Hamburger Energienetze GmbH     Marktgestützte Beschaffung von Blindleistung – Bekanntmachung vom 02.06.2025                5
+8.3 Speicherung und Verarbeitung personenbezogener Daten
+Im Rahmen des Ausschreibungsverfahrens erbetene personenbezogene Daten werden gemäß Art. 6 Abs. 1 S.1 lit. c DSGVO i.V.m.
+§ 12h EnWG sowie der Festlegung der BNetzA BK-6-23-072 zum Zwecke der Durchführung des Ausschreibungsverfahrens
+gespeichert und verarbeitet. HNE verarbeitet diese Daten grundsätzlich nur, soweit dies zur Erfüllung seiner Aufgaben
+erforderlich ist. Sobald der Zweck hierfür entfällt, werden die personenbezogenen Daten dauerhaft gelöscht. Weitere Hinweise
+zum Datenschutz sind auf der folgenden Internetseite von HNE sowie auf schriftliche Anfrage an die Kontaktadresse einsehbar:
+https://www.hamburger-energienetze.de/datenschutz
+
+
+8.4 Vertraulichkeit und Schutz der Verfahrensintegrität
+Anbieter dürfen Veröffentlichungen über das Vorhaben oder Teile davon sowie über weitere Informationen, welche ihnen im
+Rahmen des Ausschreibungsverfahrens bekannt werden, nur mit schriftlicher Zustimmung durch HNE vornehmen.
+
+
+
+9. Mitgeltende Dokumente
+
+Dokument 1: Formular zur Angebotsabgabe für die Ausschreibung über die Erbringung der Systemdienstleistung Blindleistung
+für die Hamburger Energienetze GmbH für das Jahr 2026
+
+Dokument 2: Vertrag über die Erbringung der Systemdienstleistung Blindleistung inkl. Anhänge
+
+
+
+
+Hamburger Energienetze GmbH    Marktgestützte Beschaffung von Blindleistung – Bekanntmachung vom 02.06.2025               6
+Formular zur Angebotsabgabe für die Ausschreibung über
+die Erbringung der Systemdienstleistung Blindleistung für die
+Hamburger Energienetze GmbH für das Jahr 2026
+
+
+Bekanntmachung vom 02.06.2025 und Angebotsfrist 31.07.2025 14:00 Uhr.
+
+Die Angebotsabgabe erfolgt per E-Mail an: einkauf@hamburger-energienetze.de
+
+
+Angaben des Bieters*:
+Firma
+Straße / Hausnummer
+PLZ / Stadt
+Land, sofern nicht Deutschland
+Name der Kontaktperson
+Tefefonnummer
+E-Mail
+Handelsregister und Amtsgericht
+Umsatzsteuer-ID und Steuernummer
+
+
+Angaben zur Anlage*:
+Name der Blindleistungsquelle
+Messlokation und Marktlokation
+am Netzanschlusspunkt gemäß
+Netzanschlussvertrag
+
+
+Angaben zur Abrechnung*:
+Straße/ Hausnr Rechnungsempänger
+PLZ / Stadt Rechnungsempfänger
+Straße / Hausnr Leistungsempfänger
+PLZ / Stadt Leistungsempfänger
+Name Ansprechpartner
+E-Mail Ansprechpartner
+E-Mail Gutschriftsversand
+Kontoinhaber
+Bankinstitut
+IBAN
+BIC
+
+
+*) Bei den vorstehenden Angaben handelt es sich um Pflichtangaben.
+
+
+               Angebotspreis für vergütungsfähige Blindleistung, Angabe in € / Mvarh; netto     0,00
+
+
+Ein Angebot, bei dem der Angebotspreis oberhalb der Preisobergrenze liegt, kann nicht bezuschlagt werden.
+Die Preisobergrenze      finden      Sie     in       der     Bekanntmachung        der    Hamburger Energienetze
+(im Folgenden Anschlussnetzbetreiber). Der Preis bleibt während des Erbringungszeitraums konstant.
+
+Mit    Erteilung  des      Zuschlags      durch      den Anschlussnetzbetreiber       kommt       der    im   Rahmen
+der Bekanntmachung        veröffentlichte    Blindleistungsvertrag   über      die   Bereitstellung    und   Vergütung
+von ungesicherten Blindleistungspotentialen      auf    Basis    der  Blindleistungsausschreibung     vom   02.06.2025
+zwischen dem bezuschlagten Anbieter (sog. Lieferanten) und dem Anschlussnetzbetreiber zustande.
+
+Mit Abgabe des vollständig ausgefüllten und unterschriebenen Angebots (inkl. PQ-Diagramm und ggf. Liste
+mit Anlagen)     erklärt  der   Anbieter,    dass      er    die vertraglichen    Teilnahmevoraussetzungen erfüllt,
+das in der Bekanntmachung vom 02.06.2025 definierte Produkt erbringen kann und den Bedingungen zustimmt.
+
+
+
+
+______________________________________________________________________________________________
+Ort, Datum, Unterschrift
+Vertrag über die Erbringung
+der Systemdienstleistung Blindleistung
+
+
+
+
+zwischen
+
+Firmenname
+Straße
+PLZ Ort
+
+                                                          -   nachfolgend „Anbieter“ genannt –
+
+
+
+
+und
+
+
+
+
+Hamburger Energienetze GmbH
+Bramfelder Chaussee 130
+22177 Hamburg
+
+                                             - nachfolgend „Anschlussnetzbetreiber“ genannt –
+                          -   nachfolgend einzeln oder zusammen auch Vertragspartner genannt -
+
+
+
+
+                                                                                         1/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+§1 Präambel
+
+
+        Mit dem Beschluss BK6-23-072 vom 25.06.2024 hat die Bundesnetzagentur (BNetzA) gemäß §§
+        12h Abs. 1 Satz 1 Nr. 1, Abs. 5 und 29 Abs. 1 Energiewirtschaftsgesetz (EnWG) i.d.F. vom
+        23.12.2024 die Spezifikationen und technischen Anforderungen für die transparente,
+        diskriminierungsfreie und marktgestützte Beschaffung der nicht frequenzgebundenen
+        Systemdienstleistung „Dienstleistungen zur Spannungsregelung“ („Blindleistung“) durch die
+        deutschen regelzonenverantwortlichen Übertragungsnetzbetreiber (ÜNB) und Verteiler-
+        netzbetreiber (VNB), soweit diese ein Hochspannungsnetz betreiben, festgelegt (nachfolgend
+        Beschaffungskonzept).
+
+
+        Als „Dienstleistungen zur Spannungsregelung“ gelten sowohl die Fähigkeit, Blindleistung im
+        vereinbarten Umfang vorzuhalten, als auch deren tatsächliche Erbringung.
+
+
+        Dieser Vertrag bildet die Basis für eine rechtssichere, effiziente Beschaffung der Erbringung von
+        Blindleistung, die den Anforderungen des EnWG und den Vorgaben der Bundesnetzagentur
+        entspricht.
+
+
+§2 Vertragsgegenstand
+
+(1) Dieser Vertrag regelt die Erbringung von Blindleistung in Form des gemäß Anhang 3 konkretisierten
+    Standardproduktes durch die in Anhang 2 aufgeführten technischen Blindleistungsquellen am
+    Netzanschlusspunkt, die Vergütung und Abrechnung der Erbringung von Blindleistung sowie die
+    Teilnahmevoraussetzungen gemäß Anhang 6, insbesondere die technischen und organisatorischen
+    Anforderungen. Ferner beinhaltet dieser Vertrag die Haftungsregelungen sowie die sonstigen
+    zivilrechtlichen Bestandteile und den Umfang der durchzuführenden Qualitätssicherungsversuche.
+
+(2) Es gelten die Vorgaben und Bestimmungen aus dem Beschaffungskonzept BK6-23-072 vom
+    25.06.2024 oder diese Festlegung ergänzende oder ersetzende Festlegungen der Bundesnetzagentur
+    sowie deren Präzisierungen in diesem Vertrag.
+
+(3) Die Vertragspartner sind berechtigt, sich zur Erfüllung ihrer Rechte und Verpflichtungen aus diesem
+    Vertrag geeigneter Dritter zu bedienen. Rechte und Pflichten der Vertragspartner aus diesem Vertrag
+    bleiben hiervon unberührt.
+
+(4) Die Verwendung einer Blindleistungsquelle zur Blindleistungserbringung im Rahmen dieses Vertrages
+    ist nur zulässig, sofern dem keine anderen vertraglichen Regelungen am Netzanschlusspunkt der
+    Blindleistungsquelle - insbesondere solche aus Netzanschluss-, Anschlussnutzungsverträge und
+    Netzführungsvereinbarungen - entgegenstehen; dies umfasst auch eventuelle Regelungen zur
+    Datenkommunikation. Die Einhaltung dieser Voraussetzung ist durch den Anbieter sicherzustellen.
+
+
+
+
+                                                                                                    2/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+(5) Die für die betreffende Netzebene des Netzanschlusspunktes geltende Technische Anschlussregel
+    (TAR) 1      in Verbindung mit den Technischen Anschlussbedingungen (TAB) 2               des
+    Anschlussnetzbetreibers werden - in der zum Zeitpunkt der Bekanntmachung der Ausschreibung
+    jeweils geltenden Fassung - ebenfalls Vertragsbestandteil.
+
+
+§3 Begriffe und Definitionen
+
+
+        Für diesen Vertrag gelten ergänzend zu den Begriffsbestimmungen des Beschlusses BK6-23-072
+        folgende Begriffsbestimmungen:
+
+
+        Werktag: die Wochentage Montag bis Freitag, sofern diese nicht geltende Feiertage in Hamburg
+        sind.
+
+
+§4      Erbringung von Blindleistung
+
+(1)     Der Anbieter stellt dem Anschlussnetzbetreiber die Blindleistung am Netzanschlusspunkt der
+        Blindleistungsquelle des Elektrizitätsversorgungsnetzes der allgemeinen Versorgung bereit.
+
+(2)     Der Anbieter verpflichtet sich, während des Erbringungszeitraums die für die Erbringung der
+        Blindleistung notwendige Funktionsfähigkeit der Blindleistungsquelle sicherzustellen. Diese
+        Verpflichtung umfasst unter anderem die Durchführung erforderlicher Wartungen und
+        Instandhaltungen sowie ggf. die Bereithaltung des erforderlichen Personals.
+
+(3)     Der Anbieter verpflichtet sich, während des Erbringungszeitraums die vertragsgegenständliche
+        Leistung weder gesamthaft noch in Teilen gegenüber einem Dritten zu vermarkten.
+
+(4)     Die technischen Anforderungen an die Blindleistungsquelle zur Erbringung von Blindleistung sind in
+        Anhang 3 und Anhang 6 dieses Vertrages geregelt.
+
+(5)     Bietet ein Anbieter mehrere Blindleistungsquellen am Netzanschlusspunkt aggregiert an, so ist
+        seitens des Anbieters eine aggregierte Schnittstelle zum Anschlussnetzbetreiber hinsichtlich
+        Messwertbereitstellung, Steuerung, Sollwertvorgabe und Abrechnungsdatenerfassung bereit zu
+        stellen, soweit der Anschlussnetzbetreiber dies im Rahmen der Konkretisierung des
+        Standardproduktes gemäß Anhang 3 verlangt. Die aufgeführten Teilnahmevoraussetzungen gemäß
+        Abs. (4) müssen hierbei für jede einzelne Blindleistungsquelle erfüllt sein. Der Abruf von
+        Blindleistung innerhalb der Vorgaben der TAR in Verbindung mit den TAB erfolgt auch hierbei je
+        einzelner Blindleistungsquelle.
+
+(6)     Sofern sich der Anbieter zur Erbringung der Blindleistung geeigneter Dritter bedient, versichert er
+        gegenüber dem Anschlussnetzbetreiber mit der Angebotsabgabe, dass entsprechende vertragliche
+
+
+1
+    Siehe Internetseite des VDE FNN; https://www.vde.com/de/fnn/themen/tar
+2
+    Siehe Internetseite des Anschlussnetzbetreibers; https://www.hamburger-energienetze.de/
+
+
+
+                                                                                                      3/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+        Vereinbarungen für die vertragskonforme Erbringung der Blindleistung mit diesen bestehen. Er
+        weist dem Anschlussnetzbetreiber den Abschluss dieser Verträge auf Verlangen unverzüglich nach.
+
+(7)     Falls die zur Erbringung vorgesehene Blindleistungsquelle erst zukünftig errichtet bzw. ertüchtigt
+        werden soll, macht der Anbieter unverzüglich nach der Zuschlagserteilung anhand geeigneter
+        Nachweise glaubhaft, dass die Blindleistungsquelle vor dem Beginn des Erbringungszeitraums zu
+        Test- und Qualitätskontrollzwecken bis zu der vom Anschlussnetzbetreiber genannten Frist
+        betriebsbereit sein wird.
+
+(8)     Der Anbieter muss in der Lage sein zur Deckung regelbarer Blindleistungsbedarfe durch Umsetzung
+        der durch den Anschlussnetzbetreiber vorgegebenen Vorgabe zur Blindleistungsfahrweise
+        beizutragen. Daraus ergeben sich die Anforderungen an die Blindleistungsfahrweise gemäß VDE-
+        AR-N 4120 (TAR Hochspannung) Abschnitt 10.2.2. oder VDE-AR-N 4110 (TAR Mittelspannung)
+        Abschnitt 10.2.2.. Die Blindleistungserbringung erfolgt durch den Anlagen-betreiber entsprechend
+        dem vom Anschlussnetzbetreiber, im Sinne von in Echtzeit, vorgegebenen Sollwert für die Zielgröße.
+        Dieser Online-Sollwert ist ein Betrag für die Blindleistung. Für den Erbringungszeitraum 2026 kann
+        der Sollwert auch telefonisch übermittelt werden, sofern die geeignete Fernwirktechnik noch nicht
+        vorhanden ist. Die Vergütung erfolgt über den angebotenen Blindarbeitspreis entsprechend der
+        tatsächlich erbrachten Blindarbeit der Blindleistungsquelle. Eine Vergütung für die
+        Leistungsvorhaltung erfolgt nicht.
+
+(9)     Die Abrufzeit darf, analog zur TAR, maximal 4 Minuten betragen. Die Anlagenbetreiber garantieren,
+        dass sie innerhalb dieser festgelegten Zeiträume auf die Sollwertänderungen reagieren können.
+
+
+§5 Datenkommunikation
+
+
+      Die technischen Einzelheiten für die Datenkommunikation zwischen den Vertragspartnern
+      insbesondere zur Ausprägung von Kommunikationsschnittstellen, zu Nachrichtenformaten sowie zu
+      Prozessen und Fristen sind in Anhang 4 geregelt
+
+
+§6 Informationsaustausch
+
+
+      Die Erbringung der Blindleistung erfolgt ungesichert. Bei ungesicherter Erbringung von Blindleistung
+      meldet der Anbieter dem Anschlussnetzbetreiber regelmäßig das jeweils verfügbare Potenzial der
+      Blindleistungsquelle gemäß den Vorgaben nach Anhang 4.
+
+
+§7 Einbeziehung AGB
+
+(1) Bei ungesicherter Erbringung stellt der Anbieter sicher, dass
+
+
+          a) in mehr als 10 % der Viertelstunden des Erbringungszeitraums mindestens 20 % der vertraglich
+          maximalen Blindleistung abrufbar und dem Netzbetreiber gemäß § 6 gemeldet sind. Ist der
+          Erbringungszeitraum länger als drei Kalendermonate, dürfen diese Werte bezogen auf jeden
+
+
+
+                                                                                                      4/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+          Kalendermonat nur unterschritten werden, sofern dies zwischen dem Anbieter und dem
+          Anschlussnetzbetreiber abgestimmt ist und
+
+
+          b) die Leistung entsprechend der Potenzialmeldung nach § 6 für eine Zeitspanne von mindestens
+          15 Minuten abrufbar ist.
+
+(2) Die Qualitätsanforderungen an die Erbringung von Blindleistung hinsichtlich der zulässigen
+    Abweichung zwischen Soll- und Istwert am Netzanschlusspunkt sind in Anhang 3 festgelegt.
+
+(3) Sobald ein Anbieter einen Nullwert für das verfügbare Blindleistungspotential (in spannungshebender
+    und spannungssenkender Ausprägung) sendet, geht der Anschlussnetzbetreiber davon aus, dass die
+    Anlage nicht verfügbar ist.
+
+
+§8 Tests und Qualitätssicherung
+
+(1) Vor dem Beginn des Erbringungszeitraums und gemäß der in Anhang 3 genannten Frist hat der
+    Anschlussnetzbetreiber das Recht, die Erfüllung der Produktanforderungen nach Anhang 3 und die
+    Einhaltung der technischen Teilnahmevoraussetzungen gemäß Anhang 6 zu prüfen sowie
+    betriebliche Tests unter Berücksichtigung der technischen Angaben des Anbieters in Anhang 2 und
+    Anhang 7 durchzuführen.
+
+(2) Während des Erbringungszeitraums hat der Anschlussnetzbetreiber insbesondere bei vermuteten
+    Qualitätsdefiziten das Recht, die Einhaltung der Qualitätsanforderungen nach § 7 Abs. (2) i.V.m.
+    Anhang 3 sowie die ordnungsgemäße technische Kommunikation zur Blindleistungsquelle zu
+    überprüfen.
+
+(3) Der Zeitpunkt, die Dauer und der Umfang von Qualitätssicherungsversuchen werden durch den
+    Anschlussnetzbetreiber nach Rücksprache mit dem Anbieter festgelegt. Die wirtschaftlichen
+    Interessen des Anbieters sind hierbei angemessen zu berücksichtigen.
+
+
+§9 Vergütung und Abrechnung
+
+(1) Vergütungsfähig ist je Viertelstunde die Teilmenge der gemessenen Blindarbeit, die außerhalb der TAR
+    in Verbindung mit der TAB geltenden Bereichs liegt, sofern diese dem Abruf bzw. den Vorgaben des
+    Anschlussnetzbetreibers entspricht.
+
+(2) Der Anschlussnetzbetreiber vergütet dem Anbieter im Erbringungszeitraum die vergütungsfähige
+    Blindarbeit für jeden viertelstündlichen Zählerwert mit dem bezuschlagten Angebotspreis in Euro pro
+    Mvarh gemäß Anhang 1. Der Anbieter hat keinen Anspruch auf die Vergütung von Blindarbeit, die nicht
+    entsprechend den Qualitätsanforderungen des Anschlussnetzbetreibers nach § 7 Abs. 2 erbracht
+    wird.
+
+(3) Mit der Vergütung sind alle geschuldeten Leistungen aus diesem Vertrag vollständig abgegolten. Dies
+    gilt auch in Bezug auf sämtliche Kosten oder entgangene Erlösmöglichkeiten (Opportunitätskosten),
+
+
+
+
+                                                                                                   5/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+     die dem Anbieter aus der Durchführung von Datenübermittlung, Qualitätssicherungsversuchen und
+     Tests entstehen.
+
+(4) Der Anschlussnetzbetreiber erstellt zugunsten des Anbieters monatlich eine Gutschrift. Die
+    Abrechnung erfolgt hierbei bis zum 15. Werktag des auf den Kalendermonat der Erbringung folgenden
+    Kalendermonats, sofern dem Anschlussnetzbetreiber die hierzu erforderlichen Informationen zu
+    diesem Zeitpunkt zur Verfügung stehen.
+
+(5) Zahlungen werden 30 Kalendertage nach Eingang der Gutschriften bzw. Rechnungen beim
+    Vertragspartner fällig. Die Zahlung von Vergütungen, Steuern und sonstigen Belastungen nach diesem
+    Vertrag hat durch Überweisung zu erfolgen, sofern die Vertragsparteien nichts Anderweitiges
+    vereinbaren.
+
+(6) Die Zahlungen zwischen den Vertragspartnern erfolgen stets unter dem Vorbehalt einer Berichtigung,
+    falls sich nachträglich Beanstandungen ergeben sollten. Die Preise gemäß Anhang 1 sind Nettopreise.
+    Sie enthalten keine Steuern, Abgaben und Umlagen. Diese sind zusätzlich auszuweisen und nach den
+    gesetzlichen Regeln zu entrichten.
+
+(7) Sollten Steuern, Abgaben und Umlagen eingeführt, abgeschafft oder geändert werden, wirkt die
+    Änderung mit Wirkung zu dem gesetzlichen oder sonst hoheitlich hierfür vorgesehenen Zeitpunkt.
+
+(8) Sollte der Anschlussnetzbetreiber die Durchführung zusätzlicher Überprüfungen der
+    Blindleistungserbringung bzw. zusätzliche Qualitätssicherungsversuche verlangen, die über das in § 8
+    genannte Maß hinausgehen, so kann der Anbieter hierfür nach vorheriger Abstimmung mit dem
+    Anschlussnetzbetreiber die ihm nachweislich entstandenen Kosten oder entgangenen
+    Erlösmöglichkeiten (Opportunitätskosten) geltend machen.
+
+
+§10       Sicherheitsleistung
+
+
+     Der Anschlussnetzbetreiber verzichtet auf den Nachweis eines Mindestratings und die Hinterlegung
+     einer Sicherheitsleistung.
+
+
+§11       Ansprechpartner
+
+
+     In Anhang 5 und Anhang 1 sind die Ansprechpartner der Vertragspartner und ggf. deren jeweilige
+     Erreichbarkeit benannt. Änderungen sind unverzüglich dem jeweils anderen Vertragspartner in
+     Textform mitzuteilen.
+
+
+
+
+                                                                                                   6/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+§12       Höhere Gewalt
+
+(1) Solange die Vertragspartner durch höhere Gewalt oder sonstige Umstände, deren Beseitigung Ihnen
+    nicht möglich oder wirtschaftlich nicht zumutbar ist, an der Erfüllung ihrer jeweiligen Verpflichtungen
+    aus diesem Vertrag gehindert sind, so ruhen die vertraglichen Verpflichtungen in entsprechendem
+    Umfang bis zur Beseitigung der störenden Ursache und ihrer Folgen. Höhere Gewalt ist ein
+    außergewöhnliches, betriebsfremdes, von außen durch elementare Naturkräfte oder Handlungen
+    dritter Personen herbeigeführtes Ereignis, das nach menschlicher Einsicht und Erfahrung nicht
+    vorhersehbar ist und mit wirtschaftlich erträglichen Mitteln auch durch die äußerste,
+    vernünftigerweise zu erwartende Sorgfalt nicht verhütet oder unschädlich gemacht werden kann.
+
+(2) Die Vertragspartner wirken bei der Behebung von Fehlern und Störungen nach Möglichkeit zusammen.
+
+(3) Die Vertragspartner werden sich gegenseitig unverzüglich ab Kenntnis über den Eintritt und den
+    Wegfall der das Leistungshindernis nach dieser Ziffer begründenden Umstände informieren und der
+    betroffene Vertragspartner wird mit wirtschaftlich erträglichen Mitteln dafür sorgen, dass er seinen
+    Verpflichtungen aus diesem Vertrag so bald wie möglich wieder nachkommt.
+
+
+§13       Haftung
+
+
+(1)    Die Vertragspartner haften einander für Sach- und Vermögensschäden, die aus einer schuldhaften
+      Verletzung wesentlicher Vertragspflichten herrühren. Die Haftung ist im Fall leicht fahrlässigen
+      Verschuldens auf vertragstypische, vorhersehbare Schäden begrenzt. Im Fall der Verletzung nicht
+      wesentlicher Vertragspflichten haften die Vertragspartner einander nur für vorsätzliches und grob
+      fahrlässiges Handeln.
+
+
+      a) Unter wesentlichen Vertragspflichten werden hier die Verpflichtungen verstanden, deren Erfüllung
+      die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung
+      der Vertragspartner regelmäßig vertraut und vertrauen darf (sog. Kardinalpflichten).
+
+
+      b) Vertragstypische, vorhersehbare Schäden sind solche, die der Vertragspartner bei
+      Vertragsschluss als mögliche Folge einer Vertragsverletzung vorausgesehen hat oder unter
+      Berücksichtigung der Umstände, die ihm bekannt waren oder die er hätte kennen müssen, bei
+      Anwendung der verkehrsüblichen Sorgfalt hätte voraussehen müssen.
+
+
+(2) Die Vertragspartner haften einander für Schäden aus der schuldhaften Verletzung des Lebens, des
+    Körpers oder der Gesundheit nach den gesetzlichen Bestimmungen.
+
+
+(3) Eine Haftung der Vertragspartner nach zwingenden Vorschriften des Haftpflichtgesetzes und
+    anderen Rechtsvorschriften bleibt unberührt.
+
+
+
+
+                                                                                                      7/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+(4) Die Absätze (1) bis (3) gelten auch zugunsten der gesetzlichen Vertreter, Arbeitnehmer sowie der
+    Erfüllungs- oder Verrichtungsgehilfen der Vertragspartner, soweit diese für den jeweiligen
+    Vertragspartner Anwendung finden.
+
+
+(5) Die Vertragspartner sind sich über ihre Pflicht zur Schadensminderung im Falle von drohenden oder
+    eingetretenen Schäden einig. Sie verpflichten sich, eventuelle aus oder im Zusammenhang mit diesem
+    Vertrag entstehenden Schäden so gering wie möglich zu halten.
+
+
+§14       Vertragslaufzeit und Kündigung
+
+(1) Der Vertrag zwischen dem Anschlussnetzbetreiber und dem Anbieter kommt mit der Bezuschlagung
+    des Angebots des Anbieters zustande und bedarf keiner Unterschrift. Der Vertrag endet mit dem Ende
+    des Erbringungszeitraums.
+
+(2) Der Erbringungszeitraum beginnt am 01.01.2026 um 00:00 Uhr und endet am 31.12.2026 um 24:00
+    Uhr.
+
+(3) Eine ordentliche Kündigung ist ausgeschlossen. Eine außerordentliche Kündigung aus wichtigem
+    Grund nach § 313 Abs. 3 BGB oder § 314 BGB bleibt hiervon unberührt. Ein wichtiger Grund liegt
+    insbesondere vor, wenn
+
+
+     a) der Anbieter die Nachweise nach § 4 Abs. (6) und Abs. (7) nicht erbringt,
+
+
+     b) der Anbieter die Anforderungen nach § 7 wiederholt nicht erfüllt,
+
+
+    c) ein Änderungsverlangen durch einen der Vertragspartner gemäß § 16 erfolglos bleibt.
+
+
+§15       Vertraulichkeit und Datenschutz
+
+(1) Die Vertragspartner werden insbesondere unter Beachtung von §§ 6a und 12 EnWG die im Rahmen
+    dieses Vertragsverhältnisses erhaltenen Daten auch bis zu drei Jahre nach Vertragsende vertraulich
+    behandeln und sie Dritten nicht zugänglich machen. Die Datenweitergabe an Dritte ist nur nach
+    vorheriger Zustimmung des anderen Vertragspartners zulässig. Die Zustimmung darf nicht grundlos
+    verweigert werden.
+
+(2) Abs. (1) gilt nicht, soweit Daten aufgrund geltender gesetzlicher Bestimmungen oder behördlicher
+    Anordnungen zu veröffentlichen oder an Behörden, Gerichte oder an sonstige öffentliche Stellen
+    herauszugeben sind. Unabhängig vom Vorliegen der Voraussetzungen des Satzes 1 sind die
+    Vertragspartner berechtigt, den Vertrag an die Bundesnetzagentur weiterzugeben.
+
+(3) Der Anbieter hat insbesondere die besonders sensiblen Informationen bzgl. kritischer Infrastruktur
+    streng vertraulich zu behandeln und die Informationen nur denjenigen Mitarbeitern zugänglich zu
+    machen, die diese Informationen zur Erfüllung der Pflichten aus diesem Vertrag benötigen.
+
+
+
+                                                                                                 8/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+(4) Im Übrigen sind die Vertragspartner zur Weitergabe von Daten an Dritte berechtigt, soweit dies zur
+    Abwicklung des Vertrages erforderlich ist und diese sich ihrerseits entsprechenden
+    Vertraulichkeitsbestimmungen unterworfen haben. So ist der Anschlussnetzbetreiber beispielsweise
+    berechtigt, detaillierte technische Anlagendaten an Dritte weiterzugeben, um Simulationen, Analysen
+    und Auswertungen zur Sicherstellung der Funktionsfähigkeit der Erbringung von Blindleistung sowie
+    der Spannungs¬haltung durchzuführen.
+
+(5) Die Vertragspartner verpflichten sich, personenbezogene Daten des jeweils anderen
+    Vertragspartners, welche im Rahmen der Geschäftsbeziehung bekannt werden, ausschließlich im
+    Einklang mit den geltenden Datenschutzvorschriften zu verarbeiten, insbesondere der Verordnung
+    (EU)   2016/679     (die  Datenschutz-Grundverordnung      „DSGVO“) und       dem deutschen
+    Bundesdatenschutzgesetz, jeweils in der geltenden Fassung.
+
+
+(6) Die Vertragspartner stellen sicher, dass die Regelungen in den Absätzen (1) bis (5) auch seitens von
+    ihnen beauftragter Dritten nach § 2 Abs. (3) eingehalten werden.
+
+
+§16       Änderungsrecht
+
+
+     Diesem Vertrag liegen die wirtschaftlichen, rechtlichen und wettbewerblichen Verhältnisse zum
+     Zeitpunkt seines Abschlusses zu Grunde. Ändern sich diese Verhältnisse durch gesetzliche Vorgaben
+     oder rechtsverbindliche Vorgaben nationaler oder internationaler Gerichte oder Behörden,
+     insbesondere Festlegungen der Bundesnetzagentur, beispielweise zu der marktlich zu beschaffende
+     Blindleistung, oder durch eine Fortentwicklung der allgemein anerkannten Regeln der Technik während
+     der Vertragslaufzeit wesentlich, so sind die Vertragspartner jeweils berechtigt, eine Anpassung des
+     Vertrages zu verlangen. Ein Änderungsrecht gem. § 313 Abs. 1, Abs. 2 BGB bleibt hiervon unberührt.
+
+
+§17       Salvatorische Klausel
+
+
+     Sollten einzelne Bestimmungen dieses Vertrags ganz oder teilweise unwirksam oder undurchführbar
+     sein oder nach Vertragsschluss unwirksam oder undurchführbar werden, bleibt davon die Wirksamkeit
+     des Vertrags im Übrigen unberührt. An die Stelle der unwirksamen oder undurchführbaren
+     Bestimmung soll diejenige wirksame und durchführbare Regelung treten, deren Wirkung der
+     Zielsetzung am nächsten kommt, die die Vertragspartner mit der unwirksamen bzw. undurchführbaren
+     Bestimmung verfolgt haben. Die vorstehenden Bestimmungen gelten entsprechend für den Fall, dass
+     sich der Vertrag als lückenhaft erweist.
+
+
+§18       Schriftformklausel
+
+
+     Änderungen, Ergänzungen oder die Aufhebung dieses Vertrags bedürfen zu ihrer Wirksamkeit der
+     Schriftform. Dies gilt auch für Änderungen dieser Schriftformklausel.
+
+
+
+
+                                                                                                   9/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+§19       Gerichtsstand
+
+(1) Für Rechtsstreitigkeiten aus und in Zusammenhang mit diesem Vertrag gilt das Recht der
+    Bundesrepublik Deutschland unter Ausschluss des internationalen Einheitsrechts, insbesondere des
+    UN-Kaufrechts.
+
+(2) Ausschließlicher Gerichtsstand für alle sich aus dem Vertragsverhältnis unmittelbar oder mittelbar
+    ergebenden Streitigkeiten zwischen den Vertragspartnern ist der Geschäftssitz des
+    Anschlussnetzbetreibers.
+
+
+§20       Übergangs- und Schlussbestimmungen
+
+
+     Rechte und Pflichten aus diesem Vertrag können mit Zustimmung des jeweils anderen
+     Vertragspartners auf einen Dritten übertragen werden. Die Zustimmung darf nicht verweigert werden,
+     sofern die technische und wirtschaftliche Leistungsfähigkeit des eintretenden Dritten gewährleistet
+     ist. Die Zustimmung gilt als erteilt, wenn der andere Vertragspartner nicht innerhalb von sechs
+     Wochen nach der Mitteilung in Textform über die Übertragung der Rechte und Pflichten in Textform
+     widerspricht. Im Fall der Gesamtrechtsnachfolge oder der Rechtsnachfolge nach dem
+     Umwandlungsgesetz oder in sonstigen Fällen der rechtlichen Entflechtung des Netzbetriebs nach § 7
+     EnWG gehen die Rechte und Pflichten des Vertrages ohne Zustimmung über. Eine Zustimmung ist
+     auch dann nicht erforderlich, wenn es sich bei dem Rechtsnachfolger um ein verbundenes
+     Unternehmen i. S. d. §§ 15 ff. Aktiengesetz (AktG) handelt. In diesen Fällen bedarf es lediglich der
+     Mitteilung in Textform an den anderen Vertragspartner.
+
+
+§21       Vertragsbestandteile
+
+      Die im Folgenden aufgelisteten Anhänge sind Bestandteil dieses Vertrages; bei Widersprüchen
+      zwischen einem Anhang und diesem Vertrag geht der Inhalt des Vertrags vor:
+
+
+
+Anhang 1: Angebotsformular
+Anhang 2: Technische Einrichtungen zur Blindleistungserbringung
+Anhang 3: Produktbeschreibung des Anschlussnetzbetreibers
+Anhang 4: Informations-, Sprach- und Datenkommunikation
+Anhang 5: Kontaktdaten
+Anhang 6: Teilnahmevoraussetzungen
+Anhang 7: PQ-Diagramm am Netzanschlusspunkt nach Beschaffungskonzept C.II
+Anhang 8: Verhaltenskodex für Geschäftspartner
+Anhang 9: Allgemeine Einkaufsbedingungen
+Anhang 10: Weisungen zur Verwendung von Informationen §6a ENWG
+
+
+
+
+                                                                                                    10/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+Hamburg, den                                         Ort, den
+
+
+
+
+Anschlussnetzbetreiber                                Anbieter
+Hamburger Energienetze GmbH
+
+
+
+
+                                                                     11/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+Anhang 1
+
+
+
+
+                                                                     12/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+Anhang 2 Technische Einrichtungen zur Blindleistungserbringung
+(durch den Anbieter auszufüllen; einzeln für jeden Netzanschlusspunkt)
+
+
+
+
+                                                                         13/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+Anhang 3        Produktbeschreibung des Anschlussnetzbetreibers
+
+Allgemeine Inhalte der Produktbeschreibung
+
+         Nummer der Bekanntmachung                                               250408E005
+         Erster Tag des Erbringungszeitraums                                     1.1.2026 / 00:00
+         Letzter Tag des Erbringungszeitraums                                    31.12.2026 / 24:00
+         Beschaffungsregion Bezeichnung / ID                                     Hamburg
+         Indexierung des Arbeitspreises                                          nein
+         Frist, bis zu der die zur Erbringung der Blindleistung erforderlichen   31.10.2025
+         technischen Anlagen vor dem Erbringungszeitraum zu Test- und
+         Qualitätskontrollzwecken betriebsbereit sein müssen
+
+Produktspezifische Inhalte der Produktbeschreibung
+
+         Standardprodukt gemäß Beschaffungskonzept                               3
+         Anforderung an die Erbringung                                           ungesichert
+                                                                                 Standardprodukt 3
+         Art der Regelung
+                                                                                 Q
+         Maximaler positiver Leistungsgradient spannungshebend                   10 Mvar/min
+         Minimaler positiver Leistungsgradient spannungshebend                   5 Mvar/min
+         Maximaler positiver Leistungsgradient spannungssenkend                  10 Mvar/min
+         Minimaler positiver Leistungsgradient spannungssenkend                  5 Mvar/min
+         Zulässige positive Abweichung zwischen Soll- und Istwert für
+                                                                                 +2 %
+         Blindleistungserbringung am Netzanschlusspunkt
+         Zulässige negative Abweichung zwischen Soll- und Istwert für
+                                                                                 -2%
+         Blindleistungserbringung am Netzanschlusspunkt
+         Maximale Reaktionszeit bis zur vollständigen Erbringung der Sollwerte   4 Minuten
+
+
+
+
+                                                                                                 14/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+Anhang 4        Informations-, Sprach- und Datenkommunikation
+
+Für die fernwirktechnische Anbindung von Kundenanlagen an das Verteilernetz Hamburg (Bezugs-,
+Erzeugungs-, Mischanlagen und Speicher) gelten die zum Zeitpunkt der Bekanntmachung gültigen
+Technische Anschlussbedingungen für die fernwirktechnische Anbindung.
+
+Der Abruf erfolgt durch den Anschlussnetzbetreiber über eine Online-Sollwertvorgabe für die Zielgröße
+am Netzanschlusspunkt. Die Anforderung des Bezuges und der Lieferung von Blindleistung wird dabei
+durch die Netzführung Hochspannung des Anschlussnetzbetreibers direkt an die jeweilige Leitstelle/
+Leittechnik des Anbieters gegeben. Bei Nichtvorhandensein geeigneter Fernwirktechnik erfolgt die
+Übermittlung des Sollwertes telefonisch (nur für den Erbringungszeitraum 2026).
+
+Für Anbieter gelten folgende U-Q-Regelung: Für alle Anlagen muss ein Online-Sollwert als Betrag für die
+Blindleistung verwendet werden.
+
+Der Anschlussnetzbetreiber ist zu informieren, wenn                  der   Anbieter   feststellt,   dass    das
+Blindleistungskommando nicht ausgeführt werden kann.
+
+Der Anbieter stellt sicher, dass er die Informationen, die er vom Anschlussnetzbetreiber zur Erfüllung
+seiner vertraglichen Verpflichtungen benötigt, in seine Systeme implementiert.
+
+Bei Ausfall aller Kommunikationskanäle erfolgt eine Fortschreibung des zuletzt empfangenen Wertes.
+
+Der Anbieter meldet die ungesichert zur Verfügung stehende Blindleistung über eine Echtzeit-
+Schnittstelle getrennt nach spannungshebendem und spannungssenkendem Potenzial in ihrer Höhe an
+den Anschlussnetzbetreiber. Sobald ein Anbieter einen Nullwert für das verfügbare
+Blindleistungspotential (in spannungshebender und spannungssenkender Ausprägung) sendet, geht der
+Anschlussnetzbetreiber davon aus, dass die Anlage nicht verfügbar ist
+.
+Am Netzanschlusspunkt der Blindleistungsquelle muss eine eichrechtskonforme Verrechnungsmessung
+(4-Quadranten-Zähler) installiert sein, die mindestens die Wirk- und Blindarbeit viertelstündlich erfasst
+und registriert (gem. Beschaffungskonzept Abschnitt C. X.).
+
+Sofern keine Messung des Anschlussnetzbetreibers vorhanden ist, sind am Netzanschlusspunkt die
+folgenden aktuellen Informationen bereitzustellen:
+
+     a) Wirkleistungsentnahme bzw. -einspeisung
+     b) Blindleistungsentnahme bzw. -einspeisung
+     c) Maximal aktuell technisch verfügbare Blindleistung, spannungshebend
+     d) Maximal aktuell technisch verfügbare Blindleistung, spannungssenkend
+     e) Maximal aktuell verfügbare Blindleistung innerhalb des Bereichs der TAR in Verbindung mit den
+        TAB, spannungshebend
+     f) Maximal aktuell verfügbare Blindleistung innerhalb des Bereichs der TAR in Verbindung mit den
+        TAB, spannungssenkend
+     g) in Betrieb befindliche installierte Wirkleistung
+
+
+
+
+                                                                                                           15/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+Anhang 5        Kontaktdaten
+
+
+
+Ansprechpartner zum Vertrag Anschlussnetzbetreiber
+
+Name                          Telefon                   Mobil        E-Mail
+
+
+
+
+Netzführung (anfordernde Stelle) - Telefonische Abrufkommunikation Anschlussnetzbetreiber
+
+Name                          Telefon                   Mobil        E-Mail
+
+
+
+
+Ansprechpartner zur Abrechnung des Anschlussnetzbetreibers
+
+Name                          Telefon                   Mobil        E-Mail
+
+
+
+
+Telefonische Abrufkommunikation des Anbieters
+
+Name                          Telefon                   Mobil        E-Mail
+
+
+
+
+                                                                                            16/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+Anhang 6        Teilnahmevoraussetzungen
+
+
+Ergänzend zu den Teilnahmevoraussetzungen nach Kapitel C des Beschaffungskonzeptes gelten die
+nachfolgenden Teilnahmevoraussetzungen.
+
+Der Netzanschlusspunkt der teilnehmenden Anlage muss sich in der Hochspannung (Netzebene 3) oder
+Umspannebene Hochspannung/ Mittelspannung (Netzebene 4) in der Beschaffungsregion des
+Anschlussnetzbetreibers befinden.
+
+Falls eine Anlage erst zukünftig errichtet bzw. ertüchtigt wird, muss der Anbieter bei der Teilnahme
+anhand geeigneter Nachweise glaubhaft machen, dass die technische Anlage rechtzeitig vor dem Beginn
+des Erbringungszeitraums errichtet und entsprechend betriebsbereit sein wird. Die Anlagen müssen drei
+Monate vor dem Erbringungszeitraum die dauerhafte oder vorübergehende Betriebserlaubnis vorweisen
+können.
+
+Der Anbieter muss in der Lage sein zur Deckung regelbarer Blindleistungsbedarfe durch Umsetzung der
+durch den Anschlussnetzbetreiber vorgegebenen Vorgabe zur Blindleistungsfahrweise beizutragen.
+Daraus ergeben sich die Anforderungen an die Blindleistungsfahrweise gemäß VDE-AR-N 4120 (TAR
+Hochspannung) Abschnitt 10.2.2. oder VDE-AR-N 4110 (TAR Mittelspannung) Abschnitt 10.2.2.
+Die Blindleistungsquelle muss aus jedem Arbeitspunkt jeden anderen Arbeitspunkt innerhalb des
+vorgelegten PQ-Diagramms ansteuern und in diesem Arbeitspunkt beliebig lange betrieben werden
+können (Beschaffungskonzept Kapitel C.III.b).
+
+Die Blindleistungserbringung erfolgt durch den Anlagenbetreiber entsprechend dem von HNE, im Sinne
+von in Echtzeit, vorgegebenen Sollwert für die Zielgröße. Dieser Online-Sollwert ist ein Betrag für die
+Blindleistung. Die Bereitstellung dieser Daten erfolgt per Fernwirkschnittstelle.
+
+Bei Nichtvorhandensein geeigneter Fernwirktechnik erfolgt die Übermittlung des Sollwertes telefonisch
+(nur für den Erbringungszeitraum 2026). Sofern keine Messung des Anschlussnetzbetreibers vorhanden
+ist, sind am Netzanschlusspunkt die folgenden aktuellen Informationen bereitzustellen:
+
+a)        Wirkleistungsentnahme bzw. -einspeisung
+b)        Blindleistungsentnahme bzw. -einspeisung
+c)        Maximal aktuell technisch verfügbare Blindleistung, spannungshebend
+d)        Maximal aktuell technisch verfügbare Blindleistung, spannungssenkend
+e)        Maximal aktuell verfügbare Blindleistung innerhalb des Bereichs der TAR in Verbindung mit den
+          TAB, spannungshebend
+f)        Maximal aktuell verfügbare Blindleistung innerhalb des Bereichs der TAR in Verbindung mit den
+          TAB, spannungssenkend
+g)        in Betrieb befindliche installierte Wirkleistung
+
+Die Abrufzeit darf, analog zu der TAR, maximal 4 Minuten betragen. Die Anlagenbetreiber müssen
+gewährleisten, dass sie innerhalb dieser festgelegten Zeiträume auf die Sollwertänderungen reagieren
+können.
+
+
+
+
+                                                                                                 17/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+Mindestgebotsgröße: Für die Teilnahme am Blindleistungsmarkt muss jedes Angebot (gem. PQ-
+Diagramm) mindestens 5 Mvar in spannungshebender oder spannungssenkender Richtung am
+Netzanschlusspunkt umfassen.
+
+Am Netzanschlusspunkt der Blindleistungsquelle muss eine eichrechtskonforme Verrechnungsmessung
+(4-Quadranten-Zähler) installiert sein, die mindestens die Wirk- und Blindarbeit viertelstündlich erfasst
+und registriert (gem. Beschaffungskonzept Kapitel C. X.).
+
+
+
+
+                                                                                                   18/33
+Vertrag über die Erbringung der Systemdienstleistung Blindleistung
+
+
+
+
+Anhang 7 PQ-Diagramm am Netzanschlusspunkt nach Beschaffungskonzept C.II
+(durch den Anbieter bereitzustellen; einzeln für jeden Netzanschlusspunkt)
+
+
+
+
+                                                                             19/33
+Anhang 8
+Verhaltenskodex für
+Geschäftspartner
+
+
+Ziel und Zweck
+Der Hamburger Energienetze GmbH (HNE), Betrieb Stromnetz, als kommunaler
+Verteilungsnetzbetreiberin kommt aufgrund ihres energiepolitischen und gesellschaftlichen
+Auftrages eine besondere Verantwortung zu, auf die Einhaltung von bestimmten Grundprinzipen
+und Sorgfaltspflichten entlang der eigenen Lieferkette hinzuwirken. Die HNE hat die Kernelemente
+ihrer eigenen unternehmerischen Tätigkeit in einem Verhaltenskodex festgelegt und unterstützt
+so die Achtung und Einhaltung der auch international anerkannten Menschenrechte sowie die
+legitimen Interessen der Unternehmen an Rechtssicherheit und fairen Wettbewerbsbedingungen.
+Wesentliche Aspekte unseres geschäftlichen Handelns sind dabei für uns Integrität, Fairness,
+Respekt, Nachhaltigkeit und Transparenz.
+
+Die Einhaltung bestimmter Standards zum Schutz von Menschenrechten, bestimmter Standards in
+Bezug auf Arbeitsbedingungen, Umweltschutz und in Bezug auf Compliance auch innerhalb
+unserer Lieferkette ist für uns von ebensolcher Bedeutung. So wie die HNE von ihren Mitarbeite-
+rinnen und Mitarbeitern selbstverständlich verlangt, dass diese sich an die geltenden Gesetze und
+internen Vorgaben halten, so selbstverständlich verlangen wir daher auch von unseren Liefe-
+ranten und Geschäftspartnern, dass sie sich an entsprechende Standards halten und diese um-
+setzen.
+
+Die HNE erwartet von ihren Lieferanten und Geschäftspartnern daher, dass sie sich auf die in
+diesem Verhaltenskodex für Lieferanten festgelegten Grundprinzipien verpflichten oder die Ein-
+haltung von in einem eigenen, gleichwertigen Verhaltenskodex verbindlich festgelegten Stan-
+dards erklären. Sofern die Lieferanten und Geschäftspartner im Rahmen ihrer Beziehungen mit
+der HNE Dritte beauftragen, erwartet die HNE, dass diese sich ebenfalls zu diesen Grundprinzi-
+pien bekennen.
+
+1     Geltungsbereich
+Dieser Verhaltenskodex gilt für die nachfolgend genannten Zielgruppen.
+
+2     Zielgruppen für dieses Dokument
+Zielgruppe dieses Verhaltenskodex sind alle Vertragspartner, die die HNE mit Waren, Materialien
+oder Dienstleistungen versorgen, inklusive aller Kooperationspartner, Berater und Vermittler (im
+Folgenden für alle auch kurz: „Geschäftspartner“).
+
+
+3     Definitionen und Abkürzungen
+
+In diesem Dokument verwendete Definitionen und Abkürzungen sind im Text erklärt.
+
+4     Inhalt und Verantwortung
+
+4.1    Gesetzmäßiges Verhalten
+Unsere Geschäftspartner einschließlich ihrer Organe, Mitarbeiterinnen und Mitarbeiter, Reprä-
+sentantinnen und Repräsentanten, Nachunternehmer und Vertriebspartner halten alle für sie gel-
+tenden Rechtsvorschriften der jeweils auf sie anwendbaren Rechtsordnungen ein und vermeiden
+alle Handlungen, die dazu führen könnten, dass sie oder infolge deren HNE oder ein mit HNE
+verbundenes Unternehmen gegen geltendes Recht verstößt.
+
+
+
+
+11-RL-03 Verhaltenskodex für Geschäftspartner                                         Seite 22
+Öffentlich (C1)
+4.2     Einhaltung der Menschenrechte und faire Arbeitspraktiken
+Geschäftspartner der HNE verpflichten sich, die internationalen Menschenrechte als fundamen-
+tale und grundlegende Vorgaben zu achten und einzuhalten und dabei im Rahmen der für sie je-
+weils geltenden gesetzlichen Vorgaben, die folgenden Standards einzuhalten.
+
+Die Geschäftspartner von HNE stellen ihren Mitarbeitern einen Arbeitsplatz zur Verfügung, der
+frei von unmenschlicher Behandlung (insbesondere körperliche Bestrafung, sexueller Miss-
+brauch, sexuelle Belästigung, psychischem oder physischem Zwang oder verbale Beleidigung)
+und frei von der Androhung einer solchen Behandlung ist
+
+
+4.2.1    Verbot von Zwangsarbeit und Kinderarbeit
+Unsere Geschäftspartner müssen geeignete und angemessene Maßnahmen ergreifen um
+Zwangs- oder Pflichtarbeit, Sklaverei, Knechtschaft oder gar Menschenhandel, Kinderarbeit, ille-
+gale Arbeit oder sonstige unfreiwillige Arbeit gemäß den Konventionen der Internationalen Ar-
+beitsorganisation (ILO) zu verhindern. Sie tragen weder zu derartigen Arbeitspraktiken bei noch
+ziehen sie Nutzen daraus.
+
+Sie stellen sicher, dass das Mindestalter bei Einstellungen dem jeweils anwendbaren Recht und
+den Standards der ILO entspricht und verbotene Kinderarbeit unterbleibt.
+
+
+4.2.2    Chancengleichheit und Respekt für Mitarbeiterinnen und Mitarbeiter
+Die Geschäftspartner von HNE behandeln ihre eigenen Mitarbeiterinnen und Mitarbeiter selbst-
+verständlich mit Wertschätzung und Respekt. Sie diskriminieren niemanden aufgrund von ethni-
+scher oder nationaler Herkunft oder Zugehörigkeit, Hautfarbe, politischer Zugehörigkeit, sozialer
+Herkunft, Gesundheitsstatus, etwaiger Behinderung, sexueller Identität und Orientierung, religiö-
+ser Überzeugung, des Geschlechts, des Alters oder sonstiger gesetzlich geschützter Merkmale,
+sofern diese nicht in den Erfordernissen der Beschäftigung begründet ist.
+
+Sie setzen sich dabei für Chancengleichheit aller ihrer Mitarbeiterinnen und Mitarbeiter ein.
+Hierzu gehört auch, dass für gleichwertige Arbeit ein gleichwertiges Entgelt gezahlt wird.
+
+Unsere Lieferanten und Geschäftspartner dulden zudem keine unangemessene Behandlung von
+Arbeitskräften, wie etwa durch die Anwendung psychischer Härte, durch sexuelle Belästigung
+oder Diskriminierung einschließlich von Gesten, Sprache und körperlichem Kontakt, die sexuell,
+Zwang ausübend, bedrohend, missbräuchlich oder ausnutzend ist.
+
+
+4.2.3    Transparenz von Arbeitszeit und Arbeitslohn
+Unsere Geschäftspartner stellen sicher, dass die in ihrem Unternehmen geleisteten Arbeitszeiten
+und Überstunden innerhalb des Rahmens der jeweils anwendbaren Gesetze und Vorgaben und der
+jeweils geltenden Tarifverträge liegen. Mitarbeiterinnen und Mitarbeiter erhalten bei der Ein-
+stellung einen dem jeweils anwendbaren Recht entsprechenden, hinreichend dokumentierten
+Vertrag in dem ihre Rechte und Pflichten sowie Arbeitszeit und Arbeitslohn wahrheitsgemäß und
+transparent dargelegt sind.
+
+
+
+
+11-RL-03 Verhaltenskodex für Geschäftspartner                                           Seite 23
+Öffentlich (C1)
+Für geleistete Arbeit wird ein angemessener Arbeitslohn gezahlt. Der angemessene Lohn be-
+misst sich dabei nach den Regelungen des Beschäftigungsortes und beträgt mindestens die
+Höhe des nach dem anwendbaren Recht festgelegten Mindestlohn. Abzüge vom Lohn aus dis-
+ziplinarischen Gründen sind zu verbieten.
+
+
+4.2.4    Vereinigungsfreiheit und Recht auf Koalitionsfreiheit
+Unsere Geschäftspartner unterstützen das Recht ihrer Mitarbeiterinnen und Mitarbeiter auf Verei-
+nigungs- und Koalitionsfreiheit, nach dem Arbeitnehmer sich frei zusammenschließen oder einer
+Gewerkschaft beitreten können. Sie nutzen weder die Gründung noch den Beitritt oder die Mit-
+gliedschaft in einer Gewerkschaft als Grund für ungerechtfertigte Diskriminierungen oder gar Ver-
+geltungsmaßnahmen. Sie stellen sicher, dass sich Gewerkschaften innerhalb ihres Geschäftsbe-
+triebes frei und in Übereinstimmung mit dem anwendbaren Recht betätigen dürfen; dies umfasst
+das Streikrecht und das Recht auf Kollektivhandlungen und Tarifverhandlungen.
+
+Dazu gehört auch das Recht der Mitarbeiter, Beschwerden einzureichen, mutmaßliche Rechts-
+verstöße zu melden, sich einem Betriebsrat anzuschließen, ohne Diskriminierung, Vertragskündi-
+gung, Repressalien, Einschüchterung oder Belästigung befürchten zu müssen.
+
+Sofern die lokale Rechtsordnung die vorbenannten Rechte beschränken, sollten die Geschäfts-
+partner alternative und rechtmäßige Mittel der Arbeitnehmervertretung nutzen, wie etwa Ver-
+sammlungen, spezielle Ausschüsse und Dialoge.
+
+
+4.2.5    Achtung lokaler Gemeinschaften und indigener Völker
+Unsere Geschäftspartner vermeiden alle negativen physischen, sozialen sowie ökologischen
+Auswirkungen und Risiken ihrer Geschäftstätigkeit für lokale Gemeinschaften und indigene Völ-
+ker. Sie erkennen die besonderen Umstände der indigenen Völker an und berücksichtigen die
+Sorgen und Erwartungen der Gemeinschaften, in denen sie arbeiten und leben.
+
+
+4.2.6    Einsatz von Sicherheitspersonal
+Geschäftspartner von HNE setzen zum Schutz ihrer unternehmerischen Projekte nur Sicherheits-
+personal ein, dass die hier festgelegten Grundprinzipien, insbesondere in Bezug auf die Men-
+schenrechte achtet und entsprechend geschult und angewiesen ist, bei Risiken und Gefahren an-
+gemessen zu reagieren.
+
+
+4.2.7    Arbeitssicherheit und Gesundheitsschutz
+Unsere Geschäftspartner halten sich an die jeweils anwendbaren gesetzlichen Vorgaben für Si-
+cherheit und Gesundheitsschutz an der Arbeitsstätte, am Arbeitsplatz und bei dem Einsatz von
+Arbeitsmitteln. Durch das Angebot entsprechender Ausbildung und Unterweisung oder sonstiger
+Schulungen tragen sie dafür Sorge, dass alle Mitarbeiterinnen und Mitarbeiter zu den Themen
+Arbeitssicherheit und Gesundheitsschutz angemessen geschult sind. Sie etablieren zudem ein
+jeweils angemessenes Gesundheits- und Arbeitssicherheitsmanagementsystem.
+
+Unsere Geschäftspartner werden insbesondere
+
+
+
+
+11-RL-03 Verhaltenskodex für Geschäftspartner                                        Seite 24
+Öffentlich (C1)
+•     Für ein sicheres, sauberes und hygienisches Arbeitsumfeld sorgen
+•     Mitarbeiter vor übermäßiger Aussetzung gegenüber chemischen, biologischen und physikali-
+      schen Gefahren schützen
+•     Arbeitsbedingte Gesundheits- und Sicherheitsgefahren (chemische, biologische, physikali-
+      sche und physiologische Gefahren) erfassen, überwachen und durch entsprechende Maß-
+      nahmen reduzieren.
+•     Geeignete Brandschutzmaßnahmen (technischer, baulicher und/oder organisatorischer Art)
+      ergreifen,
+•     Geeignete Schutzausrüstung und Schutzkleidung kostenfrei zur Verfügung stellen
+•     Verwendete Chemikalien gemäß dem global harmonisierten System zur Einstufung und
+      Kennzeichnung von Chemikalien (GHS) oder der Classification, Labelling und Packaging
+      (CLP) Verordnung kennzeichnen und entsprechend den jeweils anwendbaren gesetzlichen und
+      vertraglichen Vorgaben zu lagern, zu transportieren und handzuhaben.
+•     Angemessene Schulungsmaßnahmen zur Aufklärung von arbeitsbedingten Risiken, Sicher-
+      heitsinformationen, Gesundheitsschutz, Vermeidung von Arbeitsunfällen, Ersten Hilfe, Chemi-
+      kalienmanagement und zum Brandschutz durchführen.
+•     Geeignete Notfallpläne ausarbeiten und bei Unfällen für medizinische Versorgung Sorge tra-
+      gen.
+
+
+4.3 Schutz der Umwelt und schonender Umgang mit Ressourcen
+HNE erwartet von ihren Geschäftspartnern, dass diese im Rahmen ihrer Geschäftstätigkeit alle für
+sie geltenden Gesetze und Regelungen zum Schutz der Umwelt beachten und einhalten. Sie stellen
+zudem einen verantwortungsvollen Umgang mit Gefahrstoffen sicher. Wenn Gefahrstoffe
+aufgrund ihrer Tätigkeit in die Umwelt gelangen, gilt dies insbesondere für deren sichere
+Beschaffung, Kennzeichnung, Handhabung, Bewegung, Sammlung, Lagerung, Wiederverwendung
+und Entsorgung. Im Zuge ihrer Geschäftsaktivitäten bemühen sich unsere Geschäftspartner,
+Abfälle und Emissionen in die Luft, in das Wasser oder in den Boden zu vermeiden.
+Geschäftspartner, deren unternehmerische Aktivitäten sich auf die Umwelt auswirken, etablieren
+ein angemessenes Umweltschutzmanagement, das die sichere Handhabung, Verbringung,
+Lagerung, Entsorgung, Wiederverwertung, Wiederverwendung oder Bewirtschaftung von Abfällen,
+Luftemissionen und Abwassereinleitungen gewährleisten. Für Unfälle, die ein Umweltrisiko
+darstellen, sollten Geschäftspartner Notfallverfahren und -personal zur Verfügung stehen.
+
+Unsere Geschäftspartner setzen sich im Rahmen ihrer Möglichkeiten zur Verbesserung der Effizi-
+enz, Schonung der natürlichen Ressourcen (z. B. Wasser, Energiequellen, Rohstoffe), Reduzierung
+der Verwendung gefährlicher Stoffe und zum Recycling ein.
+
+
+4.4   Verantwortungsvolle Beschaffung von Mineralien
+Unsere Geschäftspartner stellen im Rahmen ihrer Geschäftstätigkeit durch angemessene Maß-
+nahmen sicher, dass in ihren Produkten die Verwendung von Rohstoffen vermieden wird, die aus
+Konflikt- und Risikogebieten stammen und die zu Menschenrechtsverletzungen, Korruption, der
+Finanzierung von bewaffneten Gruppen oder ähnlichen Auswirkungen beitragen. Auf Anfrage von
+HNE können Informationen offengelegt werden, die die Quelle und den Ursprung der gelieferten
+Rohmaterialien aufzeigen.
+
+
+
+
+11-RL-03 Verhaltenskodex für Geschäftspartner                                        Seite 25
+Öffentlich (C1)
+4.5     Faires Verhalten im Wettbewerb und Compliance
+HNE erwartet von ihren Geschäftspartnern, dass sie die jeweils anwendbaren Regeln eines fai-
+ren Wettbewerbs einhalten. Ebenso erwarten wir, dass sie angemessene interne Methoden und
+Standards zur Einhaltung aller relevanten Gesetze und Vorgaben etablieren und umsetzen.
+
+
+4.5.1        Korruptionsprävention
+Unsere Geschäftspartner tolerieren keine Form der Korruption und beteiligen sich weder direkt
+noch indirekt an solchen Praktiken. Sie stellen durch angemessene Maßnahmen sicher, dass ihre
+Mitarbeiterinnen und Mitarbeiter oder die ihrer eigenen Geschäftspartner keine unzulässigen Vor-
+teile oder andere Zuwendungen annehmen oder anbieten, um sich in unlauterer oder unzulässiger
+Weise einen Nutzen zu verschaffen. Dies gilt auch für sogenannte Beschleunigungszahlungen
+(„facilitation payments“, das sind bspw. nach manchen Rechtsordnungen rechtmäßige Zahlung zur
+Beschleunigung von routinemäßig anfallenden Verwaltungsangelegenheiten). Geschäftspartner
+bieten auch Mitarbeiterinnen und Mitarbeitern der HNE weder direkt noch indirekt unzulässige
+Vorteile in Form von Einladungen, Geschenken, Bewirtungen an oder fordern diese. Sie tragen
+durch entsprechende Schulungen ihrer Mitarbeiterinnen und Mitarbeiter Sorge dafür, dass diese in
+angemessenerer Weise zum Thema Korruptionsprävention und Umgang mit Zuwendungen
+sensibilisiert sind.
+
+
+4.5.2      Vermeiden von Interessenkonflikten
+Geschäftspartner von HNE treffen ihre Entscheidungen auf der Grundlage sachlicher Kriterien
+und lassen sich dabei nicht von persönlichen Interessen oder Beziehungen beeinflussen. Sollte
+dennoch ein tatsächlicher oder potenzieller Interessenkonflikt eintreten, werden alle betroffenen
+Parteien so schnell wie möglich informiert.
+
+
+4.5.3    Einhaltung des Wettbewerbsrechts
+Unsere Geschäftspartner kennen und beachten die jeweils für ihre Geschäftstätigkeit geltenden
+Wettbewerbs- und Kartellgesetze und beachten diese. Sie treffen insbesondere keine wettbe-
+werbswidrigen Absprachen, insbesondere keine Preis-, Angebots- oder Marktabsprachen mit
+Wettbewerbern, Lieferanten, Kunden oder sonstigen Dritten.
+
+Sie tragen dafür Sorge, dass weder ein Austausch wettbewerbsrechtlich sensibler Informationen
+noch sonstiges Verhalten stattfindet, das den Wettbewerb in unzulässiger Weise beschränkt oder
+beschränken kann.
+
+
+4.5.4      Einhaltung von Exportkontroll- und Zollvorgaben sowieKapitalmarktvorschriften
+Unsere Geschäftspartner beachten alle jeweils relevanten Gesetze für den Import und Export und
+für die Verzollung von Waren, Dienstleistungen und Informationen sowie alle jeweils geltenden
+Sanktionen, Embargos (beispielsweise: Sanktionen der Vereinten Nationen (UN), der Sanktions-
+vorschriften des Office of Foreign Assets Control des US-Finanzministeriums, der US Export Ad-
+ministration Regulations, des UK Export Control Act von 2002 und der Europäischen Union (EU))
+sowie andere gesetzlich festgelegte Außenhandelsbeschränkungen und Energiehandelsvor-
+schriften.
+
+
+
+
+11-RL-03 Verhaltenskodex für Geschäftspartner                                          Seite 26
+Öffentlich (C1)
+Gleiches gilt für alle jeweils anwendbaren nationalen und internationalen Kapitalmarktvorschrif-
+ten.
+
+
+4.5.5    Geldwäscheprävention
+Geschäftspartner von HNE unterhalten nur Geschäftsbeziehungen mit solchen Geschäftspart-
+nern, von deren Integrität sie überzeugt sind und unterhalten angemessene Maßnahmen zur Ge-
+schäftspartnerprüfung im Rahmen der für sie geltenden Vorgaben. Darüber hinaus halten sie die
+jeweils für sie geltenden gesetzlichen Vorgaben zur Geldwäscheprävention ein.
+
+
+4.6     Sicherer Umgang mit Geschäftsinformationen und Datenschutz
+Geschäftsgeheimnisse und die Vertraulichkeit von Informationen werden von unseren Geschäfts-
+partnern geschützt. Sie geben Informationen von HNE nicht ohne vorherige ausdrückliche Zu-
+stimmung und Abschluss einer entsprechenden schriftlichen Vertraulichkeitsvereinbarung mit HNE
+an verbundene Unternehmen oder Dritte weiter.
+
+Werden Daten der HNE oder von Geschäftspartnern in der Lieferkette deren Mitarbeiter oder
+Kunden anvertraut, dürfen diese Daten nur zu den vereinbarten Zwecken und unter Einhaltung
+aller geltenden Gesetze verwendet und nur von befugten Personen verwendet werden.
+
+Sämtliche schutzwürdige Daten und Geschäftsgeheimnisse werden technisch vor dem unbefug-
+ten Zugriff Dritter geschützt.
+Unsere Geschäftspartner stellen dabei zudem sicher, dass sie personenbezogene Daten von ei-
+genen Mitarbeiterinnen und Mitarbeitern und Geschäftspartnern sowie anderen Betroffenen ver-
+traulich und verantwortungsbewusst verarbeiten und stellen sicher, dass solche Daten effektiv
+geschützt und nur für legitime Zwecke verwendet werden.
+
+Sofern Geschäftspartner im Zuge der Zusammenarbeit mit HNE sogenannte wirtschaftlich sen-
+sible oder wirtschaftlich vorteilhaften Informationen im Sinne des Energiewirtschaftsrechts erhal-
+ten sollten, stellen sie ebenfalls durch geeignete Maßnahmen sicher, dass diese nicht unzulässi-
+gerweise an im Energiemarkt wettbewerbliche Bereiche im eigenen Unternehmen oder an Dritte
+gelangen.
+
+
+4.7     Umgang mit Unternehmensvermögen
+Unsere Geschäftspartner schützen das Eigentum und Unternehmensvermögen der HNE und ge-
+hen verantwortungsvoll damit um. Sie setzen diese nicht für unlautere, unzulässige oder betriebs-
+fremde Zwecke ein und tragen dafür Sorge, dass weder ihre eigenen Mitarbeiterinnen und Mitar-
+beiter noch die der von ihnen eingesetzten Subunternehmer oder andere von ihnen beauftragte
+Dritte das Eigentum von HNE beschädigen oder missbräuchlich verwenden.
+
+
+4.8     Verbindlichkeit des Verhaltenskodex für Geschäftspartner und deren Lieferkette
+Unsere Geschäftspartner haben angemessene Maßnahmen zu ergreifen, um die in diesem Ver-
+haltenskodex festgelegten Grundprinzipien selbst einzuhalten und werden diese auch bei der
+Auswahl der eigenen Lieferanten und im Umgang mit diesen beachten. Sie werden sich dafür
+einsetzen, diese Standards auch bei den eigenen Lieferanten zu etablieren.
+
+
+
+11-RL-03 Verhaltenskodex für Geschäftspartner                                          Seite 27
+Öffentlich (C1)
+4.9    Risikomanagement und Abhilfemaßnahmen
+Unsere Geschäftspartner nehmen jeweils im Hinblick auf die eigene Geschäftstätigkeit angemes-
+sene Risikoanalysen vor, um die im eigenen Geschäftsbereich bestehenden Risiken in Bezug auf die
+hier festgelegten Grundprinzipien zu ermitteln und diesen durch ein ebenso angemessenes
+Risikomanagement zu begegnen.
+
+Stellt ein Lieferant oder Geschäftspartner von HNE fest, dass in diesem Verhaltenskodex nieder-
+gelegte Grundprinzipien im eigenen Geschäftsbereich oder bei einem eigenen Geschäftspartner
+bereits eingetreten ist oder unmittelbar bevorsteht, ergreift er unmittelbar Maßnahmen zu deren
+Verhinderung, Minimierung oder Beendigung. In einem solchen Fall informiert der Lieferant oder
+Geschäftspartner HNE unverzüglich, auch um eventuell gemeinsam entsprechende Abhilfemaß-
+nahmen zu erarbeiten.
+
+
+4.10 Einrichtung eines Beschwerdeverfahrens
+HNE empfiehlt ihren Geschäftspartnern dringend, ein Beschwerdeverfahren einzurichten, das es
+eigenen Mitarbeiterinnen und Mitarbeitern, aber auch Dritten ermöglicht, Bedenken und potenzi-
+elle Verletzungen der in diesem Verhaltenskodex festgelegten Standards auch anonym zu mel-
+den, die Identität der meldenden Person dabei zu schützen und mögliche Repressalien gegen die
+meldende Person zu vermeiden. Wo die Einrichtung eines solchen Verfahrens nicht möglich sein
+sollte, erwarten wir, dass sie etwaigen Bedenken offen zuhören, entsprechend handeln und die
+meldende Person schützen.
+
+Darüber hinaus regt HNE an, dass Geschäftspartner ihre Mitarbeiterinnen und Mitarbeiter oder
+andere von der Zusammenarbeit mit HNE betroffene Dritte über die Möglichkeit informieren, sich
+an die externe Ombudsstelle von HNE zu wenden, sofern bei diesen Bedenken in Bezug auf die
+Einhaltung der hier festgelegten Standards oder den Verhaltenskodex von HNE bestehen oder
+Bedenken bestehen, dass HNE die Vorgaben des eigenen Verhaltenskodex einhält.
+
+Die Beschwerdestelle bzw. den Kontakt zur Einreichung von Beschwerden finden sie über unsere
+Internetseite.
+
+
+5     Schulungen und/oder Unterweisungen
+Unsere Geschäftspartner tragen durch angemessene Fortbildungen, Unterweisungen oder an-
+dere Schulungsmaßnahmen der eigenen Mitarbeiterinnen und Mitarbeiter sicher, dass diese in
+Bezug auf die in diesem Verhaltenskodex niedergelegten Grundprinzipien sensibilisiert sind. Sie
+etablieren angemessene Management-Systeme und Kontrollmechanismen, um diese in den ei-
+genen Geschäftsprozessen zu etablieren und deren Umsetzung gewährleisten zu können. Sie
+können die Umsetzung der hier genannten Standards gegenüber HNE auch durch die Vorlage
+entsprechende Zertifizierungen zeigen. Geschäftspartner sollten zudem sicherstellen und durch
+geeignete Maßnahmen überwachen, dass die Grundsätze dieses Verhaltenskodex auch in der
+eigenen Lieferkette eingehalten werden.
+
+
+6     Kontrollpunkte für die Qualitätssicherung
+HNE ist bewusst, dass Geschäftspartner jeweils unterschiedlichen gesetzlichen Vorgaben unter-
+liegen und diese auf unterschiedliche Weise in angemessener Form umsetzen können. HNE
+
+
+
+11-RL-03 Verhaltenskodex für Geschäftspartner                                         Seite 28
+Öffentlich (C1)
+behält sich im Rahmen der ihr obliegenden gesetzlichen Pflichten das Recht vor durch entspre-
+chende Maßnahmen zu überprüfen, inwiefern die Vorgaben dieses Verhaltenskodex eingehalten
+werden und Korrekturmaßnahmen zu verlangen. Die Überprüfung kann sowohl im Wege der
+Selbstauskunft, Auskunft durch Dritte, Vorlage von Zertifikaten, Dokumentationsprüfung sowie
+durch die Durchführung von Audits vor Ort stattfinden.
+
+7      Risiken bei Abweichungen
+Werden die in diesem Verhaltenskodex niedergelegten Grundprinzipien durch einen Geschäfts-
+partner von HNE nicht eingehalten, kann dies gravierende Folgen für das betreffende Unterneh-
+men, aber auch für HNE haben. Diese können von behördlichen Eingriffen in die Geschäftstätig-
+keit über die Verhängung von Zwangs- oder Bußgeldern, den Ausschluss von der Vergabe öf-
+fentlicher Aufträge bis hin zur Geltendmachung von Schadensersatzforderungen reichen.
+
+HNE behält sich zudem das Recht vor, Verbesserungsmaßnahmen zu verlangen, angezeigte
+Maßnahmen zu überprüfen, Verträge mit Geschäftspartnern zu kündigen oder auszusetzen, die
+nicht nachweisen können, dass sie sich an die Grundprinzipien dieses Verhaltenskodex halten.
+
+8      Verweise
+
+8.1       Verweise auf rechtliche Grundlagen, Normen etc.
+
+    Dokument                                                               Beschreibung
+    Gesetz über die unternehmerischen Sorgfaltspflichten in Lieferketten
+    § 130 OWiG
+    Allgemeine Erklärung der Menschenrechte der Vereinten Nationen
+    Kernarbeitsnormen der International Labour Organisation (ILO)
+    UN-Leitprinzipien für Wirtschaft und Menschenrechte
+    OECD-Leitsätze für multinationale Unternehmen
+    Prinzipien des UN Global Compact
+    DIN EN ISO 9001 Qualitätsmanagementsystem
+    DIN EN ISO 14001 Umweltmanagementsystem
+    DIN EN ISO 27001 Informationssicherheitsmanagementsystem
+    Anlage zu § 2 Absatz 1, § 7 Absatz 3 Satz 2 LkSG aufgeführten
+    internationalen übereinkommen
+
+8.2       Verweise auf mitgeltende Dokumente, Prozesse und Anweisungen
+      •    01-RL-00 Verhaltenskodex der Hamburger Energienetze GmbH
+      •    Richtlinie zur Vorbeugung gegen Korruption
+      •    Leitlinie zum Arbeits- und Gesundheitsschutz
+      •    Unternehmensleitsätze zum Umweltschutz
+      •    Compliance-Rahmenrichtlinie für die öffentlichen Unternehmen der Freien und
+           Hansestadt Hamburg
+
+9      Sicherheitsstufe
+Öffentlich (C1).
+
+10 Änderungshistorie
+
+    Versions-                                                                    Datum des
+                   Änderung
+    nummer                                                                       Inkrafttretens
+    01             Ersterstellung                                                01.03.2024
+11-RL-03 Verhaltenskodex für Geschäftspartner                                            Seite 29
+Öffentlich (C1)
+                                                    Anhang 9
+
+                          ALLGEMEINE EINKAUFSBEDINGUNGEN der Hamburger
+
+                                Energienetze GmbH Stand: September 2024
+
+
+
+1.       Allgemeines
+
+1.1.       Für alle Bestellungen der Hamburger Energienetze GmbH, Betrieb Stromnetz, (im Folgenden „Auftraggeber“)
+gelten ausschließlich diese nachstehenden allgemeinen Einkaufsbedingungen (im Folgenden “AGB“) des Auftraggebers.
+Davon abweichende oder ergänzende Bedingungen des Auftragsnehmers, die der Auftraggeber nicht ausdrücklich schriftlich
+anerkennt, gelten nicht und verpflichten den Auftraggeber auch dann nicht, wenn er diesen nicht ausdrücklich widerspricht
+und die Lieferung/Leistung vorbehaltlos entgegennimmt oder die Rechnung begleicht.
+
+1.2.      Diese AGB gelten auch für alle zukünftigen Verträge mit dem Auftragsnehmer, sofern es sich um Rechtsgeschäfte
+gleicher oder verwandter Art handelt.
+
+1.3.    Der Vertragsinhalt ergibt sich aus der Bestellung des Auftraggebers einschließlich dieser AGB. Mündliche
+Nebenabreden bedürfen ebenso wie Änderungen oder Ergänzungen des Vertrages der schriftlichen Bestätigung des
+Auftraggebers.
+
+1.4.      Rechtserhebliche Erklärungen und Anzeigen des Auftragsnehmers in Bezug auf den Vertrag (z.B. Fristsetzung,
+Rücktritt) sind ebenfalls in Schrift- oder Textform (z.B. Brief, E-Mail, Telefax) abzugeben.
+
+1.5.       Sollten einzelne Bestimmungen dieser AGB aus irgendwelchen Gründen keine Gültigkeit haben oder unwirksam
+sein, so bleiben die übrigen Regelungen hiervon unberührt. Soweit erforderlich, ist unverzüglich eine schriftliche Abstimmung
+zwischen Auftraggeber und Auftragnehmer herbeizuführen.
+
+2.       Bestellungen, Vertragsschluss
+
+Bestellungen bedürfen der Schriftform. Mündliche Nebenabreden zur Bestellung sind nur verbindlich, wenn sie schriftlich
+bestätigt werden. Dies gilt auch für Änderungen und Ergänzungen, insbesondere jede Erweiterung einer Bestellung.
+
+3.       Preise, Rechnungslegung, Zahlung
+
+3.1.    Die in der Bestellung genannten Preise sind bindend und verstehen sich zzgl. der jeweils geltenden gesetzlichen
+Umsatzsteuer.
+
+3.2.      Die auszufertigenden Rechnungen sind nach erfolgter Lieferung/Leistung für jede Bestellung gesondert an die in
+der Bestellung angegebene Rechnungsanschrift des Auftraggebers zu senden; Bestell-Nummern sind anzugeben, sämtliche
+Abrechnungsunterlagen sind beizufügen. Die Rechnungen müssen spezifiziert sein und eine Überprüfung anhand der im
+Vertrag genannten Preise ermöglichen. Rechnungen über Teillieferungen/-leistungen sind mit dem Vermerk „Teillieferungs-
+Rechnung“ bzw. „Teilleistungs-Rechnung“, Schlussrechnungen mit dem Vermerk „Restlieferungs-Rechnung“ bzw.
+„Restleistungs-Rechnung“ zu versehen. Verspätet, oder unvollständig übersandte Rechnungen kann der Auftraggeber auch
+bei infolgedessen verspäteter Bezahlung unter Abzug des vollen Skontos begleichen. Jede Rechnung muss die gesetzlich
+geschuldete Umsatzsteuer separat ausweisen.
+
+3.3.     Sofern nicht schriftlich anders vereinbart und insoweit als der Auftragnehmer seinen Vertragspflichten
+nachkommt, zahlt der Auftraggeber die Rechnungen innerhalb der maximalen gesetzlichen Frist, je nach der Art der Waren
+oder Dienstleistungen.
+
+3.4.     Der Auftragnehmer darf die vereinbarten Preise während der Laufzeit des Vertrages nicht erhöhen. Falls der
+Auftragnehmer durch zwingende gesetzliche Vorschriften zur Preiserhöhung verpflichtet ist, ist der Auftraggeber
+berechtigt, den Vertrag mit sofortiger Wirkung zu beenden.
+
+3.5.     Die Zahlung des Auftraggebers bedeutet keinen Verzicht auf Rechte gemäß dem Vertrag und diesen AGB oder
+auf gesetzliche Rechte. Die Zahlung kann nicht als Anerkennung der Tauglichkeit der gelieferten Waren und/oder der
+erbrachten Dienstleistung durch den Auftraggeber interpretiert werden und befreit den Auftragnehmer nicht von seiner
+diesbezüglichen Haftung.
+
+
+
+
+                                                                                                                     Seite 30
+4.       Lieferung, Erfüllungsort, Gefahrenübergang
+
+4.1.     Erfüllungsort ist die/der vom Auftraggeber in der Bestellung angegebene Lieferadresse/Leistungsort. Der
+Auftragnehmer ist zu Teillieferungen/-leistungen grundsätzlich nur mit schriftlicher Zustimmung des Auftraggebers
+berechtigt.
+
+4.2.     Die vereinbarten Liefertermine sind verbindlich. Bei Überschreitung der Lieferfrist befindet sich der Auftragnehmer
+automatisch im Verzug, ohne dass eine speziellere Inverzugsetzung erforderlich ist. Bei zu erwartenden Verzögerungen hat
+der Auftragnehmer den Auftraggeber unverzüglich unter Angabe der Gründe schriftlich Mitteilung zu machen und einen
+neuen Termin anzubieten. Erklärt sich der Auftraggeber mit einem vom Auftragnehmer angebotenen neuen Termin
+einverstanden oder akzeptiert der Auftragnehmer eine von Auftraggeber gesetzte Nachfrist, so liegt hierin keine
+Verlängerung des vertraglich vereinbarten Liefer-/Leistungstermins. Ein bereits entstandener Anspruch auf Ersatz des
+dadurch verursachten Verzögerungsschadens bleibt unberührt. Gerät der Lieferant bei Sukzessivlieferungsverträgen und
+ähnlichen Verträgen mit einer Teillieferung/-leistung in Verzug, ist der Auftraggeber berechtigt, bezüglich aller noch
+ausstehenden Teillieferungen/-leistungen vom Vertrag zurückzutreten und/oder Schadensersatz statt Leistung zu
+verlangen.
+
+4.3.    Die Lieferung hat – sofern nicht schriftlich etwas anderes vereinbart wurde – frei dem vom Auftraggeber
+angegebenen Bestimmungsort zu erfolgen. Bei Lieferungen ab Werk ist der Auftragnehmer verpflichtet, die billigste
+Versandart zu wählen, soweit die Versandart nicht vorgeschrieben ist.
+
+4.4.      Der Auftragnehmer ist verpflichtet, sämtliche einschlägigen Versand- und Deklarationsvorschriften, sowie
+eventuelle Ausfuhr- und Einfuhrmodalitäten einzuhalten. Schäden, die aus einer Nichteinhaltung dieser Vorschriften
+entstehen, gehen zu Lasten des Auftragnehmers.
+
+4.5.      Die zu liefernden Waren sind sachgemäß zu verpacken. Falls der Auftraggeber bei seiner Bestellung eine Bestell-,
+Inventar- oder Artikel-Nummer angegeben hat, ist der Auftragnehmer verpflichtet, diese Nummern im gesamten
+Schriftverkehr und auf allen Versandpapieren und Lieferscheinen zu vermerken. Den durch fehlerhafte oder fehlende
+Nummern-Vermerke bei dem Auftraggeber entstehenden Bearbeitungsaufwand und die Folgen hierdurch bedingter
+Verzögerungen hat der Auftragnehmer zu tragen.
+
+4.6.     Die Versandgefahr geht erst bei erfolgter Ablieferung auf den Auftraggeber über.
+
+5.       Eigentumsvorbehalt
+
+Der Auftragnehmer gewährleistet, dass das volle, lastenfreie Eigentumsrecht an der Ware mit deren Lieferung zusammen
+übertragen wird. Ein Eigentumsvorbehalt des Auftragnehmers an der Ware ist ausgeschlossen.
+
+6.       Abtretungsverbot, Zurückbehaltungsrecht
+
+6.1.     Abtretungen sind ohne schriftliche Zustimmung des Auftraggebers ausgeschlossen. § 354a HGB bleibt
+unberührt. Zur Aufrechnung ist der Auftragnehmer nur berechtigt, wenn seine Gegenansprüche rechtskräftig festgestellt
+oder unbestritten sind.
+
+6.2.    Ein etwaiges gesetzliches Zurückbehaltungs- oder Leistungsverweigerungsrecht steht dem Auftragnehmer nur in
+Ansehung solcher unbestrittener, rechtskräftig festgestellten oder entscheidungsreiferen Forderungen zu, die aus
+demselben Vertragsverhältnis mit uns stammen.
+
+7.       Gewährleistung
+
+7.1.     Der Auftragnehmer übernimmt die Gewähr für die Verwendung einwandfreien, den Anforderungen des
+Auftraggebers entsprechenden Materials und für sachgemäße Ausführung. Der Auftragnehmer steht dafür ein, den Auftrag
+so auszuführen, dass die gesetzlichen Bestimmungen, insbesondere das Gesetz über technische Arbeitsmittel und
+Verbraucherprodukte, die Unfallverhütungsvorschriften der Berufsgenossenschaften, sowie die jeweils neuesten Fassungen
+der DIN- und VDE-Bestimmungen beachtet werden. Der Auftragnehmer steht ferner dafür ein, dass durch die Lieferung
+und Benutzung der gelieferten Gegenstände Rechte Dritter nicht verletzt werden. Er verpflichtet sich, dem Auftraggeber
+anderenfalls von Schadensersatzansprüchen Dritter freizustellen. Die gesetzlichen Gewährleistungsansprüche stehen dem
+Auftraggeber ungekürzt zu. Es gelten die jeweiligen gesetzlichen Verjährungsfristen. Innerhalb der Verjährungsfrist
+gerügte Mängel verjähren frühestens sechs Monate nach Ergebung der Rüge.
+
+7.2.     Rügen, die beim Auftragnehmer innerhalb einer Frist von 12 Werktagen, gerechnet ab Wareneingang, oder bei
+versteckten Mängeln innerhalb einer Frist von 12 Werktagen ab Entdeckung, eingehen, gelten stets als unverzüglich im Sinne
+des § 377 HGB. Bei Lieferung von nicht vertretbaren Sachen findet § 377 HGB keine Anwendung.
+
+
+
+
+                                                                                                                      Seite 31
+8.       Sicherheit
+
+Werden Mitarbeiter oder Beauftragte des Auftragnehmers auf dem Betriebsgelände des Auftraggebers tätig, hat der
+Auftragnehmer sicherzustellen, dass er die jeweils geltenden Sicherheits- und Unfallverhütungsvorschriften, insbesondere
+die Mindestanforderungen im Arbeits- und Gesundheitsschutz für Partnerunternehmen des Auftraggebers in der jeweils
+gültigen Fassung, einhält sowie die werksseitig erlassene Betriebsordnung beachten. Der Auftragnehmer wird seine
+Mitarbeiter oder die Beauftragten laufend auf diese Vorschriften hinweisen. Hilft der Auftragnehmer einer Verletzung dieser
+Vorschriften nicht unverzüglich nach einer schriftlichen Abmahnung ab, oder kommt es wiederholt zu schweren Verstößen
+gegen diese Vorschriften, ist der Auftraggeber zur sofortigen, außerordentlichen Kündigung des Vertrages berechtigt.
+Schäden, die sich aus der Nichteinhaltung dieser Vorschriften ergeben, hat der Auftragnehmer zu tragen.
+
+9.       Vermögensverschlechterung
+
+Wird nach Abschluss des Vertrages erkennbar, dass der Anspruch auf die Gegenleistung durch mangelnde
+Leistungsfähigkeit des Auftragnehmers (z.B. Zahlungseinstellung, Antrag auf Eröffnung eines Insolvenzverfahrens)
+gefährdet wird, so ist der Auftraggeber nach seiner Wahl berechtigt, vorbehaltlich sonstiger Rechte, ohne Fristsetzung
+vom Vertrag zurückzutreten bzw. den Vertrag aus wichtigem Grund zu kündigen oder seine Leistungen zu verweigern, bis
+der Auftragnehmer die Gegenleistung bewirkt oder Sicherheit für sie leistet.
+
+10.      Vertraulichkeit / Geheimhaltung
+
+10.1.     Der Auftragnehmer ist verpflichtet, Aufträge des Auftraggebers sowie sämtliche ihm zu diesen Zwecken jeweils
+zur Verfügung gestellten Unterlagen und vertrauliche Informationen für einen Zeitraum von fünf (5) Jahren nach
+Vertragsschluss geheim zu halten und nur zur Ausführung des jeweiligen Auftrags zu verwenden. Als vertrauliche
+Informationen gelten alle Informationen, die mündlich, schriftlich oder in jeder anderen Form zugänglich gemacht werden,
+wenn sie als vertrauliche Information gekennzeichnet, als solche beschrieben oder in anderer Weise als solche erkennbar
+gemacht sind, aufgrund ihres Inhalts als vertraulich anzusehen sind, zu den nach §§ 17, 18 UWG geschützten Informationen
+(insb. Know-how) gehören, durch gewerbliche und andere Schutzrechte geschützt sind, von einer der vorgenannten
+Informationen abgeleitet wurde. Als vertrauliche Informationen gelten nicht solche Informationen, die im Zeitpunkt ihrer
+Mitteilung allgemein zugänglich sind oder auf deren Schutz der Auftraggeber ausdrücklich schriftlich im Voraus verzichtet
+hat. Der Auftragnehmer wird sie nach Erledigung von Anfragen oder nach Abwicklung von Verträgen auf Verlangen
+umgehend an den Auftraggeber zurückgeben. Soweit kein Vertrag zustande kommt, gilt der Zeitraum ab Zugang der
+Informationen.
+
+10.2.    Der Auftragnehmer wird seine Nachunternehmern entsprechend Absatz 1 verpflichten.
+
+11.       Entwürfe, Zeichnungen, Modelle
+
+Alle während der Dauer der Geschäftsbeziehung mit dem Auftraggeber erlangten Informationen (insbesondere Entwürfe,
+Zeichnungen und Modelle), die dem Auftragnehmer zur Verfügung gestellt oder die nach Angaben des Auftraggebers
+angefertigt werden, dürfen nicht anderweitig verwendet oder Dritten zur Kenntnis gebracht werden und sind an den
+Auftraggeber auf Verlangen herauszugeben.
+
+12.      Gerichtsstand, anwendbares Recht
+
+12.1.    Gerichtsstand für beide Vertragspartner ist der Sitz des Auftraggebers oder nach seiner Wahl der Geschäftssitz
+des Auftragnehmers.
+
+12.2.     Es gilt ausschließlich das Recht der Bundesrepublik Deutschland unter Ausschluss des internationalen
+Privatrechts und des einheitlichen internationalen Kaufrechts (CISG). Handelsübliche Klauseln sind nach den jeweiligen
+gültigen Incoterms auszulegen.
+
+
+
+
+                                                                                                                     Seite 32
+                                  Anhang 10
+            Weisungen zur Verwendung von Informationen i. S. d. § 6a
+                       Energiewirtschaftsgesetz (EnWG)
+
+Gegenstand dieser Weisungen ist die Sicherstellung der Vertraulichkeit wirtschaftlich sensibler Informatio-
+nen i. S. d. § 6a Abs. 1 EnWG sowie die diskriminierungsfreie Verwendung wirtschaftlich vorteilhafter In-
+formationen i. S. d. § 6a Abs. 2 EnWG der Hamburger Energienetze GmbH (HNE) als Auftraggeberin
+beim Auftragnehmer. Insbesondere soll die unberechtigte Weitergabe von wirtschaftlich sensiblen und
+wirtschaftlich vorteilhaften Informationen an mit Energievertrieb, Energiehandel und Energieerzeugung
+befasste Unternehmen und Personen verhindert werden.
+
+Die Auftraggeberin bleibt bei der Verarbeitung ihrer Daten im Auftrag weiterhin der Dateneigentümerin.
+Alle Rechte und Pflichten aus dem Energiewirtschaftsgesetz (EnWG) obliegen der Auftraggeberin,
+wodurch der Auftragnehmer die Datenverarbeitung nur im Rahmen dieser Weisungen vornehmen darf.
+Zuwiderhand-lungen, insbesondere die unberechtigte Weitergabe von wirtschaftlich sensiblen und
+wirtschaftlich vorteil-haften Informationen an mit Energievertrieb, Energiehandel und Energieerzeugung
+befasste Unternehmen oder Personen können zur sofortigen Kündigung des betroffenen Vertrages durch
+die Auftraggeberin füh-ren.
+
+1    Schutz von Informationen
+Den Mitarbeitern des Auftragnehmers, die Zugang zu wirtschaftlich sensiblen und wirtschaftlich vorteilhaf-
+ten Informationen der Auftraggeberin haben, ist es entsprechend der Vorgaben des EnWG untersagt, sol-
+che Informationen zu einem anderen als dem zur jeweiligen vertraglich geregelten Aufgabenstellung
+gehö-renden Zweck zu verarbeiten oder zu nutzen, dies gilt auch nach Beendigung des Vertrages bzw.
+ihrer Tätigkeit beim Auftragnehmer. Die Mitarbeiter sind auf die Geheimhaltung zu verpflichten. Der
+Auftragneh-mer trägt die Verantwortung dafür, dass nur zuverlässige und sachkundige Personen mit den
+Informationen der Auftraggeberin Umgang haben.
+
+2    Datenspeicherung, -übermittlung und -nutzung
+Die Daten der Auftraggeberin sind von den Daten Dritter bzw. denen des Auftragnehmers zu trennen. Die
+Übermittlung jeglicher Daten an Dritte durch den Auftragnehmer ist untersagt, es sei denn, die Auftragge-
+berin hat hierzu vorher ausdrücklich ihr schriftliches Einverständnis erklärt. Ferner ist es dem Auftragneh-
+mer untersagt, die Daten der Auftraggeberin für andere als für die vertragsmäßig festgelegten Zwecke zu
+nutzen.
+
+3     Unteraufträge
+Die Vergabe von Unteraufträgen durch den Auftragnehmer bedarf der vorherigen schriftlichen
+Zustimmung der Auftraggeberin. Unteraufträge sind zwischen dem Auftragnehmer und dem
+Unterauftragnehmer schrift-lich abzuschließen und diese Weisungen zur Verwendung von Informationen
+i.S.d. § 6a EnWG erteilt wer-den.
+
+4 Technische und organisatorische Maßnahmen
+Der Auftragnehmer muss geeignete technische und organisatorische Maßnahmen treffen, die erforderlich
+sind, um die Vertraulichkeit wirtschaftlich sensibler bzw. wirtschaftlich vorteilhafter Informationen sicherzu-
+stellen.
+
+
+4.1    Zutritts- und Zugangskontrolle
+Räume mit IT-Anlagen sind so zu sichern, dass Unbefugten der Zutritt verwehrt wird. Ferner ist der Zugang
+zu IT-Anlagen mittels eines Zugangskontrollsystems mit persönlichen Benutzerkennungen zu sichern. Bei
+PC-Einsatz ist zusätzlich ein Booten von mobilen Datenträgern wirksam zu verhindern.
+
+4.2   Zugriffs-, Weitergabe- und Verfügbarkeitskontrolle
+Der Auftragnehmer hat sicherzustellen, dass durch die Erteilung von Zugriffsberechtigungen Unbefugten
+der Zugriff auf wirtschaftlich sensible bzw. wirtschaftlich vorteilhafte Informationen verwehrt wird. Ferner
+muss er verhindern, dass Datenträger von Unbefugten gelesen, verändert, kopiert oder entfernt werden
+
+
+
+
+    Weisungen EnWG                          Stand: 09.2024                                              Seite 33
+können. Datenträger sind nach ihrer Nutzung unter Verschluss zu halten. Für den Transport von Datenträ-
+gern sind geeignete Transportmittel zu verwenden. Die Informationen sind durch geeignete Datensicher-
+heitsmaßnahmen vor Verlust zu schützen.
+
+4.3    Eingabe- und Übermittlungskontrolle
+Es muss ermöglicht werden, dass nachträglich überprüft und festgestellt werden kann, welche Informatio-
+nen zu welcher Zeit von wem in IT-Systeme eingegeben worden sind und an wen sie übermittelt wurden.
+Hierfür müssen Verarbeitungsprotokolle angefertigt werden.
+
+4.4    Auftragskontrolle
+Der Auftragnehmer hat seine innerbetriebliche Organisation so zu gestalten, dass sie den besonderen An-
+sprüchen des § 6a EnWG gerecht wird und die Daten nur im Rahmen der Weisungen der Auftraggeberin
+verarbeitet werden. Den für die Auftragsdatenverarbeitung zuständigen Mitarbeitern des Auftragnehmers
+müssen diese Verpflichtungen bekannt gemacht werden.
+
+5 Unregelmäßigkeiten
+Der Auftragnehmer hat der Auftraggeberin unverzüglich – auch bei Verdacht – alle Verletzungen der
+Grundsätze ordnungsgemäßer Datenverarbeitung oder dieser Weisung in seinem Haus, soweit sie Aus-
+wirkungen auf die Verarbeitung von Daten der Auftraggeberin gehabt haben bzw. haben könnten, zu mel-
+den. Gemeldet werden müssen ferner alle Vorkommnisse, die Einfluss auf den Datenbestand der Auftrag-
+geberin haben können (z. B. Einbrüche, Diebstähle, Feuerschäden usw.).
+
+6     Kontrolle durch die Auftraggeberin
+Die Auftraggeberin ist berechtigt, sich von der Einhaltung der Verpflichtungen beim Auftragnehmer zu über-
+zeugen. Zu diesem Zweck darf das Betriebsgelände des Auftragnehmers im Beisein eines Beauftragten
+des Auftragnehmers betreten werden. Die Auftraggeberin darf beim Auftragnehmer zum Zweck der Kon-
+trolle Akteneinsicht vornehmen und entsprechend der Notwendigkeit Kontrolleinrichtungen prüfen. Sie
+kann bei Verstößen gegen den Datenschutz technische und organisatorische Maßnahmen fordern. Bei
+schwerwiegenden Verstößen kann sie die Kündigung des Vertragsverhältnisses vornehmen.
+
+7    Informationen i.S.v. § 6a EnWG
+
+7.1    Wirtschaftlich sensible Informationen
+Wirtschaftlich sensible Informationen im Sinne des § 6a Abs. 1 EnWG sind Daten Dritter, von denen das
+viEVU und/oder der Netzbetreiber in Ausübung der Geschäftstätigkeit als Netzbetreiber Kenntnis erlangen,
+und die für einen Wettbewerbsteilnehmer einen wettbewerbsrelevanten Informationsvorsprung auf vor-
+und nachgelagerten Märkten bedeuten können.
+
+Hierzu zählen insbesondere:
+         Informationen aus Kapazitätsanfragen, Händlerprognosen;
+         Informationen aus Anschlussfragen;
+         Informationen bzgl. Vorbereitung und Inhalt der Verträge, die zwischen Netzbetreiber und
+            Netznutzer abgeschlossen werden;
+         Informationen aus Netznutzungs- und Netzanschlussverträgen, insbesondere zu Vertragsbe-
+            dingungen, sowie der Abwicklung dieser Verträge;
+         Informationen des Ablese- und Zählermanagements;
+         Finanzielle und technische Bestimmungen des Netzanschlusses;
+         Physische oder technische Maßnahmen den Netzanschluss eines Netznutzers betreffend
+            einschließlich geplanter Neuanschlüsse oder Ertüchtigungen;
+         Informationen über Anlagen oder Geräte der Netznutzer;
+         Informationen im Rahmen des Bilanzkreisvertrages;
+         Lastgangdaten, Lastprofile von Netznutzern;
+         Lastprognosen;
+         Informationen bzgl. Ein- und Ausspeisungen;
+         Informationen über Lieferanten fremd versorgter Kunden einschließlich Preisangaben und
+            Tarife;
+         Kundenbezogene Energiedaten (Ablese-, Zähler, Verbrauchs- und Kapazitätsdaten);
+
+
+    Weisungen EnWG                            Stand: 09.2024                                       Seite 34
+           Informationen über das Wechselverhalten von Kunden;
+           Informationen über Bonität und Zahlungsverhalten von Kunden;
+           Sonstige netzkundenbezogene Informationen aus den Datenbanken von HNE wie z.B. An-
+            sprechpartner des Netzkunden.
+
+7.2     Wirtschaftlich vorteilhafte Informationen
+Wirtschaftlich vorteilhafte Informationen über die eigene Tätigkeit des viEVU oder Netzbetreibers sind sol-
+che, die die Übertragung und Verteilung von Elektrizität sowie den Betrieb, die Wartung und den Ausbau
+des Netzes betreffen, und deren Kenntnis von kommerziellem Interesse für Energievertriebs-, -han-
+dels-, -gewinnungs- oder -erzeugungsorganisationen bzw. -unternehmen sein kann.
+
+Hierzu zählen insbesondere:
+         Informationen bezüglich der Beschaffung von Ausgleichsenergie;
+         Auskünfte über Bedarfs-, Bau- oder Ersatzplanung, insbesondere geplante Netzerweiterun-
+            gen;
+         Informationen über die künftige Verfügbarkeit von Leistungskapazitäten;
+         Netzentgelte, Preisblätter und Kalkulationsgrundlagen;
+         Informationen im Rahmen der Netzoptimierung und der Netzsteuerung;
+         Wirtschaftlichkeitskriterien für Netzerweiterungen oder Anschlusserstellung;
+         Sonstige Informationen mit strategischer Relevanz
+
+
+
+
+   Weisungen EnWG                             Stand: 09.2024                                        Seite 35
+Beschaffungsvorhaben:
+Marktgestützte Beschaffung von Blindleistung 2026
+1. Ausschreibung Blindleistung (veröffentlicht am 02.06.2025 / abgeschlossen)
+
+
+
+
+                                                         Anzahl          Anzahl
+                        Ende             Ende                                              Kumulierte
+ Veröffentlichung                                     eingereichter   bezuschlagter                            Bewertungspreis
+                     Angebotsfrist   Zuschlagsfrist                                      Vorhalteleistung
+                                                        Angebote        Angebote
+
+
+
+
+    02.06.2025        31.07.2025      30.09.2025           0               0                    -                      -
+
+
+
+
+Bei HNE besteht ein Bedarf an Blindleistung, sodass hiermit ein marktgestütztes Beschaffungsverfahren gemäß dem Beschluss BK6-23-072 vom
+25.06.2024 der Bundesnetzagentur (BNetzA) durchgeführt wurde.
+
+Weitere Informationen zur Ausschreibung wurden in folgenden Dokumenten veröffentlicht:
+   - Bekanntmachung
+   - Formular zur Angebotsabgabe
+   - Vertragsentwurf
+

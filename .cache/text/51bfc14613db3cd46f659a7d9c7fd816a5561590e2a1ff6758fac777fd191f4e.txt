@@ -1,0 +1,187 @@
+Fiyat çizelgesi, 01.01.2025 tarihinden itibaren geçerlidir
+Fiyatlar, virgülden sonra iki hane, günlük hizmet fiyatları virgülden sonra sekiz hane olarak
+yuvarlanmıştır; yıl 365 gün olarak kabul edilmiştir
+                                                                                                                     Son güncelleme: 17.12.2024
+Şebeke ücretleri
+
+Alçak gerilim seviyesindeki SLP müşterilerinin şebeke ücretleri, çalışma fiyatı ve temel fiyattan oluşur.
+Temel fiyat, depolamalı ısıtıcılara ve sayaçlı diğer kontrol edilebilir tüketim tesislerine ve sabit tarifeli sistemler için geçerli değildir.
+
+Çalışma fiyatı                                                                                                                    12,11 ct/kWh
+Depolamalı ısıtıcılar için çalışma fiyatı                                                                                          6,00 ct/kWh
+Kontrol edilebilir tüketim tesisleri için çalışma fiyatı (mevcut sistemler 31.12.2023 tarihine kadar)                              6,00 ct/kWh
+
+EnWG § 14a göre kontrol edilebilir tüketim tesisleri
+Kontrol edilebilir tüketim tesisleri için indirim Modül 1 (yıllık değer, bilgi amaçlı)                                               158,05 €/y
+Kontrol edilebilir tüketim tesisleri için indirim Modül 1 (günlük değer, hesaplamayla ilgili)                                  0,43301370 €/g
+Kontrol edilebilir tüketim tesisleri için indirim Modül 2                                                                          4,84 ct/kWh
+Çalışma fiyatı standart tarifesi (07:00-17:15; 21:00-00:30) sVE Modül 3* için                                                     12,11 ct/kWh
+Çalışma fiyatı düşük tarifesi (00:30-07:00) sVE Modül 3* için                                                                      4,84 ct/kWh
+Çalışma fiyatı yüksek tarifesi (17:15-21:00) sVE Modül 3* için                                                                    16,25 ct/kWh
+*Zaman değişkeni ağ ücreti 2025'in 3. ve 4. çeyreğinde uygulanacaktır. 2025'in 1. ve 2. çeyreğinde standart tarifeye göre hesaplama yapılacaktır.
+
+
+                                                                                                      Yıllık fiyat                 Günlük fiyat
+Temel fiyat                                                                                        (bilgi amaçlı)           (hesaplamayla ilgili)
+                                                                                                      72,00 €/y                0,19726027 €/g
+
+RLM müşterileri için şebeke ücretleri, ilgili çekim noktasının bağlı olduğu gerilim veya dönüştürme seviyesine göre belirlenir.
+
+
+
+Kullanım süresi < 2.500 saat/y Çekilen                           Yıllık hizmet fiyatı     Günlük hizmet fiyatı                    Çalışma fiyatı
+gerilim seviyesi                                                        (bilgi amaçlı)    (hesaplamayla ilgili)             (hesaplamayla ilgili)
+En Yüksek Gerilim/ Yüksek Gerilim Dönüşümü**                       38,67 €/(kW*y)        0,10594521 €/(kW*g)                       6,90 ct/kWh
+Yüksek gerilim                                                     41,25 €/(kW*y)        0,11301370 €/(kW*g)                       4,36 ct/kWh
+Yüksek/orta gerilim dönüştürmesi                                   46,65 €/(kW*y)        0,12780822 €/(kW*g)                       3,34 ct/kWh
+Orta gerilim                                                       44,85 €/(kW*y)        0,12287671 €/(kW*g)                       4,56 ct/kWh
+Orta/alçak gerilim dönüştürmesi                                    31,00 €/(kW*y)        0,08493151 €/(kW*g)                       8,50 ct/kWh
+Alçak gerilim                                                      38,41 €/(kW*y)        0,10523288 €/(kW*g)                       8,58 ct/kWh
+** iIetim ağı işletmecisi 50Hertz Transmission GmbH'nin ücreti
+
+
+
+Kullanım süresi ≥ 2.500 saat/y Çekilen                           Yıllık hizmet fiyatı     Günlük hizmet fiyatı                    Çalışma fiyatı
+gerilim seviyesi                                                        (bilgi amaçlı)    (hesaplamayla ilgili)             (hesaplamayla ilgili)
+En Yüksek Gerilim/ Yüksek Gerilim Dönüşümü**                     192,66 €/(kW*y)         0,52783562 €/(kW*g)                       0,74 ct/kWh
+Yüksek gerilim                                                   100,47 €/(kW*y)         0,27526027 €/(kW*g)                       1,99 ct/kWh
+Yüksek/orta gerilim dönüştürmesi                                   58,04 €/(kW*y)        0,15901370 €/(kW*g)                       2,89 ct/kWh
+Orta gerilim                                                       66,57 €/(kW*y)        0,18238356 €/(kW*g)                       3,69 ct/kWh
+Orta/alçak gerilim dönüştürmesi                                  164,00 €/(kW*y)         0,44931507 €/(kW*g)                       3,18 ct/kWh
+Alçak gerilim                                                      75,02 €/(kW*y)        0,20553425 €/(kW*g)                       7,11 ct/kWh
+** iIetim ağı işletmecisi 50Hertz Transmission GmbH'nin ücreti
+
+
+
+Aylık güç fiyatları
+
+Ay: 28 gün                                                                                Günlük hizmet fiyatı                    Çalışma fiyatı
+çekilen gerilim seviyesi                                                                  (hesaplamayla ilgili)             (hesaplamayla ilgili)
+Yüksek gerilim                                                                           0,59803571 €/(kW*g)                       1,99 ct/kWh
+Yüksek/orta gerilim dönüştürmesi                                                         0,34547619 €/(kW*g)                       2,89 ct/kWh
+Orta gerilim                                                                             0,39625000 €/(kW*g)                       3,69 ct/kWh
+Orta/alçak gerilim dönüştürmesi                                                          0,97619048 €/(kW*g)                       3,18 ct/kWh
+Alçak gerilim                                                                            0,44654762 €/(kW*g)                       7,11 ct/kWh
+Fiyat çizelgesi, 01.01.2025 tarihinden itibaren geçerlidir
+Fiyatlar, virgülden sonra iki hane, günlük hizmet fiyatları virgülden sonra sekiz hane olarak
+yuvarlanmıştır; yıl 365 gün olarak kabul edilmiştir
+                                                                                                                                           Son güncelleme: 17.12.2024
+Ay: 30 gün                                                                                                   Günlük hizmet fiyatı                            Çalışma fiyatı
+çekilen gerilim seviyesi                                                                                     (hesaplamayla ilgili)                     (hesaplamayla ilgili)
+Yüksek gerilim                                                                                            0,55816667 €/(kW*g)                                 1,99 ct/kWh
+Yüksek/orta gerilim dönüştürmesi                                                                          0,32244444 €/(kW*g)                                 2,89 ct/kWh
+Orta gerilim                                                                                              0,36983333 €/(kW*g)                                 3,69 ct/kWh
+Orta/alçak gerilim dönüştürmesi                                                                           0,91111111 €/(kW*g)                                 3,18 ct/kWh
+Alçak gerilim                                                                                             0,41677778 €/(kW*g)                                 7,11 ct/kWh
+
+Ay: 31 gün                                                                                                   Günlük hizmet fiyatı                            Çalışma fiyatı
+çekilen gerilim seviyesi                                                                                     (hesaplamayla ilgili)                     (hesaplamayla ilgili)
+Yüksek gerilim                                                                                            0,54016129 €/(kW*g)                                 1,99 ct/kWh
+Yüksek/orta gerilim dönüştürmesi                                                                          0,31204301 €/(kW*g)                                 2,89 ct/kWh
+Orta gerilim                                                                                              0,35790323 €/(kW*g)                                 3,69 ct/kWh
+Orta/alçak gerilim dönüştürmesi                                                                           0,88172043 €/(kW*g)                                 3,18 ct/kWh
+Alçak gerilim                                                                                             0,40333333 €/(kW*g)                                 7,11 ct/kWh
+
+
+                                                                                                             Günlük hizmet fiyatı                            Çalışma fiyatı
+Karadan elektrik beslemesi için günlük hizmet fiyatı                                                         (hesaplamayla ilgili)                     (hesaplamayla ilgili)
+Yüksek gerilim                                                                                            0,27526027 €/(kW*g)                                 1,99 ct/kWh
+Yüksek/orta gerilim dönüştürmesi                                                                          0,15901370 €/(kW*g)                                 2,89 ct/kWh
+Orta gerilim                                                                                              0,18238356 €/(kW*g)                                 3,69 ct/kWh
+Not:
+StromNEV Madde 17, Fıkra 8 uyarınca, karadan elektrik beslemesi için günlük hizmet fiyatları sadece deniz araçlarına karadan sağlanan elektrik beslemesi için talep
+edilebilir
+
+Reaktif enerji
+
+Ortalama güç faktörü 0,9 endüktif değerinin altına düşerse, aylık aktif enerjinin %50'sini aşan reaktif enerji, reaktif enerji kilovat
+saati (kvarh) başına hesaplanabilir.
+
+Reaktif enerji fiyatı (hesaplamayla ilgili)                                                                                                                  1,53 ct/kvarh
+
+Ölçüm noktası işletimi
+
+Ücretler, ölçülen gerilim seviyesine göre belirlenir ve her sayaç için hesaplanır.
+Modern ölçüm donanımları ve akıllı ölçüm sistemleri için ücretler ayrıca yayınlanacaktır.
+
+                                                                                                                            Yıllık fiyat                      Günlük fiyat
+                                                                                                                         (bilgi amaçlı)                (hesaplamayla ilgili)
+Yıllık okunan tek tarifeli sayaçlar                                                                                         13,51 €/y                     0,03701370 €/g
+Altı ayda bir okunan tek tarifeli sayaçlar                                                                                  38,72 €/y                     0,10608219 €/g
+Üç ayda bir okunan tek tarifeli sayaçlar                                                                                    89,14 €/y                     0,24421918 €/g
+Aylık okunan tek tarifeli sayaçlar                                                                                        290,82 €/y                      0,79676712 €/g
+Alçak gerilimde yük girişi sayımı                                                                                         335,32 €/y                      0,91868493 €/g
+Orta gerilimde yük girişi sayımı                                                                                          335,32 €/y                      0,91868493 €/g
+Yüksek gerilimde yük girişi sayımı                                                                                      2.123,86 €/y                      5,81879452 €/g
+Alçak gerilimdeki dönüştürücüler                                                                                            16,81 €/y                     0,04605479 €/g
+Orta gerilimdeki dönüştürücüler                                                                                           100,84 €/y                      0,27627397 €/g
+Notlar:
+(1)Alçak gerilim tarafında ölçümü yapılan orta gerilim tesislerinde, trafo kayıplarını telaﬁ etmek için iş ve güç değerleri %2,8 oranında artırılır.
+(2)Üretim tesisi olan müşteriler için sayaç ücretleri her bir enerji akış yönü için ayrı ayrı hesaplanır
+Fiyat çizelgesi, 01.01.2025 tarihinden itibaren geçerlidir
+Fiyatlar, virgülden sonra iki hane, günlük hizmet fiyatları virgülden sonra sekiz hane olarak
+yuvarlanmıştır; yıl 365 gün olarak kabul edilmiştir
+                                                                                                                  Son güncelleme: 17.12.2024
+Yasal katkı payları
+
+KWKG Madde 26, StromNEV Madde 19, Fıkra 2 ve EnWG Madde 17f uyarınca yasal katkı payları şebeke ücretlerine ek olarak
+tahsil edilir ve faturalandırılır. Halihazırda geçerli olan yasal katkı paylarının miktarı ve katkı payları hakkında daha fazla bilgi, Alman
+iletim şebekesi operatörlerinin www.netztransparenz.de adresindeki ortak internet platformunda yayınlanmaktadır.
+
+
+Lisans harcı
+
+Düşük yükü olmayan tarife müşterileri                                                                                            2,39 ct/kWh
+Düşük yükü olan tarife müşterileri                                                                                               0,61 ct/kWh
+Özel sözleşmeli müşteriler                                                                                                       0,11 ct/kWh
+
+Ölçüm noktası işletimine yönelik hizmetler
+
+Ölçüm noktasında manuel olarak okuma                                                                                       55,00 EUR/Okuma
+SLP müşterileri için ekstra okuma                                                                                          46,22 EUR/Okuma
+Geçmişe dönük hizmet dökümü                                                                                                  55,00 EUR/İşlem
+Yerinde SLP sayaç testi (yasal kalibrasyon testi değil)                                                                      58,82 EUR/İşlem
+Yerinde RLM sayaç testi (yasal kalibrasyon testi değil)                                                                    297,00 EUR/İşlem
+SLP müşterileri için sayaç değişimi                                                                                          48,50 EUR/İşlem
+
+Ölçüm noktası işletmesi ek hizmet
+
+
+                                                                                             Yıllık fiyat, brüt             Günlük fiyat, net
+                                                                                                  (bilgi amaçlı          (hesaplamayla ilgili)
+RLM Ölçüm verilerinin görevlendirilen üçüncü taraflara günlük olarak
+                                                                                 30 EUR/Ölçüm noktası/y                      0,06906872 €/d
+sağlanması (örneğin, Enerji Hizmet Sağlayıcıları, ESA)
+
+Bağlantı kullanımının kesilmesi ve yeniden sağlanması
+
+NAV Madde 24'e göre, şebeke operatörü şebeke bağlantısını ve alçak gerilimdeki bağlantı kullanımını keser ve bunun nedenleri
+ortadan kalktıktan sonra bağlantıyı tekrar oluşturur
+Normal çalışma saatleri dışında (Pazartesi – Cuma, resmi tatiller hariç, 08.00 – 18.00 saatleri arasında) bağlantı kullanımının
+yeniden sağlanması, masrafları kullanıcıya ait olmak üzere yalnızca Elektrohandwerke Hamburg GbR'nin acil servisi aracılığıyla
+sipariş edilebilir.
+Normal çalışma saatlerinde SLP müşterileri için bağlantı kullanımının kesilmesi                                              81,93 EUR/İşlem
+Normal çalışma saatlerinde SLP müşterileri için bağlantı kullanımının yeniden sağlanması                                     81,93 EUR/İşlem
+SLP müşterileri için bağlantı kullanımının kesilmesinin başarısız olması                                                     81,93 EUR/İşlem
+Normal çalışma saatlerinde RLM müşterileri için bağlantı kullanımının kesilmesi                                            295,00 EUR/İşlem
+Normal çalışma saatlerinde RLM müşterileri için bağlantı kullanımının yeniden sağlanması                                   295,00 EUR/İşlem
+RLM müşterileri için bağlantı kullanımının kesilmesinin başarısız olması                                                   295,00 EUR/İşlem
+Bağlantı kesilmeden bir gün öncesine kadar bağlantı kullanımının kesilmesine yönelik bir iş emrinin
+                                                                                                                              5,04 EUR/İşlem
+iptali
+Bağlantının kesileceği gün bağlantı kullanımının kesilmesine yönelik bir iş emrinin iptali                                     19,59 EUR/İşlem
+                                                                                                                  Hamburg’un acil servisi
+Normal çalışma saatleri dışında bağlantı kullanımının yeniden sağlanması
+                                                                                                                  aracılığıyla
+
+Orta ve yüksek gerilimde, şebeke bağlantısının kesilmesi ve yeniden kurulması ile bağlantı kullanımı, harcanan efora göre
+hesaplanır.
+
+Katma Değer Vergisi
+
+Yukarıda belirtilen tüm ücretler, teslimat veya hizmetin verildiği tarihte geçerli olan yasal KDV oranına tabidir.
+
+Geçerlilik
+
+Fiyatlar 01.01.2025 tarihinden itibaren geçerlidir.
+

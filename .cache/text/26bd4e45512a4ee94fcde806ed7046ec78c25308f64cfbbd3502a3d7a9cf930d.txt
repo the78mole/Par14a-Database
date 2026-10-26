@@ -1,0 +1,178 @@
+ Cennik taryf
+ ważny od 01.01.2021
+                                                                           Stan: 16.12.2020
+
+ Opłaty sieciowe
+Opłaty sieciowe dla klientów ze standardowym profilem zużycia energii elektrycznej (SLP) z
+zasilaniem na poziomie niskiego napięcia obejmują cenę roboczą i cenę podstawową.
+Cena podstawowa nie znajduje zastosowania w przypadku ogrzewania akumulacyjnego,
+innych sterowanych urządzeń zużywających energię oraz systemów ryczałtowych
+
+ Cena prądu                                                                    6,74 ct/kWh
+ Cena prądu dla pieców akumulacyjnych                                          3,61 ct/kWh
+ Cena energii dla sterowanych urządzeń                                         3,61 ct/kWh
+ zużywających energię
+ Cena podstawowa                                                               60,00 €/rok
+
+Opłaty sieciowe dla klientów z rejestrującym systemem pomiaru zużycia energii (RLM) są
+uzależnione od poziomu napięcia, do którego przyłączony jest dany punkt poboru energii.
+
+ Okres użytkowania ≥ 2.500            Roczna cena zużycia           Cena zużycia energii
+ h/rok                                             energii
+ Poziom poboru napięcia
+ Wysokie napięcie                           19,99 €/kW*rok                     2,35 ct/kWh
+ Transformacja                              23,51 €/kW*rok                     2,06 ct/kWh
+ Wysokie/Średnie napięcie
+ Średnie napięcie                           25,63 €/kW*rok                     2,95 ct/kWh
+ Transformacja                              18,11 €/kW*rok                     4,97 ct/kWh
+ Średnie/Niskie napięcie
+ Niskie napięcie                            23,50 €/kW*rok                     5,25 ct/kWh
+
+
+ Okres użytkowania ≥ 2.500            Roczna cena zużycia           Cena zużycia energii
+ h/rok                                             energii
+ Poziom poboru napięcia
+ Wysokie napięcie                           56,80 €/kW*rok                     0,87 ct/kWh
+ Transformacja                              42,30 €/kW*rok                     1,31 ct/kWh
+ Wysokie/Średnie napięcie
+ Średnie napięcie                           50,16 €/kW*rok                     1,97 ct/kWh
+ Transformacja                              95,81 €/kW*rok                     1,86 ct/kWh
+ Średnie/Niskie napięcie
+ Niskie napięcie                            46,10 €/kW*rok                     4,35 ct/kWh
+ Cennik taryf
+ ważny od 01.01.2021
+                                                                                       Stan: 16.12.2020
+
+ Poziom poboru napięcia                Miesięczna cena zużycia                  Cena zużycia energii
+                                                        energii
+ Wysokie napięcie                             9,47 €/kW*miesiąc                             0,87 ct/kWh
+ Transformacja                                  7,05 €/kW*miesiąc                           1,31 ct/kWh
+ Wysokie/Średnie napięcie
+ Średnie napięcie                               8,36 €/kW*miesiąc                           1,97 ct/kWh
+ Transformacja                                15,97 €/kW*miesiąc                            1,86 ct/kWh
+ Średnie/Niskie napięcie
+ Niskie napięcie                                7,68 €/kW*miesiąc                           4,35 ct/kWh
+
+ Poziom poboru napięcia                  Cena za usługę dzienną                 Cena zużycia energii
+ Wysokie napięcie                             0,31 € / kW* / dzień                       0,87 ct/kWh
+ Transformacja                                 0,23 € / kW* / dzień                         1,31 ct/kWh
+ Wysokie/Średnie napięcie
+ Średnie napięcie                              0,27 € / kW* / dzień                         1,97 ct/kWh
+Uwaga:
+Żądanie cen za usługę dzienną możliwe jest według § 17 ust. 8 StromNEV tylko dla odbioru prądu w przypadku
+zasilania statków morskich z lądu.
+
+ Moc bierna
+
+Jeżeli współczynnik mocy leży poniżej wartości 0,9 indukcyjnie, może być naliczana cena
+mocy biernej za kilowarogodzinę pobieranej mocy biernej (kvarh), jeżeli moc bierna
+przekracza 50% mocy czynnej.
+
+ Cena mocy biernej                                                                         1,53 ct/kvarh
+ Cennik taryf
+ ważny od 01.01.2021
+                                                                                          Stan: 16.12.2020
+
+ Punkty pomiarowe
+
+Ceny są obliczane na podstawie poziomu napięcia w punktach pomiaru i rozliczane zgodnie
+ze wskazaniami danego licznika.
+Ceny nowoczesnych urządzeń pomiarowych i inteligentnych systemów pomiarowych
+zostaną opublikowane osobno.
+
+ Licznik jednotaryfowy z odczytem raz na rok                                                    14,07 €/rok
+ Licznik jednotaryfowy z odczytem raz na pół                                                    31,07 €/rok
+ roku
+ Licznik jednotaryfowy z odczytem raz na                                                        65,07 €/rok
+ kwartał
+ Licznik jednotaryfowy z odczytem raz na                                                      201,07 €/rok
+ miesiąc
+ Licznik dwutaryfowy z odczytem raz na rok                                                     53,32 €/rok
+ Licznik dwutaryfowy z odczytem raz na pół roku                                                70,32 €/rok
+ Licznik dwutaryfowy z odczytem raz na kwartał                                                104,32 €/rok
+ Licznik dwutaryfowy z odczytem raz na miesiąc                                                240,32 €/rok
+ Licznik rejestrujący zużycie energii - niskie                                                379,79 €/rok
+ napięcie
+ Licznik rejestrujący zużycie energii - średnie                                               463,82 €/rok
+ napięcie
+ Licznik rejestrujący zużycie energii - wysokie                                             2.144,60 €/rok
+ napięcie
+Uwagi:
+(1) Wopłatach za obsługę punktów pomiarowych w przypadku zliczania wykorzystanej energii według profilu
+    obciążenia zawarte są koszty udostępnienia przetwornika. W przypadku udostępnienia przetwornika przez
+    klienta zapewnia się dla średniego napięcia odliczenie w wysokości 100,84 € rocznie na każdą lokalizację
+    pomiaru oraz dla niskiego napięcia odliczenie w wysokości 16,81 € rocznie na każdą lokalizację pomiaru.
+(2) W przypadku urządzeń średniego napięcia mierzonych od strony niskiego napięcia wartości zużycia i mocy
+    zostaną podwyższone o 2,8% w celu wyrównania strat mocy w transformatorach.
+(3) Dla licznika elektronicznego EDL 21 obowiązują ceny dla odpowiednich liczników energii.
+(4) W wypadku klientów eksploatujących generatory prądotwórcze opłaty za liczniki będą rozliczane osobno w
+    zależności od kierunku przepływu energii.
+ Cennik taryf
+ ważny od 01.01.2021
+                                                                        Stan: 16.12.2020
+
+ Ustawowe rozłożenie kosztów
+Opłaty wynikające z ustawowego rozłożenia kosztów zgodnie z § 26 KWKG, § 19 ust. 2
+StromNEV, § 17f EnWG i § 18 AbLaV będą pobierane i rozliczane dodatkowo do
+opłsieciowych. Wysokość aktualnie obowiązujących opłat z tytułu ustawowego rozłożenia
+kosztów oraz dalsze informacje dotyczące tych opłat będą opublikowane na wspólnej
+platformie internetowej niemieckich operatorów sieci przesyłowych pod adresem
+www.netztransparenz.de.
+
+ Opłata koncesyjna
+ Odbiorcy energii bez taryfy nocnej                                         2,39 ct/kWh
+ Odbiorcy energii z taryfą nocną                                            0,61 ct/kWh
+ Odbiorcy objęci umowami specjalnymi                                        0,11 ct/kWh
+
+ Osługi związane z punktami pomiaru
+Ręczny odczyt profilu obciążenia w miejscu                                      55,00 €
+odbioru - opłata za każdy odczyt
+Dodatkowy odczyt dla klientów SLP - opłata za                                   46,22 €
+każdy odczyt
+Udostępnienie historycznego profilu obciążenia                                  55,00 €
+Kontrola licznika SLP w miejscu jego zamontowania                               58,82 €
+(brak kontroli legalizacyjnej)
+Kontrola licznika RLM w miejscu jego zamontowania                              297,00 €
+(brak kontroli legalizacyjnej)
+Wymiana licznika u klientów SLP                                                 38,55 €
+Zlecenie ustalenia podmiotu korzystającego z                                    84,60 €
+przyłącza
+Przetwornik niskiego napięcia w przypadku klientów                              16,81 €
+SLP dla każdej lokalizacji pomiaru
+ Cennik taryf
+ ważny od 01.01.2021
+                                                                           Stan: 16.12.2020
+
+ Przerwanie i wznowienie użytkowania przyłącza
+Zgodnie z § 24 NAV operator sieci przerywa przyłącze do sieci i użytkowanie sieci niskiego
+napięcie i przywraca przyłącze po ustaniu przyczyn przerwania przyłączenia. W wypadku
+przywrócenia przyłączenia do sieci poza zwyczajnymi godzinami pracy naliczana będzie
+opłata manipulacyjna za dodatkowy nakład czasu i pracy.
+
+ Przerwanie i przywrócenie przyłączenia dla                                       169,20 €
+ klientów SLP
+ (50% przypada na przywrócenie przyłączenia
+ do sieci)
+ Bezskuteczne przerwanie przyłączenia dla                                          84,60 €
+ klientów SLP
+ Przerwanie i przywrócenie przyłączenia do sieci                                  590,00 €
+ dla klientów RLM
+ (50% przypada na przywrócenie przyłączenia
+ do sieci)
+ Bezskuteczne przerwanie przyłączenia dla                                         295,00 €
+ klientów RLM
+ Anulowanie zlecenia dot. przerwania lub                                             7,90 €
+ przywrócenia użytkowania sieci
+
+Za przerwanie i przywrócenie przyłączenia w sieci średniego i wysokiego napięcia naliczane
+będą opłaty za dodatkowy nakład.
+
+ Podatek VAT
+
+Wszystkie wyżej podane opłaty podlegają w chwili dostawy lub wykonania świadczenia
+obowiązującemu podatkowi VAT.
+
+ Ważność
+
+Ceny obowiązują od dnia 01.01.2021 r.
+

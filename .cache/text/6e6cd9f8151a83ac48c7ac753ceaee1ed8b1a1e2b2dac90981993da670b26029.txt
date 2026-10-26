@@ -1,0 +1,142 @@
+              Achtung Pflichtfeld, bitte zwingend ausfüllen!
+              Achtung Pflichtfeld, bitte zwingend entsprechende Auswahl ankreuzen!
+
+
+
+Antrag
+auf Gewährung eines reduzierten Netzentgelts für den Betrieb
+einer steuerbaren Verbrauchseinrichtung (SteuVE) nach §14a EnWG                                                             Seite 1 /2
+
+
+  per Postanschrift, Hamburger Energienetze GmbH, Bramfelder Chaussee 130, 22177 Hamburg
+  oder E-Mail: SteuVE@hamburger-energienetze.de
+
+ Anlagenanschrift                                                     Kunde (Briefanschrift)
+
+
+
+  Name, Vorname (ggf. auch Firmenname)                                Name, Vorname (ggf. auch Firmenname)
+
+
+
+  Straße, Hausnummer, Stockwerk                                       Straße, Hausnummer, Stockwerk
+
+
+
+  PLZ, Ort                                                            PLZ, Ort
+
+
+
+  Telefonnummer oder E-Mailadresse für Rückfragen                     Telefonnummer
+
+ Anlagenerrichter (eingetragener Elektroinstallateur)
+
+
+
+  Name, Vorname (ggf. auch Firmenname)                                Fax
+
+
+
+  Straße, Hausnummer, Stockwerk
+
+
+
+  PLZ, Ort
+
+
+
+  Telefonnummer                                                       Firmenstempel und/oder Unterschrift
+                                                                      der eingetr. verantw. Fachkraft
+
+
+
+
+    Art der steuerbaren Verbrauchseinrichtung
+    (zutreffendes bitte unbedingt ankreuzen)		
+    Typ 1    Ladepunkt für Elektromobile, der nicht öffentlich zugänglich ist. 		                             
+    Typ 2    Wärmepumpenheizung zur Raumheizung in Wohn-, Büro- oder Aufenthaltsräumen.                       
+    Typ 3    Anlage zur Raumkühlung (Klimaanlage) in Wohn-, Büro- oder Aufenthaltsräumen.                     
+    Typ 4    Stromspeicher.			                                                                                
+
+
+ Technische Daten der                                                 Zuordnungder SteuVE
+ steuerbaren Verbrauchseinrichtung
+  Neubau  Altbau  Haushalt  Gewerbe
+                                                                      Zählernummer (hinter dem die SteuVE betrieben wird)
+  Einfamilienhaus  Mehrfamilienhaus
+                                                                      Handelt es sich um einen separaten Zähler?
+                                                                      (Voraussetzung für Modul 2)              Ja  Nein
+
+  Hersteller und Modell                          Anzahl
+                                                                      Wurde die SteuVE bereits der
+                                                                      Hamburger Energienetze GmbH im
+  max. elektrische Netzbezugsleistung in kW                           Haushaltsportal angemeldet?                   Ja  Nein
+
+
+
+  Datum der technischen Inbetriebnahme                                Portal-ID oder Anlagen-ID der Anmeldung, falls vorhanden
+
+  Hinweis: Bei Anlagen vom Typ 2 ist die Leistung inkl. Zusatz- und Notheizvorrichtungen anzugeben. Bei einer Gruppierung von mehreren
+  Anlagen vom Typ 2 oder 3 ist die Summe der Leistungen der Einzelanlagen anzugeben.
+             Achtung Pflichtfeld, bitte zwingend ausfüllen!
+             Achtung Pflichtfeld, bitte zwingend entsprechende Auswahl ankreuzen!
+
+
+
+Antrag
+auf Gewährung eines reduzierten Netzentgelts für den Betrieb
+einer steuerbaren Verbrauchseinrichtung (SteuVE) nach §14a EnWG                                                           Seite 2 /2
+
+
+
+
+ Auswahl zur Steuerungsart und NetzentgeltreduktionSteuerungsart		
+ Steuerungsart:                  Direktansteuerung
+ 			                             Steuerung über Energie-Management-System (EMS)
+ Hinweis: Wählen Sie „Steuerung über EMS“ nur dann, wenn Sie über ein Energie-Management-System zur
+ Steuerung Ihrer Anlage verfügen
+
+
+    Netzentgeltreduktion:        Modul 1 (pauschale Netzentgeltreduktion)
+    			                          Modul 2 (Arbeitspreisreduktion; nur möglich mit separatem Zähler, bitte ankreuzen)
+    			                          Modul 3 (Zeitvariables Netzentgelt)                    		
+
+ Hinweis: Für Modul 2 ist ein separater Anlagenzähler erforderlich. Weiterhin ist Modul 2 nur an Marktlokationen für Entnahme
+ ohne registrierende Leistungsmessung wählbar. Außerdem darf Modul 3 (Anreizmodul) ausdrücklich nur in Ergänzung zu Modul 1
+ gewählt werden.
+
+
+    Weitere Angaben zum Antragsteller		
+    Antragsteller ist:           Anschlussnehmer und Anschlussnutzer in einer Person
+    			                          nur Anschlussnehmer (schriftliche Zustimmung des Anschlussnutzers notwendig)
+    			                          nur Anschlussnutzer (schriftliche Zustimmung des Anschlussnehmers notwendig)
+
+    Hinweis: In der Regel ist ein Haus- oder Grundstückseigentümer der Anschlussnehmer und die Mieter eines Hauses sind
+    Anschlussnutzer. Eine Netzentgeltreduzierung kann nur er-folgen, wenn beide Parteien zustimmen.
+
+
+ Die Vereinbarung zwischen dem Kunden (Antragsteller) und der Hamburger Energienetze GmbH kommt durch entsprechende
+ Bestätigung der Hamburger Energienetze GmbH zustande.Der Kunde bestätigt mit seiner Unterschrift ausdrücklich die Kenntnisnahme
+ und Einhaltung der von der BNetzA getroffenen Festlegungen vom 27.11.2023 (Az: BK6-22-300 und BK8- 22/010-A).
+
+ Weitere Informationen sind unter www.hamburger-energienetze.de/verbrauchen-erzeugen/planen-anmelden/waermepumpe/
+ steuerbare-verbrauchseinrichtung abrufbar.
+
+
+
+
+ Hinweis: Wenn Sie als Installateur/ Anlagenerrichter für den Kunden den Antrag stellen und
+ unterschreiben, ist eine Vollmacht des Kunden an uns mitzusenden.
+
+
+
+
+  Datum                                                            Unterschrift
+
+
+ Datenschutzhinweis: Die Hamburger Energienetze GmbH verarbeitet Ihre personenbezogenen Daten im Einklang mit den geltenden
+ Datenschutzvorschriften. Details zur Verarbeitung finden Sie in den Hinweisen zum Datenschutz der Hamburger Energienetze GmbH
+ auf www.hamburger-energienetze.de/datenschutz. Mit ihrer Unterschrift bestätigen Anschlussnehmer, Anschlussnutzer und Elektro-
+ fachbetrieb, dass ihnen die Datenschutzerklärungen des Netzbetreibers und des grundzuständigen Messstellenbetreibers zugänglich
+ gemacht wurden.
+

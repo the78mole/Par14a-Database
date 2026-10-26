@@ -24,14 +24,14 @@ Zuständig für die Veröffentlichungspflichten ist die Bundesnetzagentur bzw. d
 | 7793 | Stromnetz Weilheim GmbH & Co. KG | Cloudflare-Challenge | 403 | [PDF](https://assets.stromnetz-weilheim.de/media/downloads/2026/01/28/Netzentgelte_2026.pdf) |
 | 7800 | Netzgesellschaft Panketal GmbH | Cloudflare-Challenge | 403 | [PDF](https://www.panketal-netz.de/content/dam/revu-global/panketal-netz/dokumente/Preisblaetter_Panketal_Netzentgelte_Strom_20260101.pdf) |
 | 7601 | Energieversorgung Putzbrunn GmbH & Co. KG | Cloudflare-Challenge | 403 | [PDF](https://www.energieversorgung-putzbrunn.de/content/dam/revu-global/energieversorgung-putzbrunn/Documents/Strom/Netzentgelte/energieversorgung-putzbrunn-strom-preisblatt-2026.pdf) |
-| 7113 | Gemeindewerke Markt Stockstadt am Main | Cloudflare-Challenge | 403 | noch nicht gefunden |
-| 7024 | Elektrizitätswerk Frammersbach | Cloudflare-Challenge | 403 | noch nicht gefunden |
+| 7113 | Gemeindewerke Markt Stockstadt am Main | Cloudflare-Challenge | 403 | Netz seit 01.01.2026 bei Syna (1064) |
+| 7024 | Elektrizitätswerk Frammersbach | Cloudflare-Challenge | 403 | Seite lädt auch im Browser nicht (Cloudflare hängt) |
 | 7778 | Stromnetz Pullach GmbH | Cloudflare-Challenge | erreichbar | [PDF](https://assets.stromnetz-pullach.de/media/downloads/2026/07/16/stromnetz-pullach-preisblatt-strom-2026.pdf) |
-| 7791 | Stadtwerke Olching Stromnetz GmbH & Co. KG | Cloudflare-Challenge | erreichbar | noch nicht gefunden |
-| 7087 | Stadtwerke Hammelburg GmbH | Cloudflare-Challenge | erreichbar | noch nicht gefunden |
+| 7791 | Stadtwerke Olching Stromnetz GmbH & Co. KG | Cloudflare-Challenge | erreichbar | [PDF](https://assets.stromnetz-olching.de/media/downloads/2026/03/03/stadtwerke-olching-preisblatt-strom-2026.pdf) |
+| 7087 | Stadtwerke Hammelburg GmbH | Cloudflare-Challenge | erreichbar | nur vorläufiges Blatt 2027 verlinkt |
 | 7281 | Markt Zellingen | Cloudflare-Challenge | erreichbar | [PDF](https://www.markt-zellingen.de/eigene_dateien/aktuell/2023/dezember/markt_zellingen_strom_preisblatt_2026_endgueltig_20251217.pdf) |
-| 602 | Stadtwerke Soest GmbH | TLS-Fehler | TLS-Fehler | noch nicht gefunden |
-| 201 | Stadtwerke Freudenstadt GmbH & Co. KG | TLS-Fehler | TLS-Fehler | noch nicht gefunden |
-| 635 | SWT Stadtwerke Trier Versorgungs-GmbH | TLS-/Verbindungsfehler | erreichbar | noch nicht gefunden |
+| 602 | Stadtwerke Soest GmbH | TLS-Fehler | TLS-Fehler | [PDF](https://www.stadtwerke-soest.de/file/5926/download) |
+| 201 | Stadtwerke Freudenstadt GmbH & Co. KG | TLS-Fehler | TLS-Fehler | [PDF](https://www.stadtwerke-freudenstadt.de/media/site/6bdaa5815d-1765982581/48-sw-fds-endgueltiges-netzentgelt-strom_2026.pdf) |
+| 635 | SWT Stadtwerke Trier Versorgungs-GmbH | TLS-/Verbindungsfehler | erreichbar | [PDF](https://www.swt.de/api/media/file/SWT_NetzentgelteStrom2026.pdf) |
 
 Stand: 26.10.2026. Die Liste wird bei neuen Abrufen aktualisiert.

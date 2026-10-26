@@ -73,7 +73,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 123,Stadtwerke Buxtehude GmbH,,https://www.stadtwerke-buxtehude.de,21614,Buxtehude,"Mittelspannung,Niederspannung",,,vnbdigital
 124,Netze Calw GmbH,,https://netze-calw.de/,75365,Calw,"Mittelspannung,Niederspannung",https://netze-calw.de/strom/veroeffentlichungspflichten/,2026-10-26,vnbdigital
 126,SVO Netz GmbH,,https://www.svo-netz.de,29223,Celle,"Mittelspannung,Niederspannung",https://www.svo-netz.de/netz/stromnetz/netzentgelte-strom,2026-10-26,vnbdigital
-127,Stadtwerke Cham GmbH,,https://www.Stadtwerke-Cham.de,93413,Cham,"Mittelspannung,Niederspannung",,,vnbdigital
+127,Stadtwerke Cham GmbH,,https://www.Stadtwerke-Cham.de,93413,Cham,"Mittelspannung,Niederspannung",https://www.stadtwerke-cham.de/,2026-10-26,vnbdigital
 128,Stadtwerke Clausthal-Zellerfeld GmbH,,https://www.stadtwerke-clausthal.de,38678,Clausthal-Zellerfeld,"Mittelspannung,Niederspannung",https://www.stadtwerke-clausthal.de/clausthalGips/Gips?SessionMandant=Clausthal&Anwendung=EnWGKnotenAnzeigen&PrimaryId=3375&Mandantkuerzel=Clausthal&Navigation=J&WebPublisher.NavId=144494,2026-10-26,vnbdigital
 129,SÜC Energie und H2O GmbH,,https://www.suec.de/,96450,Coburg,"Mittelspannung,Niederspannung",https://www.suec.de/,2026-10-26,vnbdigital
 130,Stadtwerke Coesfeld GmbH,,https://www.stadtwerke-coesfeld.de/,48653,Coesfeld,"Mittelspannung,Niederspannung",https://www.stadtwerke-coesfeld.de/netze/netzzugang-/-entgelte,2026-10-26,vnbdigital
@@ -157,7 +157,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 271,Gebrüder Eirich GmbH & Co KG,,https://www.gebruedereirich.de,74736,Hardheim,"Mittelspannung,Niederspannung",https://www.gebruedereirich.de/Netznutzung/Preisbl%C3%A4tter.html,2026-10-26,vnbdigital
 272,Stadtwerke Haslach Elektrizitäts- und Wasserwerk,,https://www.stadtwerke-haslach.de,77716,Haslach,"Mittelspannung,Niederspannung",https://www.stadtwerke-haslach.de/de/netze/netznutzung/netzentgelte.php,2026-10-26,vnbdigital
 273,Stadtwerk Haßfurt GmbH,,https://www.stwhas.de,97437,Haßfurt,"Mittelspannung,Niederspannung",https://stwhas.de/strom/netznutzung-strom/,2026-10-26,vnbdigital
-274,Gemeindewerke Haßloch GmbH,,https://gwhassloch.de/,67454,Haßloch,"Mittelspannung,Niederspannung",,,vnbdigital
+274,Gemeindewerke Haßloch GmbH,,https://gwhassloch.de/,67454,Haßloch,"Mittelspannung,Niederspannung",https://gwhassloch.de/,2026-10-26,vnbdigital
 275,Stadtwerke Heide GmbH,,https://www.stadtwerke-heide.de,25746,Heide,"Mittelspannung,Niederspannung",https://www.stadtwerke-heide.de/netze/stromnetz/veroeffentlichungen.html,2026-10-26,vnbdigital
 277,Stadtwerke Heidelberg Netze GmbH,,https://www.netze-heidelberg.de,69115,Heidelberg,"Hochspannung,Mittelspannung,Niederspannung",,,vnbdigital
 278,Hellenstein-Energie-Logistik GmbH,,https://www.hellenstein-energie-logistik.de/,89522,Heidenheim,"Mittelspannung,Niederspannung",https://www.hellenstein-energie-logistik.de/netznutzung/netznutzung-strom.html,2026-10-26,vnbdigital
@@ -229,7 +229,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 410,Stadtwerke Marburg GmbH,,https://www.stadtwerke-marburg.de/,35039,Marburg,"Mittelspannung,Niederspannung",https://www.stadtwerke-marburg.de/netze/strom/netznutzungsentgelte,2026-10-26,vnbdigital
 417,Überlandwerk Rhön GmbH,,https://www.uew-rhoen.de/,97638,Mellrichstadt,"Mittelspannung,Niederspannung",https://www.uew-rhoen.de/de/Netz/Veroeffentlichungen/,2026-10-26,vnbdigital
 419,Stadtwerke Menden GmbH,,https://www.stadtwerke-menden.de,58708,Menden,"Mittelspannung,Niederspannung",https://www.stadtwerke-menden.de/netze/stromnetz/netzzugang/preisblaetter.html,2026-10-26,vnbdigital
-420,Stadtwerke Mengen,,https://mengen.de,88512,Mengen,"Mittelspannung,Niederspannung",,,vnbdigital
+420,Stadtwerke Mengen,,https://mengen.de,88512,Mengen,"Mittelspannung,Niederspannung",https://mengen.de,2026-10-26,vnbdigital
 421,EMB Energieversorgung Miltenberg-Bürgstadt GmbH & Co. KG,,https://we-are-energy.de/,63897,Miltenberg,"Mittelspannung,Niederspannung",https://we-are-energy.de/stromnetz/,2026-10-26,vnbdigital
 422,KEW Karwendel Energie und Wasser GmbH,,https://www.kewgmbh.de,82481,Mittenwald,"Mittelspannung,Niederspannung",https://www.kewgmbh.de/de/strom/netz/netzentgelte/index.html,2026-10-26,vnbdigital
 426,NEW Netz GmbH,,https://www.new-netz.de/,52511,Geilenkirchen,"Mittelspannung,Niederspannung",https://www.new-netz.de/mp/netznutzung/preisblaetter-netznutzung,2026-10-26,vnbdigital

@@ -19,7 +19,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 31,Stadtwerke Bad Bergzabern GmbH,,https://www.stadtwerke-bza.de,76887,Bad Bergzabern,"Mittelspannung,Niederspannung",https://www.stadtwerke-bza.de/netze/strom,2026-10-26,vnbdigital
 32,Stadtwerke Bad Brückenau GmbH,,https://www.stw-brk.de/,97769,Bad Brückenau,"Mittelspannung,Niederspannung",https://www.stw-brk.de/de/Netz/Stromnetz/Netzzugang-Entgelte.html,2026-10-26,vnbdigital
 33,Stadtwerke Bad Dürkheim GmbH,,https://sw-duerkheim.de/,67098,Bad Dürkheim,"Niederspannung,Mittelspannung",https://sw-duerkheim.de/de/Portfolio/Netze1/Stromnetz/,2026-10-26,vnbdigital
-35,Stadtwerke Bad Herrenalb GmbH,,https://www.stw-badherrenalb.de/,76332,Bad Herrenalb,"Mittelspannung,Niederspannung",,,vnbdigital
+35,Stadtwerke Bad Herrenalb GmbH,,https://www.stw-badherrenalb.de/,76332,Bad Herrenalb,"Mittelspannung,Niederspannung",https://www.enwg-veroeffentlichungen.de/badherrenalb/Netze/,2026-10-26,vnbdigital
 36,Stadtwerke Bad Hersfeld GmbH,,https://www.stadtwerke-hef.de,36251,Bad Hersfeld,"Mittelspannung,Niederspannung",https://www.stadtwerke-hef.de/de/Kopfnavigation/Netze1/Stromnetz/Netzzugang-Entgelte.html,2026-10-26,vnbdigital
 38,Bad Honnef AG,,https://www.bhag.de/netzbetrieb/,53604,Bad Honnef,"Mittelspannung,Niederspannung",https://www.bhag.de/stromnetz/,2026-10-26,vnbdigital
 39,Stadtwerke Bad Kissingen GmbH,,https://www.stwkiss.de,97688,Bad Kissingen,"Mittelspannung,Niederspannung",https://stwkiss.de/netze/netzanschluss-und-planauskunft/,2026-10-26,vnbdigital
@@ -102,7 +102,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 164,Stadtwerke Eichstätt Versorgungs-GmbH,,https://www.stadtwerke-eichstaett.de/,85072,Eichstätt,"Mittelspannung,Niederspannung",https://www.stadtwerke-eichstaett.de/netze/stromnetz/netzentgelte/,2026-10-26,vnbdigital
 165,Stadtwerke Einbeck GmbH,,https://www.stadtwerke-einbeck.de,37574,Einbeck,"Mittelspannung,Niederspannung",https://netze.stadtwerke-einbeck.de/strom/transport-und-netz/netznutzung,2026-10-26,vnbdigital
 167,Stadtwerke Elmshorn,,https://www.stadtwerke-elmshorn.de/,25336,Elmshorn,"Mittelspannung,Niederspannung",https://www.stadtwerke-elmshorn.de/de/Privatkunden/Netze/Stromnetz/Stromnetz_1049384.html,2026-10-26,vnbdigital
-170,Stadtwerke Emden GmbH,,https://www.stadtwerke-emden.de,26725,Emden,"Mittelspannung,Niederspannung",,,vnbdigital
+170,Stadtwerke Emden GmbH,,https://www.stadtwerke-emden.de,26725,Emden,"Mittelspannung,Niederspannung",https://www.stadtwerke-emden.de,2026-10-26,vnbdigital
 171,Stadtwerke Emsdetten GmbH,,https://www.stadtwerke-emsdetten.de,48282,Emsdetten,"Mittelspannung,Niederspannung",https://www.stadtwerke-emsdetten.de/ihre-stadtwerke/netze/strom/netzzugang-netzentgelte/,2026-10-26,vnbdigital
 172,Stadtwerke Ostmünsterland GmbH & Co. KG,,https://www.so.de/de/netze/,48291,Telgte,"Mittelspannung,Niederspannung",https://www.so.de/de/so-ein-stadtwerk/marktpartnerkommunikation/,2026-10-26,vnbdigital
 175,SEW Stromversorgungs-GmbH,,https://www.sewerding.de/,85435,Erding,"Mittelspannung,Niederspannung",https://www.sewerding.de/netzzugang,2026-10-26,vnbdigital
@@ -119,7 +119,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 201,Stadtwerke Freudenstadt GmbH & Co. KG,,https://www.stadtwerke-freudenstadt.de,72250,Freudenstadt,"Mittelspannung,Niederspannung",https://www.stadtwerke-freudenstadt.de/netz,2026-10-26,vnbdigital
 202,ovag Netz GmbH,,https://www.ovag-netz.de,61169,Friedberg,"Mittelspannung,Niederspannung",https://www.ovag-netz.de/netzanschluss/strombezug/gewerbeanlagen.html,2026-10-26,vnbdigital
 205,Stadtwerke Fröndenberg Wickede GmbH,,http://www.sfw-ruhr.de,58730,Fröndenberg,"Mittelspannung,Niederspannung",https://sfw-ruhr.de/netze/reduzierung-netzentgelte/,2026-10-26,vnbdigital
-206,Stadtwerke Fürstenfeldbruck GmbH,,https://www.stadtwerke-ffb.de/,82256,Fürstenfeldbruck,"Mittelspannung,Niederspannung",,,vnbdigital
+206,Stadtwerke Fürstenfeldbruck GmbH,,https://www.stadtwerke-ffb.de/,82256,Fürstenfeldbruck,"Mittelspannung,Niederspannung",https://www.enwg-veroeffentlichungen.de/ffb/Netze/,2026-10-26,vnbdigital
 207,infra fürth gmbh,,https://www.infra-fuerth.de,90763,Fürth,"Mittelspannung,Niederspannung",https://www.infra-fuerth.de/kundenservice/netz/pflichtveroeffentlichungen,2026-10-26,vnbdigital
 208,Elektrizitätswerke Reutte GmbH & Co. KG,,https://www.ewr-energie.com/de/,87629,Füssen,"Mittelspannung,Niederspannung,Hochspannung",https://www.ewr-energie.com/de/netz/stromnetz/,2026-10-26,vnbdigital
 209,OsthessenNetz GmbH,,https://www.osthessennetz.de/,36037,Fulda,"Mittelspannung,Niederspannung",https://osthessennetz.de/partnerfirmen/downloads/,2026-10-26,vnbdigital

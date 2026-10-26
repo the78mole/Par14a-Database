@@ -1,13 +1,13 @@
 # Offene VNB 2026
 
-Für diese 29 VNB ist bisher kein §14a-Preisblatt 2026 erfasst (Stand 26.10.2026, 725 von 754 erfasst).
+Für diese 26 VNB ist bisher kein §14a-Preisblatt 2026 erfasst (Stand 26.10.2026, 728 von 754 erfasst).
 
 Am 26.10.2026 wurde für jeden VNB geprüft, ob er den Netzbetrieb an einen anderen (größeren)
 Netzbetreiber übergeben hat. Geprüft wurden die eigene Webseite (Netz-Seiten, Selbstbezeichnung
 als Netzbetreiber, Störungsnummer Strom), vnbdigital.de (Niederspannungsbetreiber am Ort,
 `vnb_coordinates`) und Presse/Gemeindeseiten. Ergebnis: **2 Übergaben bestätigt** (Stockstadt an
 Syna, Wildeck an EAM). Bei Aalen (4) und Hann. Münden (270) waren die Preisblätter doch
-auffindbar; beide sind inzwischen erfasst und stehen nicht mehr in dieser Liste. Alle übrigen betreiben ihr Netz nach allen Quellen weiterhin selbst.
+auffindbar; beide sind inzwischen erfasst und stehen nicht mehr in dieser Liste. Bad Herrenalb (35), Emden (170) und Fürstenfeldbruck (206) haben ihre Blätter 2026 inzwischen veröffentlicht und sind ebenfalls erfasst. Alle übrigen betreiben ihr Netz nach allen Quellen weiterhin selbst.
 
 ## Netz übergeben, Nachfolger deckt das Gebiet ab
 
@@ -27,12 +27,9 @@ Keine Übergabe gefunden. Spalte „Netzbetrieb“ nennt den Beleg, dass der VNB
 
 | VNB-ID | Netzbetreiber | Grund | Netzbetrieb |
 |---|---|---|---|
-| 35 | Stadtwerke Bad Herrenalb GmbH | nur Grundversorgungs- und Vertriebsblätter online | eigene Seite „Netzbetrieb“, Netzanschlussportal; vnbdigital |
 | 114 | Stadtwerke Buchen GmbH & Co KG | unter Downloads nur die TAB | eigene Seiten Netze/Strom, Netzanschluss; vnbdigital |
 | 144 | Westenthanner Energieversorgung GmbH | kein Netzentgelt-Blatt, nur Lieferanten-Aufstellung ohne Module | nennt sich „Energieversorger und Netzbetreiber“ (Schwindegg); vnbdigital Schwindegg |
-| 170 | Stadtwerke Emden GmbH | Veröffentlichungsportal enthält nur den Netznutzungsvertrag | eigene Netz-Seiten (Hausanschluss, Einspeisung); vnbdigital |
 | 186 | Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG | Website ohne Netzseite (jetzt HTTP 403) | vnbdigital; keine Meldung über Übergabe |
-| 206 | Stadtwerke Fürstenfeldbruck GmbH | nur Kontaktdatenblatt und REMIT-Plattform | eigene Seite Netze/Stromnetz; vnbdigital |
 | 223 | Energieversorgung Gemünden GmbH | alle Netz-Unterseiten liefern 404 | Netz-Menü auf der Startseite; vnbdigital |
 | 245 | Stadtwerke Groß-Gerau Versorgungs GmbH | Website im Wartungsmodus | vnbdigital; seit 2018 Kooperation mit dem Überlandwerk Groß-Gerau beim Netzbetrieb ([energate](https://www.energate-messenger.com/news/180277/network-cooperation-in-gross-gerau)), keine Übergabe belegt |
 | 257 | Gemeindewerke Halstenbek | kein Preisblatt auf der Website | eigene Seiten „Unser Netz“, Netzveröffentlichungen; vnbdigital |
@@ -42,7 +39,7 @@ Keine Übergabe gefunden. Spalte „Netzbetrieb“ nennt den Beleg, dass der VNB
 | 512 | Gemeindewerke Peißenberg KU | gwp-netz.de liefert HTTP 500 | eigene Stromnetz-Seiten; vnbdigital |
 | 522 | Stadtwerke Quickborn GmbH | Veröffentlichungsportal ohne Entgelte | „Die Strom- und Gasnetze der Stadtwerke Quickborn“; vnbdigital |
 | 562 | VSE Verteilnetz GmbH | nur HS/MS, kein Niederspannungsnetz | keine Übergabe; in Saarbrücken ist Niederspannung bei Stadtwerke Saarbrücken Netz (561). Ohne Niederspannung ist kein §14a-Blatt zu erwarten. |
-| 636 | Energieversorgung Trossingen GmbH | Link auf das Blatt 2026 liefert 404, nur vorläufiges 2027 online | eigene Seite Netze Strom; vnbdigital |
+| 636 | Energieversorgung Trossingen GmbH | Seite „Netze Strom“ verlinkt 2026_PB_aggregiert_StromNN und 2026_PB_StromNN_informatorisch, beide Links liefern HTTP 404 (Stand 26.10.2026, vermutlich beim Umzug auf WordPress verloren); nur das vorläufige Blatt 2027 ist abrufbar | eigene Seite Netze Strom; vnbdigital |
 | 649 | Stadtwerke Uslar GmbH | nur 2025 und vorläufig 2027 online | eigene Seite Transport und Netz Strom; vnbdigital |
 | 742 | Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal | kein Preisblatt auf der Website | eigenes Downloadcenter Netz; vnbdigital |
 | 751 | Stadtwerke Güstrow GmbH | Website im Wartungsmodus | vnbdigital; Wirtschaftsplan 2026 der Stadt Güstrow nennt Stromversorgung durch die Stadtwerke |

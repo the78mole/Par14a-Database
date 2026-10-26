@@ -1,23 +1,23 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 21:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 21:37 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
-**485 von 754 VNB erfasst (64 %)**, 269 fehlen noch.
+**488 von 754 VNB erfasst (65 %)**, 266 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
 | endgueltig | 1 |
-| vorlaeufig | 484 |
-| davon mit Modul-3-Zeitfenstern | 481 |
+| vorlaeufig | 487 |
+| davon mit Modul-3-Zeitfenstern | 484 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 140 |
-| kein §14a-Preisblatt auf der Webseite gefunden | 75 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 139 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 73 |
 | §14a-PDF vorhanden, manuelle Prüfung offen | 46 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 
@@ -46,7 +46,6 @@ Stand: 2026-10-26 21:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 138 Elektrizitätswerk Diessen Stadler GmbH
 - 189 Elektrizitätswerk Leitlein GmbH & Co. KG
 - 202 ovag Netz GmbH
-- 206 Stadtwerke Fürstenfeldbruck GmbH
 - 216 Gemeindewerke Garmisch-Partenkirchen
 - 239 Rothmoser GmbH & Co. KG
 - 248 Netzgesellschaft Gütersloh mbH
@@ -169,13 +168,11 @@ Stand: 2026-10-26 21:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 **kein §14a-Preisblatt auf der Webseite gefunden**
 
 - 23 Stadtwerke Amberg Versorgungs GmbH
-- 35 Stadtwerke Bad Herrenalb GmbH
 - 65 Überlandwerk Eppler GmbH
 - 114 Stadtwerke Buchen GmbH & Co KG
 - 121 Gemeinde-Elektrizitäts- und Wasserwerk Burtenbach
 - 144 Westenthanner Energieversorgung GmbH
 - 157 Stadtwerke Eckernförde GmbH
-- 170 Stadtwerke Emden GmbH
 - 186 Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG
 - 201 Stadtwerke Freudenstadt GmbH & Co. KG
 - 209 OsthessenNetz GmbH
@@ -308,29 +305,27 @@ Stand: 2026-10-26 21:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**725 von 754 VNB erfasst (96 %)**, 29 fehlen noch.
+**728 von 754 VNB erfasst (97 %)**, 26 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 710 |
+| endgueltig | 713 |
 | vorlaeufig | 15 |
-| davon mit Modul-3-Zeitfenstern | 717 |
+| davon mit Modul-3-Zeitfenstern | 720 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 20 |
-| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 9 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 18 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 8 |
 
 <details><summary>Liste der fehlenden VNB 2026</summary>
 
 **kein §14a-Preisblatt auf der Webseite gefunden**
 
-- 35 Stadtwerke Bad Herrenalb GmbH
 - 114 Stadtwerke Buchen GmbH & Co KG
 - 144 Westenthanner Energieversorgung GmbH
-- 170 Stadtwerke Emden GmbH
 - 186 Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG
 - 223 Energieversorgung Gemünden GmbH
 - 245 Stadtwerke Groß-Gerau Versorgungs GmbH
@@ -350,7 +345,6 @@ Stand: 2026-10-26 21:01 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 **§14a-PDF vorhanden, aber nicht eindeutig 2026**
 
-- 206 Stadtwerke Fürstenfeldbruck GmbH
 - 257 Gemeindewerke Halstenbek
 - 341 Fürstl. Fugger-Glött'sches Elektrizitätswerk
 - 522 Stadtwerke Quickborn GmbH

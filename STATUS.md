@@ -1,6 +1,6 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 20:10 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-26 20:32 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
@@ -342,19 +342,19 @@ Stand: 2026-10-26 20:10 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2026
 
-**711 von 754 VNB erfasst (94 %)**, 43 fehlen noch.
+**723 von 754 VNB erfasst (96 %)**, 31 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 698 |
-| vorlaeufig | 13 |
-| davon mit Modul-3-Zeitfenstern | 703 |
+| endgueltig | 708 |
+| vorlaeufig | 15 |
+| davon mit Modul-3-Zeitfenstern | 715 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 34 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 22 |
 | §14a-PDF vorhanden, aber nicht eindeutig 2026 | 9 |
 
 <details><summary>Liste der fehlenden VNB 2026</summary>
@@ -374,26 +374,14 @@ Stand: 2026-10-26 20:10 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 474 Elektrizitäts-Genossenschaft Nordhalben und
 - 512 Gemeindewerke Peißenberg KU
 - 562 VSE Verteilnetz GmbH
-- 594 Elektrizitätsgenossenschaft Vogling & Angrenzer eG
 - 742 Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal
 - 751 Stadtwerke Güstrow GmbH
-- 7013 Elektrizitätsvereinigung Böbing eG
-- 7021 Elektrizitätsgenossenschaft Engelsberg e.G.
 - 7024 Elektrizitätswerk Frammersbach
-- 7052 Stadtwerke Niesky GmbH
 - 7055 Stadtwerke OELSNITZ/V. GmbH
-- 7082 Stadtwerke Warburg GmbH
-- 7085 Stromversorgung Zerbst GmbH & Co. KG
 - 7087 Stadtwerke Hammelburg GmbH
-- 7088 Stadtwerke Burgbernheim
 - 7113 Gemeindewerke Markt Stockstadt am Main
-- 7127 Gemeindewerke Nüdlingen
-- 7134 Gemeindewerke Partenstein
-- 7202 EVU Späth e.K.
 - 7219 Elektrizitätswerk Rohmund GmbH
-- 7235 E-Werk Meckenheim/Pfalz
 - 7247 Stromversorgung Markt Egloffstein
-- 7307 EVU Langenpreising
 - 7497 E-Werk Rohrdorf Josef Haimmerer
 
 **§14a-PDF vorhanden, aber nicht eindeutig 2026**

@@ -51,3 +51,4 @@ Alle Preise sind netto, wie im Preisblatt. `status` ist `endgueltig`, `vorlaeufi
 3. Werte in `data/<jahr>/preisblatt.csv` eintragen, `pdf_sha256` zeigt, ob sich ein PDF unter gleicher URL geändert hat.
 
 VNB, deren Preisblätter nur hinter Bot-Schutz oder Cloudflare-Prüfung erreichbar sind: [ZUGANGSBARRIEREN.md](ZUGANGSBARRIEREN.md).
+Noch nicht erfasste VNB 2026 mit Grund: [OFFEN_2026.md](OFFEN_2026.md).

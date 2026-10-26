@@ -329,7 +329,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 588,Gebrüder Miller GmbH & Co. KG,,https://www.gebrueder-miller.de,88477,Schwendi,"Mittelspannung,Niederspannung",https://www.gebrueder-miller.de/fuer-marktpartner.html,2026-10-26,vnbdigital
 591,Stromversorgung Seebruck eG,,https://www.chiemsee-strom.de,83358,Seebruck,Niederspannung,https://chiemsee-strom.de/netznutzung/,2026-10-26,vnbdigital
 593,Energieversorgung Selb-Marktredwitz GmbH,,https://www.esm-selb.de,95100,Selb,"Mittelspannung,Niederspannung",https://www.esm-selb.de/leistungen/service/stromnetz,2026-10-26,vnbdigital
-594,Elektrizitätsgenossenschaft Vogling & Angrenzer eG,,https://www.eva-siegsdorf.de,83313,Siegsdorf,"Mittelspannung,Niederspannung",,,vnbdigital
+594,Elektrizitätsgenossenschaft Vogling & Angrenzer eG,,https://www.eva-siegsdorf.de,83313,Siegsdorf,"Mittelspannung,Niederspannung",https://www.eva-siegsdorf.de/wordpress/wp-content/uploads/2025/12/,2026-10-26,vnbdigital
 596,Elektrizitäts-Genossenschaft Schlachters eG,,https://eg-schlachters.de/downloads/,88138,Sigmarszell,"Mittelspannung,Niederspannung",https://eg-schlachters.de/downloads/,2026-10-26,vnbdigital
 597,Elektrizitätswerk Simbach GmbH,,https://www.e-werk-simbach.de,84359,Simbach am Inn,"Mittelspannung,Niederspannung",https://www.e-werk-simbach.de/veroeffentlichungen,2026-10-26,vnbdigital
 599,Thüga Energienetze GmbH,,https://www.thuega-netze.de,67105,Schifferstadt,"Hochspannung,Mittelspannung,Niederspannung",https://www.thuega-netze.de/marktpartner/,2026-10-26,vnbdigital
@@ -545,11 +545,11 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 7009,Stadtwerke Blankenburg GmbH,,https://www.sw-blankenburg.de,38889,Blankenburg (Harz),"Mittelspannung,Niederspannung",https://www.sw-blankenburg.de/netzbetrieb/strom/netznutzungsentgelte/,2026-10-26,vnbdigital
 7010,Blomberg Netz GmbH & Co. KG,,https://www.blomberg-netz.de/,32825,Blomberg,"Mittelspannung,Niederspannung",https://www.blomberg-netz.de/stromnetz/netzentgelte/,2026-10-26,vnbdigital
 7011,Energieversorgung Südbaar GmbH & Co. KG,,https://www.esb-energie.de,78176,Blumberg,"Mittelspannung,Niederspannung",https://www.esb-energie.de/de/Lieferanten/Netzentgelte,2026-10-26,vnbdigital
-7013,Elektrizitätsvereinigung Böbing eG,,https://ev-boebing.de/,82389,Böbing,Niederspannung,,,vnbdigital
+7013,Elektrizitätsvereinigung Böbing eG,,https://ev-boebing.de/,82389,Böbing,Niederspannung,https://ev-boebing.de/htmls/,2026-10-26,vnbdigital
 7015,Gemeindewerke Bovenden GmbH & Co. KG,,https://www.gemeindewerke-bovenden.de/netze,37120,Bovenden,"Mittelspannung,Niederspannung",https://netze.gemeindewerke-bovenden.de/stromnetz/netzzugang-entgelte,2026-10-26,vnbdigital
 7018,Gemeindewerke Cadolzburg,,https://werke-cadolzburg.de/,90556,Cadolzburg,"Mittelspannung,Niederspannung",https://werke-cadolzburg.de/strom/stromnetz/,2026-10-26,vnbdigital
 7020,Stadtwerke Emmerich GmbH,,http://www.stadtwerke-emmerich.de,46446,Emmerich am Rhein,"Mittelspannung,Niederspannung",https://www.stadtwerke-emmerich.de/de/Netzbetrieb-/Stromnetz/Netzzugang-Entgelte.html,2026-10-26,vnbdigital
-7021,Elektrizitätsgenossenschaft Engelsberg e.G.,,https://www.eg-engelsberg.de/,84549,Engelsberg,"Niederspannung,Mittelspannung",,,vnbdigital
+7021,Elektrizitätsgenossenschaft Engelsberg e.G.,,https://www.eg-engelsberg.de/,84549,Engelsberg,"Niederspannung,Mittelspannung",https://www.eg-engelsberg.de/netz/netznutzung/,2026-10-26,vnbdigital
 7022,Stadtwerke Engen GmbH,,https://www.stadtwerke-engen.de/,78234,Engen,"Mittelspannung,Niederspannung",https://www.stadtwerke-engen.de/netze/netzzugang/,2026-10-26,vnbdigital
 7023,Stadtwerke Erkrath GmbH,,https://www.stadtwerke-erkrath.de/,40699,Erkrath,"Mittelspannung,Niederspannung",https://www.stadtwerke-erkrath.de/netze/netznutzung-strom/,2026-10-26,vnbdigital
 7024,Elektrizitätswerk Frammersbach,,https://www.frammersbach.de,97833,Frammersbach,"Mittelspannung,Niederspannung",,,vnbdigital
@@ -571,7 +571,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 7047,Maintal-Werke GmbH,,https://www.maintal-werke.de/,63477,Maintal,"Mittelspannung,Niederspannung",https://www.maintal-werke.de/netze/veroeffentlichungen/strom/,2026-10-26,vnbdigital
 7048,Gemeindewerke Münchweiler AöR,,https://www.gw-muenchweiler.de/,66981,Münchweiler an der Rodalb,"Mittelspannung,Niederspannung",https://www.gw-muenchweiler.de/strom/netz/stromnetzentgelte/,2026-10-26,vnbdigital
 7051,Gemeindewerke Niefern-Öschelbronn,,https://www.gwnoe.de,75223,Niefern-Öschelbronn,"Mittelspannung,Niederspannung",https://www.gwnoe.de/netze-messung/veroeffentlichungspflichten-netzbetreiber/preisblaetter,2026-10-26,vnbdigital
-7052,Stadtwerke Niesky GmbH,,https://www.stadtwerke-niesky.de/,02906,Niesky,"Mittelspannung,Niederspannung",,,vnbdigital
+7052,Stadtwerke Niesky GmbH,,https://www.stadtwerke-niesky.de/,02906,Niesky,"Mittelspannung,Niederspannung",https://www.stadtwerke-niesky.de/uploads/downloads/Netz/,2026-10-26,vnbdigital
 7053,Gemeindewerke Nümbrecht GmbH,,https://www.gwn24.de,51588,Nümbrecht,"Mittelspannung,Niederspannung",https://www.enwg-veroeffentlichungen.de/gwn/Netze/Stromnetz/,2026-10-26,vnbdigital
 7054,Stadtwerke Ochtrup,,https://www.stadtwerke-ochtrup.de,48607,Ochtrup,"Mittelspannung,Niederspannung",https://stadtwerke-ochtrup.de/netze/strom/netzzugang-netzentgelte/,2026-10-26,vnbdigital
 7055,Stadtwerke OELSNITZ/V. GmbH,,https://www.stadtwerke-oelsnitz.de,08606,Oelsnitz/Vogtl.,"Mittelspannung,Niederspannung",,,vnbdigital
@@ -591,13 +591,13 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 7078,Stadtwerke Velten GmbH,,https://www.stadtwerke-velten.de/netz-strom-uebersicht,16727,Velten,"Mittelspannung,Niederspannung",https://www.stadtwerke-velten.de/netz-strom-uebersicht/netznutzungsentgelte,2026-10-26,vnbdigital
 7080,Stadtwerke Waldkirchen,,https://stadtwerke-waldkirchen.de/,94065,Waldkirchen,"Mittelspannung,Niederspannung",https://stadtwerke-waldkirchen.de/strom-stromnetz/netzzugang/netzentgelte-fuer-steuerbare-verbrauchseinrichtungen/,2026-10-26,vnbdigital
 7081,Stadtwerke Waldkraiburg GmbH,,https://www.stadtwerke-waldkraiburg.de,84478,Waldkraiburg,"Mittelspannung,Niederspannung",https://www.stadtwerke-waldkraiburg.de/marktpartner/netznutzungsentgelte,2026-10-26,vnbdigital
-7082,Stadtwerke Warburg GmbH,,https://www.stadtwerke-warburg.de,34414,Warburg,"Mittelspannung,Niederspannung",,,vnbdigital
+7082,Stadtwerke Warburg GmbH,,https://www.stadtwerke-warburg.de,34414,Warburg,"Mittelspannung,Niederspannung",https://stadtwerke-warburg.de/stadtwerke/strom/marktpartner/,2026-10-26,vnbdigital
 7083,Energiegenossenschaft für Wittmund eG,,https://www.eg-wittmund.de,26409,Wittmund,Niederspannung,https://www.eg-wittmund.de/unternehmen/unser-netz,2026-10-26,vnbdigital
 7084,Stadtwerke Witzenhausen GmbH,,https://www.stadtwerke-witzenhausen.de,37213,Witzenhausen,"Niederspannung,Mittelspannung",https://stadtwerke-witzenhausen.de/wp-content/uploads/2026/01/,2026-10-26,vnbdigital
-7085,Stromversorgung Zerbst GmbH & Co. KG,,https://www.stadtwerke-zerbst.de,39261,Zerbst/Anhalt,"Mittelspannung,Niederspannung",,,vnbdigital
+7085,Stromversorgung Zerbst GmbH & Co. KG,,https://www.stadtwerke-zerbst.de,39261,Zerbst/Anhalt,"Mittelspannung,Niederspannung",https://www.stadtwerke-zerbst.de/svz/wp-content/uploads/2025/12/,2026-10-26,vnbdigital
 7086,Getreidemühle Zwiefalten e.G.,,https://getreidemuehle-zwiefalten.de/,88529,Zwiefalten,"Mittelspannung,Niederspannung",https://getreidemuehle-zwiefalten.de/netz/netzzugang-entgelte,2026-10-26,vnbdigital
 7087,Stadtwerke Hammelburg GmbH,,https://www.stadtwerke-hammelburg.de,97762,Hammelburg,"Mittelspannung,Niederspannung",,,vnbdigital
-7088,Stadtwerke Burgbernheim,,https://www.burgbernheim.de,91593,Burgbernheim,"Mittelspannung,Niederspannung",,,vnbdigital
+7088,Stadtwerke Burgbernheim,,https://www.burgbernheim.de,91593,Burgbernheim,"Mittelspannung,Niederspannung",https://www.burgbernheim.de/tools/downloads/,2026-10-26,vnbdigital
 7089,Stadtwerke Dettelbach,,https://dettelbach-stadtwerke.de/,97337,Dettelbach,"Mittelspannung,Niederspannung",https://www.dettelbach-stadtwerke.de/informationen-fuer-marktpartner/,2026-10-26,vnbdigital
 7096,Stadtwerke Annweiler am Trifels,,https://www.stadtwerke-annweiler.de,76855,Annweiler am Trifels,"Mittelspannung,Niederspannung",https://www.stadtwerke-annweiler.de,2026-10-26,vnbdigital
 7102,Elektrizitätsversorgungsunternehmen (EVU) der Gemeinde Gochsheim,,https://evu.gochsheim.de/,97469,Gochsheim,"Mittelspannung,Niederspannung",https://evu.gochsheim.de/stromnetz/unser-netz/netzentgelte,2026-10-26,vnbdigital
@@ -611,10 +611,10 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 7117,Stadtwerke Waldkirch GmbH,,https://www.stadtwerke-waldkirch.de,79183,Waldkirch,"Mittelspannung,Niederspannung",https://www.stadtwerke-waldkirch.de/download/netze-strom/messstellenbetrieb.html,2026-10-26,vnbdigital
 7118,Regionalwerke Wolfhager Land GmbH,,https://rwl.gmbh/,34466,34466 Wolfhagen,"Mittelspannung,Niederspannung",https://rwl.gmbh/veroeffentlichungen/,2026-10-26,vnbdigital
 7122,Versorgungsbetriebe Röttingen,,https://www.roettingen.de/buerger/de/leben-wohnen/ver-und-entsorgung/versorgungsbetriebe-roettingen,97285,Röttingen,"Mittelspannung,Niederspannung",https://www.roettingen.de/buerger/de/leben-wohnen/ver-und-entsorgung/versorgungsbetriebe-roettingen,2026-10-26,vnbdigital
-7127,Gemeindewerke Nüdlingen,,https://www.nuedlingen.de/gemeindewerke,97720,Nüdlingen,"Niederspannung,Mittelspannung",,,vnbdigital
+7127,Gemeindewerke Nüdlingen,,https://www.nuedlingen.de/gemeindewerke,97720,Nüdlingen,"Niederspannung,Mittelspannung",https://www.nuedlingen.de/media/www.nuedlingen.de/org/med_6776/,2026-10-26,vnbdigital
 7129,Gemeindewerke Lam,,https://www.gemeindewerke-lam.de,93462,Lam,"Mittelspannung,Niederspannung",https://www.gemeindewerke-lam.de/Netz/Netzentgelte/,2026-10-26,vnbdigital
 7132,Sömmerdaer Energieversorgung GmbH,,https://www.sev-soemmerda.de,99610,Sömmerda,"Mittelspannung,Niederspannung",https://www.sev-soemmerda.de/soemmerdaGips/Gips?SessionMandant=Soemmerda&Anwendung=EnWGKnotenAnzeigen&PrimaryId=13&Mandantkuerzel=Soemmerda&Navigation=J,2026-10-26,vnbdigital
-7134,Gemeindewerke Partenstein,,https://www.partenstein.de,97846,Partenstein,"Mittelspannung,Niederspannung",,,vnbdigital
+7134,Gemeindewerke Partenstein,,https://www.partenstein.de,97846,Partenstein,"Mittelspannung,Niederspannung",https://vg-partenstein.de,2026-10-26,vnbdigital
 7137,Avacon Netz GmbH,,https://www.avacon-netz.de,38350,Helmstedt,"Hochspannung,Mittelspannung,Niederspannung",https://www.avacon-netz.de,2026-10-26,vnbdigital
 7139,Stadtwerke Lutherstadt Eisleben GmbH,,https://sle24.de/,06295,Lutherstadt Eisleben,"Mittelspannung,Niederspannung",https://netze.sle24.de/stromnetz/netznutzung/,2026-10-26,vnbdigital
 7140,Elektrizitätsgenossenschaft Unterneukirchen eG,,https://www.eg-unterneukirchen.de,84579,Unterneukirchen,"Niederspannung,Mittelspannung",https://eg-unterneukirchen.de/downloads.html,2026-10-26,vnbdigital
@@ -639,7 +639,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 7190,Elektrizitätswerke Schönau Netze GmbH,,https://www.ews-schoenau.de/ews/strom-und-gasnetze/,79677,Schönau,"Mittelspannung,Niederspannung",https://netze.ews-schoenau.de/stromnetz/geschaeftskunden/lieferanten/,2026-10-26,vnbdigital
 7191,Energieversorgung Alzenau GmbH,,https://www.eva-alzenau.de,63755,Alzenau,"Mittelspannung,Niederspannung",https://www.eva-alzenau.de/strom-netz/netzzugang/geltende-netzentgelte.html,2026-10-26,vnbdigital
 7192,Gemeindewerke Schönkirchen GmbH,,https://www.gws-sh.de/,24232,Schönkirchen,"Mittelspannung,Niederspannung",https://www.gws-sh.de/marktpartner,2026-10-26,vnbdigital
-7202,EVU Späth e.K.,,,,,Niederspannung,,,vnbdigital
+7202,EVU Späth e.K.,,https://evu-spaeth.de,,,Niederspannung,https://evu-spaeth.de,2026-10-26,vnbdigital
 7203,wesernetz Bremen GmbH,,https://www.wesernetz.de,28215,Bremen,"Hochspannung,Mittelspannung,Niederspannung",https://www.wesernetz.de/fuer-partner/energielieferanten/stromnetz/entgelte-hb-bhv,2026-10-26,vnbdigital
 7204,gemeinsames Kommunalunternehmen Oberes Egertal,,https://www.g-ku.de,95163,Weißenstadt,Niederspannung,https://g-ku.de/informationen-fuer-marktpartner/,2026-10-26,vnbdigital
 7205,Stadtwerke Bad Vilbel GmbH,,https://www.sw-bv.de/,61118,Bad Vilbel,"Mittelspannung,Niederspannung",https://www.sw-bv.de/netze/netznutzung/stromnetz.html,2026-10-26,vnbdigital
@@ -649,7 +649,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 7214,Netze BW GmbH,,https://www.netze-bw.de/,70567,Stuttgart,"Hochspannung,Mittelspannung,Niederspannung",https://www.netze-bw.de/neuregelung-14a-enwg,2026-10-26,vnbdigital
 7219,Elektrizitätswerk Rohmund GmbH,,https://ew-rohmund.de/,37269,Eschwege,"Mittelspannung,Niederspannung",,,vnbdigital
 7232,Stadt- und Überlandwerke GmbH Luckau-Lübbenau,,https://www.suell.de,15926,Luckau,"Mittelspannung,Niederspannung",https://www.suell.de/de/Netze/Veroeffentlichungspflichten/Stromnetz/Netzzugang-Entgelte.html,2026-10-26,vnbdigital
-7235,E-Werk Meckenheim/Pfalz,,https://www.ewerk-meckenheim-pfalz.de,67149,Meckenheim,"Mittelspannung,Niederspannung",,,vnbdigital
+7235,E-Werk Meckenheim/Pfalz,,https://www.ewerk-meckenheim-pfalz.de,67149,Meckenheim,"Mittelspannung,Niederspannung",https://www.ewerk-meckenheim-pfalz.de/html/versorgungsnetz_strom/preisblaetter/,2026-10-26,vnbdigital
 7236,Vereinigte Stadtwerke Netz GmbH,,https://www.vereinigte-stadtwerke.de,23909,Ratzeburg,"Mittelspannung,Niederspannung",https://www.vereinigte-stadtwerke.de/strom/stromnetz/,2026-10-26,vnbdigital
 7237,Stadtwerke Jena Netze GmbH,,https://www.stadtwerke-jena-netze.de/,07745,Jena,"Mittelspannung,Niederspannung",https://www.stadtwerke-jena-netze.de/partner/lieferanten/netznutzung.html,2026-10-26,vnbdigital
 7247,Stromversorgung Markt Egloffstein,,,,,Niederspannung,,,vnbdigital
@@ -663,7 +663,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 7281,Markt Zellingen ,,http://www.markt-zellingen.de,97225,Zellingen,"Mittelspannung,Niederspannung",http://www.markt-zellingen.de,2026-10-26,vnbdigital
 7305,ews-Netz GmbH,,https://www.ew-segeberg-netz.de/,23795,Bad Segeberg,"Mittelspannung,Niederspannung",https://www.ew-segeberg-netz.de/stromnetz/entgelte/,2026-10-26,vnbdigital
 7306,Havelstrom Zehdenick GmbH,,https://www.stadtwerke-zehdenick.de,16792,Zehdenick,"Mittelspannung,Niederspannung",https://www.stadtwerke-zehdenick.de/downloads/strom/,2026-10-26,vnbdigital
-7307,EVU Langenpreising,,https://www.langenpreising.de,85456,Wartenberg,Niederspannung,,,vnbdigital
+7307,EVU Langenpreising,,https://www.gemeindewerke-langenpreising.de,85456,Wartenberg,Niederspannung,https://www.gemeindewerke-langenpreising.de/wp-content/uploads/,2026-10-26,vnbdigital
 7313,Stadtwerke Wolmirstedt GmbH,,https://www.stadtwerke-wolmirstedt.de,39326,Wolmirstedt,"Mittelspannung,Niederspannung",https://stadtwerke-wolmirstedt.de/partnerservice/netze-strom.html,2026-10-26,vnbdigital
 7323,naturenergie netze GmbH,,https://www.naturenergie-netze.de/,79618,Rheinfelden,"Hochspannung,Mittelspannung,Niederspannung",https://www.naturenergie-netze.de/neuregelung-14a-enwg,2026-10-26,vnbdigital
 7326,Stromversorgung Angermünde GmbH,,https://www.sw-angermuende.de/,16278,Angermünde,"Mittelspannung,Niederspannung",https://www.sw-angermuende.de/veroeffentlichungen.html,2026-10-26,vnbdigital

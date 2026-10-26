@@ -150,7 +150,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 257,Gemeindewerke Halstenbek,,http://www.gwhalstenbek.de,25469,Halstenbek,"Mittelspannung,Niederspannung",,,vnbdigital
 258,Stadtwerke Haltern am See GmbH,,https://www.stadtwerke-haltern.de,45721,Haltern am See,"Mittelspannung,Niederspannung",https://stadtwerke-haltern.de/netzbetreiber/strom/,2026-10-26,vnbdigital
 259,Hamburger Energienetze GmbH,,https://www.hamburger-energienetze.de/,22177,Hamburg,"Hochspannung,Mittelspannung,Niederspannung",https://www.hamburger-energienetze.de/verbrauchen-erzeugen/planen-anmelden/netzentgelte-strom,2026-10-26,vnbdigital
-261,Stadtwerke Hameln Weserbergland GmbH,,https://www.stwhw-netze.de,31785,Hameln,"Mittelspannung,Niederspannung",,,vnbdigital
+261,Stadtwerke Hameln Weserbergland GmbH,,https://www.stwhw-netze.de,31785,Hameln,"Mittelspannung,Niederspannung",https://www.stwhw-netze.de/marktpartner/netznutzung/netzentgelte,2026-10-26,vnbdigital
 262,Energie- und Wasserversorgung Hamm GmbH,,http://www.ewv-hamm-netz.de,59065,Hamm,"Mittelspannung,Niederspannung",https://www.ewv-hamm-netz.de/fuer-partnerfirmen/lieferanten,2026-10-26,vnbdigital
 269,enercity Netz GmbH,,https://www.enercity-netz.de,30459,Hannover,"Hochspannung,Mittelspannung,Niederspannung",https://www.enercity-netz.de/marktpartner/netznutzungskunden,2026-10-26,vnbdigital
 270,Versorgungsbetriebe Hann. Münden GmbH,,https://www.versorgungsbetrieb.de,34346,Hann. Münden,"Niederspannung,Mittelspannung",,,vnbdigital

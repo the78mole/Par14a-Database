@@ -1,0 +1,34 @@
+name: Datenbanken bauen und veröffentlichen
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "schema.sql", "scripts/build_db.py", ".github/workflows/release.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: SQLite je Jahr bauen
+        run: python scripts/build_db.py
+      - name: Release je Jahr anlegen oder aktualisieren
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for db in dist/par14a_*.sqlite; do
+            jahr=$(basename "$db" .sqlite | cut -d_ -f2)
+            tag="daten-$jahr"
+            if ! gh release view "$tag" >/dev/null 2>&1; then
+              gh release create "$tag" --title "§14a-Netzentgelte $jahr" \
+                --notes "SQLite-Datenbank der §14a-Netzentgelte (Modul 1, 2, 3) für $jahr. Wird bei jeder Datenänderung neu gebaut und ersetzt."
+            fi
+            gh release upload "$tag" "$db" --clobber
+          done

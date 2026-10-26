@@ -134,15 +134,17 @@ if __name__ == "__main__":
         treffer = None
         for sc, u, p in cands[:8]:
             name = u.rsplit("/", 1)[-1]
-            if any(str(y) in name for y in range(jahr + 1, 2031)):
+            if any(str(y) in name or f"0101{y % 100:02d}" in name for y in range(jahr + 1, 2031)):
                 continue
             if sc < 0 or (re.search(r"20(2[0-9]|3[0-9])", name) and str(jahr) not in name
                           and not re.search(rf"{jahr % 100:02d}0101|0101{jahr % 100:02d}", name)):
                 continue
-            t = text_mit_ocr(p)
-            if not re.search(rf"{jahr}", t):
-                continue
-            v = analysiere(t, jahr)
+            # erst ohne OCR versuchen; OCR (langsam) nur, wenn der Text nichts hergibt
+            t = (CACHE / "text" / f"{p['pdf_sha256']}.txt").read_text()
+            v = analysiere(t, jahr) if re.search(rf"{jahr}", t) else None
+            if not v and p.get("bildseiten"):
+                t = text_mit_ocr(p)
+                v = analysiere(t, jahr) if re.search(rf"{jahr}", t) else None
             if v:
                 treffer = (u, p, v, t)
                 break

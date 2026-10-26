@@ -44,7 +44,7 @@ def crawl(start, maxpages):
         seen.add(url)
         try:
             r = s.get(url, timeout=20)
-        except requests.RequestException:
+        except (requests.RequestException, ValueError):
             continue
         pages += 1
         ct = r.headers.get("content-type", "")
@@ -80,7 +80,7 @@ def crawl(start, maxpages):
 def analyse(url):
     try:
         r = requests.get(url, headers=UA, timeout=60)
-    except requests.RequestException as e:
+    except (requests.RequestException, ValueError) as e:
         return {"fehler": str(e)}
     if not r.content.startswith(b"%PDF") and "html" in r.headers.get("content-type", ""):
         # Download-Zwischenseiten (z. B. WordPress Download Monitor): dort verlinktes PDF nehmen
@@ -90,7 +90,7 @@ def analyse(url):
             if re.search(r"\.pdf|dlm|download", h, re.I) and h != url:
                 try:
                     r2 = requests.get(h, headers=UA, timeout=60)
-                except requests.RequestException:
+                except (requests.RequestException, ValueError):
                     continue
                 if r2.content.startswith(b"%PDF"):
                     r = r2

@@ -29,9 +29,13 @@ def bereiche(pdf, bildseiten, ocr=None):
     """Liefert [(seite, y0, y1, h, x0, x1)]; ganze Seite für Bildseiten mit M3-Begriffen im OCR-Text."""
     res = []
     ocr_seiten = ocr.read_text().split("\f") if ocr and ocr.exists() else []
+    bild_ohne_ocr = []
     for n, (w, h, ws) in enumerate(seiten_woerter(pdf), 1):
         txt = " ".join(t for *_, t in ws)
         if n in bildseiten:
+            if not ocr_seiten:
+                bild_ohne_ocr.append((n, 0, h, h, 0, 1))
+                continue
             if n <= len(ocr_seiten) and not re.search(r"Modul\s*3|Hochlast|Niedriglast|Hochtarif|Niedrigtarif|Niedertarif|Tarifstufe", ocr_seiten[n - 1], re.I):
                 continue
             res.append((n, 0, h, h, 0, 1))
@@ -51,7 +55,7 @@ def bereiche(pdf, bildseiten, ocr=None):
         xs = [(a, c) for a, b, c, _, _ in ws if y0 <= b <= y1]
         x0, x1 = min(a for a, _ in xs) - 10, max(c for _, c in xs) + 10
         res.append((n, max(0, y0), min(h, y1), h, max(0, x0) / w, min(w, x1) / w))
-    return res
+    return res or bild_ohne_ocr
 
 
 def render(pdf, n, y0, y1, h, fx0, fx1):

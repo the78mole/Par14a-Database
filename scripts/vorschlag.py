@@ -134,11 +134,11 @@ if __name__ == "__main__":
         treffer = None
         for sc, u, p in cands[:8]:
             name = u.rsplit("/", 1)[-1]
-            if any(str(y) in name or f"0101{y % 100:02d}" in name or re.search(rf"(?:NE|PB|vorl[a-z]*){y % 100:02d}(?!\d)", name, re.I)
+            if any(str(y) in name or f"0101{y % 100:02d}" in name or re.search(rf"0?1\.0?1\.{y % 100:02d}(?!\d)", name) or re.search(rf"(?:NE|PB|vorl[a-z]*){y % 100:02d}(?!\d)", name, re.I)
                    for y in range(jahr + 1, 2031)):
                 continue
             if sc < 0 or (re.search(r"20(2[0-9]|3[0-9])", name) and str(jahr) not in name
-                          and not re.search(rf"{jahr % 100:02d}0101|0101{jahr % 100:02d}", name)):
+                          and not re.search(rf"{jahr % 100:02d}0101|0101{jahr % 100:02d}|0?1\.0?1\.{jahr % 100:02d}(?!\d)", name)):
                 continue
             # erst ohne OCR versuchen; OCR (langsam) nur, wenn der Text nichts hergibt
             t = (CACHE / "text" / f"{p['pdf_sha256']}.txt").read_text()

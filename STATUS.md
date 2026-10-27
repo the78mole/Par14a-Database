@@ -1,16 +1,16 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-26 23:19 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-27 00:18 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
-**545 von 754 VNB erfasst (72 %)**, 209 fehlen noch.
+**544 von 754 VNB erfasst (72 %)**, 210 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
 | endgueltig | 1 |
-| vorlaeufig | 544 |
-| davon mit Modul-3-Zeitfenstern | 541 |
+| vorlaeufig | 543 |
+| davon mit Modul-3-Zeitfenstern | 540 |
 
 ### Fehlende VNB nach Grund
 
@@ -19,7 +19,7 @@ Stand: 2026-10-26 23:19 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 | §14a-PDF vorhanden, aber nicht eindeutig 2027 | 128 |
 | kein §14a-Preisblatt auf der Webseite gefunden | 72 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 1 |
+| §14a-PDF vorhanden, manuelle Prüfung offen | 2 |
 
 <details><summary>Liste der fehlenden VNB 2027</summary>
 
@@ -242,6 +242,7 @@ Stand: 2026-10-26 23:19 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 **§14a-PDF vorhanden, manuelle Prüfung offen**
 
+- 454 Gemeindewerke Neuendettelsau
 - 510 Stadtwerke Passau GmbH
 
 </details>

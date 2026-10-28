@@ -1,22 +1,22 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-28 14:30 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-28 14:48 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
-**639 von 754 VNB erfasst (85 %)**, 115 fehlen noch.
+**640 von 754 VNB erfasst (85 %)**, 114 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
 | endgueltig | 1 |
-| vorlaeufig | 638 |
-| davon mit Modul-3-Zeitfenstern | 633 |
+| vorlaeufig | 639 |
+| davon mit Modul-3-Zeitfenstern | 634 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 59 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 58 |
 | §14a-PDF vorhanden, aber nicht eindeutig 2027 | 46 |
 | Bot-Schutz (HTTP 403), nur manuell | 8 |
 | §14a-PDF vorhanden, manuelle Prüfung offen | 2 |
@@ -68,7 +68,6 @@ Stand: 2026-10-28 14:30 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7109 EVU Obernzell
 - 7113 Gemeindewerke Markt Stockstadt am Main
 - 7127 Gemeindewerke Nüdlingen
-- 7134 Gemeindewerke Partenstein
 - 7219 Elektrizitätswerk Rohmund GmbH
 - 7235 E-Werk Meckenheim/Pfalz
 - 7247 Stromversorgung Markt Egloffstein

@@ -1,16 +1,16 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-28 14:48 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-28 15:05 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
-**640 von 754 VNB erfasst (85 %)**, 114 fehlen noch.
+**648 von 754 VNB erfasst (86 %)**, 106 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
 | endgueltig | 1 |
-| vorlaeufig | 639 |
-| davon mit Modul-3-Zeitfenstern | 634 |
+| vorlaeufig | 647 |
+| davon mit Modul-3-Zeitfenstern | 642 |
 
 ### Fehlende VNB nach Grund
 
@@ -18,7 +18,6 @@ Stand: 2026-10-28 14:48 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 |---|---:|
 | kein §14a-Preisblatt auf der Webseite gefunden | 58 |
 | §14a-PDF vorhanden, aber nicht eindeutig 2027 | 46 |
-| Bot-Schutz (HTTP 403), nur manuell | 8 |
 | §14a-PDF vorhanden, manuelle Prüfung offen | 2 |
 
 <details><summary>Liste der fehlenden VNB 2027</summary>
@@ -132,17 +131,6 @@ Stand: 2026-10-28 14:48 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7745 Stadtwerke Oldenburg in Holstein GmbH
 - 7747 Stromnetz Weiden i.d.OPf. GmbH & Co. KG
 - 7774 Weiler Wärme eG
-
-**Bot-Schutz (HTTP 403), nur manuell**
-
-- 535 Schleswig-Holstein Netz GmbH
-- 1000 E.DIS Netz GmbH
-- 1064 Syna GmbH
-- 1068 Bayernwerk Netz GmbH
-- 7137 Avacon Netz GmbH
-- 7332 Westnetz GmbH
-- 7510 Energienetze Bayern GmbH
-- 7750 Stuttgart Netze GmbH
 
 **§14a-PDF vorhanden, manuelle Prüfung offen**
 

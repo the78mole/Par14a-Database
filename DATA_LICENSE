@@ -1,0 +1,29 @@
+Par14a-Database – Daten
+
+Die Daten in diesem Repository (Verzeichnis data/, die SQLite-Datenbanken
+par14a_<jahr>.sqlite in den Releases und die JSON-Dateien der Webseite unter
+daten/) stehen unter der Lizenz
+
+  Creative Commons Namensnennung 4.0 International (CC BY 4.0)
+  https://creativecommons.org/licenses/by/4.0/legalcode.de
+
+Namensnennung bitte so:
+
+  Par14a-Database (the78mole), https://github.com/the78mole/Par14a-Database,
+  Lizenz: CC BY 4.0
+
+Hinweise
+
+- Die Preise und Zeitfenster stammen aus den Preisblättern der jeweiligen
+  Verteilnetzbetreiber, die diese nach dem EnWG veröffentlichen. Maßgeblich ist
+  immer das Original-Preisblatt des Netzbetreibers (Link in pdf_url).
+- Die Smart-Meter-Roll-out-Quote stammt von der Bundesnetzagentur
+  (www.bundesnetzagentur.de). Die VNB-Stammdaten stammen aus
+  www.vnbdigital.de. Bei Weiterverwendung bitte diese Quellen ebenfalls nennen.
+- Die Preisblätter (PDF) selbst sind nicht Teil dieser Daten und werden nicht
+  verteilt.
+- Die Daten werden ohne Gewähr für Richtigkeit, Vollständigkeit und Aktualität
+  bereitgestellt.
+
+Der Programmcode (scripts/, web/, Workflows) steht unter der MIT-Lizenz, siehe
+LICENSE.

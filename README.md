@@ -54,3 +54,10 @@ Alle Preise sind netto, wie im Preisblatt. `status` ist `endgueltig`, `vorlaeufi
 
 VNB, deren Preisblätter nur hinter Bot-Schutz oder Cloudflare-Prüfung erreichbar sind: [ZUGANGSBARRIEREN.md](ZUGANGSBARRIEREN.md).
 Noch nicht erfasste VNB 2026 mit Grund: [OFFEN_2026.md](OFFEN_2026.md).
+
+## Lizenz
+
+- **Daten** (`data/`, SQLite-Releases, JSON der Webseite): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de), siehe [DATA_LICENSE](DATA_LICENSE). Namensnennung: „Par14a-Database (the78mole), CC BY 4.0“.
+- **Code** (`scripts/`, `web/`, Workflows): [MIT](LICENSE).
+
+Quellen: Preisblätter der Verteilnetzbetreiber (Veröffentlichung nach EnWG, maßgeblich ist immer das Original-PDF), VNB-Stammdaten von [vnbdigital.de](https://www.vnbdigital.de), Roll-out-Quote von der [Bundesnetzagentur](https://www.bundesnetzagentur.de). Die PDFs selbst werden nicht verteilt. Alle Angaben ohne Gewähr.

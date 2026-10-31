@@ -42,6 +42,7 @@ Preisblätter für VNBs, die noch nicht in der Datenbank enthalten sind, oder ne
 | `scripts/fetch_vnb.py` | aktualisiert `data/vnb.csv` aus vnbdigital (nutzt [vnbdigital-client](https://github.com/the78mole/vnbdigital-client)) |
 | `scripts/find_preisblatt.py` | sucht auf der VNB-Webseite nach Preisblatt-PDFs, zuerst auf der gespeicherten Einstiegsseite |
 | `scripts/build_db.py` | baut `dist/par14a_<jahr>.sqlite` |
+| `scripts/pdf_sync.py`, `scripts/pdf_sync.sh` | spiegelt die PDFs aus dem S3-Bucket nach `pdfs/<jahr>/<vnb_id>/<sha256>.pdf` (gitignored), sortiert lokale PDFs mit `--import` per sha256 ein und listet Blätter, die im Bucket fehlen |
 | `web/index.html`, `scripts/build_web.py` | Abfrageseite; das Skript baut sie mit `daten/<jahr>.json` nach `dist/web` |
 
 Alle Preise sind netto, wie im Preisblatt. `status` ist `endgueltig`, `vorlaeufig` oder `nicht_gefunden`.

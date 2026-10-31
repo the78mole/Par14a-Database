@@ -1,24 +1,23 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-10-28 15:05 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-10-31 21:57 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
-**648 von 754 VNB erfasst (86 %)**, 106 fehlen noch.
+**656 von 754 VNB erfasst (87 %)**, 98 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
 | endgueltig | 1 |
-| vorlaeufig | 647 |
-| davon mit Modul-3-Zeitfenstern | 642 |
+| vorlaeufig | 655 |
+| davon mit Modul-3-Zeitfenstern | 650 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 58 |
-| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 46 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 2 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 56 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 42 |
 
 <details><summary>Liste der fehlenden VNB 2027</summary>
 
@@ -49,13 +48,11 @@ Stand: 2026-10-28 15:05 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 670 Stadtwerke Wasserburg am Inn
 - 712 Gemeindewerke Ebersdorf
 - 742 Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal
-- 751 Stadtwerke Güstrow GmbH
 - 792 Netzgesellschaft Potsdam GmbH
 - 7001 Stadtwerke Weißwasser GmbH
 - 7013 Elektrizitätsvereinigung Böbing eG
 - 7021 Elektrizitätsgenossenschaft Engelsberg e.G.
 - 7024 Elektrizitätswerk Frammersbach
-- 7035 Stadtwerke Hünfeld GmbH
 - 7052 Stadtwerke Niesky GmbH
 - 7055 Stadtwerke OELSNITZ/V. GmbH
 - 7058 Elektrizitäts-Werk Ottersberg
@@ -86,11 +83,9 @@ Stand: 2026-10-28 15:05 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 **§14a-PDF vorhanden, aber nicht eindeutig 2027**
 
 - 84 SWB Stadtwerke Biedenkopf GmbH
-- 113 Bauer Netz GmbH & Co. KG
 - 117 Stadtwerke Bühl GmbH
 - 136 Stadtwerke Deidesheim GmbH
 - 189 Elektrizitätswerk Leitlein GmbH & Co. KG
-- 216 Gemeindewerke Garmisch-Partenkirchen
 - 239 Rothmoser GmbH & Co. KG
 - 248 Netzgesellschaft Gütersloh mbH
 - 257 Gemeindewerke Halstenbek
@@ -102,6 +97,7 @@ Stand: 2026-10-28 15:05 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 568 Stadtwerke Bad Saulgau
 - 596 Elektrizitäts-Genossenschaft Schlachters eG
 - 619 Stromversorgung Sulz am Neckar GmbH
+- 620 Stadtwerke Sulzbach/Saar GmbH
 - 623 Müller Mühle GmbH & Co. KG Elektrizitätswerk Tauberrettersheim
 - 665 Stadtwerke Waldshut-Tiengen GmbH
 - 689 BEW Netze GmbH
@@ -115,48 +111,38 @@ Stand: 2026-10-28 15:05 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 875 Kraftwerk Köhlgartenwiese GmbH
 - 911 Energie- und Wasserwerke Bautzen GmbH
 - 992 Stadtwerke Burg Energienetze GmbH
+- 7035 Stadtwerke Hünfeld GmbH
 - 7048 Gemeindewerke Münchweiler AöR
 - 7066 Magistrat der Stadt Schlitz -Stadtwerke-
-- 7086 Getreidemühle Zwiefalten e.G.
 - 7115 Gemeindewerke Waging a. See
 - 7116 Versorgungsbetrieb Waldbüttelbrunn GmbH
 - 7146 Gemeindewerke Wildeck
 - 7168 Stadtwerke Wachenheim
-- 7183 Stadtwerke Munster-Bispingen GmbH
 - 7190 Elektrizitätswerke Schönau Netze GmbH
 - 7202 EVU Späth e.K.
 - 7204 gemeinsames Kommunalunternehmen Oberes Egertal
 - 7237 Stadtwerke Jena Netze GmbH
-- 7693 BIGGE ENERGIE GmbH & Co. KG
-- 7745 Stadtwerke Oldenburg in Holstein GmbH
-- 7747 Stromnetz Weiden i.d.OPf. GmbH & Co. KG
+- 7547 SWL Übertragungsnetzgesellschaft mbH
 - 7774 Weiler Wärme eG
-
-**§14a-PDF vorhanden, manuelle Prüfung offen**
-
-- 454 Gemeindewerke Neuendettelsau
-- 620 Stadtwerke Sulzbach/Saar GmbH
 
 </details>
 
 ## 2026
 
-**729 von 754 VNB erfasst (97 %)**, 25 fehlen noch.
+**731 von 754 VNB erfasst (97 %)**, 23 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
-| endgueltig | 714 |
+| endgueltig | 716 |
 | vorlaeufig | 15 |
-| davon mit Modul-3-Zeitfenstern | 721 |
+| davon mit Modul-3-Zeitfenstern | 723 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
-| kein §14a-Preisblatt auf der Webseite gefunden | 15 |
-| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 6 |
-| noch nicht gecrawlt | 3 |
-| §14a-PDF vorhanden, manuelle Prüfung offen | 1 |
+| kein §14a-Preisblatt auf der Webseite gefunden | 14 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2026 | 9 |
 
 <details><summary>Liste der fehlenden VNB 2026</summary>
 
@@ -169,7 +155,6 @@ Stand: 2026-10-28 15:05 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 474 Elektrizitäts-Genossenschaft Nordhalben und
 - 562 VSE Verteilnetz GmbH
 - 742 Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal
-- 751 Stadtwerke Güstrow GmbH
 - 7024 Elektrizitätswerk Frammersbach
 - 7055 Stadtwerke OELSNITZ/V. GmbH
 - 7087 Stadtwerke Hammelburg GmbH
@@ -181,20 +166,13 @@ Stand: 2026-10-28 15:05 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 **§14a-PDF vorhanden, aber nicht eindeutig 2026**
 
 - 257 Gemeindewerke Halstenbek
+- 341 Fürstl. Fugger-Glött'sches Elektrizitätswerk
 - 512 Gemeindewerke Peißenberg KU
 - 522 Stadtwerke Quickborn GmbH
+- 649 Stadtwerke Uslar GmbH
+- 751 Stadtwerke Güstrow GmbH
 - 911 Energie- und Wasserwerke Bautzen GmbH
 - 7146 Gemeindewerke Wildeck
-- 7693 BIGGE ENERGIE GmbH & Co. KG
-
-**noch nicht gecrawlt**
-
-- 341 Fürstl. Fugger-Glött'sches Elektrizitätswerk
-- 636 Energieversorgung Trossingen GmbH
-- 649 Stadtwerke Uslar GmbH
-
-**§14a-PDF vorhanden, manuelle Prüfung offen**
-
-- 223 Energieversorgung Gemünden GmbH
+- 7547 SWL Übertragungsnetzgesellschaft mbH
 
 </details>

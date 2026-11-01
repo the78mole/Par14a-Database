@@ -1,6 +1,8 @@
 # Offene VNB 2026
 
-Für diese 25 VNB ist bisher kein §14a-Preisblatt 2026 erfasst (Stand 26.10.2026, 729 von 754 erfasst).
+Für diese 23 VNB ist bisher kein §14a-Preisblatt 2026 erfasst (Stand 31.10.2026, 731 von 754 erfasst).
+
+Nachtrag 31.10.2026: Gemünden (223), Trossingen (636) und BIGGE ENERGIE (7693) haben ihre Blätter 2026 inzwischen online und sind erfasst. SWL Übertragungsnetzgesellschaft (7547) war bisher mit dem Blatt der SWL Verteilungsnetzgesellschaft (7042) erfasst; sie betreibt aber nur Mittelspannung (eigenes Blatt „PB-UeNG“ ohne §14a-Module) und steht jetzt wie VSE (562) unter „§14a entfällt“.
 
 Am 26.10.2026 wurde für jeden VNB geprüft, ob er den Netzbetrieb an einen anderen (größeren)
 Netzbetreiber übergeben hat. Geprüft wurden die eigene Webseite (Netz-Seiten, Selbstbezeichnung
@@ -29,7 +31,6 @@ Keine Übergabe gefunden. Spalte „Netzbetrieb“ nennt den Beleg, dass der VNB
 |---|---|---|---|
 | 114 | Stadtwerke Buchen GmbH & Co KG | unter Downloads nur die TAB | eigene Seiten Netze/Strom, Netzanschluss; vnbdigital |
 | 186 | Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen eG | Website ohne Netzseite (jetzt HTTP 403) | vnbdigital; keine Meldung über Übergabe |
-| 223 | Energieversorgung Gemünden GmbH | alle Netz-Unterseiten liefern 404 | Netz-Menü auf der Startseite; vnbdigital |
 | 245 | Stadtwerke Groß-Gerau Versorgungs GmbH | Website im Wartungsmodus | vnbdigital; seit 2018 Kooperation mit dem Überlandwerk Groß-Gerau beim Netzbetrieb ([energate](https://www.energate-messenger.com/news/180277/network-cooperation-in-gross-gerau)), keine Übergabe belegt |
 | 257 | Gemeindewerke Halstenbek | kein Preisblatt auf der Website | eigene Seiten „Unser Netz“, Netzveröffentlichungen; vnbdigital |
 | 313 | Rheinhessische Energie- und Wasserversorgungs-GmbH | Stromnetz-Seite nur mit Dokumenten zum Messstellenbetrieb | eigene Netzseite rheinhessische-netze.de; vnbdigital |
@@ -37,8 +38,8 @@ Keine Übergabe gefunden. Spalte „Netzbetrieb“ nennt den Beleg, dass der VNB
 | 474 | Elektrizitäts-Genossenschaft Nordhalben und | Netzpreisliste 2026 ohne §14a-Module (GP 130 €/a, AP 9,70 ct) | eigene Netzpreisliste 2026; vnbdigital |
 | 512 | Gemeindewerke Peißenberg KU | gwp-netz.de liefert HTTP 500 | eigene Stromnetz-Seiten; vnbdigital |
 | 522 | Stadtwerke Quickborn GmbH | Veröffentlichungsportal ohne Entgelte | „Die Strom- und Gasnetze der Stadtwerke Quickborn“; vnbdigital |
+| 7547 | SWL Übertragungsnetzgesellschaft mbH | **§14a entfällt:** nur Mittelspannung, Preisblatt UeNG ohne §14a-Module | eigenes Preisblatt auf netzinfo.swl-unser-stadtwerk.de |
 | 562 | VSE Verteilnetz GmbH | **§14a entfällt:** nur HS/MS, kein Niederspannungsnetz und keine Haushaltskunden | keine Übergabe; in Saarbrücken ist Niederspannung bei Stadtwerke Saarbrücken Netz (561). Ohne Niederspannung ist kein §14a-Blatt zu erwarten. |
-| 636 | Energieversorgung Trossingen GmbH | Seite „Netze Strom“ verlinkt 2026_PB_aggregiert_StromNN und 2026_PB_StromNN_informatorisch, beide Links liefern HTTP 404 (Stand 26.10.2026, vermutlich beim Umzug auf WordPress verloren); nur das vorläufige Blatt 2027 ist abrufbar | eigene Seite Netze Strom; vnbdigital |
 | 649 | Stadtwerke Uslar GmbH | nur 2025 und vorläufig 2027 online | eigene Seite Transport und Netz Strom; vnbdigital |
 | 742 | Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal | kein Preisblatt auf der Website | eigenes Downloadcenter Netz; vnbdigital |
 | 751 | Stadtwerke Güstrow GmbH | Website im Wartungsmodus | vnbdigital; Wirtschaftsplan 2026 der Stadt Güstrow nennt Stromversorgung durch die Stadtwerke |
@@ -49,7 +50,6 @@ Keine Übergabe gefunden. Spalte „Netzbetrieb“ nennt den Beleg, dass der VNB
 | 7219 | Elektrizitätswerk Rohmund GmbH | HTTP 403, lädt auch im Browser nicht | vnbdigital; Netzanschlussportal wird von den Stadtwerken Eschwege betrieben (Dienstleistung), Netz bleibt bei Rohmund |
 | 7247 | Stromversorgung Markt Egloffstein | keine Website bekannt | vnbdigital; keine Meldung über Übergabe |
 | 7497 | E-Werk Rohrdorf Josef Haimmerer | keine Website bekannt | vnbdigital (Rohrdorf teils Haimmerer, teils Bayernwerk); keine Meldung über Übergabe |
-| 7693 | BIGGE ENERGIE GmbH & Co. KG | nur Lieferantentarife (BIGGE E-mobil §14a) | eigene Netzkunden-Seiten, Störungsmeldung; vnbdigital |
 
 ## Endkunden in der Niederspannung
 
@@ -64,7 +64,6 @@ Niederspannung und müssten ein §14a-Blatt veröffentlichen.
 |---|---|---|
 | 114 | Stadtwerke Buchen | Netzanschluss-Seiten für Hausanschluss, Balkonkraftwerk und Ladestation; Grundversorgung Strom |
 | 186 | EWG Vagen | betreibt laut vnbdigital nur Niederspannung; Grundversorger am Ort |
-| 223 | Energieversorgung Gemünden | Grundversorger am Ort; Netzseiten zu §14a, Netzanschluss und Einspeisung |
 | 245 | Stadtwerke Groß-Gerau Versorgungs GmbH | in der [Netzentgeltstatistik der Regulierungskammer Hessen](https://regulierungskammer.hessen.de/sites/regulierungskammer.hessen.de/files/2024-03/rkh_-_netzentgeltstatistik_strom_-_stand_01.01.2024.pdf) (Stand 01.01.2025, Kunden ohne Leistungsmessung, 3.500 kWh) geführt |
 | 257 | Gemeindewerke Halstenbek | 10.266 Entnahmestellen in der NS ([Strukturdaten 2025](https://gwhalstenbek.netzveroeffentlichung.com/stromnetz/netzstrukturdaten/strukturdaten/)) |
 | 313 | Rheinhessische Energie- und Wasserversorgung | eigene Seiten zu Netzanschluss, Baustrom, Plugin-PV und steuerbaren Verbrauchseinrichtungen |
@@ -72,7 +71,6 @@ Niederspannung und müssten ein §14a-Blatt veröffentlichen.
 | 474 | EG Nordhalben | eigene NS-Netzpreisliste 2026 (GP 130 €/a, AP 9,70 ct) |
 | 512 | Gemeindewerke Peißenberg | Seiten zu Netzanschluss, Balkonkraftwerk, Zähler-PIN; Stellenanzeige nennt das 0,4-kV-Netz |
 | 522 | Stadtwerke Quickborn | Hausanschluss-Seiten und Online-Formular „Wechsel netzorientierte Steuerung“ (§14a) |
-| 636 | Energieversorgung Trossingen | vorläufiges NS-Blatt 2027 online |
 | 649 | Stadtwerke Uslar | NS-Blatt 2027 mit §14a-Modulen ist bereits erfasst |
 | 742 | Stadtwerke Stendal | 23.509 Entnahmestellen ohne Leistungsmessung, 67 GWh Abgabe in der NS 2025 ([enwg-veroeffentlichungen.de/stendal](https://www.enwg-veroeffentlichungen.de/stendal/Netze/)) |
 | 751 | Stadtwerke Güstrow | Grundversorger am Ort; Wirtschaftsplan 2026 der Stadt nennt Stromversorgung der Stadt |
@@ -83,7 +81,6 @@ Niederspannung und müssten ein §14a-Blatt veröffentlichen.
 | 7219 | Elektrizitätswerk Rohmund | in der Netzentgeltstatistik der Regulierungskammer Hessen (Stand 01.01.2025) geführt |
 | 7247 | Stromversorgung Markt Egloffstein | betreibt laut vnbdigital nur Niederspannung; Grundversorger am Ort |
 | 7497 | E-Werk Rohrdorf Josef Haimmerer | betreibt laut vnbdigital nur Niederspannung; Grundversorger am Ort |
-| 7693 | BIGGE ENERGIE | 48.908 Entnahmestellen in der NS ([Netzstrukturdaten](https://www.enwg-veroeffentlichungen.de/bigge/Netze/Stromnetz/Netzstrukturdaten.html)) |
 
 ## Übergaben zum 01.01.2027
 

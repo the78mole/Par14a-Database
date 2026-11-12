@@ -58,6 +58,7 @@ def build(jahr):
     v = version()
     con.executemany("INSERT INTO meta (schluessel, wert) VALUES (?, ?)", [
         ("version", v), ("jahr", str(jahr)), ("commit", git("rev-parse", "HEAD")),
+        ("lizenz", "CC-BY-4.0, Namensnennung: Par14a-Database (the78mole), https://github.com/the78mole/Par14a-Database"),
         ("gebaut_am", datetime.datetime.now(datetime.UTC).isoformat(timespec="seconds"))])
     con.commit()
     con.close()

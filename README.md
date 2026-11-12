@@ -20,7 +20,7 @@ Datenbank der §14a-EnWG-Netzentgelte (Modul 1, 2, 3) für steuerbare Verbrauchs
 
 ## Download
 
-Die fertigen Datenbanken liegen in den Releases, je Jahr ein Release `daten-<jahr>` mit `par14a_<jahr>.sqlite`. Sie werden bei jeder Änderung in `data/` automatisch neu gebaut. Jeder Stand hat eine eindeutige Version aus Commit-Datum und Commit (z. B. `2026-11-12+837ea02`); sie steht in der Tabelle `meta` der Datenbank und in den Release-Notes, zusammen mit den letzten Änderungen an den Daten.
+Die fertigen Datenbanken liegen in den Releases, je Jahr ein Release `daten-<jahr>` mit `par14a_<jahr>.sqlite`. Sie werden bei jeder Änderung in `data/` automatisch neu gebaut. Jeder Stand hat eine eindeutige Version aus Commit-Datum und Commit (z. B. `2026-11-12+837ea02`); sie steht in der Tabelle `meta` der Datenbank und in den Release-Notes, zusammen mit den letzten Änderungen an den Daten. Zu jeder Datenbank gibt es eine SHA-256-Prüfsumme und eine signierte Build-Provenance, Prüfen siehe [docs/SICHERHEIT.md](docs/SICHERHEIT.md#2-release-anhänge-prüfen).
 
 ## Webseite
 
@@ -38,7 +38,7 @@ Preisblätter für VNBs, die noch nicht in der Datenbank enthalten sind, oder ne
 
 ## Mitmachen und Fehler melden
 
-Falsche Werte, Fehler in Skripten oder auf der Webseite bitte als [Issue](https://github.com/the78mole/Par14a-Database/issues) melden. Wie Pull Requests ablaufen und welche Anforderungen gelten (Tests, Ruff), steht in [CONTRIBUTING.md](CONTRIBUTING.md). Sicherheitslücken bitte vertraulich melden, siehe [SECURITY.md](SECURITY.md).
+Falsche Werte, Fehler in Skripten oder auf der Webseite bitte als [Issue](https://github.com/the78mole/Par14a-Database/issues) melden. Wie Pull Requests ablaufen und welche Anforderungen gelten (Tests, Ruff, `Signed-off-by`), steht in [CONTRIBUTING.md](CONTRIBUTING.md). Sicherheitslücken bitte vertraulich melden, siehe [SECURITY.md](SECURITY.md). Rollen und Zugriffsrechte: [GOVERNANCE.md](GOVERNANCE.md), Aufbau und Abläufe: [docs/ARCHITEKTUR.md](docs/ARCHITEKTUR.md), Sicherheitskonzept und Prüfen der Downloads: [docs/SICHERHEIT.md](docs/SICHERHEIT.md).
 
 ## Aufbau
 
@@ -71,7 +71,7 @@ Noch nicht erfasste VNB 2026 mit Grund: [OFFEN_2026.md](OFFEN_2026.md).
 
 ## Entwicklung
 
-Python 3.12 oder neuer. Datenbank und Webseite brauchen nur die Standardbibliothek, die übrigen Skripte nennen ihre Pakete selbst (requests, beautifulsoup4, openpyxl, boto3). Lint und Tests:
+Python 3.12 oder neuer. Datenbank und Webseite brauchen nur die Standardbibliothek. Die Hilfsskripte brauchen die Pakete aus [requirements.txt](requirements.txt) (`python -m pip install -r requirements.txt`) sowie curl und poppler-utils (pdftotext, pdftoppm). Lint und Tests:
 
 ```sh
 python -m pip install --require-hashes -r requirements-dev.txt   # pytest und ruff, mit Hashes gepinnt

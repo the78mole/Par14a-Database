@@ -1,0 +1,38 @@
+      Grundpreis-/Arbeitspreissystem Marktlokation Grundpreis für
+      Arbeitspreissystem der Kategorie sonstiger Verbrauch                                    1-02-0-001   60,00    0,16438356
+      Grundpreis
+      Grundpreis-/Arbeitspreissystem Marktlokation Grundpreis für Arbeits-
+      preissystem Modul 1                                                                     1-02-0-001   60,00    0,16438356
+      Grundpreis
+      orientierten Steuerung von steuerbaren Verbrauchseinrichtungen und                      1-02-0-015   138,63   0,37980822
+      rung von steuerbaren Verbrauchseinrichtungen und steuerbaren Netz-
+                                                                                              1-02-0-016    3,81      0,0381
+      anschlüssen nach § 14a EnWG gem. Festlegungen BK6-22-300 und
+
+ Quartal                 Beginn              Ende             Angebot
+
+ Quartal 1            01.01.2026          31.03.2026              ja
+
+ Quartal 2            01.04.2026          30.06.2026              ja
+
+ Quartal 3            01.07.2026          30.09.2026              ja
+
+ Quartal 4            01.10.2026          31.12.2026              ja
+
+ nen, die nach Modul 3 der Festlegungen zu Netzent-
+ gelten bei Anwendung der netzorientierten Steuerung                                                          05:30 – 17:15
+                                                                       1-02-0-002            9,52    0,0952
+ von steuerbaren Verbrauchseinrichtungen und steuer-                                                          23:00 – 00:00
+ baren Netzanschlüssen nach § 14a EnWG gem. Festle-
+ wendung der netzorientierten Steuerung von steuerba-
+ ren Verbrauchseinrichtungen und steuerbaren Netzan-                   1-02-0-017           11,79    0,1179   17:15 – 23:00
+ schlüssen nach § 14a EnWG gem. Festlegungen BK6-
+ wendung der netzorientierten Steuerung von steuerba-
+ ren Verbrauchseinrichtungen und steuerbaren Netzan-                   1-02-0-018            3,81    0,0381   00:00 – 05:30
+ schlüssen nach § 14a EnWG gem. Festlegungen BK6-
+   Messstellenbetrieb bei kME, Mittelspannung, kME mit
+                                                                      1-06-5-001   360,00   0,98630137
+   registrierender Last-/Einspeisemessung
+   Messstellenbetrieb bei kME, Niederspannung, kME mit
+                                                                      1-06-7-001   360,00   0,98630137
+   registrierender Last-/Einspeisemessung

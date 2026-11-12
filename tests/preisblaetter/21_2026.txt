@@ -1,0 +1,8 @@
+Standardlastprofil
+Sockelbetrag                                                                               98,00 €/Jahr
+Arbeitspreis                                                                               4,58 ct/kWh
+Modul 1: Pauschale Netzentgeltreduzierung**                                               101,58 €/Jahr
+Modul 3: Hochlasttarifstufe****                                                            7,10 ct/kWh
+Modul 3: Niedriglasttarifstufe****                                                         1,83 ct/kWh
+              o   Hochlasttarifstufe: 12:30 Uhr – 13:45 Uhr und 19:15 Uhr – 22:00 Uhr
+              o   Niedriglasttarifstufe: 23:45 Uhr – 07:15 Uhr und 16:00 Uhr – 17:15 Uhr

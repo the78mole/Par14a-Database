@@ -1,0 +1,13 @@
+                               Pauschale Reduzierung*                                                                        127,23 €
+                                                                                                                     netto
+      Arbeitspreis                                                                                                   3,20            ct/kWh
+
+                                                            Standardtarifstufe             Hochlasttarifstufe            Niedriglasttarifstufe
+      Quartal 1                                              0:00     -   10:00             17:00       -    22:00           10:00     -     15:00
+                                                            22:00     -    0:00
+                               Arbeitspreis                     8,00 ct/kWh                    12,21 ct/kWh                     3,20 ct/kWh
+      Quartal 2                                              0:00       -     24:00
+      Quartal 4                                              0:00     -   10:00             17:00       -    22:00           10:00     -     15:00
+                                                            22:00     -    0:00
+                               Arbeitspreis                     8,00 ct/kWh                    12,21 ct/kWh                     3,20 ct/kWh
+

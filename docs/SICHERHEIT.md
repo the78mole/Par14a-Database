@@ -50,9 +50,9 @@ sondern falsche oder untergeschobene Daten und Angriffe über die Lieferkette.
 |---|---|---|
 | Untergeschobene Werte oder Links | Issues und Pull Requests von Beitragenden | Werte aus Issues überträgt nur der Maintainer nach Prüfung gegen das PDF; Pull Requests nur mit Review und CI; Datenprüfung in `tests/test_daten.py` |
 | Skript-Einschleusung auf der Webseite (XSS, CWE-79) | Texte und URLs aus `data/` | DOM-Methoden statt `innerHTML`, Links nur mit `http(s)://`, CodeQL für JavaScript |
-| SQL-Einschleusung (CWE-89) | Spaltennamen aus CSV-Köpfen in `build_db.py` | Werte nur als Parameter, Spaltennamen werden als Bezeichner geprüft; Test dafür |
+| SQL-Einschleusung (CWE-89) | Spaltennamen aus CSV-Köpfen in `build_db.py` | Werte nur als Parameter, nur Spaltennamen, die genau so in der Tabelle stehen; Eigenschaftstest und Fuzzer (`fuzz/fuzz_csv.py`) |
 | Kommando-Einschleusung (CWE-78) | URLs und Dateinamen in den lokalen Skripten | `subprocess` nur mit Argumentliste, nie `shell=True` (Ruff-Regel S602) |
-| Präparierte PDFs oder Webseiten | lokale Skripte des Maintainers | Verarbeitung nur lokal mit verbreiteten Werkzeugen (pdftotext, BeautifulSoup), Ergebnisse werden vor dem Eintragen geprüft |
+| Präparierte PDFs oder Webseiten | lokale Skripte des Maintainers | Verarbeitung nur lokal mit verbreiteten Werkzeugen (pdftotext, BeautifulSoup), Ergebnisse werden vor dem Eintragen geprüft; die Auslese-Heuristiken werden mit Hypothesis und Atheris gefuzzt (`fuzz/fuzz_auslese.py`) |
 | Manipulierte Lieferkette | Actions, Werkzeuge, Abhängigkeiten | Actions per Commit-SHA, Werkzeuge mit Hashes, Renovate, Abhängigkeitsprüfung, OpenSSF Scorecard |
 | Fremder Code mit Schreibrechten | Pull Requests aus Forks | nur `pull_request` (ohne Secrets, Token nur lesend), kein `pull_request_target`; Schreibrechte nur in `release.yml`/`pages.yml` nach Merge |
 | Unbefugte Änderung an `main` | Direkt-Push, Force-Push, Löschen | Ruleset „main schützen“ mit Pflicht-Checks |
@@ -70,6 +70,7 @@ und unter einer freien Lizenz sind. Sie werden über PyPI bzw. GitHub bezogen un
 | Art | Datei | Pinning |
 |---|---|---|
 | Werkzeuge für Lint und Tests | `requirements-dev.in` → `requirements-dev.txt` (`uv pip compile --generate-hashes`) | Version und Hash |
+| Fuzzing (Atheris, nur CI und Linux) | `requirements-fuzz.in` → `requirements-fuzz.txt` (`uv pip compile --generate-hashes`) | Version und Hash |
 | Hilfsskripte des Maintainers | `requirements.txt` | nicht gepinnt, laufen nur lokal |
 | GitHub Actions | `.github/workflows/*.yml` | Commit-SHA |
 
@@ -93,6 +94,13 @@ Ruff-Befund und bei CodeQL-Befunden ab Schweregrad *medium* bzw. jedem Fehler. B
 *critical*/*high* innerhalb von 14 Tagen, *medium* innerhalb von 60 Tagen beheben. Ein Befund darf
 nur als nicht ausnutzbar unterdrückt werden, mit Begründung direkt an der Stelle
 (`# noqa: <Regel>  Grund`) bzw. als „Dismiss“ mit Kommentar im Code Scanning.
+
+**Dynamische Analyse (Fuzzing).** Hypothesis-Eigenschaftstests laufen in jedem Testlauf, die
+Atheris-Fuzzer in `fuzz/` bei Pull Requests, die Skripte oder Fuzzer ändern, und wöchentlich
+([fuzz.yml](../.github/workflows/fuzz.yml)). Die Harnesse prüfen Invarianten mit Assertions
+(gültige Zeitfenster, Quartale, Modulformeln, nur vorgesehene Ausnahmen). Ein Fund (Absturz,
+verletzte Invariante) wird wie ein Fehler behandelt: Korrektur mit Regressionstest im selben Pull
+Request; ist er sicherheitsrelevant, gelten die Fristen oben.
 
 ## 5. Umgang mit Geheimnissen
 

@@ -27,11 +27,14 @@ def hhmm(h, m):
 
 def spanne(pos, a, b):
     """Ein Fenster als [(pos, "von-bis")]; über Mitternacht (22:00-06:00) geteilt wie in m3_zeitfenster.csv."""
-    if not a or not b or a == b:
+    if not a or not b:
         return []
+    if a == b:
+        return []
+    a = "00:00" if a == "24:00" else a
+    if a == b:
+        return []  # "24:00-00:00" ist leer, "00:00-24:00" dagegen der ganze Tag
     b = "24:00" if b == "00:00" else b
-    if a == "24:00":
-        a = "00:00"
     if a < b:
         return [(pos, f"{a}-{b}")]
     return [(pos, f"{a}-24:00"), (pos, f"00:00-{b}")]
@@ -78,13 +81,18 @@ def nur_ganzer_tag(rest):
 
 
 def quartale_tabelle(zeilen):
-    """Kopfzeile Q1 | Q2 | Q3 | Q4 (oder Quartal 1 … 4), darunter eine Zeile Ja | Nein | Nein | Ja."""
+    """Kopfzeile Q1 | Q2 | Q3 | Q4 (oder Quartal 1 … 4, 1. Quartal …), darunter eine Zeile Ja | Nein | Nein | Ja.
+
+    Liefert die aktiven Quartale, [] für eine erkannte Tabelle ohne aktives Quartal, None ohne Tabelle."""
     for i, z in enumerate(zeilen):
-        refs = [m for m in QREF.finditer(z) if m.group(1) or m.group(2)]
+        refs = list(QREF.finditer(z))
         if len(refs) < 3:
             continue
-        # vier Spalten sind immer Q1–Q4, auch wenn die Kopfzeile sich vertippt ("Quartal 3 | Quartal 3")
-        nummern = [1, 2, 3, 4] if len(refs) == 4 else [int(m.group(1) or m.group(2)) for m in refs]
+        nummern = [int(m.group(1) or m.group(2) or m.group(3)) if not m.group(4) else ORD[m.group(4).lower()] for m in refs]
+        # vier Spalten sind immer Q1–Q4, auch wenn die Kopfzeile sich vertippt ("Quartal 3 | Quartal 3");
+        # nur dann positional, sonst gilt die Beschriftung (auch in ungewöhnlicher Reihenfolge)
+        if len(refs) == 4 and sorted(nummern) != [1, 2, 3, 4]:
+            nummern = [1, 2, 3, 4]
         for zz in zeilen[i + 1:i + 7]:
             werte = re.findall(r"\b(ja|nein|x)\b|(✓)", zz, re.I)
             if len(werte) == len(nummern):
@@ -97,8 +105,8 @@ def quartale(seite):
     s = re.sub(r"\s+", " ", seite)
     zeilen = seite.splitlines()
     tab = quartale_tabelle(zeilen)
-    if tab:
-        return tab
+    if tab is not None:
+        return tab or None  # Tabelle nur mit "Nein": nicht raten, sondern unklar lassen
     akt, inakt = set(), set()
     for z in zeilen:
         # "Q1: ja, Q2: nein, Q3: nein, Q4: ja" in einer Zeile

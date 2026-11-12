@@ -57,3 +57,24 @@ def test_zf_lesen_meldet_kaputte_zeilen(tmp_path, inhalt):
     pfad.write_text(inhalt, encoding="utf-8")
     with pytest.raises(ValueError, match="m3_zeitfenster.csv:2"):
         zf_lesen(pfad)
+
+
+@pytest.mark.parametrize("a, b, erwartet", [
+    ("24:00", "00:00", []),
+    ("00:00", "00:00", []),
+    ("24:00", "24:00", []),
+    ("00:00", "24:00", [(0, "00:00-24:00")]),
+    ("22:00", "06:00", [(0, "22:00-24:00"), (0, "00:00-06:00")]),
+])
+def test_spanne_leere_und_ganze_tage(a, b, erwartet):
+    assert fenster.spanne(0, a, b) == erwartet
+
+
+@pytest.mark.parametrize("seite, erwartet", [
+    ("1. Quartal | 2. Quartal | 3. Quartal | 4. Quartal\nja | nein | nein | ja", [1, 4]),
+    ("Erstes Quartal  Zweites Quartal  Drittes Quartal  Viertes Quartal\nJa  Nein  Nein  Ja", [1, 4]),
+    ("Q4 | Q3 | Q2 | Q1\nja | nein | nein | nein", [4]),
+    ("Q1 | Q2 | Q3 | Q4\nnein | nein | nein | nein\nQuartale 1 und 4", None),
+])
+def test_quartale_tabelle_beschriftung(seite, erwartet):
+    assert fenster.quartale(seite) == erwartet

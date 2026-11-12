@@ -134,6 +134,8 @@ def test_zeitfenster_csv_hin_und_zurueck(tmp_path_factory, liste):
 
 @EINSTELLUNGEN
 @given(st.dictionaries(st.text(min_size=1, max_size=20), st.text(max_size=10), min_size=1, max_size=4))
+@example({"a": "1"})
+@example({"a": "x", "b": "2.5"})
 @example({"a); DROP TABLE t; --": "1"})
 @example({'a" , "b': "1"})
 def test_load_laesst_nur_bekannte_spalten_zu(zeile):

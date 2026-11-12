@@ -109,8 +109,11 @@ def main(jahr, vid, besonderheit):
     faelle[name] = {"vnb_id": vid, "jahr": jahr, "preisblatt_url": pb["preisblatt_url"], "pdf_sha256": sha,
                     "besonderheit": besonderheit, "soll": sollwerte,
                     "bekannte_fehler": faelle.get(name, {}).get("bekannte_fehler", {})}
-    faelle_pfad.write_text(json.dumps(dict(sorted(faelle.items(), key=lambda kv: (kv[1]["jahr"], int(kv[1]["vnb_id"])))),
-                                      ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    # erst in eine Nachbardatei schreiben und dann ersetzen, damit ein Abbruch faelle.json nicht zerstört
+    neu = faelle_pfad.with_suffix(".json.neu")
+    neu.write_text(json.dumps(dict(sorted(faelle.items(), key=lambda kv: (kv[1]["jahr"], int(kv[1]["vnb_id"])))),
+                              ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    neu.replace(faelle_pfad)
     print(f"{name}: {len(zeilen)} -> {len(rest)} Zeilen")
 
 

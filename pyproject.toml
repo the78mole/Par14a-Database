@@ -1,0 +1,24 @@
+# Nur Werkzeug-Konfiguration; das Projekt wird nicht als Paket gebaut.
+# Laufzeit-Abhängigkeiten einzelner Skripte (requests, bs4, openpyxl, boto3, vnbdigital-client)
+# stehen jeweils im Skript, die Datenbank und die Webseite brauchen nur die Standardbibliothek.
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+filterwarnings = ["error"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 130
+
+[tool.ruff.lint]
+# Pyflakes, Syntax- und Laufzeitfehler (E4/E7/E9), Bugbear und die Sicherheitsregeln von Bandit (S).
+select = ["E4", "E7", "E9", "F", "B", "S"]
+ignore = [
+  "E401",  # mehrere Importe in einer Zeile sind hier Hausstil
+  "S603",  # subprocess immer mit Argumentliste, nie mit shell=True (S602 bleibt aktiv)
+  "S607",  # curl, pdftotext, git werden bewusst über PATH aufgerufen
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S101"]  # assert ist in pytest der Normalfall

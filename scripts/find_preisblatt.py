@@ -7,7 +7,7 @@ SHA-256 nach .cache/kandidaten/<vnb_id>.json geschrieben, den Text legt es in .c
 
     python scripts/find_preisblatt.py <vnb_id> [<vnb_id> ...] [--pages 80] [--start URL]
 """
-import argparse, csv, collections, hashlib, json, re, subprocess, tempfile
+import argparse, csv, hashlib, json, re, subprocess, tempfile
 import urllib.parse as up
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -121,7 +121,7 @@ def run(vnb, maxpages, start=None):
     start = start or vnb.get("netzentgelt_seite_url") or vnb["website"]
     pdfs, pages = crawl(start, maxpages)
     with ThreadPoolExecutor(6) as ex:
-        for u, info in zip(pdfs, ex.map(analyse, pdfs)):
+        for u, info in zip(pdfs, ex.map(analyse, pdfs), strict=True):
             pdfs[u].update(info)
     out = {"vnb_id": vnb["vnb_id"], "name": vnb["name"], "start": start, "seiten_gecrawlt": pages,
            "pdfs": dict(sorted(pdfs.items(), key=lambda kv: -len(kv[1].get("seiten_14a") or [])))}

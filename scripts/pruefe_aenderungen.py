@@ -50,6 +50,6 @@ if __name__ == "__main__":
     w = csv.writer(sys.stdout, delimiter="\t", lineterminator="\n")
     w.writerow(["jahr", "vnb_id", "ergebnis", "sha256_neu", "info", "url"])
     with ThreadPoolExecutor(a.jobs) as ex:
-        for r, (erg, sha, info) in zip(rows, ex.map(pruefe, rows)):
+        for r, (erg, sha, info) in zip(rows, ex.map(pruefe, rows), strict=True):
             w.writerow([r["jahr"], r["vnb_id"], erg, sha, info, r["preisblatt_url"]])
             sys.stdout.flush()

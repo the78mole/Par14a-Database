@@ -42,8 +42,8 @@ if "--alle-seiten" in sys.argv:
 print("URL", url, "\nVON", p["quelle_seite_url"], "\nSHA", p["pdf_sha256"], "\nSEITEN", sorted(want))
 for i in sorted(want):
     t = pages[i - 1]
-    lines = [re.sub(r"\s{3,}", " | ", l.strip()) for l in t.splitlines() if l.strip()]
+    lines = [re.sub(r"\s{3,}", " | ", z.strip()) for z in t.splitlines() if z.strip()]
     print(f"\n===== S.{i} =====")
     # Fließtext ohne Zahlen weglassen, Tabellen und Überschriften behalten
-    keep = [l for l in lines if re.search(r"\d", l) or len(l.split()) <= 8 or re.search(r"Modul|Quartal|Tarifstufe|gültig", l, re.I)]
+    keep = [z for z in lines if re.search(r"\d", z) or len(z.split()) <= 8 or re.search(r"Modul|Quartal|Tarifstufe|gültig", z, re.I)]
     print("\n".join(keep))

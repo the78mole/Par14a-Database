@@ -49,7 +49,7 @@ def abschnitt(jahr, crawl):
     z += [f"| {k} | {v} |" for k, v in sorted(st.items())]
     z += [f"| davon mit Modul-3-Zeitfenstern | {m3} |", ""]
     if crawl and Path(crawl).exists():
-        fertig = sum(1 for l in open(crawl, encoding="utf-8") if re.match(r"\[\d+\]", l))
+        fertig = sum(1 for zeile in open(crawl, encoding="utf-8") if re.match(r"\[\d+\]", zeile))
         ges = a.crawl_gesamt or len(fehlend)
         z += ["### Laufender Crawl", "", f"Tieferer Neu-Crawl der fehlenden VNB (bis 250 Seiten je Webseite): {fertig} von {ges} fertig.", ""]
     z += ["### Fehlende VNB nach Grund", "", "| Grund | Anzahl |", "|---|---:|"]
@@ -65,4 +65,4 @@ z = ["# Status der §14a-Preisdatenbank", "",
 for j in sorted(a.jahre, reverse=True):
     z += abschnitt(j, a.crawl if j == a.jahre[-1] else None)
 (ROOT / "STATUS.md").write_text("\n".join(z), encoding="utf-8")
-print("\n".join(l for l in z if l.startswith(("## ", "**"))))
+print("\n".join(zeile for zeile in z if zeile.startswith(("## ", "**"))))

@@ -1,0 +1,34 @@
+name: DCO
+
+# Jeder Commit eines Pull Requests braucht eine Zeile "Signed-off-by: Name <E-Mail>"
+# (git commit -s). Damit bestätigt der Autor das Developer Certificate of Origin
+# (https://developercertificate.org/), siehe CONTRIBUTING.md.
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  dco:
+    name: DCO (Signed-off-by)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Signed-off-by in allen Commits prüfen
+        env:
+          BASE: ${{ github.event.pull_request.base.sha }}
+          HEAD: ${{ github.event.pull_request.head.sha }}
+        run: |
+          fehlt=0
+          for c in $(git rev-list --no-merges "$BASE..$HEAD"); do
+            if ! git log -1 --format=%B "$c" | grep -qE '^Signed-off-by: .+ <.+@.+>$'; then
+              echo "::error::Commit $(git log -1 --format='%h %s' "$c") hat keine Signed-off-by-Zeile (git commit -s)"
+              fehlt=1
+            fi
+          done
+          exit $fehlt

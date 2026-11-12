@@ -28,8 +28,19 @@ Beiträge sind willkommen: neue oder korrigierte Preisblätter, Fehlermeldungen 
    ```
 
    Die CI ([ci.yml](.github/workflows/ci.yml)) führt dieselben Prüfungen für jeden Pull Request aus,
-   dazu CodeQL. Ein Pull Request wird erst gemergt, wenn alles grün ist.
+   dazu CodeQL, die DCO-Prüfung und die Abhängigkeitsprüfung. Ein Pull Request wird erst gemergt,
+   wenn alles grün ist. Wann welche Prüfung läuft: `ci.yml`, `codeql.yml`, `dco.yml` und
+   `dependency-review.yml` bei jedem Pull Request und Push auf `main`, CodeQL und Scorecard
+   zusätzlich wöchentlich.
 3. Pull Request gegen `main` öffnen und kurz beschreiben, was sich ändert und wie es geprüft wurde.
+
+### Signed-off-by (DCO)
+
+Jeder Commit trägt eine Zeile `Signed-off-by: Name <E-Mail>`. Damit bestätigst Du das
+[Developer Certificate of Origin](https://developercertificate.org/): dass Du den Beitrag selbst
+geschrieben hast oder das Recht hast, ihn unter der Lizenz des Projekts einzureichen. Git fügt die
+Zeile mit `git commit -s` an. Der Check *DCO (Signed-off-by)* lehnt Pull Requests ohne diese Zeile
+ab. Vergessen? `git commit --amend -s` bzw. `git rebase --signoff main` und neu pushen.
 
 ### Anforderungen an Beiträge
 
@@ -46,6 +57,8 @@ Beiträge sind willkommen: neue oder korrigierte Preisblätter, Fehlermeldungen 
   Request, für eine Korrektur einen Regressionstest, der ohne die Korrektur fehlschlägt. Neue
   Plausibilitätsregeln für die Daten kommen nach `tests/test_daten.py`. Ausnahmen (reine Doku,
   reine Datenpflege, die von den vorhandenen Tests abgedeckt ist) werden im Pull Request begründet.
+- **Abhängigkeiten:** neue nur, wenn nötig, verbreitet, gepflegt und frei lizenziert; Regeln in
+  [docs/SICHERHEIT.md](docs/SICHERHEIT.md#4-regeln-für-abhängigkeiten-und-analysebefunde).
 - **Sprache:** Doku, Kommentare und Commit-Texte auf Deutsch; Issues und Pull Requests auf Englisch
   sind ebenso willkommen.
 
@@ -66,6 +79,7 @@ report wrong values or bugs as a normal [issue](https://github.com/the78mole/Par
 
 For pull requests, run `ruff check scripts tests` and `python -m pytest` (tools pinned with hashes
 in `requirements-dev.txt`); CI runs the same checks plus CodeQL. New functionality and bug fixes
-must come with automated tests in the same pull request (a regression test for every fix). Data
+must come with automated tests in the same pull request (a regression test for every fix). Every commit needs a
+`Signed-off-by` line (`git commit -s`, Developer Certificate of Origin), checked by CI. Data
 follows the documented CSV format with net prices and source URLs. Code is licensed under MIT, data
 under CC BY 4.0; by contributing you agree that your contribution is licensed accordingly.

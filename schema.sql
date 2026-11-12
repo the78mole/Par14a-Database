@@ -69,6 +69,6 @@ CREATE TABLE IF NOT EXISTS rollout_quote (
 
 -- Herkunft der Datenbank: Version (Datum und Commit des Datenstands), Bauzeit. Eine Zeile je Schlüssel.
 CREATE TABLE IF NOT EXISTS meta (
-  schluessel TEXT PRIMARY KEY,           -- version, jahr, commit, gebaut_am
+  schluessel TEXT PRIMARY KEY,           -- version, jahr, commit, lizenz, gebaut_am
   wert       TEXT NOT NULL
 );

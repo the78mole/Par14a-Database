@@ -52,6 +52,7 @@ def test_build_db(jahr):
     assert n_zf == len(zf_lesen(ROOT / "data" / jahr / "m3_zeitfenster.csv"))
     assert meta["jahr"] == jahr
     assert meta["version"]
+    assert meta["lizenz"].startswith("CC-BY-4.0")
 
 
 def test_build_web(tmp_path):

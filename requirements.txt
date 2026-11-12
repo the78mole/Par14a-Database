@@ -1,0 +1,9 @@
+# Laufzeit-Abhängigkeiten der Hilfsskripte in scripts/ (Crawlen, PDF-Archiv, BNetzA-Tabelle).
+# build_db.py und build_web.py brauchen nur die Standardbibliothek. Lint und Tests: requirements-dev.txt.
+# Außerdem außerhalb von Python: curl (pruefe_aenderungen.py), pdftotext/pdftoppm (poppler-utils), für pdf_sync.sh uv und bao.
+requests          # find_preisblatt.py
+beautifulsoup4    # find_preisblatt.py
+openpyxl          # rollout_quote.py
+boto3             # pdf_sync.py
+pillow            # ausschnitt.py
+vnbdigital-client @ git+https://github.com/the78mole/vnbdigital-client  # fetch_vnb.py

@@ -11,6 +11,7 @@
   "dependencyDashboard": true,
   "dependencyDashboardTitle": "📦 Dependency Dashboard",
   "labels": ["dependencies"],
+  "commitBody": "Signed-off-by: Renovate Bot <bot@renovateapp.com>",
   "timezone": "Europe/Berlin",
   "schedule": ["before 6am on monday"],
   "packageRules": [

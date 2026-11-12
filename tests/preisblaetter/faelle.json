@@ -1,0 +1,386 @@
+{
+  "6_2026": {
+    "vnb_id": "6",
+    "jahr": 2026,
+    "preisblatt_url": "https://www.stadtwerke-achim.de/de/Netz-Hausanschluesse/Privatkunden/Service/Veroeffentlichungspflichten-Strom/Stromnetz-2020/Netzzugang-Entgelte1/PB-KK-NNE-Strom-2026-01-01.pdf",
+    "pdf_sha256": "a7eec46c703035e606c9f14666e2fc218ab23d5247ad8c0200bf3cb8c27a88ba",
+    "besonderheit": "Ja/Nein-Tabelle mit Q1–Q4 als Spalten",
+    "soll": {
+      "quartale": "1,4",
+      "HT": [
+        "17:15-19:15"
+      ],
+      "NT": [
+        "01:30-07:00"
+      ],
+      "std_ap": 4.26,
+      "m1": 99.18,
+      "m2_ap": 1.7,
+      "std_gp": 105.0,
+      "ht": 7.41,
+      "nt": 1.71
+    },
+    "bekannte_fehler": {}
+  },
+  "10_2026": {
+    "vnb_id": "10",
+    "jahr": 2026,
+    "preisblatt_url": "https://www.albstadtwerke.de/fileadmin/media/_downloads/asw/veroeffentlichungspflichten/stromnetz/netzzugang_netznutzungsentgelte/Endg_Netzentgelte_Strom_2026_19122025.pdf",
+    "pdf_sha256": "5ff49ae0e68f8f44bdf0f0b98a5c26f5de88d209340142388fd101517f744c2e",
+    "besonderheit": "Ja/Nein-Tabelle, Kopfzeile vertippt (Quartal 3 doppelt)",
+    "soll": {
+      "quartale": "1,4",
+      "HT": [
+        "17:00-21:00"
+      ],
+      "NT": [
+        "00:00-06:00"
+      ],
+      "std_ap": 6.54,
+      "m1": 116.28,
+      "m2_ap": 2.62,
+      "std_gp": 90.0,
+      "ht": 8.9,
+      "nt": 1.31
+    },
+    "bekannte_fehler": {}
+  },
+  "13_2026": {
+    "vnb_id": "13",
+    "jahr": 2026,
+    "preisblatt_url": "https://www.wennenmuehle.de/netzentgelte.html?file=files/download/netzentgelte/Netznutzungsentgelte_2026.pdf",
+    "pdf_sha256": "cc1b8c73de33b66cef86ef0b23b7a0516d2b16d822c0989fac3f05be5a52309c",
+    "besonderheit": "Quartale als 'Q1 + Q4', NT-Fenster über Mitternacht (23:00-7:00)",
+    "soll": {
+      "quartale": "1,4",
+      "HT": [
+        "11:00-13:00",
+        "17:00-19:00"
+      ],
+      "NT": [
+        "00:00-07:00",
+        "23:00-24:00"
+      ],
+      "std_ap": 8.86,
+      "m1": 133.68,
+      "m2_ap": 3.54,
+      "std_gp": 50.0,
+      "ht": 13.29,
+      "nt": 2.97
+    },
+    "bekannte_fehler": {
+      "m3": "HT/NT-Preise stehen in einer Zeile 'AP gilt nur in: Q1 + Q4 | 13,29 | 2,97 | 8,86' ohne HT/NT-Bezeichnung"
+    }
+  },
+  "19_2026": {
+    "vnb_id": "19",
+    "jahr": 2026,
+    "preisblatt_url": "https://www.stadtwerke-altensteig.de/resources/02%20Datenobjekte/PDF/Netz/Netz/Netznutzung/Netznutzungsentgelte%20Strom/NNE%20Strom%202026%20endg%C3%BCltig.pdf",
+    "pdf_sha256": "fea95cf8cbf8e2cbc0e0420e363246c1354dd7744dd939e0b053bac4f9ffe750",
+    "besonderheit": "zwei HT-Fenster, Grundpreis in €/Tag",
+    "soll": {
+      "quartale": "2,3",
+      "HT": [
+        "07:00-10:00",
+        "17:00-20:00"
+      ],
+      "NT": [
+        "10:00-15:00"
+      ],
+      "std_ap": 10.98,
+      "m1": 149.58,
+      "m2_ap": 4.39,
+      "std_gp": 108.0,
+      "ht": 18.12,
+      "nt": 2.19
+    },
+    "bekannte_fehler": {
+      "fenster": "zweites HT-Fenster (17:00-20:00) steht in einer Folgezeile und wird nicht zugeordnet"
+    }
+  },
+  "21_2026": {
+    "vnb_id": "21",
+    "jahr": 2026,
+    "preisblatt_url": "https://www.uezw-energie.de/wp-content/uploads/2025/12/Preisblatt-Netznutzung_2026.pdf",
+    "pdf_sha256": "b119f8637b36d13b86d22e0baa225a09a002270e6fa3d6b5c6c11a6e239ba722",
+    "besonderheit": "Viertelstunden-Fenster, NT über Mitternacht, Quartale nur in Tabellenform",
+    "soll": {
+      "quartale": "1,2,3,4",
+      "HT": [
+        "12:30-13:45",
+        "19:15-22:00"
+      ],
+      "NT": [
+        "00:00-07:15",
+        "16:00-17:15",
+        "23:45-24:00"
+      ],
+      "std_ap": 4.58,
+      "m1": 101.58,
+      "m2_ap": 1.83,
+      "std_gp": 98.0,
+      "ht": 7.1,
+      "nt": 1.83
+    },
+    "bekannte_fehler": {
+      "fenster": "Quartale werden nicht genannt (ganzjährig), die Heuristik nimmt das nicht an",
+      "grundpreis": "Grundpreis steht weder in einer Zeile mit 'Grundpreis' noch in der Arbeitspreis-Zeile"
+    }
+  },
+  "25_2026": {
+    "vnb_id": "25",
+    "jahr": 2026,
+    "preisblatt_url": "https://ewerk-geiger.de/storage/2025/12/Netzentgelt-2026-final-1.pdf",
+    "pdf_sha256": "48565ab8a6a2ffc777f53086484691dcd687ae8ced87f7707e0a4b0f18caa611",
+    "besonderheit": "Modul 1 mit eigener Stabilitätsprämie (weicht von 67,23 € + 7,5 × AP ab)",
+    "soll": {
+      "quartale": "1,4",
+      "HT": [
+        "17:00-21:00"
+      ],
+      "NT": [
+        "00:00-06:00"
+      ],
+      "std_ap": 3.25,
+      "m1": 115.76,
+      "m2_ap": 1.3,
+      "std_gp": 97.0,
+      "ht": 4.43,
+      "nt": 0.65
+    },
+    "bekannte_fehler": {
+      "kern": "eigene Stabilitätsprämie: M1 passt nicht zur Formel, daher wird ein falsches Tripel (AP 6,47) gewählt",
+      "m3": "folgt aus dem falschen Arbeitspreis (HT-Korridor AP < HT ≤ 2·AP)"
+    }
+  },
+  "32_2026": {
+    "vnb_id": "32",
+    "jahr": 2026,
+    "preisblatt_url": "https://www.stw-brk.de/de/Netz/Stromnetz/Netzzugang-Entgelte/entgueltiges-Preisblatt-Netzentgelte-gem.-14a-EnWG-2026.pdf",
+    "pdf_sha256": "159878fdd364fbb9d72eec532db3163f033eea55a137b2a936b885ed4f2c9411",
+    "besonderheit": "eine Zeile je Quartal, inaktive Quartale als 0:00-24:00",
+    "soll": {
+      "quartale": "1,4",
+      "HT": [
+        "17:00-22:00"
+      ],
+      "NT": [
+        "10:00-15:00"
+      ],
+      "std_ap": 8.0,
+      "m1": 127.23,
+      "m2_ap": 3.2,
+      "std_gp": 115.0,
+      "ht": 12.21,
+      "nt": 3.2
+    },
+    "bekannte_fehler": {
+      "m3": "HT/NT-Preise stehen in einer Arbeitspreis-Zeile unter Spaltenköpfen, nicht neben HT/NT",
+      "grundpreis": "Grundpreis steht getrennt von der Arbeitspreis-Zeile"
+    }
+  },
+  "38_2026": {
+    "vnb_id": "38",
+    "jahr": 2026,
+    "preisblatt_url": "https://www.bhag.de/wp-content/uploads/2026/02/Preisblatt-Stromnetzentgelte-ab-01.01.2026.pdf",
+    "pdf_sha256": "e5c75ef4c717ea8a31c4bcdbf90c738878b5f366aa4d694354442d86fa760a3a",
+    "besonderheit": "Quartale inline ('Q1 und Q4 - Mo. bis Fr. von 12.00 Uhr bis 13.00 Uhr'), Netto- und Brutto-Spalten",
+    "soll": {
+      "quartale": "1,4",
+      "HT": [
+        "12:00-13:00",
+        "19:00-20:00"
+      ],
+      "NT": [
+        "02:30-05:00"
+      ],
+      "std_ap": 10.04,
+      "m1": 142.53,
+      "m2_ap": 4.02,
+      "std_gp": 84.0,
+      "ht": 12.04,
+      "nt": 3.6
+    },
+    "bekannte_fehler": {
+      "grundpreis": "Grundpreis steht getrennt von der Arbeitspreis-Zeile"
+    }
+  },
+  "43_2026": {
+    "vnb_id": "43",
+    "jahr": 2026,
+    "preisblatt_url": "https://stadtwerk-tauberfranken.de/fileadmin/user_upload/Netz/Marktpartner/Strom/Netzentgelte/endgueltig_Preisblatt_SWTF_Strom_NNE_2026.pdf",
+    "pdf_sha256": "eb0c873e7e4efd466786a085bca836f573d33d784e9bf8b1b3d880b79a316d22",
+    "besonderheit": "Grundpreis in €/Tag, zwei HT- und zwei NT-Fenster",
+    "soll": {
+      "quartale": "1,4",
+      "HT": [
+        "09:15-13:15",
+        "17:00-19:30"
+      ],
+      "NT": [
+        "00:00-06:00",
+        "22:00-24:00"
+      ],
+      "std_ap": 8.32,
+      "m1": 129.63,
+      "m2_ap": 3.33,
+      "std_gp": 95.0,
+      "ht": 12.38,
+      "nt": 3.33
+    },
+    "bekannte_fehler": {
+      "fenster": "je zwei HT- und NT-Fenster über mehrere Zeilen verteilt; nur das erste wird erkannt"
+    }
+  },
+  "57_2026": {
+    "vnb_id": "57",
+    "jahr": 2026,
+    "preisblatt_url": "https://stw-toelz.de/fileadmin/user_upload/20251015_vorl%C3%A4ufige_Netzentgelte_2026_gem._14a_EnWG_Modul_1-3.pdf",
+    "pdf_sha256": "48b7999f8ef439d5d6161907dcdb57216a221a69aea0bdde74098dcf4e658bfe",
+    "besonderheit": "Quartale als Ordinalzahlen ('Erstes und viertes Quartal'), ST-Zeiten in der Tabelle",
+    "soll": {
+      "quartale": "1,4",
+      "HT": [
+        "10:00-19:30"
+      ],
+      "NT": [
+        "00:00-06:00"
+      ],
+      "std_ap": 9.63,
+      "m1": 139.45,
+      "m2_ap": 3.85,
+      "std_gp": 105.0,
+      "ht": 11.63,
+      "nt": 3.85
+    },
+    "bekannte_fehler": {
+      "grundpreis": "Grundpreis steht getrennt von der Arbeitspreis-Zeile"
+    }
+  },
+  "61_2026": {
+    "vnb_id": "61",
+    "jahr": 2026,
+    "preisblatt_url": "https://www.stadtwerke-baden-baden.de/media/docs/privatkunden/strom/downloadbereich/netznutzungsentgelte/Netznutzungsentgelte_Strom_01_01_26.pdf",
+    "pdf_sha256": "6cbcfc17cfe1245bbdb6256365f50a464b8e9de90369ee9d71be4b0ab967d342",
+    "besonderheit": "Quartalstabelle mit Beginn/Ende/Angebot auf eigener Seite",
+    "soll": {
+      "quartale": "1,2,3,4",
+      "HT": [
+        "17:15-23:00"
+      ],
+      "NT": [
+        "00:00-05:30"
+      ],
+      "std_ap": 9.52,
+      "m1": 138.63,
+      "m2_ap": 3.81,
+      "std_gp": 60.0,
+      "ht": 11.79,
+      "nt": 3.81
+    },
+    "bekannte_fehler": {
+      "fenster": "Zeitfenster stehen in Tabellenspalten ohne HT/NT-Bezeichnung (nur Preisnummern)",
+      "m3": "HT/NT-Preise ohne HT/NT-Bezeichnung in der Zeile",
+      "grundpreis": "Grundpreis nur als Tabellenwert ohne Bezeichnung in derselben Zeile"
+    }
+  },
+  "110_2026": {
+    "vnb_id": "110",
+    "jahr": 2026,
+    "preisblatt_url": "https://www.stadtwerke-bretten.de/wp-content/uploads/2025/12/Netznutzung-Strom-Stand-01.01.2026.pdf",
+    "pdf_sha256": "8a8aab6a651aa3d6eae0b663c64fae32107345c698f4f06ded6bf3f7f28e698b",
+    "besonderheit": "Zeitfenster und Tagesbereich 06:00-22:00 im selben Absatz",
+    "soll": {
+      "quartale": "1,4",
+      "HT": [
+        "11:45-13:45",
+        "17:00-19:00"
+      ],
+      "NT": [
+        "00:00-05:00"
+      ],
+      "std_ap": 6.36,
+      "m1": 114.93,
+      "m2_ap": 2.54,
+      "std_gp": 70.0,
+      "ht": 7.71,
+      "nt": 2.53
+    },
+    "bekannte_fehler": {
+      "fenster": "Tagesbereich 06:00-22:00 und HT-Fenster im selben Absatz; Quartale unklar"
+    }
+  },
+  "117_2026": {
+    "vnb_id": "117",
+    "jahr": 2026,
+    "preisblatt_url": "https://stadtwerke-buehl.de/resources/01%20Website/Unterseiten/07%20Netze/Stromnetz/Netznutzung/2026-01-01_NN_Strom_SW_Buehl_mit_Artikel-IDs.pdf",
+    "pdf_sha256": "a5cd044a34f536650e42059d2e270608189d43efd845f1c36cf0423afde9b78b",
+    "besonderheit": "Grundpreis steht nicht in der Zeile mit dem Arbeitspreis",
+    "soll": {
+      "quartale": "1,4",
+      "HT": [
+        "17:00-22:00"
+      ],
+      "NT": [
+        "00:00-06:00"
+      ],
+      "std_ap": 7.59,
+      "m1": 124.15,
+      "m2_ap": 3.04,
+      "std_gp": 84.0,
+      "ht": 9.73,
+      "nt": 1.52
+    },
+    "bekannte_fehler": {
+      "grundpreis": "Grundpreis steht getrennt von der Arbeitspreis-Zeile"
+    }
+  },
+  "317_2026": {
+    "vnb_id": "317",
+    "jahr": 2026,
+    "preisblatt_url": "https://www.stadtwerke-iserlohn.de/582364-stadtwerke-iserlohn-de-wAssets/docs/netz/stromnetz/netzentgelte-strom/finales-preisblatt-strom-nne-2026-2025_12_16.pdf",
+    "pdf_sha256": "c64e6ca69b8b6d85038a803c26eccc2ded7c785d15d84bb46d4f5030cff05b3a",
+    "besonderheit": "Modul 1 weicht von der Formel ab, Quartale ganzjährig ohne ausdrückliche Nennung",
+    "soll": {
+      "quartale": "1,2,3,4",
+      "HT": [
+        "16:00-18:00"
+      ],
+      "NT": [
+        "00:00-01:00"
+      ],
+      "std_ap": 6.62,
+      "m1": 129.65,
+      "m2_ap": 2.65,
+      "std_gp": 70.0,
+      "ht": 7.94,
+      "nt": 1.47
+    },
+    "bekannte_fehler": {
+      "fenster": "Quartale werden nicht genannt (ganzjährig), die Heuristik nimmt das nicht an"
+    }
+  },
+  "339_2026": {
+    "vnb_id": "339",
+    "jahr": 2026,
+    "preisblatt_url": "https://www.swkiel-netz.de/fileadmin/user_upload_swk_netz/dokumente/strom/marktpartner/entgelte/2026/SWKN_Preisblatt_Strom_2026.pdf",
+    "pdf_sha256": "062a51a6baa3d5bb6df6ca17c979295a2a92b96d5142ad46b2e6a53c45a7b9a9",
+    "besonderheit": "Viertelstunden-Fenster (16:45-21:45, 00:15-6:15)",
+    "soll": {
+      "quartale": "1,4",
+      "HT": [
+        "16:45-21:45"
+      ],
+      "NT": [
+        "00:15-06:15"
+      ],
+      "std_ap": 4.95,
+      "m1": 104.35,
+      "m2_ap": 1.98,
+      "std_gp": 67.8,
+      "ht": 6.43,
+      "nt": 1.35
+    },
+    "bekannte_fehler": {}
+  }
+}

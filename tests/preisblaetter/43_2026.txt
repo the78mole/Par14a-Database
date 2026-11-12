@@ -1,0 +1,15 @@
+  Kleinkunden                                              95,00             113,05                        8,32                  9,90
+                                                         8,32              9,90          129,63                     154,26
+ Gültigkeit der 3 Tarifstufen                        Q1                         Q2                        Q3                     Q4
+ 2026                                                Ja                        Nein                       Nein                    Ja
+                                                                von                    bis           (netto)                (brutto)
+                                                                06:00                 09:15
+                    Standardtarifstufe (ST)                     13:15                 17:00            8,32                     9,90
+                                                                19:30                 22:00
+                                                                09:15                 13:15
+                    Hochlasttarifstufe (HT)                                                           12,38                     14,73
+                                                                17:00                 19:30
+                                                                00:00                 06:00
+                   Niedriglasttarifstufe (NT)                                                          3,33                     3,96
+                                                                22:00                 00:00
+

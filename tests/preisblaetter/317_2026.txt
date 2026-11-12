@@ -1,0 +1,5 @@
+  Modul 1 - Niederspannung                                                    70,00                             6,62                                        129,65
+  Modul 2 - Niederspannung                                                                                      2,65
+            Modul 3 - nur in Verbindung mit Modul 1 -
+  0 bis 1 Uhr (NT)                                                                                              1,47
+  16 bis 18 Uhr (HT)                                                        70,00                               7,94

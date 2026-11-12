@@ -40,10 +40,15 @@ def zf_lesen(path):
     """m3_zeitfenster.csv (eine Zeile je VNB, Jahr und Quartal; ht/nt als "von-bis|von-bis") in
     Einzelfenster {vnb_id, jahr, quartal, stufe, von, bis} auflösen, wie in der SQLite-Tabelle."""
     out = []
-    for r in read(path):
+    for nr, r in enumerate(read(path), start=2):
+        # kaputte Zeilen (fehlende Spalten, "07:00" ohne Ende) als ValueError mit Fundstelle melden
+        if any(r.get(k) is None for k in ZF):
+            raise ValueError(f"{path}:{nr}: Zeile hat nicht alle Spalten {ZF}")
         for stufe in ("HT", "NT"):
             for span in filter(None, r[stufe.lower()].split("|")):
-                von, bis = span.split("-")
+                von, sep, bis = span.partition("-")
+                if not (sep and von and bis) or "-" in bis:
+                    raise ValueError(f"{path}:{nr}: Zeitfenster {span!r} ist nicht von-bis")
                 out.append({"vnb_id": r["vnb_id"], "jahr": r["jahr"], "quartal": r["quartal"], "stufe": stufe,
                             "von": von, "bis": bis})
     return out

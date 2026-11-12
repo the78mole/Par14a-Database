@@ -1,0 +1,14 @@
+                                                                                                       netto          brutto
+Standardlastprofilkunden, Wärmespeicherheizungen, Wärmepumpen und E-Ladestationen                          84,00            99,96
+
+Modul 2                                                                                    -                             -               4,02                       4,78
+Modul 3 - Hochtarif (Q1 und Q4 - Mo. bis Fr. von 12.00 Uhr bis 13.00 Uhr)                                                              12,04                      14,33
+Modul 3 - Hochtarif (Q1 und Q4 - Mo. bis Fr. von 19.00 Uhr bis 20.00 Uhr)                                                              12,04                      14,33
+                                                                                       142,53                     169,61
+Modul 3 - Niedertarif (Q1 und Q4 - Mo. bis Fr. von 2.30 Uhr bis 5.00 Uhr)                                                                3,60                       4,28
+Modul 3 - Standarttarif gültig für alle anderen Zeiten                                                                                 10,04                      11,95
+                                                                                  netto                       brutto
+Modul 1                                                                                 84,00                      99,96
+Modul 2                                                                                    -                             -
+Modul 3                                                                                 84,00                      99,96
+

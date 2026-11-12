@@ -1,0 +1,17 @@
+     Niederspannung                                                                                7,83                                  6,47
+     Grundpreis                                                                                                                               97,00 €/a
+     Arbeitspreis                                                                                                                            3,25 ct/kWh
+
+     Pauschale Netzentgeltreduzierung                                                                                                115,76 €/a
+
+     Arbeitspreis                                                                                                                   1,30 ct/kWh
+
+                                                                                                                                   06:00 - 17:00
+     Standardtarif                                                                                        3,25 ct/kWh
+                                                                                                                                   21:00 - 00:00
+
+     Hochtarif                                                                                            4,43 ct/kWh              17:00 - 21:00
+
+     Niedrigtarif                                                                                         0,65 ct/kWh              00:00 - 06:00
+                                                                                     Quartal 1      Quartal 2        Quartal 3       Quartal 4
+     Anwendungszeitraum                                                                 ja             nein             nein              ja

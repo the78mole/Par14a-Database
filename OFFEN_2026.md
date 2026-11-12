@@ -1,6 +1,8 @@
 # Offene VNB 2026
 
-Für diese 23 VNB ist bisher kein §14a-Preisblatt 2026 erfasst (Stand 31.10.2026, 731 von 754 erfasst).
+Für diese 22 VNB ist bisher kein §14a-Preisblatt 2026 erfasst (Stand 12.11.2026, 732 von 754 erfasst).
+
+Nachtrag 12.11.2026: Die Stadtwerke Uslar (649) haben ihr Preisblatt 2026 (Fassung vom 28.04.2026) inzwischen online gestellt; es ist erfasst.
 
 Nachtrag 31.10.2026: Gemünden (223), Trossingen (636) und BIGGE ENERGIE (7693) haben ihre Blätter 2026 inzwischen online und sind erfasst. SWL Übertragungsnetzgesellschaft (7547) war bisher mit dem Blatt der SWL Verteilungsnetzgesellschaft (7042) erfasst; sie betreibt aber nur Mittelspannung (eigenes Blatt „PB-UeNG“ ohne §14a-Module) und steht jetzt wie VSE (562) unter „§14a entfällt“.
 
@@ -40,7 +42,6 @@ Keine Übergabe gefunden. Spalte „Netzbetrieb“ nennt den Beleg, dass der VNB
 | 522 | Stadtwerke Quickborn GmbH | Veröffentlichungsportal ohne Entgelte | „Die Strom- und Gasnetze der Stadtwerke Quickborn“; vnbdigital |
 | 7547 | SWL Übertragungsnetzgesellschaft mbH | **§14a entfällt:** nur Mittelspannung, Preisblatt UeNG ohne §14a-Module | eigenes Preisblatt auf netzinfo.swl-unser-stadtwerk.de |
 | 562 | VSE Verteilnetz GmbH | **§14a entfällt:** nur HS/MS, kein Niederspannungsnetz und keine Haushaltskunden | keine Übergabe; in Saarbrücken ist Niederspannung bei Stadtwerke Saarbrücken Netz (561). Ohne Niederspannung ist kein §14a-Blatt zu erwarten. |
-| 649 | Stadtwerke Uslar GmbH | nur 2025 und vorläufig 2027 online | eigene Seite Transport und Netz Strom; vnbdigital |
 | 742 | Stadtwerke - Altmärkische Gas-, Wasser- und Elektrizitätswerke GmbH Stendal | kein Preisblatt auf der Website | eigenes Downloadcenter Netz; vnbdigital |
 | 751 | Stadtwerke Güstrow GmbH | Website im Wartungsmodus | vnbdigital; Wirtschaftsplan 2026 der Stadt Güstrow nennt Stromversorgung durch die Stadtwerke |
 | 911 | Energie- und Wasserwerke Bautzen GmbH | kein Preisblatt auf der Website verlinkt | eigene Netzseite, Netzanschlussportal; vnbdigital |
@@ -71,7 +72,6 @@ Niederspannung und müssten ein §14a-Blatt veröffentlichen.
 | 474 | EG Nordhalben | eigene NS-Netzpreisliste 2026 (GP 130 €/a, AP 9,70 ct) |
 | 512 | Gemeindewerke Peißenberg | Seiten zu Netzanschluss, Balkonkraftwerk, Zähler-PIN; Stellenanzeige nennt das 0,4-kV-Netz |
 | 522 | Stadtwerke Quickborn | Hausanschluss-Seiten und Online-Formular „Wechsel netzorientierte Steuerung“ (§14a) |
-| 649 | Stadtwerke Uslar | NS-Blatt 2027 mit §14a-Modulen ist bereits erfasst |
 | 742 | Stadtwerke Stendal | 23.509 Entnahmestellen ohne Leistungsmessung, 67 GWh Abgabe in der NS 2025 ([enwg-veroeffentlichungen.de/stendal](https://www.enwg-veroeffentlichungen.de/stendal/Netze/)) |
 | 751 | Stadtwerke Güstrow | Grundversorger am Ort; Wirtschaftsplan 2026 der Stadt nennt Stromversorgung der Stadt |
 | 911 | Energie- und Wasserwerke Bautzen | Netzanschlussvertrag „aus dem Niederspannungsnetz der EWB“ (gipsprojekt.de/featureGips/ew_bautzen) |

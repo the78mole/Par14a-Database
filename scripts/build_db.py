@@ -1,5 +1,5 @@
 """Baut data/vnb.csv + data/<jahr>/*.csv zu dist/par14a_<jahr>.sqlite zusammen."""
-import csv, sqlite3, sys
+import csv, datetime, sqlite3, subprocess, sys
 from pathlib import Path
 
 from eintrag import zf_lesen
@@ -18,11 +18,29 @@ def load(con, table, path, jahr=None, rows=None):
     if not rows:
         return 0
     cols = list(rows[0].keys())
+    # Spaltennamen kommen aus den CSV-Köpfen und landen im SQL-Text, Werte nur als Parameter.
+    if not all(c.isidentifier() for c in cols):
+        raise ValueError(f"{path}: ungültiger Spaltenname in {cols}")
     con.executemany(
-        f"INSERT INTO {table} ({','.join(cols)}) VALUES ({','.join('?' * len(cols))})",
+        f"INSERT INTO {table} ({','.join(cols)}) VALUES ({','.join('?' * len(cols))})",  # noqa: S608
         [[r[c] if r[c] != "" else None for c in cols] for r in rows],
     )
     return len(rows)
+
+
+def git(*args):
+    try:
+        return subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True, check=True).stdout.strip()
+    except (OSError, subprocess.CalledProcessError):
+        return ""
+
+
+def version():
+    """Eindeutige Version des Datenstands: Commit-Datum und kurzer Commit-Hash, z. B. 2026-11-12+837ea02."""
+    stand, sha = git("log", "-1", "--format=%cs"), git("rev-parse", "--short", "HEAD")
+    if not sha:
+        return "lokal"
+    return f"{stand}+{sha}" + ("-geaendert" if git("status", "--porcelain", "data", "schema.sql") else "")
 
 
 def build(jahr):
@@ -37,9 +55,13 @@ def build(jahr):
     # CSV kompakt (eine Zeile je Quartal), Tabelle normalisiert (eine Zeile je Fenster)
     zf = ROOT / "data" / str(jahr) / "m3_zeitfenster.csv"
     n_zf = load(con, "m3_zeitfenster", zf, jahr, zf_lesen(zf))
+    v = version()
+    con.executemany("INSERT INTO meta (schluessel, wert) VALUES (?, ?)", [
+        ("version", v), ("jahr", str(jahr)), ("commit", git("rev-parse", "HEAD")),
+        ("gebaut_am", datetime.datetime.now(datetime.UTC).isoformat(timespec="seconds"))])
     con.commit()
     con.close()
-    print(f"{out.name}: {n_vnb} VNB, {n_pb} Preisblätter, {n_zf} Zeitfenster, {n_ro} Roll-out-Quoten")
+    print(f"{out.name} ({v}): {n_vnb} VNB, {n_pb} Preisblätter, {n_zf} Zeitfenster, {n_ro} Roll-out-Quoten")
 
 
 if __name__ == "__main__":

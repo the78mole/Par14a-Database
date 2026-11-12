@@ -27,7 +27,7 @@ def fetch(client, i):
     for _ in range(3):
         try:
             return client._execute(QUERY, {"id": str(i)}).get("vnb_vnb")
-        except Exception:
+        except Exception:  # noqa: S110  Netz- oder GraphQL-Fehler: neu versuchen, beim ID-Scan sind Lücken normal
             pass
     return None
 

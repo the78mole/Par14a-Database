@@ -46,7 +46,7 @@ def kandidaten(vid, jahr):
     for u, p in d["pdfs"].items():
         if not p.get("pdf_sha256"):
             continue
-        name = up_name = re.sub(r"\.pdf.*", "", u.rsplit("/", 1)[-1]).lower()
+        name = re.sub(r"\.pdf.*", "", u.rsplit("/", 1)[-1]).lower()
         andere = any(str(y) in name for y in range(2018, 2031) if y != jahr)
         sc = (4 if str(jahr) in name or re.search(rf"(?:ne|pb){jahr % 100:02d}(?!\d)", name) else 0) + (2 if jahr in p.get("jahre", []) else 0) - (3 if andere and str(jahr) not in name else 0)
         sc += 2 if p.get("seiten_14a") else 0

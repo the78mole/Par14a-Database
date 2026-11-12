@@ -65,7 +65,8 @@ def sync_bucket(s3, b, jahr, keys):
             continue
         data = s3.get_object(Bucket=b, Key=f"{PREFIX}/{jahr}/{vid}/{sha}.pdf")["Body"].read()
         if sha256(data) != sha:
-            kaputt.append((vid, sha)); continue
+            kaputt.append((vid, sha))
+            continue
         p.parent.mkdir(parents=True, exist_ok=True)
         p.write_bytes(data)
         neu += 1
@@ -85,7 +86,8 @@ def importiere(pfade, jahre, db):
     for f in dateien:
         sha = sha256(f.read_bytes())
         if sha not in nach_sha:
-            unbekannt.append(f); continue
+            unbekannt.append(f)
+            continue
         for j, vid in nach_sha[sha]:
             p = ziel(j, vid, sha)
             if not p.exists():

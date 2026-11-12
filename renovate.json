@@ -1,0 +1,39 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended", "helpers:pinGitHubActionDigests"],
+  "description": [
+    "Actions laufen per Commit-SHA (OpenSSF Scorecard, Pinned-Dependencies), Renovate hält sie aktuell.",
+    "Die Werkzeuge in requirements-dev.txt sind mit Hashes gepinnt und werden aus requirements-dev.in neu erzeugt.",
+    "Bekannte Schwachstellen bekommen sofort eigene PRs mit Label security, ohne automatischen Merge."
+  ],
+  "osvVulnerabilityAlerts": true,
+  "vulnerabilityAlerts": { "labels": ["security"], "automerge": false },
+  "dependencyDashboard": true,
+  "dependencyDashboardTitle": "📦 Dependency Dashboard",
+  "labels": ["dependencies"],
+  "timezone": "Europe/Berlin",
+  "schedule": ["before 6am on monday"],
+  "packageRules": [
+    {
+      "description": "GitHub Actions: Minor und Patch in einem PR",
+      "matchManagers": ["github-actions"],
+      "matchUpdateTypes": ["minor", "patch", "digest", "pin", "pinDigest"],
+      "groupName": "GitHub Actions (minor/patch)",
+      "groupSlug": "actions-minor-patch",
+      "automerge": true
+    },
+    {
+      "description": "Lint- und Testwerkzeuge (pytest, ruff) in einem PR",
+      "matchManagers": ["pip-compile", "pip_requirements"],
+      "groupName": "Entwicklungswerkzeuge",
+      "groupSlug": "dev-tools"
+    },
+    {
+      "description": "Major-Updates bleiben einzelne PRs und werden markiert",
+      "matchUpdateTypes": ["major"],
+      "addLabels": ["major"],
+      "automerge": false
+    }
+  ],
+  "pip-compile": { "managerFilePatterns": ["/^requirements-dev\\.txt$/"] }
+}

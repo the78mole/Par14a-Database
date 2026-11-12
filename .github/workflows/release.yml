@@ -7,14 +7,19 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   release:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Releases anlegen und Anhänge ersetzen
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0  # Versionsangabe und Änderungsliste brauchen die Historie
+          persist-credentials: false
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
           python-version: "3.12"
       - name: SQLite je Jahr bauen
@@ -26,9 +31,22 @@ jobs:
           for db in dist/par14a_*.sqlite; do
             jahr=$(basename "$db" .sqlite | cut -d_ -f2)
             tag="daten-$jahr"
+            version=$(python -c "import sqlite3,sys; print(sqlite3.connect(sys.argv[1]).execute(\"SELECT wert FROM meta WHERE schluessel='version'\").fetchone()[0])" "$db")
+            {
+              echo "SQLite-Datenbank der §14a-Netzentgelte (Modul 1, 2, 3) für $jahr. Wird bei jeder Datenänderung neu gebaut und ersetzt."
+              echo
+              echo "**Version:** \`$version\` (steht auch in der Tabelle \`meta\` der Datenbank)"
+              echo
+              echo "### Letzte Änderungen an den Daten"
+              echo
+              git log -15 --format="- %s (%as, [%h](${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/commit/%H))" -- "data/$jahr" data/vnb.csv data/rollout_quote.csv schema.sql
+              echo
+              echo "Alle Änderungen: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/commits/main/data"
+            } > notes.md
             if ! gh release view "$tag" >/dev/null 2>&1; then
-              gh release create "$tag" --title "§14a-Netzentgelte $jahr" \
-                --notes "SQLite-Datenbank der §14a-Netzentgelte (Modul 1, 2, 3) für $jahr. Wird bei jeder Datenänderung neu gebaut und ersetzt."
+              gh release create "$tag" --title "§14a-Netzentgelte $jahr" --notes-file notes.md
+            else
+              gh release edit "$tag" --notes-file notes.md
             fi
             gh release upload "$tag" "$db" --clobber
           done

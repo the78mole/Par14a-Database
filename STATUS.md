@@ -1,6 +1,6 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-11-12 13:28 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-11-15 12:30 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 

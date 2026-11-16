@@ -4,3 +4,8 @@ __pycache__/
 pdfs/
 .env
 .envrc
+.venv/
+.hypothesis/
+crash-*
+timeout-*
+slow-unit-*

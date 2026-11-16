@@ -3,7 +3,7 @@
   "extends": ["config:recommended", "helpers:pinGitHubActionDigests"],
   "description": [
     "Actions laufen per Commit-SHA (OpenSSF Scorecard, Pinned-Dependencies), Renovate hält sie aktuell.",
-    "Die Werkzeuge in requirements-dev.txt sind mit Hashes gepinnt und werden aus requirements-dev.in neu erzeugt.",
+    "Die Werkzeuge in requirements-dev.txt und requirements-fuzz.txt sind mit Hashes gepinnt und werden aus den .in-Dateien neu erzeugt.",
     "Bekannte Schwachstellen bekommen sofort eigene PRs mit Label security, ohne automatischen Merge."
   ],
   "osvVulnerabilityAlerts": true,
@@ -36,5 +36,5 @@
       "automerge": false
     }
   ],
-  "pip-compile": { "managerFilePatterns": ["/^requirements-dev\\.txt$/"] }
+  "pip-compile": { "managerFilePatterns": ["/^requirements-(dev|fuzz)\\.txt$/"] }
 }

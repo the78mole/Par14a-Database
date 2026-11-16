@@ -1,0 +1,59 @@
+name: Fuzzing
+
+# Atheris (libFuzzer für Python) gegen die Auslese-Heuristiken (fuzz/fuzz_auslese.py: Preisblatt-Text in
+# fenster.py und vorschlag.py) und den Datenimport (fuzz/fuzz_csv.py: CSV in build_db.load und
+# eintrag.zf_lesen). Startkorpus sind die Testfälle in tests/preisblaetter/ und die Köpfe der CSV-Dateien.
+# Bei Pull Requests je 60 Sekunden, wöchentlich je 10 Minuten. Funde landen als Artefakt am Lauf.
+
+on:
+  pull_request:
+    paths: ["scripts/**", "fuzz/**", "tests/preisblaetter/**", "schema.sql", "requirements-fuzz.txt", ".github/workflows/fuzz.yml"]
+  push:
+    branches: [main]
+    paths: ["scripts/**", "fuzz/**", "tests/preisblaetter/**", "schema.sql", "requirements-fuzz.txt", ".github/workflows/fuzz.yml"]
+  schedule:
+    - cron: "17 2 * * 3"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  fuzz:
+    name: Fuzzing (${{ matrix.ziel }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        ziel: [auslese, csv]
+    env:
+      DAUER: ${{ github.event_name == 'schedule' && 600 || 60 }}
+      ZIEL: ${{ matrix.ziel }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: "3.12"
+      - name: Atheris installieren (Version und Hashes aus requirements-fuzz.txt)
+        run: python -m pip install --require-hashes -r requirements-fuzz.txt
+      - name: Startkorpus anlegen
+        run: |
+          mkdir -p korpus funde
+          if [ "$ZIEL" = auslese ]; then
+            cp tests/preisblaetter/*.txt korpus/
+          else
+            for f in data/*.csv data/*/*.csv; do head -c 1500 "$f" > "korpus/$(echo "$f" | tr / _)"; done
+          fi
+      - name: Fuzzen
+        run: >-
+          python "fuzz/fuzz_$ZIEL.py" korpus
+          -max_total_time="$DAUER" -max_len=4096 -timeout=10 -artifact_prefix=funde/ -print_final_stats=1
+      - name: Funde sichern
+        if: failure()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: fuzz-funde-${{ matrix.ziel }}
+          path: funde/
+          retention-days: 30

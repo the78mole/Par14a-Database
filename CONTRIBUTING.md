@@ -23,7 +23,7 @@ Beiträge sind willkommen: neue oder korrigierte Preisblätter, Fehlermeldungen 
 
    ```sh
    python -m pip install --require-hashes -r requirements-dev.txt
-   ruff check scripts tests
+   ruff check scripts tests fuzz
    python -m pytest
    ```
 
@@ -55,7 +55,10 @@ ab. Vergessen? `git commit --amend -s` bzw. `git rebase --signoff main` und neu 
   `innerHTML`, und lässt Links nur mit `http(s)://` zu.
 - **Tests:** Neue Funktionen und Fehlerkorrekturen brauchen automatisierte Tests im selben Pull
   Request, für eine Korrektur einen Regressionstest, der ohne die Korrektur fehlschlägt. Neue
-  Plausibilitätsregeln für die Daten kommen nach `tests/test_daten.py`. Ausnahmen (reine Doku,
+  Plausibilitätsregeln für die Daten kommen nach `tests/test_daten.py`. Preisblätter, an denen die
+  Auslese-Heuristiken scheitern, werden mit `python scripts/testfall.py <jahr> <vnb_id> "<Grund>"` zum
+  Testfall in `tests/preisblaetter/`. Code, der fremde Eingaben parst, bekommt Eigenschaftstests in
+  `tests/test_eigenschaften.py` und bei Bedarf einen Fuzzer in `fuzz/`. Ausnahmen (reine Doku,
   reine Datenpflege, die von den vorhandenen Tests abgedeckt ist) werden im Pull Request begründet.
 - **Abhängigkeiten:** neue nur, wenn nötig, verbreitet, gepflegt und frei lizenziert; Regeln in
   [docs/SICHERHEIT.md](docs/SICHERHEIT.md#4-regeln-für-abhängigkeiten-und-analysebefunde).

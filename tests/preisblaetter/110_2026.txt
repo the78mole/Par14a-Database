@@ -1,0 +1,14 @@
+    Arbeitspreis (ct/kWh) Entnahmestelle ohne                70,00                       6,36
+     Modul 1       Zzgl. Pauschale Reduktion                                                                               114,93 €/a
+                   AP                                                                                                    2,54 ct/kWh
+                   Wählbar nur bei separater Messung der steuerbaren Verbrauchseinrichtung ohne LM
+                   AP Hochlasttarifstufe (11:45-13:45, 17:00-19:00)                                                       7,71 ct/kWh
+                   AP Standardtarifstufe (5:00-11:15, 13:45-17:00, 19:00-00:00)                                          6,36 ct/kWh
+    Modul 3*
+                   AP Niedrigtarifstufe (00:00-05:00)                                                                    2,53 ct/kWh
+
+
+  * Anwendung der Tarifstufen des Moduls 3: Q1: ja, Q2: nein, Q3: nein, Q4: ja
+
+   HT: 06:00 – 22:00 Uhr     OBIS-Code: 1-1.8.1
+   NT: 22:00 – 06:00 Uhr     OBIS-Code: 1-1.8.2

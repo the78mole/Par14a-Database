@@ -1,0 +1,2 @@
+# Fuzzing mit Atheris (libFuzzer für Python), nur für .github/workflows/fuzz.yml und lokal unter Linux x86_64.
+atheris

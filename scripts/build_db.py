@@ -18,9 +18,12 @@ def load(con, table, path, jahr=None, rows=None):
     if not rows:
         return 0
     cols = list(rows[0].keys())
-    # Spaltennamen kommen aus den CSV-Köpfen und landen im SQL-Text, Werte nur als Parameter.
-    if not all(c.isidentifier() for c in cols):
-        raise ValueError(f"{path}: ungültiger Spaltenname in {cols}")
+    # Spaltennamen kommen aus den CSV-Köpfen und landen im SQL-Text, Werte nur als Parameter. Deshalb nur
+    # Namen zulassen, die genau so in der Tabelle stehen (schließt auch SQL-Schlüsselwörter wie "from" aus).
+    bekannt = {r[1] for r in con.execute(f"PRAGMA table_info({table})")}  # table ist fest im Code
+    fremd = [c for c in cols if c not in bekannt]
+    if fremd:
+        raise ValueError(f"{path}: unbekannte Spalten {fremd} für Tabelle {table}")
     con.executemany(
         f"INSERT INTO {table} ({','.join(cols)}) VALUES ({','.join('?' * len(cols))})",  # noqa: S608
         [[r[c] if r[c] != "" else None for c in cols] for r in rows],

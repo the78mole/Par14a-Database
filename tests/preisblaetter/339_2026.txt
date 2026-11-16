@@ -1,0 +1,9 @@
+                    Grundpreis                                67,80 €/Jahr
+                        Pauschale Reduktion                      104,35 €/Jahr
+                     Arbeitspreis                              1,98 ct/kWh
+                                   Q1                    Q2                    Q3                       Q4
+    2026                            Ja                  Nein                  Nein                      Ja
+                                   Preis für SteuVE je Tarifzone nach Modul 3:
+    Nebentarif (NT)               00:15                 06:15                         1,35 ct/kWh
+    Standardtarif (ST)                                                                4,95 ct/kWh
+    Haupttarif (HT)               16:45                 21:45                         6,43 ct/kWh

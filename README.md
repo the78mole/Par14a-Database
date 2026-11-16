@@ -74,12 +74,27 @@ Noch nicht erfasste VNB 2026 mit Grund: [OFFEN_2026.md](OFFEN_2026.md).
 Python 3.12 oder neuer. Datenbank und Webseite brauchen nur die Standardbibliothek. Die Hilfsskripte brauchen die Pakete aus [requirements.txt](requirements.txt) (`python -m pip install -r requirements.txt`) sowie curl und poppler-utils (pdftotext, pdftoppm). Lint und Tests:
 
 ```sh
-python -m pip install --require-hashes -r requirements-dev.txt   # pytest und ruff, mit Hashes gepinnt
-ruff check scripts tests
+python -m pip install --require-hashes -r requirements-dev.txt   # pytest, hypothesis und ruff, mit Hashes gepinnt
+ruff check scripts tests fuzz
 python -m pytest
 ```
 
 Die Tests prüfen die CSV-Dateien in `data/` (Spalten wie in `schema.sql`, bekannte VNB, Status, Datumsformate, URLs, SHA-256, HT ≥ ST ≥ NT, Zeitfenster ohne Überschneidung) und bauen SQLite und Webseite einmal komplett. Die CI führt sie für jeden Pull Request aus, dazu CodeQL und OpenSSF Scorecard.
+
+**Schwierige Preisblätter:** `tests/test_preisblaetter.py` prüft die Auslese-Heuristiken (`fenster.py`, `vorschlag.py`) an echten Preisblättern mit ungewöhnlichem Aufbau (Ja/Nein-Tabellen je Quartal, „Q1 + Q4“, Ordinalzahlen, Fenster über Mitternacht, €/Tag, abweichendes Modul 1 …). Jeder Fall in `tests/preisblaetter/` ist der auf wenige Zeilen verkleinerte Text des Preisblatts, die Sollwerte stehen in `faelle.json`; was die Heuristik noch falsch macht, steht dort als `bekannte_fehler` und läuft als strenges xfail. Neuer Fall (braucht den Text in `.cache/text/`):
+
+```sh
+python scripts/testfall.py 2026 <vnb_id> "was an dem Preisblatt schwierig ist"
+python scripts/fenster.py test   # Trefferquote der Zeitfenster gegen alle erfassten Preisblätter
+```
+
+**Fuzzing:** `tests/test_eigenschaften.py` prüft mit [Hypothesis](https://hypothesis.readthedocs.io/) Invarianten an zufälligen und aus Preisblatt-Bausteinen zusammengesetzten Eingaben (gültige Zeitfenster, Quartale ⊆ 1–4, Modulformeln, CSV hin und zurück, nur bekannte Spaltennamen im SQL). Längere Läufe mit [Atheris](https://github.com/google/atheris) (libFuzzer) stehen in `fuzz/` und laufen in [fuzz.yml](.github/workflows/fuzz.yml) bei Pull Requests je 60 s und wöchentlich je 10 min. Lokal (Linux x86_64):
+
+```sh
+python -m pip install --require-hashes -r requirements-fuzz.txt
+mkdir -p korpus && cp tests/preisblaetter/*.txt korpus/
+python fuzz/fuzz_auslese.py korpus -max_total_time=60 -max_len=4096
+```
 
 ## Lizenz
 

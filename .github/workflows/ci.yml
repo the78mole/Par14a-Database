@@ -26,6 +26,6 @@ jobs:
       - name: Werkzeuge installieren (Versionen und Hashes aus requirements-dev.txt)
         run: python -m pip install --require-hashes -r requirements-dev.txt
       - name: Ruff
-        run: ruff check --output-format=github scripts tests
+        run: ruff check --output-format=github scripts tests fuzz
       - name: Tests
         run: python -m pytest

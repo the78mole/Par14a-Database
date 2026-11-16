@@ -1,0 +1,8 @@
+    =    Maximale Reduzierung                             139,45            165,95
+Hochlasttarifstufe                                    Für Zeiten hoher Netzauslastung,
+                       10:00 - 19:30 Uhr 11,63 ct/kWh
+                                         9,63 ct/kWh
+Niedriglasttarifstufe
+                      00:00 – 06:00 Uhr 3,85 ct/kWh Netzauslastung, 40 % des
+    • Erstes Quartal: Vom 1. Januar bis 31. März täglich von 10:00 Uhr bis 19:30 Uhr.
+    • Viertes Quartal: Vom 1. Oktober bis 31. Dezember täglich von 10:00 Uhr bis 19:30 Uhr.

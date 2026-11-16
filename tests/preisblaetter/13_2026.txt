@@ -1,0 +1,8 @@
+Modul 1                    Pauschale Reduktion *                                  50,00                          8,86                              -133,68
+Modul 2                    AP rabattiert auf: 40 %                                 0,00                          3,54
+                                  GP+Pauschalred. wie Modul 1                                    HT               NT               ST
+                                                                                            11:00-13:00      23:00-07:00        Restzeit
+Modul 3                           + zeitvariabler AP je Zeitzone              50,00                                                                -133,68
+                                                                                            17:00-19:00
+                                  AP gilt nur in:       Q1 + Q4                                 13,29            2,97             8,86
+

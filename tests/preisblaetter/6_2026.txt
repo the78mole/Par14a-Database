@@ -1,0 +1,7 @@
+Niederspannung NSP                                                        4,26 ct/kWh                 5,07 ct/kWh         105,00 €/Jahr           124,95 €/Jahr
+                                                                          99,18 €/Jahr           118,02 €/Jahr
+Niederspannung NSP                                                        1,70 ct/kWh                 2,02 ct/kWh               -                        -
+                                   2026                                              Q1                         Q2                   Q3                       Q4
+               Gültigkeit der drei Tarifstufen je Quartal:                            Ja                       Nein                  Nein                      Ja
+                                Hochtarif                                       7,41 ct/kWh               8,82 ct/kWh            17:15-19:15
+                               Niedrigtarif                                     1,71 ct/kWh               2,03 ct/kWh             01:30-7:00

@@ -1,0 +1,13 @@
+                                                                                                         €/ a                                    €/ d
+Kunde im Niederspannungsnetz                                               1-02-0-001                    84,00                                0,23013699
+Wärmepumpe*                                                                1-02-0-009                    33,60                                0,09205479
+                ohne Leistungsmessung                                                                        €/ a                                       €/ d
+Niederspannung ohne Leistungsmessung                                           1-02-0-001                     84,00                                  0,23013699
+
+Niederspannung mit Leistungsmessung                                            1-01-9-002                    124,15                                  0,34013699
+Niederspannung ohne Leistungsmessung                                           1-02-0-016                     3,04                                      0,0304
+                                                 Q1                               Q2                          Q3                                        Q4
+      Anwendung in 2026                           Ja                              Nein                        Nein                                       Ja
+         Standardtarif                        1-02-0-002                           7,59                      0,0759
+           Hochtarif                          1-02-0-017                           9,73                      0,0973                                 17:00      22:00
+          Niedrigtarif                        1-02-0-018                           1,52                      0,0152                                 00:00      06:00

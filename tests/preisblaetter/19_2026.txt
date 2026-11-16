@@ -1,0 +1,12 @@
+ Entnahmestelle Speicherheizungen ohne Leistungsmessung                    108,00       128,52       10,98        13,07
+ Entnahmestelle ohne registrierte                 149,58                                        178,00
+ Steuerbare    Verbrauchseinrich-                   4,39                                      5,22
+                                 Q1                         Q2                        Q3                      Q4
+ 2026                           Nein                        Ja                        Ja                     Nein
+                                     (netto)                       (brutto)
+ Standardtarif                        10,98                         13,07                          20:00 – 07:00
+                                                                                                   15:00 – 17:00
+ Hochtarif                              18,12                        21,56                         07:00 – 10:00
+                                                                                                   17:00 – 20:00
+ Niedrigtarif                            2,19                         2,60                         10:00 – 15:00
+

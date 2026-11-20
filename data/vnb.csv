@@ -239,7 +239,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 432,Kommunale Energienetze Inn-Salzach GmbH & Co. KG,,https://www.ken-is.de,84453,Mühldorf a. Inn,"Mittelspannung,Niederspannung",https://ken-is.de/downloads/,2026-10-26,vnbdigital
 433,Stadtwerke Mühlheim am Main GmbH,,https://www.stadtwerke-muehlheim.de,63165,Mühlheim am Main,"Mittelspannung,Niederspannung",https://www.stadtwerke-muehlheim.de/de/Kopfnavigation/Netze/Stromnetz/Netzzugang-Entgelte.html,2026-10-26,vnbdigital
 434,Stadtwerke Münchberg,,https://www.stadtwerke-muenchberg.de,95213,Münchberg,"Mittelspannung,Niederspannung",https://www.stadtwerke-muenchberg.de/pflichtangaben-und-downloads/pflichtangaben-stromnetz,2026-10-26,vnbdigital
-449,Stadtnetze Münster GmbH,,https://www.stadtnetze-muenster.de,48155,Münster,"Mittelspannung,Niederspannung",https://www.stadtnetze-muenster.de/steuerbare-verbrauchseinrichtungen,2026-10-26,vnbdigital
+449,Stadtnetze Münster GmbH,,https://www.stadtnetze-muenster.de,48155,Münster,"Mittelspannung,Niederspannung",https://www.stadtnetze-muenster.de/steuerbare-verbrauchseinrichtungen,2026-11-20,vnbdigital
 450,eneREGIO GmbH,,https://www.eneregio.com,76461,Muggensturm,"Mittelspannung,Niederspannung",https://www.eneregio.com/downloadbereich-der-eneregio-gmbh/,2026-10-26,vnbdigital
 452,Stadtwerke Neuburg a. d. Donau,,https://stadtwerke-neuburg.de/,86633,Neuburg a. d. Donau,"Mittelspannung,Niederspannung",https://stadtwerke-neuburg.de/,2026-10-26,vnbdigital
 454,Gemeindewerke Neuendettelsau,,https://www.gw-neuendettelsau.de,91564,Neuendettelsau,"Mittelspannung,Niederspannung",https://www.gw-neuendettelsau.de/Netze/Stromnetz.html,2026-10-31,vnbdigital
@@ -749,7 +749,7 @@ vnb_id,name,bdew_code,website,plz,ort,spannungsebenen,netzentgelt_seite_url,letz
 7788,Stadtwerke Ditzingen GmbH & Co. KG,,https://www.sw-ditzingen.de,71254,Ditzingen,"Mittelspannung,Niederspannung",https://sw-ditzingen.de/downloadcenter/,2026-10-26,vnbdigital
 7791,Stadtwerke Olching Stromnetz GmbH & Co. KG,,https://www.stromnetz-olching.de,82140,Olching,"Mittelspannung,Niederspannung",https://www.stromnetz-olching.de/strom/netzzugang/netzentgelte/,2026-11-12,vnbdigital
 7792,SWTE Netz GmbH & Co. KG,,https://www.swte-netz.de/,49477,Ibbenbüren,"Mittelspannung,Niederspannung",https://www.swte-netz.de/,2026-10-26,vnbdigital
-7793,Stromnetz Weilheim GmbH & Co. KG,,https://www.stromnetz-weilheim.de/,82362,Weilheim i. OB,"Mittelspannung,Niederspannung",https://www.stromnetz-weilheim.de/strom/netzzugang/netzentgelte/,2026-10-26,vnbdigital
+7793,Stromnetz Weilheim GmbH & Co. KG,,https://www.stromnetz-weilheim.de/,82362,Weilheim i. OB,"Mittelspannung,Niederspannung",https://www.stromnetz-weilheim.de/strom/netzzugang/netzentgelte/,2026-11-20,vnbdigital
 7795,Stadtwerke Elm-Lappwald GmbH,,https://www.stadtwerke-elm-lappwald.de/,38154,Königslutter am Elm,"Mittelspannung,Niederspannung",https://www.stadtwerke-elm-lappwald.de/netze/stromnetz/vertraege-und-netzentgelte/,2026-10-26,vnbdigital
 7800,Netzgesellschaft Panketal GmbH,,https://www.panketal-netz.de/,15517,Fürstenwalde/Spree,"Mittelspannung,Niederspannung",https://www.panketal-netz.de/de/netzgesellschaft_panketal/netzinformation/netzentgelte/netzentgelte.html,2026-10-26,vnbdigital
 7809,Stadtwerke Witten Mittelspannungsnetz GmbH,,https://netze.stadtwerke-witten.de/mittelspannung,58455,Witten ,Mittelspannung,https://netze.stadtwerke-witten.de/fur-partnerfirmen/netzzugangsvertrage,2026-10-26,vnbdigital

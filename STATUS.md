@@ -1,23 +1,23 @@
 # Status der §14a-Preisdatenbank
 
-Stand: 2026-11-15 12:30 UTC (wird nach jedem Arbeitsschritt aktualisiert)
+Stand: 2026-11-20 17:30 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 
 ## 2027
 
-**665 von 754 VNB erfasst (88 %)**, 89 fehlen noch.
+**667 von 754 VNB erfasst (88 %)**, 87 fehlen noch.
 
 | Erfasst | Anzahl |
 |---|---:|
 | endgueltig | 1 |
-| vorlaeufig | 664 |
-| davon mit Modul-3-Zeitfenstern | 659 |
+| vorlaeufig | 666 |
+| davon mit Modul-3-Zeitfenstern | 661 |
 
 ### Fehlende VNB nach Grund
 
 | Grund | Anzahl |
 |---|---:|
 | kein §14a-Preisblatt auf der Webseite gefunden | 52 |
-| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 36 |
+| §14a-PDF vorhanden, aber nicht eindeutig 2027 | 34 |
 | §14a-PDF vorhanden, manuelle Prüfung offen | 1 |
 
 <details><summary>Liste der fehlenden VNB 2027</summary>
@@ -85,7 +85,6 @@ Stand: 2026-11-15 12:30 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 248 Netzgesellschaft Gütersloh mbH
 - 257 Gemeindewerke Halstenbek
 - 273 Stadtwerk Haßfurt GmbH
-- 449 Stadtnetze Münster GmbH
 - 512 Gemeindewerke Peißenberg KU
 - 522 Stadtwerke Quickborn GmbH
 - 568 Stadtwerke Bad Saulgau
@@ -114,7 +113,6 @@ Stand: 2026-11-15 12:30 UTC (wird nach jedem Arbeitsschritt aktualisiert)
 - 7547 SWL Übertragungsnetzgesellschaft mbH
 - 7774 Weiler Wärme eG
 - 7778 Stromnetz Pullach GmbH
-- 7793 Stromnetz Weilheim GmbH & Co. KG
 
 **§14a-PDF vorhanden, manuelle Prüfung offen**
 
